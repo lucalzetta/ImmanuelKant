@@ -28,7 +28,7 @@
     <item id="pagina_3_donazioni.xhtml" href="Text/pagina_3_donazioni.xhtml" media-type="application/xhtml+xml"/>
     <item id="pagina_4_indice_libro.xhtml" href="Text/pagina_4_indice_libro.xhtml" media-type="application/xhtml+xml"/>
     <item id="pagina_5_frontespizio.xhtml" href="Text/pagina_5_frontespizio.xhtml" media-type="application/xhtml+xml"/>
-    <item id="pagina_6_introduzione_libro.xhtml" href="Text/pagina_6_introduzione_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pagina_6_prefazione_libro.xhtml" href="Text/pagina_6_prefazione_libro.xhtml" media-type="application/xhtml+xml"/>
     <item id="pagina_x_note_libro.xhtml" href="Text/pagina_x_note_libro.xhtml" media-type="application/xhtml+xml"/>
     <item id="sezione_0001_0000_libro.xhtml" href="Text/sezione_0001_0000_libro.xhtml" media-type="application/xhtml+xml"/>    
   </manifest>
@@ -38,7 +38,7 @@
     <itemref idref="pagina_3_donazioni.xhtml"/>
     <itemref idref="pagina_5_frontespizio.xhtml"/>
     <itemref idref="pagina_4_indice_libro.xhtml"/>
-    <itemref idref="pagina_6_introduzione_libro.xhtml"/>
+    <itemref idref="pagina_6_prefazione_libro.xhtml"/>
     <itemref idref="pagina_x_note_libro.xhtml"/>
     <itemref idref="sezione_0001_0000_libro.xhtml"/>
   </spine>
