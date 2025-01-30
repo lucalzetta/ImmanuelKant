@@ -39,7 +39,7 @@
       <navLabel>
         <text>Introduzione</text>
       </navLabel>
-      <content src="Text/pagina_6_prefazione_libro.xhtml"/>
+      <content src="Text/pagina_6_introduzione_libro.xhtml"/>
     </navPoint>
 
   </navMap>
