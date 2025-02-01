@@ -19,6 +19,17 @@ text-align : center;
 h3 {
 text-align : center;
 }
+/*Il seguente valore è stato modificato per il frontespizio di Origini della scienza di Giovanni Vacca
+07-01-2025*/
+p{
+padding-top : 0.25em;
+margin-top : 0em;
+padding-bottom : 0em;
+margin-bottom : 0em;
+text-indent : 2em;
+}
+
+
 img {
 border-width : 0;
 }
@@ -30,34 +41,12 @@ padding : 0;
 .LLinfo {
 font-family : "Courier New";
 }
-.LLinfo-titolo {
-font-family : "Courier New";
-font-weight : bold;
-text-align : center;
-}
-.tabella_centrata {
-margin-left:auto;
-margin-right:auto;
-}
 .testo_centrato {
 text-align : center;
 }
 #testo_copertina {
 display:none;
 visibility:hidden;
-}
-.testo_corsivo {
-font-style: italic;
-}
-.testo_destra {
-text-align : right;
-}
-p.testo_dialogo {
-margin : 0 0 0 1em;
-text-indent : -1em;
-}
-.testo_didascalia {
-page-break-inside:avoid;
 }
 .testo_distanziato {
 padding-top: 2em;
@@ -66,30 +55,13 @@ padding-top: 2em;
 font-size : 120%;
 text-align : center;
 }
+/*Il seguente valore è stato modificato per il frontespizio di Origini della scienza di Giovanni Vacca
+07-01-2025*/
 .testo_frontespizio_titolo {
-font-size : 160%;
+font-size : 250%;
  text-align : center;
 }
-.testo_grande {
-font-size : x-large;
-font-weight : bold;
-}
-.testo_grande-x {
-font-size : xx-large;
-font-weight : bold;
-}
-.testo_ind {
-font-style : italic;
-margin : 0 0 0 1em;
-text-indent : -1em;
-}
-.testo_indicazioni_scena {
-font-style : italic;
-}
-p.testo_indicazioni_scena {
-margin : 0 1em 0 1em;
-}
-.testo_indice {
+p.testo_indice {
 list-style-type:none;
 margin-left:0;
 padding-left:0;
@@ -100,57 +72,95 @@ text-decoration:none;
 .testo_indice ul {
 list-style-type:none;
 }
-.testo_invisibile {
-display : none;
-visibility : hidden;
-}
-.testo_laterale {
-float : right;
-}
-.testo_laterale + div, ol, p, table, ul {
-clear : both;
-}
-.testo_lettera {
-margin : 1em auto;
-padding : 1em;
-background-color : #EEE;
-width : 90%;
-}
 .testo_maiuscoletto {
 font-variant : small-caps;
 }
-.testo_no_virgolette {
-quotes: none;
+
+/* Stili Liber Liber 2025-01-07 - stili specifici INIZIO */
+
+div{
+padding-left : 3em;
+margin-left : 3em;
 }
-.testo_nota {
-font-size : 90%;
+
+p.testo_centrato_lontano{
+text-align : center;
+padding-top : 5em;
+padding-bottom : 2em;
 }
-.testo_nota_torna {
-margin-bottom : 2em;
+
+p.testo_centrato {
+text-align : center;
 }
-p.testo_personaggio {
-color : #400;
-margin-bottom : 0;
+
+p.editore_max{
+text-align : center;
+font-family : sans-serif;
+font-weight : 900;
+font-size : 1.2em;
+letter-spacing :1em;
 }
-.testo_piccolo {
-font-size : small;
+
+p.editore_min{
+text-align : center;
+font-family : sans-serif;
+font-weight : 400;
+font-size : 1em;
+/*letter-spacing :1em;*/
 }
-.testo_piccolo-x {
-font-size : x-small;
+
+p.testo_destro{
+text-align : right;
 }
-.testo_poesia {
-margin-left : 1em;
+
+p.testo_sinistro{
+text-indent : -2em;
 }
-.testo_rientrato {
-margin : 0 1em 0 1em;
+
+span.testo_maiuscoletto{
+font-variant : small-caps;
 }
-.testo_sinistra {
+/*elemento inserito per migliorare la resa della prefazione del libro 'Origini della scienza'*/
+span.testo_ridotto{
+font-weight : 800;
+font-size : 0.8em;
+}
+
+/* tentativo di eliminazione dell'entità &lt; ed &amp;*/
+span.lt:after{
+content : '\003C';
+}
+
+span.ec:after{
+content : '\0026';
+}
+/*Fine zona sperimentale, funzionamento raggiunto, testato su Firefox*/
+
+table{
+padding-top : 2em;
+}
+
+table.center{
+margin-left : auto;
+margin-right : auto;
+}
+
+table.indentata{
+padding-left : 30%;
+font-weight : normal;
 text-align : left;
 }
-.testo_tondo {
-font-style : normal;
+
+td.c{
+text-align : center;
 }
 
-/* Stili Liber Liber 2016-08-22 - stili specifici INIZIO */
+td.l{
+text-align : left;
+}
 
-/* Stili Liber Liber 2016-08-22 - stili specifici FINE */
+th{
+text-align : center;
+font-weight : normal;
+}
+/* Stili Liber Liber 2025-01-07 - stili specifici FINE */
