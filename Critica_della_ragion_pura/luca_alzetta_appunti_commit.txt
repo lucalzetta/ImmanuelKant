@@ -4,4 +4,6 @@
 
 31-01-2025 18:15 Lavorazione dell'indice e adeguamento files.
 
-01-02-2025 15:16 Conclusione dell'indice, files da sistemare, toc da sistemare, content da sistemare.
+01-02-2025 15:16 Conclusione dell'indice, files da sistemare, toc da sistemare, content da sistemare. 18:20 Formattazione indice e organizzazione files.
+
+04-02-2025 09:40 Adeguamento dei files all'indice. Bisogna definire uno stile per i paragrafi di class 'paragrafo' e 'sezione'.
