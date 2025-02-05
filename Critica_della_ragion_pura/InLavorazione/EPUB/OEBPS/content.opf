@@ -29,8 +29,19 @@
     <item id="pagina_4_indice_libro.xhtml" href="Text/pagina_4_indice_libro.xhtml" media-type="application/xhtml+xml"/>
     <item id="pagina_5_frontespizio.xhtml" href="Text/pagina_5_frontespizio.xhtml" media-type="application/xhtml+xml"/>
     <item id="pagina_6_prefazione_libro.xhtml" href="Text/pagina_6_prefazione_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pagina_7_entrata_libro.xhtml" href="Text/pagina_7_entrata_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pagina_8_motto_libro.xhtml" href="Text/pagina_8_motto_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pagina_9_conclusioni_libro.xhtml" href="Text/pagina_9_conclusioni_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pagina_9_dedica_libro.xhtml" href="Text/pagina_9_dedica_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pagina_10_prefazione_Ied_libro.xhtml" href="Text/pagina_10_prefazione_Ied_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pagina_11_prefazione_IIed_libro.xhtml" href="Text/pagina_11_prefazione_IIed_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pagina_12_introduzione_libro.xhtml" href="Text/pagina_12_introduzione_libro.xhtml" media-type="application/xhtml+xml"/>
     <item id="pagina_x_note_libro.xhtml" href="Text/pagina_x_note_libro.xhtml" media-type="application/xhtml+xml"/>
-    <item id="sezione_0001_0000_0001_libro.xhtml" href="Text/sezione_0001_0000_0001_libro.xhtml" media-type="application/xhtml+xml"/>    
+    <item id="sezione_0001_0000_0001_libro.xhtml" href="Text/sezione_0001_0000_0001_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sezione_0001_0000_0002_libro.xhtml" href="Text/sezione_0001_0000_0002_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sezione_0002_0000_0001_libro.xhtml" href="Text/sezione_0002_0000_0001_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sezione_0002_0000_0002_libro.xhtml" href="Text/sezione_0002_0000_0002_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sezione_0002_0000_0003_libro.xhtml" href="Text/sezione_0002_0000_0003_libro.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="pagina_1_copertina_libro.xhtml"/>
@@ -39,8 +50,18 @@
     <itemref idref="pagina_5_frontespizio.xhtml"/>
     <itemref idref="pagina_4_indice_libro.xhtml"/>
     <itemref idref="pagina_6_prefazione_libro.xhtml"/>
+    <itemref idref="pagina_7_entrata_libro.xhtml"/>
+    <itemref idref="pagina_8_motto_libro.xhtml"/>
+    <itemref idref="pagina_9_dedica_libro.xhtml"/>
+    <itemref idref="pagina_10_prefazione_Ied_libro.xhtml"/>
+    <itemref idref="pagina_11_prefazione_IIed_libro.xhtml"/>
+    <itemref idref="pagina_12_introduzione_libro.xhtml"/>
     <itemref idref="pagina_x_note_libro.xhtml"/>
     <itemref idref="sezione_0001_0000_0001_libro.xhtml"/>
+    <itemref idref="sezione_0001_0000_0002_libro.xhtml"/>
+    <itemref idref="sezione_0002_0000_0001_libro.xhtml"/>
+    <itemref idref="sezione_0002_0000_0002_libro.xhtml"/>
+    <itemref idref="sezione_0002_0000_0003_libro.xhtml"/>
   </spine>
   <guide>
     <reference type="cover" title="Cover" href="Text/pagina_1_copertina_libro.xhtml"/>
