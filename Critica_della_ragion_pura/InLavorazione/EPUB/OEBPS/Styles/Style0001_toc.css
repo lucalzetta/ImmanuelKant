@@ -61,27 +61,11 @@ text-align : center;
 font-size : 250%;
  text-align : center;
 }
-p.testo_indice {
-list-style-type:none;
-margin-left:0;
-padding-left:0;
-}
-.testo_indice a {
-text-decoration:none;
-}
-.testo_indice ul {
-list-style-type:none;
-}
-.testo_maiuscoletto {
-font-variant : small-caps;
-}
-
 /* Stili Liber Liber 2025-01-07 - stili specifici INIZIO */
 
 div{
 padding-left : 3em;
 margin-left : 3em;
-text-align : center;
 }
 
 p.testo_centrato_lontano{
@@ -163,5 +147,14 @@ text-align : left;
 th{
 text-align : center;
 font-weight : normal;
+}
+
+text{
+font-variant : small-caps;
+}
+
+navLabel.np{
+font-size : 3em;
+padding-top : 5em;
 }
 /* Stili Liber Liber 2025-01-07 - stili specifici FINE */

@@ -8,7 +8,7 @@
     <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>Titolo</text>
+    <text>Titolo TOC</text>
   </docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
@@ -37,10 +37,135 @@
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
-        <text>Introduzione</text>
+        <text>Prefazione a questa traduzione</text>
       </navLabel>
       <content src="Text/pagina_6_prefazione_libro.xhtml"/>
     </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>DEDICA</text>
+      </navLabel>
+      <content src="Text/pagina_9_dedica_libro.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Prefazione alla prima edizione</text>
+      </navLabel>
+      <content src="Text/pagina_10_prefazione_Ied_libro.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Prefazione alla seconda edizione</text>
+      </navLabel>
+      <content src="Text/pagina_11_prefazione_IIed_libro.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Introduzione:</text>
+      </navLabel>
+      <content src="Text/pagina_12_introduzione_libro.xhtml"/>
+<!--Primo livello liv_4-->
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>I. Della differenza tra conoscenza pura ed empirica</text>
+        </navLabel>
+        <content src="Text/pagina_12_introduzione_libro.xhtml#cap_0001_0000_0000_0001"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>II. Noi siamo in possesso di certe conoscenze a priori e nè anche il senso comune ne è mai privo</text>
+        </navLabel>
+        <content src="Text/pagina_12_introduzione_libro.xhtml#cap_0001_0000_0000_0002"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>III. La filosofia ha bisogno di una scienza, che determini la possibilità, i principii e l'àmbito di tutte le conoscenze a priori</text>
+        </navLabel>
+        <content src="Text/pagina_12_introduzione_libro.xhtml#cap_0001_0000_0000_0003"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>IV. Della differenza tra i giudizi analitici e sintetici</text>
+        </navLabel>
+        <content src="Text/pagina_12_introduzione_libro.xhtml#cap_0001_0000_0000_0004"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>V. In tutte le scienze teoretiche della ragione sono compresi, come principii, giudizi sintetici a priori</text>
+        </navLabel>
+        <content src="Text/pagina_12_introduzione_libro.xhtml#cap_0001_0000_0000_0005"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>VI. Problema generale della ragion pura</text>
+        </navLabel>
+        <content src="Text/pagina_12_introduzione_libro.xhtml#cap_0001_0000_0000_0006"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>VII. Idea e partizione di una scienza speciale, sotto nome di Critica della ragion Pura</text>
+        </navLabel>
+        <content src="Text/pagina_12_introduzione_libro.xhtml#cap_0001_0000_0000_0007"/>
+      </navPoint>
+    </navPoint>
+<!--liv_1-->
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>I DOTTRINA TRASCENDENTALE DEGLI ELEMENTI</text>
+      </navLabel>
+      <content src="Text/sezione_0001_0000_0001_libro.xhtml"/>
+<!--liv_2-->
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>PARTE PRIMA</text>
+        </navLabel>
+        <content src="Text/sezione_0001_0000_0002_libro.xhtml#cap_0002_0001_0000_0000"/>
+<!--liv_3-->
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>ESTETICA TRASCENDENTALE</text>
+          </navLabel>
+          <content src="Text/sezione_0001_0000_0002_libro.xhtml#cap_0002_0001_0001_0000"/>
+<!--liv_6-->
+              <navPoint id="navPoint-20" playOrder="20">
+                <navLabel>
+                  <text>§ 1</text>
+                </navLabel>
+                <content src="Text/sezione_0001_0000_0002_libro.xhtml#cap_0002_0001_0001_0001_0000_0000_0001"/>
+              </navPoint>
+<!--chiusura liv_6-->
+<!--liv_4-->
+          <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+              <text>Sezione prima ― Dello spazio</text>
+                </navLabel>
+                <content src="Text/sezione_0001_0000_0002_libro.xhtml#cap_0002_0001_0002_0001"/>
+<!--liv_6-->
+              <navPoint id="navPoint-22" playOrder="22">
+                <navLabel>
+                  <text>§ 2 Esposizione metafisica di questo concetto</text>
+                </navLabel>
+                <content src="Text/sezione_0001_0000_0002_libro.xhtml#cap_0002_0001_0001_0001_0000_0000_0002"/>
+              </navPoint>
+              <navPoint id="navPoint-23" playOrder="23">
+                <navLabel>
+                  <text>§ 3 Esposizione trascendentale del concetto di spazio</text>
+                </navLabel>
+                <content src="Text/sezione_0001_0000_0002_libro.xhtml#cap_0002_0001_0001_0001_0000_0000_0003"/>
+              </navPoint>
+              <navPoint id="navPoint-24" playOrder="24">
+                <navLabel>
+                  <text>Corollari dei concetti precedenti</text>
+                </navLabel>
+                <content src="Text/sezione_0001_0000_0002_libro.xhtml#cap_0002_0001_0001_0001_0000_0000_0004"/>
+              </navPoint>
+<!--chiusura liv_6-->
 
+<!--chiusura liv_4-->              </navPoint>
+<!--chiusura liv_3-->        </navPoint>
+
+<!--chiusura liv_2-->      </navPoint>
+
+<!--chiusura liv_1-->    </navPoint>
   </navMap>
 </ncx>

@@ -9,3 +9,9 @@
 04-02-2025 09:40 Adeguamento dei files all'indice. Bisogna definire uno stile per i paragrafi di class 'paragrafo' e 'sezione'.
 
 05-02-2025 08:25 Adeguamento dei files all'indice. Adeguamento del content.
+
+05-02-2025 10:43 Inizio lavorazione della toc
+
+06-02-2025 23:23 Lavorazione TOC
+
+07-02-2025 23:23 Lavorazione TOC

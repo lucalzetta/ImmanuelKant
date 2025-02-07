@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="2.0" unique-identifier="BookID" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Titolo</dc:title>
-    <dc:creator opf:file-as="Cognome, Nome" opf:role="aut">Nome Cognome</dc:creator>
+    <dc:title>Critica della ragion pura</dc:title>
+    <dc:creator opf:file-as="Cognome, Nome" opf:role="aut">Immanuel Kant</dc:creator>
     <dc:language>it</dc:language>
-    <dc:subject>[la classificazione secondo il sistema Bisac]</dc:subject>
+    <dc:subject>[PHI035000	FILOSOFIA / Saggi*</dc:subject>
     <dc:publisher>Liber Liber</dc:publisher>
-    <dc:contributor opf:file-as="Cognome, Nome" opf:role="trl">[Nome Cognome del traduttore]</dc:contributor>
+    <dc:contributor opf:file-as="Cognome, Nome" opf:role="trl">Giovanni Gentile; Giuseppe Lombardo-Radice</dc:contributor>
     <dc:type>text</dc:type>
     <dc:format>application/epub+zip</dc:format>
     <dc:identifier opf:scheme="ISBN">[inserire ISBN]</dc:identifier>
@@ -21,6 +21,7 @@
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="e-text.png" href="Images/e-text.png" media-type="image/png"/>
     <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="Style0001_toc.css" href="Styles/Style0001_toc.css" media-type="text/css"/>
     <item id="x2_euro.png" href="Images/2_euro.png" media-type="image/png"/>
     <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg"/>
     <item id="pagina_1_copertina_libro.xhtml" href="Text/pagina_1_copertina_libro.xhtml" media-type="application/xhtml+xml"/>
@@ -66,7 +67,7 @@
   <guide>
     <reference type="cover" title="Cover" href="Text/pagina_1_copertina_libro.xhtml"/>
     <reference type="colophon" title="Colophon" href="Text/pagina_2_colophon_libro.xhtml"/>
-    <reference type="index" title="Indice" href="Text/pagina_4_indice_libro.xhtml"/>
+    <reference type="index" title="Indice nuovo" href="Text/pagina_4_indice_libro.xhtml"/>
     <reference type="acknowledgements" title="Riconoscimenti" href="Text/pagina_3_donazioni.xhtml"/>
   </guide>
 </package>
