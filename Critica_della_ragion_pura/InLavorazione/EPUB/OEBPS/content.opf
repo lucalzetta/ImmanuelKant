@@ -21,7 +21,6 @@
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="e-text.png" href="Images/e-text.png" media-type="image/png"/>
     <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
-    <item id="Style0001_toc.css" href="Styles/Style0001_toc.css" media-type="text/css"/>
     <item id="x2_euro.png" href="Images/2_euro.png" media-type="image/png"/>
     <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg"/>
     <item id="pagina_1_copertina_libro.xhtml" href="Text/pagina_1_copertina_libro.xhtml" media-type="application/xhtml+xml"/>
