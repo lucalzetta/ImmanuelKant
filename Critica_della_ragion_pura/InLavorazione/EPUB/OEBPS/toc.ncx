@@ -11,6 +11,7 @@
     <text>Titolo TOC</text>
   </docTitle>
   <navMap>
+<!--liv_1-->
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
         <text>Copertina</text>
@@ -129,14 +130,12 @@
           </navLabel>
           <content src="Text/sezione_0001_0000_0002_libro.xhtml#cap_0002_0001_0001_0000"/>
 <!--liv_4-->
-              <navPoint id="navPoint-20" playOrder="20">
-                <navLabel>
-                  <text>§ 1</text>
-                </navLabel>
-                <content src="Text/sezione_0001_0000_0002_libro.xhtml#cap_0002_0001_0001_0001_0000_0000_0001"/>
-              </navPoint>
-<!--chiusura liv_4-->
-<!--liv_4-->
+          <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+              <text>§ 1</text>
+            </navLabel>
+            <content src="Text/sezione_0001_0000_0002_libro.xhtml#cap_0002_0001_0001_0001_0000_0000_0001"/>
+          </navPoint>
           <navPoint id="navPoint-21" playOrder="21">
             <navLabel>
               <text>Sezione prima ― Dello spazio</text>
@@ -307,7 +306,6 @@
                   <text>Cap II. ― Deduzione dei concetti puri dell'intelletto:</text>
                 </navLabel>
                 <content src="Text/sezione_0002_0000_0001_libro.xhtml#cap_0003_0001_0001_0002_0005_0002"/>
-              </navPoint>
 <!--liv_7-->
               <navPoint id="navPoint-46" playOrder="46">
                 <navLabel>
@@ -653,7 +651,7 @@
 <!--chiusura liv_3-->
         </navPoint>
 <!--chiusura liv_2-->
-    </navPoint>
+        </navPoint>
 <!--chiusura liv_1-->
-  </navmap>
+</navMap>
 </ncx>
