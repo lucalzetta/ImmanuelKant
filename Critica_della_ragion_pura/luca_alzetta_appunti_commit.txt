@@ -18,3 +18,4 @@
 
 sab 8 feb 2025, 14:42:05 Completato TOC, errore da correggere.
 
+12-02-2025 20:47 Verificato colophon e iniziato lavorazaione frontespizio. Modificato foglio di stile. Concluso frontespizio epub.

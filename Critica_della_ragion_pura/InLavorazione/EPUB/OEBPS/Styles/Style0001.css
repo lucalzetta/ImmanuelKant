@@ -79,8 +79,6 @@ font-variant : small-caps;
 /* Stili Liber Liber 2025-01-07 - stili specifici INIZIO */
 
 div{
-padding-left : 3em;
-margin-left : 3em;
 text-align : center;
 }
 
@@ -90,8 +88,20 @@ padding-top : 5em;
 padding-bottom : 2em;
 }
 
+p.testo_centrato_lontano_b{
+text-align : center;
+padding-top : 5em;
+padding-bottom : 2em;
+font-size : 1.5em;
+}
+
 p.testo_centrato {
 text-align : center;
+}
+
+p.testo_centrato_s {
+text-align : center;
+font-size : 0.5em;
 }
 
 p.editore_max{
@@ -116,6 +126,22 @@ text-align : right;
 
 p.testo_sinistro{
 text-indent : -2em;
+}
+
+p#tit_small{
+text-align : center;
+font-size : 2.0em;
+}
+
+p#tr_small{
+text-align : center;
+font-size : 0.8em;
+}
+
+p#tr_big{
+text-align : center;
+font-size : 1.4em;
+letter-spacing: -0.1em;
 }
 
 span.testo_maiuscoletto{
