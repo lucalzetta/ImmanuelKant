@@ -24,6 +24,7 @@
     <item id="x2_euro.png" href="Images/2_euro.png" media-type="image/png"/>
     <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg"/>
     <item id="pagina_1_copertina_libro.xhtml" href="Text/pagina_1_copertina_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="logo_laterza.png" href="Images/logo_laterza.png" media-type="image/png"/>    
     <item id="pagina_2_colophon_libro.xhtml" href="Text/pagina_2_colophon_libro.xhtml" media-type="application/xhtml+xml"/>
     <item id="pagina_3_donazioni.xhtml" href="Text/pagina_3_donazioni.xhtml" media-type="application/xhtml+xml"/>
     <item id="pagina_4_indice_libro.xhtml" href="Text/pagina_4_indice_libro.xhtml" media-type="application/xhtml+xml"/>

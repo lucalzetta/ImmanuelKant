@@ -37,6 +37,9 @@
       <content src="Text/pagina_4_indice_libro.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
+      <content src="Text/pagina_5_frontespizio.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
         <text>Prefazione a questa traduzione</text>
       </navLabel>
