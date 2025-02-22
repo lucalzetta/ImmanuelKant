@@ -19,3 +19,5 @@
 sab 8 feb 2025, 14:42:05 Completato TOC, errore da correggere.
 
 12-02-2025 20:47 Verificato colophon e iniziato lavorazaione frontespizio. Modificato foglio di stile. Concluso frontespizio epub.
+
+22-02-2025 17:52 Attivato programma per il controllo delle versioni del file odt, riprendiamo il lavoro sull'epub. Inizio lavorazione del capitolo 'PREFAZIONE A QUESTA TRADUZIONE', avanzamento simultaneo con il file odt.

@@ -1,3 +1,4 @@
+Versione del febbraio 2025
 È necessario portarsi sulla cartella dei file da lavorare e specificare un'opzione, inserire:
 -n seguito dal nome del file delle note per modificare la numerazione delle note
 -t per modificare la numerazione della toc
