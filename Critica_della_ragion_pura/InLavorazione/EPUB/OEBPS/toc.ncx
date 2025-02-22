@@ -39,6 +39,9 @@
     <navPoint id="navPoint-5" playOrder="5">
       <content src="Text/pagina_5_frontespizio.xhtml"/>
     </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <content src="Text/pagina_5_frontespizio_II.xhtml"/>
+    </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
         <text>Prefazione a questa traduzione</text>
