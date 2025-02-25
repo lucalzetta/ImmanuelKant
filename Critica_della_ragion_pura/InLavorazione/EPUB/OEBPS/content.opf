@@ -44,6 +44,8 @@
     <item id="sezione_0002_0000_0001_libro.xhtml" href="Text/sezione_0002_0000_0001_libro.xhtml" media-type="application/xhtml+xml"/>
     <item id="sezione_0002_0000_0002_libro.xhtml" href="Text/sezione_0002_0000_0002_libro.xhtml" media-type="application/xhtml+xml"/>
     <item id="sezione_0002_0000_0003_libro.xhtml" href="Text/sezione_0002_0000_0003_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sezione_0003_0000_0001_libro.xhtml" href="Text/Sezione_0003_0000_0001_libro.xhtml" media-type="application/xhtml+xml"/>    
+    
   </manifest>
   <spine toc="ncx">
     <itemref idref="pagina_1_copertina_libro.xhtml"/>
@@ -65,6 +67,7 @@
     <itemref idref="sezione_0002_0000_0001_libro.xhtml"/>
     <itemref idref="sezione_0002_0000_0002_libro.xhtml"/>
     <itemref idref="sezione_0002_0000_0003_libro.xhtml"/>
+    <itemref idref="Sezione_0003_0000_0001_libro.xhtml"/>
   </spine>
   <guide>
     <reference type="cover" title="Cover" href="Text/pagina_1_copertina_libro.xhtml"/>
