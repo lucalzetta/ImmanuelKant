@@ -136,32 +136,32 @@
 <style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
 <style:text-properties officeooo:rsid="0059a3d8" officeooo:paragraph-rsid="0059a3d8"/>
 </style:style>
-<style:style style:name="P26" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
-<style:paragraph-properties style:page-number="auto"/>
-</style:style>
-<style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_1">
-<style:text-properties fo:font-size="15pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
-</style:style>
-<style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_1">
-<style:paragraph-properties fo:break-before="page"/>
-<style:text-properties officeooo:paragraph-rsid="003cc729"/>
-</style:style>
-<style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_4">
-<style:text-properties officeooo:paragraph-rsid="00246cce"/>
-</style:style>
-<style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_6">
-<style:text-properties officeooo:paragraph-rsid="0026ef34"/>
-</style:style>
-<style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
 <style:text-properties officeooo:rsid="0059a3d8" officeooo:paragraph-rsid="0059a3d8"/>
 </style:style>
-<style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="200%" fo:text-align="start" style:justify-single-word="false"/>
+<style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
 <style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
 </style:style>
+<style:style style:name="P28" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
+<style:paragraph-properties style:page-number="auto"/>
+</style:style>
+<style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:text-properties fo:font-size="15pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+</style:style>
+<style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:paragraph-properties fo:break-before="page"/>
+<style:text-properties officeooo:paragraph-rsid="003cc729"/>
+</style:style>
+<style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_4">
+<style:text-properties officeooo:paragraph-rsid="00246cce"/>
+</style:style>
+<style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_6">
+<style:text-properties officeooo:paragraph-rsid="0026ef34"/>
+</style:style>
 <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
 <style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
 </style:style>
 <style:style style:name="T1" style:family="text">
@@ -213,10 +213,19 @@
 <style:text-properties fo:font-variant="small-caps"/>
 </style:style>
 <style:style style:name="T17" style:family="text">
-<style:text-properties officeooo:rsid="005f38b4"/>
+<style:text-properties fo:font-variant="small-caps" officeooo:rsid="006b6dae"/>
 </style:style>
 <style:style style:name="T18" style:family="text">
+<style:text-properties officeooo:rsid="005f38b4"/>
+</style:style>
+<style:style style:name="T19" style:family="text">
 <style:text-properties officeooo:rsid="00633495"/>
+</style:style>
+<style:style style:name="T20" style:family="text">
+<style:text-properties style:text-position="super 58%"/>
+</style:style>
+<style:style style:name="T21" style:family="text">
+<style:text-properties officeooo:rsid="006d1068"/>
 </style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
@@ -256,7 +265,7 @@ www.liberliber.it
 </text:p>
 </draw:text-box>
 </draw:frame>
-<text:p text:style-name="P26">
+<text:p text:style-name="P28">
 Autore
 </text:p>
 <text:p text:style-name="LL_3a__20_titolo_20_libro">
@@ -1188,7 +1197,7 @@ Osservazione generale intorno al passaggio dalla psicologia razionale alla cosmo
 </text:p>
 </text:index-body>
 </text:table-of-content>
-<text:h text:style-name="P27" text:outline-level="1">
+<text:h text:style-name="P29" text:outline-level="1">
 EMMANUELE KANT
 </text:h>
 <text:p text:style-name="P21">
@@ -1266,7 +1275,7 @@ _____________
 <text:p text:style-name="P14">
 DICEMBRE MCMXLVIII - 4209
 </text:p>
-<text:h text:style-name="P28" text:outline-level="1">
+<text:h text:style-name="P30" text:outline-level="1">
 Prefazione a questa traduzione
 </text:h>
 <text:p text:style-name="P23">
@@ -1494,7 +1503,7 @@ Critica del giudizio
 <text:p text:style-name="P25">
 II
 </text:p>
-<text:p text:style-name="P31">
+<text:p text:style-name="P26">
 Non aveva, si può dire, pubblicato la dissertazione 
 <text:span text:style-name="T11">
 De mundi sensibilis
@@ -1510,7 +1519,7 @@ I limiti della sensibilità e della ragione
 ; il quale doveva non solo trattare dei concetti fondamentali e delle leggi concernenti il mondo sensibile, ma contenere anche «un abbozzo di quel che costituisce la natura della dottrina del gusto, della metafisica e della morale»; poichè gli sembrava di grande utilità, non soltanto per la filosofia, ma anche pei fini più importanti dell&apos;umanità in generale, che si sappia distinguere bene tra ciò che appartiene alla natura della facoltà nostra conoscitiva e ciò che 
 <text:soft-page-break/>
 spetta alla natura degli oggetti; e che si conosca esattamente «ciò che riposa sui principii soggettivi dei poteri dell&apos;anima umana, non solo del senso, ma dello stesso intelletto»
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn1" text:note-class="footnote">
 <text:note-citation>
 1
 </text:note-citation>
@@ -1529,7 +1538,7 @@ Briefwechsel, in Gesammelte Schr. hg. v.d.k. preuss. Ak. d. Wiss. zu Berlin
 </text:note-body>
 </text:note>
 . I diversi problemi fondamentali―osserva a proposito di questa lettera il Fischer
-<text:note text:id="ftn1" text:note-class="footnote">
+<text:note text:id="ftn2" text:note-class="footnote">
 <text:note-citation>
 2
 </text:note-citation>
@@ -1545,9 +1554,9 @@ Ghesch d. n. Philos
 </text:note>
 ―sono raccolti tutti insieme nel disegno d&apos;una sola opera, che avrebbe abbracciato così la materia di tutte le tre Critiche.
 </text:p>
-<text:p text:style-name="P31">
+<text:p text:style-name="P26">
 Ma, ben presto, dalla nebulosa si cominciò a staccare, com&apos;era naturale, e a pigliar corpo a sè la questione fondamentale: la teoretica. In una importantissima lettera, del 21 febbraio 1772, Kant scrive allo stesso Herz: «Percorrendo col pensiero la parte teoretica in tutta la sua estensione nei rapporti reciproci de&apos; varii elementi tra loro, mi sono accorto, che a me manca tuttavia qualcosa d&apos;essenziale, a cui, come gli altri, nè anche io, nel corso delle mie ricerche metafisiche, avevo posto mai attenzione, e che in realtà è la chiave di tutto il segreto della metafisica rimasta finora un mistero. Io, cioè, mi sono chiesto: su quale base è fondato il rapporto di ciò, che si dice in noi rappresentazione, con l&apos;oggetto?»
-<text:note text:id="ftn2" text:note-class="footnote">
+<text:note text:id="ftn3" text:note-class="footnote">
 <text:note-citation>
 3
 </text:note-citation>
@@ -1561,7 +1570,7 @@ Briefw.
 </text:note-body>
 </text:note>
  Questo rapporto non si spiega per via naturale, considerando i nostri concetti come cause o come effetti degli oggetti. La spiegazione sovrannaturale suppone un&apos;illuminazione divina (Platone, Malebranche) o un&apos;armonia prestabilita (Leibniz), e si rifugia in ambo i casi nell&apos;intervento d
-<text:span text:style-name="T18">
+<text:span text:style-name="T19">
 i
 </text:span>
 vi
@@ -1571,11 +1580,11 @@ no. «Se non che, il
 Deus ex machina
 </text:span>
 , per la determinazione dell&apos;origine e del valore delle nostre conoscenze, è ciò che di più assurdo si possa soltanto pensare, e oltre al circolo fallace, che importa nella concatenazione logica delle nostre idee, ha lo svantaggio di venire in aiuto al fantasticare delle chimere divote e sofistiche.» La sua ricerca quindi s&apos;indirizza alle «fonti della conoscenza intellettuale» per determinare la natura e i limiti della metafisica. «Ora sono in grado di fornire una critica della ragion pura, contenente la natura della conoscenza, sì teoretica che pratica, in quanto semplicemente intellettuale: di cui prima elaborerò la prima parte circa le fonti della metafisica, i suoi metodi e limiti; e la pubblich
-<text:span text:style-name="T17">
+<text:span text:style-name="T18">
 e
 </text:span>
 rò forse fra tre mesi»
-<text:note text:id="ftn3" text:note-class="footnote">
+<text:note text:id="ftn4" text:note-class="footnote">
 <text:note-citation>
 4
 </text:note-citation>
@@ -1587,7 +1596,7 @@ X, 126.
 </text:note>
 .
 </text:p>
-<text:p text:style-name="P31">
+<text:p text:style-name="P26">
 In questa lettera apparisce per la prima volta il titolo della prima e maggiore 
 <text:span text:style-name="T11">
 Critica
@@ -1598,7 +1607,7 @@ Critica della ragion pura
 </text:span>
 .
 </text:p>
-<text:p text:style-name="P31">
+<text:p text:style-name="P26">
 Pure, trascorsero più di tre mesi e di tre anni prima che l&apos;opera fosse scritta. Lo stato della salute, molto cagionevole, e la difficoltà delle analisi laboriose richieste soprattutto dall&apos;Analitica trascendentale, obbligarono Kant 
 <text:soft-page-break/>
 a lavorarvi attorno ben dieci anni: durante i quali non pubblicò se non alcuni piccoli scritti di nessun interesse per la filosofia critica: una recensione d&apos;uno scritto 
@@ -1615,12 +1624,12 @@ Filantropino
 </text:span>
  del Basedow (1776, 77, 78).
 </text:p>
-<text:p text:style-name="P31">
+<text:p text:style-name="P26">
 Nè la redazione dell&apos;opera progrediva a passo a passo col tempo. Anzi, è fuor di dubbio, che essa prese nel pensiero di Kant la sua forma definitiva solo negli ultimi anni, o, meglio, negli ultimi mesi di questo faticoso periodo d&apos;incubazione. In una lettera, scritta il 5 aprile 1778, all&apos;Herz, Kant fa conto ancora di poter pubblicare tra pochi mesi la «promessa operetta» e scrive al suo corrispondente: «Le cause del ritardo per un lavoro, che ammonterà a un numero di fogli non grande, spero vorrà un giorno trovarle giustificate per la natura della cosa e dello stesso disegno propostomi». L&apos;operetta, a ogni modo, tra pochi mesi sarebbe stata stampata.
 </text:p>
-<text:p text:style-name="P31">
+<text:p text:style-name="P26">
 L&apos;operetta, invece, divenne un&apos;opera, e non fu pronta per la stampa se non verso la fine del 1780. L&apos;editore Hartknoch di Riga, per l&apos;intromissione di Hamann, il 9 settembre aveva offerto a Kant di stampare la sua opera
-<text:note text:id="ftn4" text:note-class="footnote">
+<text:note text:id="ftn5" text:note-class="footnote">
 <text:note-citation>
 5
 </text:note-citation>
@@ -1642,13 +1651,13 @@ Briefwechsel
 <text:soft-page-break/>
 Herder: «Un libro così corpulento non è proporzionato nè alla statura dell&apos;autore nè al concetto della ragion pura, che egli contrappone alla pigra=alla mia». E dovette aspettare altre sei settimane per avere tutto il resto con la fine e col principio del libro: e gli ultimi giorni di luglio per ricevere dalla mano del filosofo l&apos;esemplare a lui dedicato.
 </text:p>
-<text:p text:style-name="P31">
+<text:p text:style-name="P26">
 L&apos;operetta, dunque, di tre anni prima riuscì un grosso volume, il cui numero di fogli supera due alfabeti. Segno evidente, che l&apos;opera pubblicata non solo non era scritta intorno alla metà del 1788; ma allora non si poteva nè anche calcolare dall&apos;autore quali proporzioni essa avrebbe assunte. Non si tratta, come dice il Fischer, di lavoro di lima e di semplici ampliamenti, che Kant potè fare nel ricopiare in pulito il suo manoscritto: ma della vera e propria stesura definitiva, in cui fuse certamente varii materiali raccolti già intorno alle singole parti. E bisogna pertanto intendere alla lettera quello che Kant dice a Mendelssohn nella lettera del 18 agosto 1783; dove, scusandosi delle oscurità della 
 <text:span text:style-name="T11">
 Critica
 </text:span>
 , se ne dice dolente, ma non meravigliato: giacchè, egli aggiunge, «menai a termine il prodotto della riflessione di uno spazio di tempo di almeno 12 anni, in 4 o 5 mesi circa, quai di volo, benchè ponendo una grande attenzione al contenuto, ma con poca cura della forma e di quanto occorre per essere facilmente inteso dal lettore»
-<text:note text:id="ftn5" text:note-class="footnote">
+<text:note text:id="ftn6" text:note-class="footnote">
 <text:note-citation>
 6
 </text:note-citation>
@@ -1671,7 +1680,7 @@ Fischer
 </text:note>
 .
 </text:p>
-<text:p text:style-name="P31">
+<text:p text:style-name="P26">
 Sicchè la 
 <text:span text:style-name="T11">
 Critica della ragion pura
@@ -1679,7 +1688,7 @@ Critica della ragion pura
  fu stesa nella prima 
 <text:soft-page-break/>
 metà del 1780
-<text:note text:id="ftn6" text:note-class="footnote">
+<text:note text:id="ftn7" text:note-class="footnote">
 <text:note-citation>
 7
 </text:note-citation>
@@ -1723,11 +1732,92 @@ Gesanim. Schr. hg.v.d. K.
 </text:note>
 , dopo un&apos;aspra meditazione di molti anni, durante la quale parve spesso all&apos;autore di essere sul punto di acquistare un&apos;idea chiara e definitiva di tutte le parti della sua opera; ma ancora a mezzo il 1778 s&apos;ingannava, e doveva tuttavia lavorarvi ancora per un pezzo.
 </text:p>
-<text:p text:style-name="P31"/>
-<text:p text:style-name="P33">
+<text:p text:style-name="P26"/>
+<text:p text:style-name="P27">
 III
 </text:p>
-<text:p text:style-name="P32"/>
+<text:p text:style-name="P33">
+La prima edizione della 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+, dunque, vide la luce a Riga, presso l&apos;editore Johann Friedrich Hartknoch nel 1781, in un volume di XXIV-856 pagine in 8°. Nei primi 
+<text:s/>
+mesi del 1786 era esaurita; e, nel marzo di quell&apos;anno, Kant si accingeva a una revisione del testo, per una nuova edizione, che venne fuori nel giugno
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+8
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T17">
+V
+</text:span>
+<text:span text:style-name="T16">
+. B. Erdmann
+</text:span>
+ Einl, in 
+<text:span text:style-name="T16">
+Kant
+</text:span>
+, 
+<text:span text:style-name="T11">
+Krit. d. r. V. zw. Aufl. 1787
+</text:span>
+, in 
+<text:span text:style-name="T11">
+Gesamm. Schr. hg. v. der k.
+</text:span>
+ preuss. Ak. der Wissensch. I Abth.: 
+<text:span text:style-name="T11">
+Werke
+</text:span>
+, III Bd. (Berlin Reimer, 1904), p. 558.
+</text:p>
+</text:note-body>
+</text:note>
+ dell&apos;anno dopo come 
+<text:span text:style-name="T11">
+hin und wieder verbesserte
+</text:span>
+ (qua e là migliorata) in un volume di pp. LXIV-884, presso lo stesso Hartknoch.
+</text:p>
+<text:p text:style-name="P33">
+Quali miglioramenti Kant intese introdurre nel suo libro, 
+<text:soft-page-break/>
+lo dice egli stesso nella prefazione alla nuova edizione (pp. 33 sgg. q. trad.); nè è di questo luogo entrare a discutere della questione tanto dibattuta, dal Jacobi e dallo Schopenhauer a B. Erdmann e al Fischer, intorno al valore delle differenze tra le due edizioni. Anche in questa traduzione tutte queste differenze si possono studiare e giudicare direttamente. Esse, oltre a leggère variazioni verbali, consistono in ampliamenti e accorciamenti, aggiunte e soppressioni. Sono ampliate nella 2&lt;sup&gt;a&lt;/sup&gt; edizione l&apos;introduzione e alcune parti dell&apos;Estetica trascendentale; la Deduzione dei concetti puri dell&apos;intelletto è rifatta interamente; parzialmente, il capitolo «Del principio della distinzione di tutti gli oggetti in generale in fenomeni e noumeni». Nell&apos;Analitica dei principii è aggiunta la «Confutazione dell&apos;idealismo» e l&apos;«Osservazione generale sul sistema dei principii»; rifatto e abbreviato assai è il capitolo dei «Paralogismi della ragion pura». Tutte le differenze si riferiscono, dunque, alla parte della 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+, che si dà tradotta in questo primo volume. E le più importanti sono quattro: 1) la nuova forma della Deduzione dei concetti puri dell&apos;intelletto; 2) e alla teoria della distinzione dei fenomeni e dei noumeni; 3) l&apos;aggiunta della Confutazione dell&apos;idealismo; 4) i tagli nei Paralogismi della ragion pura. La sostanza di queste differenze variamente giudicata s
+<text:span text:style-name="T21">
+e
+</text:span>
+condo le tendenze diverse dei critici, si può certamente riassumere nello sforzo fatto da Kant,―dopo l&apos;interpretazione berkeleiana, che fu data generalmente della 1
+<text:span text:style-name="T20">
+a
+</text:span>
+ edizione della 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+,―per isfuggire alle spire dell&apos;idealismo e fon
+<text:soft-page-break/>
+dare l&apos;affermazione della cosa in sè. Ma è del pari incontestabile, che, se Kant dai giudizi sulla 1
+<text:span text:style-name="T20">
+a
+</text:span>
+ edizione fu indotto a scrivere i 
+<text:span text:style-name="T11">
+Prolegomeni
+</text:span>
+ e a concentrare nella nuova edizione della 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+ il suo pensiero sul bisogno che sentiva fortissimo di non finire nell&apos;idealismo, questo bisogno c&apos;era in lui anche prima, fin dalla Dissertazione del &apos;70, dove pure si parla del principio del fenomeno fuori del fenomeno. Era la posizione storica di Kant, come di Jacobi e di quanti allora toglievano il problema da Hume.
+</text:p>
+<text:p text:style-name="P33"/>
 <text:h text:style-name="Heading_20_1" text:outline-level="1">
 <text:bookmark-start text:name="__RefHeading___Toc377_2203379893"/>
 DEDICA
@@ -1832,7 +1922,7 @@ Sezione prima ― Dello spazio
 Corollari dei concetti precedenti
 <text:bookmark-end text:name="__RefHeading___Toc413_2203379893"/>
 </text:h>
-<text:h text:style-name="P29" text:outline-level="4">
+<text:h text:style-name="P31" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc415_2203379893"/>
 Sezione seconda ― Del tempo
 <text:bookmark-end text:name="__RefHeading___Toc415_2203379893"/>
@@ -1920,7 +2010,7 @@ I. Analitica trascendentale
 I. ― Analitica dei concetti
 <text:bookmark-end text:name="__RefHeading___Toc445_2203379893"/>
 </text:h>
-<text:h text:style-name="P30" text:outline-level="6">
+<text:h text:style-name="P32" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc447_2203379893"/>
 Cap I. ― Del filo conduttore per la scoperta di tutti i concetti puri dell&apos;intelletto
 <text:bookmark-end text:name="__RefHeading___Toc447_2203379893"/>
