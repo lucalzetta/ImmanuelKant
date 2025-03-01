@@ -144,23 +144,27 @@
 <style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
 <style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
 </style:style>
-<style:style style:name="P28" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
+<style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
+</style:style>
+<style:style style:name="P29" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
 <style:paragraph-properties style:page-number="auto"/>
 </style:style>
-<style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_1">
 <style:text-properties fo:font-size="15pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
 </style:style>
-<style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_1">
 <style:paragraph-properties fo:break-before="page"/>
 <style:text-properties officeooo:paragraph-rsid="003cc729"/>
 </style:style>
-<style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_4">
+<style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_4">
 <style:text-properties officeooo:paragraph-rsid="00246cce"/>
 </style:style>
-<style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_6">
+<style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_6">
 <style:text-properties officeooo:paragraph-rsid="0026ef34"/>
 </style:style>
-<style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
 <style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
 </style:style>
@@ -225,7 +229,28 @@
 <style:text-properties style:text-position="super 58%"/>
 </style:style>
 <style:style style:name="T21" style:family="text">
+<style:text-properties style:text-position="super 58%" officeooo:rsid="006f0dd4"/>
+</style:style>
+<style:style style:name="T22" style:family="text">
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0073098d"/>
+</style:style>
+<style:style style:name="T23" style:family="text">
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0073bafe"/>
+</style:style>
+<style:style style:name="T24" style:family="text">
+<style:text-properties style:text-position="super 58%" officeooo:rsid="00753303"/>
+</style:style>
+<style:style style:name="T25" style:family="text">
+<style:text-properties style:text-position="super 58%" officeooo:rsid="007709b3"/>
+</style:style>
+<style:style style:name="T26" style:family="text">
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0077d4c4"/>
+</style:style>
+<style:style style:name="T27" style:family="text">
 <style:text-properties officeooo:rsid="006d1068"/>
+</style:style>
+<style:style style:name="T28" style:family="text">
+<style:text-properties officeooo:rsid="00753303"/>
 </style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
@@ -265,7 +290,7 @@ www.liberliber.it
 </text:p>
 </draw:text-box>
 </draw:frame>
-<text:p text:style-name="P28">
+<text:p text:style-name="P29">
 Autore
 </text:p>
 <text:p text:style-name="LL_3a__20_titolo_20_libro">
@@ -1197,7 +1222,7 @@ Osservazione generale intorno al passaggio dalla psicologia razionale alla cosmo
 </text:p>
 </text:index-body>
 </text:table-of-content>
-<text:h text:style-name="P29" text:outline-level="1">
+<text:h text:style-name="P30" text:outline-level="1">
 EMMANUELE KANT
 </text:h>
 <text:p text:style-name="P21">
@@ -1275,7 +1300,7 @@ _____________
 <text:p text:style-name="P14">
 DICEMBRE MCMXLVIII - 4209
 </text:p>
-<text:h text:style-name="P30" text:outline-level="1">
+<text:h text:style-name="P31" text:outline-level="1">
 Prefazione a questa traduzione
 </text:h>
 <text:p text:style-name="P23">
@@ -1736,7 +1761,7 @@ Gesanim. Schr. hg.v.d. K.
 <text:p text:style-name="P27">
 III
 </text:p>
-<text:p text:style-name="P33">
+<text:p text:style-name="P28">
 La prima edizione della 
 <text:span text:style-name="T11">
 Critica
@@ -1744,7 +1769,7 @@ Critica
 , dunque, vide la luce a Riga, presso l&apos;editore Johann Friedrich Hartknoch nel 1781, in un volume di XXIV-856 pagine in 8°. Nei primi 
 <text:s/>
 mesi del 1786 era esaurita; e, nel marzo di quell&apos;anno, Kant si accingeva a una revisione del testo, per una nuova edizione, che venne fuori nel giugno
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn8" text:note-class="footnote">
 <text:note-citation>
 8
 </text:note-citation>
@@ -1782,7 +1807,7 @@ hin und wieder verbesserte
 </text:span>
  (qua e là migliorata) in un volume di pp. LXIV-884, presso lo stesso Hartknoch.
 </text:p>
-<text:p text:style-name="P33">
+<text:p text:style-name="P28">
 Quali miglioramenti Kant intese introdurre nel suo libro, 
 <text:soft-page-break/>
 lo dice egli stesso nella prefazione alla nuova edizione (pp. 33 sgg. q. trad.); nè è di questo luogo entrare a discutere della questione tanto dibattuta, dal Jacobi e dallo Schopenhauer a B. Erdmann e al Fischer, intorno al valore delle differenze tra le due edizioni. Anche in questa traduzione tutte queste differenze si possono studiare e giudicare direttamente. Esse, oltre a leggère variazioni verbali, consistono in ampliamenti e accorciamenti, aggiunte e soppressioni. Sono ampliate nella 2&lt;sup&gt;a&lt;/sup&gt; edizione l&apos;introduzione e alcune parti dell&apos;Estetica trascendentale; la Deduzione dei concetti puri dell&apos;intelletto è rifatta interamente; parzialmente, il capitolo «Del principio della distinzione di tutti gli oggetti in generale in fenomeni e noumeni». Nell&apos;Analitica dei principii è aggiunta la «Confutazione dell&apos;idealismo» e l&apos;«Osservazione generale sul sistema dei principii»; rifatto e abbreviato assai è il capitolo dei «Paralogismi della ragion pura». Tutte le differenze si riferiscono, dunque, alla parte della 
@@ -1790,7 +1815,7 @@ lo dice egli stesso nella prefazione alla nuova edizione (pp. 33 sgg. q. trad.);
 Critica
 </text:span>
 , che si dà tradotta in questo primo volume. E le più importanti sono quattro: 1) la nuova forma della Deduzione dei concetti puri dell&apos;intelletto; 2) e alla teoria della distinzione dei fenomeni e dei noumeni; 3) l&apos;aggiunta della Confutazione dell&apos;idealismo; 4) i tagli nei Paralogismi della ragion pura. La sostanza di queste differenze variamente giudicata s
-<text:span text:style-name="T21">
+<text:span text:style-name="T27">
 e
 </text:span>
 condo le tendenze diverse dei critici, si può certamente riassumere nello sforzo fatto da Kant,―dopo l&apos;interpretazione berkeleiana, che fu data generalmente della 1
@@ -1817,7 +1842,365 @@ Critica
 </text:span>
  il suo pensiero sul bisogno che sentiva fortissimo di non finire nell&apos;idealismo, questo bisogno c&apos;era in lui anche prima, fin dalla Dissertazione del &apos;70, dove pure si parla del principio del fenomeno fuori del fenomeno. Era la posizione storica di Kant, come di Jacobi e di quanti allora toglievano il problema da Hume.
 </text:p>
-<text:p text:style-name="P33"/>
+<text:p text:style-name="P28">
+E la 2
+<text:span text:style-name="T21">
+a
+</text:span>
+ edizione fu sempre riprodotta in tutte le successive fino a quella del Rosenkranz (nel 2° volume dell&apos;edizione delle opere complete di Kant, curata da lui e dallo Schubert) nel 1838: ossia nella terza (Riga, 1790), nella quarta (ivi, 1794), nella quinta (Lipsia, 1799) e nelle due postume: la sesta e la settima (Lipsia, 1818 e 1828). Nel 1815, il Jacobi, nel suo scritto 
+<text:span text:style-name="T11">
+Sull&apos;idealismo trascendentale
+</text:span>
+<text:span text:style-name="T11">
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+9
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T16">
+Jacobi
+</text:span>
+, 
+<text:span text:style-name="T11">
+Sämmtl. WW.
+</text:span>
+, II 291 sgg.
+</text:p>
+</text:note-body>
+</text:note>
+</text:span>
+, lamentando la mancanza nella 2
+<text:span text:style-name="T20">
+a
+</text:span>
+ edizione di alcuni passi della 1
+<text:span text:style-name="T20">
+a
+</text:span>
+, assai importanti per l&apos;intelligenza dell&apos;idealismo kantiano, notava che la 1
+<text:span text:style-name="T20">
+a
+</text:span>
+ edizione si era allora resa assai rara e si vedeva solo nelle biblioteche pubbliche e nelle grandi librerie private. Lo Schopenhauer nella «Critica della filosofia kantiana», aggiunta nella sua opera principale , nel 1819, appoggiava la sua critica della cosa in sè, contraddittoriamente fondata da Kant nel principio di causa non applicabile se non ai fenomeni, sulla 2
+<text:span text:style-name="T20">
+a
+</text:span>
+ edizione; e, quando più tardi potè leg
+<text:soft-page-break/>
+gere la 1
+<text:span text:style-name="T20">
+a
+</text:span>
+, e non vi trovò tale contraddizione e quell&apos;orrore ingiustificabile che vedeva nella 2
+<text:span text:style-name="T20">
+a
+</text:span>
+ per l&apos;idealismo radicale di Berkeley, trattò questa ultima come un «testo mutilato, corrotto e in certo modo non autentico»: peggioramento senile della mente kantiana; e documento atto a spiegare perchè a Kant era successo il periodo dell&apos;incomprensione di Kant. Egli indusse il Rosenkranz nel 1838 a riprodurre per la prima volta la edizione del 1781, come la vera Critica genuina, scrivendogli tre lettere, di una delle quali il Rosenkranz diede un estratto nella prefazione al suo volume
+<text:note text:id="ftn9" text:note-class="footnote">
+<text:note-citation>
+10
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+V. anche 
+<text:span text:style-name="T16">
+Schopenhauer
+</text:span>
+, 
+<text:span text:style-name="T11">
+Die Welt als Wille u. Vorst.
+</text:span>
+, tr. fr., II, 25. Le tre lettere scritte al Rosenkranz sono state poi pubblicate dal 
+<text:span text:style-name="T16">
+Reicke
+</text:span>
+ nell&apos; 
+<text:span text:style-name="T11">
+Altpreussische Monatschrift
+</text:span>
+. XXVI (1889), 30 sgg.
+</text:p>
+</text:note-body>
+</text:note>
+. Il Rosenkranz bensì riprodusse accortamente in XXVIII Supplementi le principali varianti della 2
+<text:span text:style-name="T21">
+a
+</text:span>
+ edizione.
+</text:p>
+<text:p text:style-name="P28">
+Contemporaneamente al Rosenkranz, una collezione completa degli scritti di Kant fu curata dall&apos; Hartenstein (1838), da lui stesso ripubblicata trent&apos;anni più tardi (1867-68): e questi, all&apos;incontro, messo a fondamento il testo del 1787, le diede in nota le minori varianti del 1781, e in appendice le due più lunghe intorno alla Deduzione dei concetti puri dell&apos;intelletto e ai Paralogismi. E questa sua edizione riprodusse a parte nel 1853 e nel &apos;68; quando uscì anche quella del Kirchmann (nella sua 
+<text:span text:style-name="T11">
+Philosophische Biblithek
+</text:span>
+) con lo stesso metodo
+<text:note text:id="ftn10" text:note-class="footnote">
+<text:note-citation>
+11
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Di questa è uscita un&apos;ottava ediz. riveduta da Th. Valentiner (Leipzig, 1906).
+</text:p>
+</text:note-body>
+</text:note>
+. Una nuova collocazione più accurata dei due testi si ebbe nel 
+<text:soft-page-break/>
+1877 per opera del Kehrbach
+<text:note text:id="ftn11" text:note-class="footnote">
+<text:note-citation>
+12
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T11">
+K. d. r. V.
+</text:span>
+ Text der Ausg. von 1781 mit Beifügung Sämmtl. Abweichungen der Ausg. von 1787 hg. v. 
+<text:span text:style-name="T16">
+D. K. Kehrbah
+</text:span>
+, Leipzig, Reclam, 1877 (2
+<text:span text:style-name="T20">
+a
+</text:span>
+ edizione migliorata 1878). Numm. 851-55 della «Universal-Bibliothek».
+</text:p>
+</text:note-body>
+</text:note>
+, e nel 1878 dell&apos; Erdmann
+<text:note text:id="ftn12" text:note-class="footnote">
+<text:note-citation>
+13
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Leipzig, 1878; 3
+<text:span text:style-name="T22">
+a
+</text:span>
+ ediz. stereotipa «mehrfach verbesserte» ivi, 1884.
+</text:p>
+</text:note-body>
+</text:note>
+, il primo dei quali si attenne al criterio del Rosenkranz, il secondo a quello dell&apos; Hartenstein,: ma raccolsero entrambi tutte le minime varianti. Da quella dell&apos; Erdmann, di cui nel 1884 fu fatta una terza edizione in più luoghi migliorata, si sono rifatti gli Adickes per la sua edizione annotata (1889) e il Vorländer per la sua, assai pregevole, curata nel 1899 per la 
+<text:span text:style-name="T11">
+Bibliothek der Gesammtliteratur
+</text:span>
+ di Hendel, ornata di un&apos;introduzione storica e d&apos;un utilissimo indice di persone e di cose, che riesce un glossario veramente prezioso della terminologia kantiana nella 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+<text:span text:style-name="T11">
+<text:note text:id="ftn13" text:note-class="footnote">
+<text:note-citation>
+14
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Una Rist. della 2
+<text:span text:style-name="T23">
+a
+</text:span>
+ ediz., con un intr. sulla vita e le opere di Kant, è quella di 
+<text:span text:style-name="T16">
+Zimmermann
+</text:span>
+, Leipzig und Wien, Meiers Bibliograph. Institut, 1890.
+</text:p>
+</text:note-body>
+</text:note>
+</text:span>
+. Ma nel 1900 l&apos; Erdmann, rifacendo per la quinta volta la sua edizione, avvertì
+<text:note text:id="ftn14" text:note-class="footnote">
+<text:note-citation>
+15
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T16">
+I. Kant
+</text:span>
+, 
+<text:span text:style-name="T11">
+K. d. r. V., hg., v.
+</text:span>
+ B. Erdmann: fünfte durchgängig revidirte aufl. Berlin, Reimer, 1900.
+</text:p>
+</text:note-body>
+</text:note>
+ che tutti gli editori (lui compreso), dal Rosenkranz in poi, avevano seguito a occhi chiusi la tradizione cominciata col Jacobi e collo Schopenhauer, che tutte le edizioni originali, dalla 3
+<text:span text:style-name="T24">
+a
+</text:span>
+ alla 7
+<text:span text:style-name="T24">
+a
+</text:span>
+, riproducessero letteralmente la 2
+<text:span text:style-name="T24">
+a
+</text:span>
+; il che è falso, perchè un attento esame dimostra invece, che ogni edizione, dopo la 3
+<text:span text:style-name="T24">
+a
+</text:span>
+, si fonda su quella immediatamente precedente; la 6
+<text:span text:style-name="T24">
+a
+</text:span>
+ quindi sulla 5
+<text:span text:style-name="T24">
+a
+</text:span>
+, accogliendo senza criterio le correzioni nel 1795 arbitrariamente proposte pel testo di Kant da un dott. Grillo, e già 
+<text:soft-page-break/>
+passate nella 5
+<text:span text:style-name="T24">
+a
+</text:span>
+, come ultima edizione uscita vivente Kant, fosse da attribuire una speciale importanza, il Rosenkranz e l&apos; Hartenstein, pel teso della 2
+<text:span text:style-name="T24">
+a
+</text:span>
+ edizione, attinsero alla 5
+<text:span text:style-name="T24">
+a
+</text:span>
+, che aveva aggiunti i suoi difetti a quelli della 3
+<text:span text:style-name="T24">
+a
+</text:span>
+ e della 4
+<text:span text:style-name="T24">
+a
+</text:span>
+. Il Kirchmann poi avrebbe riprodotto l&apos;edizione ultima Hartenstein; l&apos;Adickes, per lo più, il testo della 5
+<text:span text:style-name="T24">
+a
+</text:span>
+; e lo stesso tes
+<text:span text:style-name="T28">
+t
+</text:span>
+o, in più punti, anche il Vorländer. L&apos; Erdmann, pertanto, rifacendo a parte la storia del testo, dimostrata la necessità di cercare nell&apos;edizione del 1787 il testo genuino di Kant
+<text:note text:id="ftn15" text:note-class="footnote">
+<text:note-citation>
+16
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T16">
+V. B. Erdmann
+</text:span>
+, 
+<text:span text:style-name="T11">
+Beitr. Z. Gessch. u. Revision des Texts Kritik der reinen Vern.
+</text:span>
+, Anhang zur fünfte Aufl. cit. Berlin, Reimer, 1900.
+</text:p>
+</text:note-body>
+</text:note>
+, diede una nuova edizione più esatta della 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+, ancora perfezionata più tardi in quella da lui stesso curata per la collezione delle opere complete di Kant, pubblicata dalla R. Accademia prussiana delle scienze. Ma in questa collezione il testo del 1781 (fino al capitolo dei 
+<text:span text:style-name="T11">
+Paralogismi
+</text:span>
+ incluso) e quello del 1787 sono riprodotti separatamente, non senza avvertire via via, a pie&apos; del secondo, dove occorrono le differenze del primo.
+</text:p>
+<text:p text:style-name="P28">
+Più utili, senza dubbio, sono le edizioni comuni, complessive, che mettono a riscontro i due testi. Ma a torto dall&apos;uno o dall&apos;altro dei varii editori s&apos;è creduto, che il giudizio comparativo intorno al valore dottrinale delle due edizioni dovesse servire di base alla scelta del testo da porre a fondamento della propria. L&apos;editore non deve giudicare, ma presentare nella forma più schietta e genuina l&apos;opera da giudicare: far opera di filologo e non di 
+<text:soft-page-break/>
+filosofo. Pure, movendo da un criterio filologico il Kehrbach e l&apos;Erdmann, come s&apos;è visto, han creduto di dover giungere a conclusioni opposte: parendo al primo , che un&apos;edizione complessiva della 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+, nella prima e nella seconda sua forma, dovesse porre nel testo l&apos;edizione principe del 1781, rappresentante la forma originaria, dalla quale poi le varianti dell&apos;edizione successiva rappresenterebbero nelle note e nell&apos;appendice il posteriore processo di rielaborazione del pensiero kantiano; e parendo, per contro, al secondo, che la seconda edizione rappresenti, secondo la mente dello stesso Kant, la vera forma dell&apos;opera sua; la forma, in cui l&apos;opera fu letta sempre durante i primi cinquant&apos;anni, ossia durante tutto quel periodo della filosofia classica, di cui la 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+ segna l&apos;inizio
+<text:note text:id="ftn16" text:note-class="footnote">
+<text:note-citation>
+17
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T16">
+V. Erdmann
+</text:span>
+, Vorr. alla 3
+<text:span text:style-name="T25">
+a
+</text:span>
+ ediz. della sua 
+<text:span text:style-name="T16">
+Kants
+</text:span>
+ 
+<text:span text:style-name="T11">
+Kritik
+</text:span>
+ ecc. e 
+<text:span text:style-name="T16">
+Kehrbach
+</text:span>
+, 
+<text:span text:style-name="T11">
+Replik gegen des Hrn. Privatdocentes B. Erdmann Recensions meiner Ausgabe der Kants Kr. d. r. V.; zugleich eine kurze Charakteristik des allerneusten Studius der sogenannt, Kantphilologie, in Ztschr. f. Phil. u. phil. krit.
+</text:span>
+ Bd. LXXII.
+</text:p>
+</text:note-body>
+</text:note>
+. Ora è evidente che entrambi questi punti di vista sono egualmente ragionevoli e accettabili; e che però non c&apos;è una ragione per preferire assolutamente un metodo all&apos;altro. L&apos;importante è che, in un modo o nell&apos;altro, si renda possibile lo studio di tutte le differenze tra le due edizioni fondamentali. Ciò che non pare a niun patto accettabile filologicamente, è il partito adottato dagli ultimi traduttori francesi; i quali dànno nel testo l&apos;edizione del 1781 con tutte le aggiunte dell&apos;edizione 1787, ma pongono in nota i rifacimenti, che nella 2
+<text:span text:style-name="T26">
+a
+</text:span>
+ corrono parallelamente ai rispettivi luoghi 
+<text:soft-page-break/>
+della 1
+<text:span text:style-name="T26">
+a
+</text:span>
+ edizione: costituendo così arbitrariamente un testo, che non è nè quello della 1
+<text:span text:style-name="T26">
+a
+</text:span>
+ edizione, nè quello della 2
+<text:span text:style-name="T26">
+a 
+</text:span>
+<text:span text:style-name="T26">
+<text:note text:id="ftn17" text:note-class="footnote">
+<text:note-citation>
+18
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+A torto dicono di aver seguito la «disposition adoptée par B. Erdmann dans sa cinquiéme édition» (p. XXII). Perchè nella 5
+<text:span text:style-name="T26">
+a
+</text:span>
+ ediz. l&apos;Erdmann mette tutto da una parte, sopra, il testo della 2
+<text:span text:style-name="T26">
+a
+</text:span>
+ ediz., e sotto, soltanto le varianti della 1
+<text:span text:style-name="T26">
+a
+</text:span>
+.
+</text:p>
+</text:note-body>
+</text:note>
+</text:span>
+.
+</text:p>
 <text:h text:style-name="Heading_20_1" text:outline-level="1">
 <text:bookmark-start text:name="__RefHeading___Toc377_2203379893"/>
 DEDICA
@@ -1922,7 +2305,7 @@ Sezione prima ― Dello spazio
 Corollari dei concetti precedenti
 <text:bookmark-end text:name="__RefHeading___Toc413_2203379893"/>
 </text:h>
-<text:h text:style-name="P31" text:outline-level="4">
+<text:h text:style-name="P32" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc415_2203379893"/>
 Sezione seconda ― Del tempo
 <text:bookmark-end text:name="__RefHeading___Toc415_2203379893"/>
@@ -2010,7 +2393,7 @@ I. Analitica trascendentale
 I. ― Analitica dei concetti
 <text:bookmark-end text:name="__RefHeading___Toc445_2203379893"/>
 </text:h>
-<text:h text:style-name="P32" text:outline-level="6">
+<text:h text:style-name="P33" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc447_2203379893"/>
 Cap I. ― Del filo conduttore per la scoperta di tutti i concetti puri dell&apos;intelletto
 <text:bookmark-end text:name="__RefHeading___Toc447_2203379893"/>
