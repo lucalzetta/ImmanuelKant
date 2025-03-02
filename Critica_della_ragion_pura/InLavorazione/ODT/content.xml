@@ -14,6 +14,15 @@
 <style:font-face style:name="Times New Roman1" svg:font-family="&apos;Times New Roman&apos;" style:font-adornments="Normale" style:font-family-generic="roman" style:font-pitch="variable"/>
 </office:font-face-decls>
 <office:automatic-styles>
+<style:style style:name="Tabella1" style:family="table">
+<style:table-properties style:width="11.202cm" table:align="margins" style:may-break-between-rows="false"/>
+</style:style>
+<style:style style:name="Tabella1.A" style:family="table-column">
+<style:table-column-properties style:column-width="5.602cm" style:rel-column-width="32767*"/>
+</style:style>
+<style:style style:name="Tabella1.A1" style:family="table-cell">
+<style:table-cell-properties fo:padding="0.101cm" fo:border="none" style:writing-mode="page"/>
+</style:style>
 <style:style style:name="P1" style:family="paragraph" style:parent-style-name="LL_3a__20_sponsor_20_pre">
 <style:paragraph-properties fo:break-before="page"/>
 </style:style>
@@ -168,6 +177,18 @@
 <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
 <style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
 </style:style>
+<style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
+</style:style>
+<style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="007e49cd" officeooo:paragraph-rsid="007e49cd"/>
+</style:style>
+<style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="007e49cd" officeooo:paragraph-rsid="007e49cd"/>
+</style:style>
 <style:style style:name="T1" style:family="text">
 <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none"/>
 </style:style>
@@ -211,46 +232,67 @@
 <style:text-properties fo:font-style="italic" officeooo:rsid="005621b9" style:font-style-asian="italic" style:font-style-complex="italic"/>
 </style:style>
 <style:style style:name="T15" style:family="text">
-<style:text-properties officeooo:rsid="005207ad"/>
+<style:text-properties fo:font-style="italic" officeooo:rsid="007a8e0b" style:font-style-asian="italic" style:font-style-complex="italic"/>
 </style:style>
 <style:style style:name="T16" style:family="text">
-<style:text-properties fo:font-variant="small-caps"/>
+<style:text-properties officeooo:rsid="005207ad"/>
 </style:style>
 <style:style style:name="T17" style:family="text">
-<style:text-properties fo:font-variant="small-caps" officeooo:rsid="006b6dae"/>
+<style:text-properties fo:font-variant="small-caps"/>
 </style:style>
 <style:style style:name="T18" style:family="text">
-<style:text-properties officeooo:rsid="005f38b4"/>
+<style:text-properties fo:font-variant="small-caps" officeooo:rsid="006b6dae"/>
 </style:style>
 <style:style style:name="T19" style:family="text">
-<style:text-properties officeooo:rsid="00633495"/>
+<style:text-properties officeooo:rsid="005f38b4"/>
 </style:style>
 <style:style style:name="T20" style:family="text">
-<style:text-properties style:text-position="super 58%"/>
+<style:text-properties officeooo:rsid="00633495"/>
 </style:style>
 <style:style style:name="T21" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="006f0dd4"/>
+<style:text-properties style:text-position="super 58%"/>
 </style:style>
 <style:style style:name="T22" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="0073098d"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="006f0dd4"/>
 </style:style>
 <style:style style:name="T23" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="0073bafe"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0073098d"/>
 </style:style>
 <style:style style:name="T24" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="00753303"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0073bafe"/>
 </style:style>
 <style:style style:name="T25" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="007709b3"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="00753303"/>
 </style:style>
 <style:style style:name="T26" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="0077d4c4"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="007709b3"/>
 </style:style>
 <style:style style:name="T27" style:family="text">
-<style:text-properties officeooo:rsid="006d1068"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0077d4c4"/>
 </style:style>
 <style:style style:name="T28" style:family="text">
+<style:text-properties style:text-position="super 58%" fo:font-style="italic" officeooo:rsid="007ca69c" style:font-style-asian="italic" style:font-style-complex="italic"/>
+</style:style>
+<style:style style:name="T29" style:family="text">
+<style:text-properties style:text-position="super 58%" officeooo:rsid="00800a1a"/>
+</style:style>
+<style:style style:name="T30" style:family="text">
+<style:text-properties style:text-position="super 58%" officeooo:rsid="00828c42"/>
+</style:style>
+<style:style style:name="T31" style:family="text">
+<style:text-properties officeooo:rsid="006d1068"/>
+</style:style>
+<style:style style:name="T32" style:family="text">
 <style:text-properties officeooo:rsid="00753303"/>
+</style:style>
+<style:style style:name="T33" style:family="text">
+<style:text-properties officeooo:rsid="008670bb"/>
+</style:style>
+<style:style style:name="T34" style:family="text">
+<style:text-properties officeooo:rsid="008984bc"/>
+</style:style>
+<style:style style:name="T35" style:family="text">
+<style:text-properties officeooo:rsid="008a1246"/>
 </style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
@@ -1430,7 +1472,7 @@ Sogni di un visionario spiegati coi sogni della metafisica
 Del primo principio delle differenze delle regioni nello spazio 
 </text:span>
 (
-<text:span text:style-name="T15">
+<text:span text:style-name="T16">
 1
 </text:span>
 768).
@@ -1551,7 +1593,7 @@ spetta alla natura degli oggetti; e che si conosca esattamente «ciò che riposa
 <text:note-body>
 <text:p text:style-name="Footnote">
 Vedi 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Kant
 </text:span>
 , 
@@ -1595,7 +1637,7 @@ Briefw.
 </text:note-body>
 </text:note>
  Questo rapporto non si spiega per via naturale, considerando i nostri concetti come cause o come effetti degli oggetti. La spiegazione sovrannaturale suppone un&apos;illuminazione divina (Platone, Malebranche) o un&apos;armonia prestabilita (Leibniz), e si rifugia in ambo i casi nell&apos;intervento d
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 i
 </text:span>
 vi
@@ -1605,7 +1647,7 @@ no. «Se non che, il
 Deus ex machina
 </text:span>
 , per la determinazione dell&apos;origine e del valore delle nostre conoscenze, è ciò che di più assurdo si possa soltanto pensare, e oltre al circolo fallace, che importa nella concatenazione logica delle nostre idee, ha lo svantaggio di venire in aiuto al fantasticare delle chimere divote e sofistiche.» La sua ricerca quindi s&apos;indirizza alle «fonti della conoscenza intellettuale» per determinare la natura e i limiti della metafisica. «Ora sono in grado di fornire una critica della ragion pura, contenente la natura della conoscenza, sì teoretica che pratica, in quanto semplicemente intellettuale: di cui prima elaborerò la prima parte circa le fonti della metafisica, i suoi metodi e limiti; e la pubblich
-<text:span text:style-name="T18">
+<text:span text:style-name="T19">
 e
 </text:span>
 rò forse fra tre mesi»
@@ -1661,7 +1703,7 @@ L&apos;operetta, invece, divenne un&apos;opera, e non fu pronta per la stampa se
 <text:note-body>
 <text:p text:style-name="Footnote">
 Vedi la sua lettera in 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Kant
 </text:span>
 , 
@@ -1688,7 +1730,7 @@ Critica
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Kant
 </text:span>
 , 
@@ -1696,7 +1738,7 @@ Kant
 Briefw
 </text:span>
 ., X, 323. Cfr. 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Fischer
 </text:span>
 , o. c., I, 74-8.
@@ -1720,7 +1762,7 @@ metà del 1780
 <text:note-body>
 <text:p text:style-name="Footnote">
 Altri crede che la redazione ultima sia da assegnare agli ultimi mesi del 1779 tra il maggio e il settembre: ma la lettera la Mendelssohn mi pare perentoria. V. l&apos;Intr. di 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 H. Adikes
 </text:span>
  alla sua ed. della 
@@ -1728,7 +1770,7 @@ H. Adikes
 Kr. d. r. V.
 </text:span>
 , Berlin, Meyer u. Muller, 1899 con la recensione del 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Vaihinger
 </text:span>
  nell&apos; 
@@ -1736,11 +1778,11 @@ Vaihinger
 Arch. f. Gesch. d. Phil.
 </text:span>
 , IV, 724-29; e principalmente 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 B. Erdmann
 </text:span>
  Einl. in 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Kant
 </text:span>
 , 
@@ -1775,14 +1817,14 @@ mesi del 1786 era esaurita; e, nel marzo di quell&apos;anno, Kant si accingeva a
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T17">
+<text:span text:style-name="T18">
 V
 </text:span>
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 . B. Erdmann
 </text:span>
  Einl, in 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Kant
 </text:span>
 , 
@@ -1815,11 +1857,11 @@ lo dice egli stesso nella prefazione alla nuova edizione (pp. 33 sgg. q. trad.);
 Critica
 </text:span>
 , che si dà tradotta in questo primo volume. E le più importanti sono quattro: 1) la nuova forma della Deduzione dei concetti puri dell&apos;intelletto; 2) e alla teoria della distinzione dei fenomeni e dei noumeni; 3) l&apos;aggiunta della Confutazione dell&apos;idealismo; 4) i tagli nei Paralogismi della ragion pura. La sostanza di queste differenze variamente giudicata s
-<text:span text:style-name="T27">
+<text:span text:style-name="T31">
 e
 </text:span>
 condo le tendenze diverse dei critici, si può certamente riassumere nello sforzo fatto da Kant,―dopo l&apos;interpretazione berkeleiana, che fu data generalmente della 1
-<text:span text:style-name="T20">
+<text:span text:style-name="T21">
 a
 </text:span>
  edizione della 
@@ -1829,7 +1871,7 @@ Critica
 ,―per isfuggire alle spire dell&apos;idealismo e fon
 <text:soft-page-break/>
 dare l&apos;affermazione della cosa in sè. Ma è del pari incontestabile, che, se Kant dai giudizi sulla 1
-<text:span text:style-name="T20">
+<text:span text:style-name="T21">
 a
 </text:span>
  edizione fu indotto a scrivere i 
@@ -1844,7 +1886,7 @@ Critica
 </text:p>
 <text:p text:style-name="P28">
 E la 2
-<text:span text:style-name="T21">
+<text:span text:style-name="T22">
 a
 </text:span>
  edizione fu sempre riprodotta in tutte le successive fino a quella del Rosenkranz (nel 2° volume dell&apos;edizione delle opere complete di Kant, curata da lui e dallo Schubert) nel 1838: ossia nella terza (Riga, 1790), nella quarta (ivi, 1794), nella quinta (Lipsia, 1799) e nelle due postume: la sesta e la settima (Lipsia, 1818 e 1828). Nel 1815, il Jacobi, nel suo scritto 
@@ -1852,13 +1894,13 @@ a
 Sull&apos;idealismo trascendentale
 </text:span>
 <text:span text:style-name="T11">
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn9" text:note-class="footnote">
 <text:note-citation>
 9
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Jacobi
 </text:span>
 , 
@@ -1871,40 +1913,40 @@ Sämmtl. WW.
 </text:note>
 </text:span>
 , lamentando la mancanza nella 2
-<text:span text:style-name="T20">
+<text:span text:style-name="T21">
 a
 </text:span>
  edizione di alcuni passi della 1
-<text:span text:style-name="T20">
+<text:span text:style-name="T21">
 a
 </text:span>
 , assai importanti per l&apos;intelligenza dell&apos;idealismo kantiano, notava che la 1
-<text:span text:style-name="T20">
+<text:span text:style-name="T21">
 a
 </text:span>
  edizione si era allora resa assai rara e si vedeva solo nelle biblioteche pubbliche e nelle grandi librerie private. Lo Schopenhauer nella «Critica della filosofia kantiana», aggiunta nella sua opera principale , nel 1819, appoggiava la sua critica della cosa in sè, contraddittoriamente fondata da Kant nel principio di causa non applicabile se non ai fenomeni, sulla 2
-<text:span text:style-name="T20">
+<text:span text:style-name="T21">
 a
 </text:span>
  edizione; e, quando più tardi potè leg
 <text:soft-page-break/>
 gere la 1
-<text:span text:style-name="T20">
+<text:span text:style-name="T21">
 a
 </text:span>
 , e non vi trovò tale contraddizione e quell&apos;orrore ingiustificabile che vedeva nella 2
-<text:span text:style-name="T20">
+<text:span text:style-name="T21">
 a
 </text:span>
  per l&apos;idealismo radicale di Berkeley, trattò questa ultima come un «testo mutilato, corrotto e in certo modo non autentico»: peggioramento senile della mente kantiana; e documento atto a spiegare perchè a Kant era successo il periodo dell&apos;incomprensione di Kant. Egli indusse il Rosenkranz nel 1838 a riprodurre per la prima volta la edizione del 1781, come la vera Critica genuina, scrivendogli tre lettere, di una delle quali il Rosenkranz diede un estratto nella prefazione al suo volume
-<text:note text:id="ftn9" text:note-class="footnote">
+<text:note text:id="ftn10" text:note-class="footnote">
 <text:note-citation>
 10
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
 V. anche 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Schopenhauer
 </text:span>
 , 
@@ -1912,7 +1954,7 @@ Schopenhauer
 Die Welt als Wille u. Vorst.
 </text:span>
 , tr. fr., II, 25. Le tre lettere scritte al Rosenkranz sono state poi pubblicate dal 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Reicke
 </text:span>
  nell&apos; 
@@ -1924,7 +1966,7 @@ Altpreussische Monatschrift
 </text:note-body>
 </text:note>
 . Il Rosenkranz bensì riprodusse accortamente in XXVIII Supplementi le principali varianti della 2
-<text:span text:style-name="T21">
+<text:span text:style-name="T22">
 a
 </text:span>
  edizione.
@@ -1932,10 +1974,16 @@ a
 <text:p text:style-name="P28">
 Contemporaneamente al Rosenkranz, una collezione completa degli scritti di Kant fu curata dall&apos; Hartenstein (1838), da lui stesso ripubblicata trent&apos;anni più tardi (1867-68): e questi, all&apos;incontro, messo a fondamento il testo del 1787, le diede in nota le minori varianti del 1781, e in appendice le due più lunghe intorno alla Deduzione dei concetti puri dell&apos;intelletto e ai Paralogismi. E questa sua edizione riprodusse a parte nel 1853 e nel &apos;68; quando uscì anche quella del Kirchmann (nella sua 
 <text:span text:style-name="T11">
-Philosophische Biblithek
+Philosophische Bibli
+</text:span>
+<text:span text:style-name="T15">
+o
+</text:span>
+<text:span text:style-name="T11">
+thek
 </text:span>
 ) con lo stesso metodo
-<text:note text:id="ftn10" text:note-class="footnote">
+<text:note text:id="ftn11" text:note-class="footnote">
 <text:note-citation>
 11
 </text:note-citation>
@@ -1948,7 +1996,7 @@ Di questa è uscita un&apos;ottava ediz. riveduta da Th. Valentiner (Leipzig, 19
 . Una nuova collocazione più accurata dei due testi si ebbe nel 
 <text:soft-page-break/>
 1877 per opera del Kehrbach
-<text:note text:id="ftn11" text:note-class="footnote">
+<text:note text:id="ftn12" text:note-class="footnote">
 <text:note-citation>
 12
 </text:note-citation>
@@ -1958,11 +2006,11 @@ Di questa è uscita un&apos;ottava ediz. riveduta da Th. Valentiner (Leipzig, 19
 K. d. r. V.
 </text:span>
  Text der Ausg. von 1781 mit Beifügung Sämmtl. Abweichungen der Ausg. von 1787 hg. v. 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 D. K. Kehrbah
 </text:span>
 , Leipzig, Reclam, 1877 (2
-<text:span text:style-name="T20">
+<text:span text:style-name="T21">
 a
 </text:span>
  edizione migliorata 1878). Numm. 851-55 della «Universal-Bibliothek».
@@ -1970,14 +2018,14 @@ a
 </text:note-body>
 </text:note>
 , e nel 1878 dell&apos; Erdmann
-<text:note text:id="ftn12" text:note-class="footnote">
+<text:note text:id="ftn13" text:note-class="footnote">
 <text:note-citation>
 13
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
 Leipzig, 1878; 3
-<text:span text:style-name="T22">
+<text:span text:style-name="T23">
 a
 </text:span>
  ediz. stereotipa «mehrfach verbesserte» ivi, 1884.
@@ -1993,18 +2041,18 @@ Bibliothek der Gesammtliteratur
 Critica
 </text:span>
 <text:span text:style-name="T11">
-<text:note text:id="ftn13" text:note-class="footnote">
+<text:note text:id="ftn14" text:note-class="footnote">
 <text:note-citation>
 14
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
 Una Rist. della 2
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
  ediz., con un intr. sulla vita e le opere di Kant, è quella di 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Zimmermann
 </text:span>
 , Leipzig und Wien, Meiers Bibliograph. Institut, 1890.
@@ -2013,13 +2061,13 @@ Zimmermann
 </text:note>
 </text:span>
 . Ma nel 1900 l&apos; Erdmann, rifacendo per la quinta volta la sua edizione, avvertì
-<text:note text:id="ftn14" text:note-class="footnote">
+<text:note text:id="ftn15" text:note-class="footnote">
 <text:note-citation>
 15
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 I. Kant
 </text:span>
 , 
@@ -2031,67 +2079,67 @@ K. d. r. V., hg., v.
 </text:note-body>
 </text:note>
  che tutti gli editori (lui compreso), dal Rosenkranz in poi, avevano seguito a occhi chiusi la tradizione cominciata col Jacobi e collo Schopenhauer, che tutte le edizioni originali, dalla 3
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
  alla 7
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
 , riproducessero letteralmente la 2
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
 ; il che è falso, perchè un attento esame dimostra invece, che ogni edizione, dopo la 3
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
 , si fonda su quella immediatamente precedente; la 6
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
  quindi sulla 5
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
 , accogliendo senza criterio le correzioni nel 1795 arbitrariamente proposte pel testo di Kant da un dott. Grillo, e già 
 <text:soft-page-break/>
 passate nella 5
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
 , come ultima edizione uscita vivente Kant, fosse da attribuire una speciale importanza, il Rosenkranz e l&apos; Hartenstein, pel teso della 2
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
  edizione, attinsero alla 5
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
 , che aveva aggiunti i suoi difetti a quelli della 3
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
  e della 4
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
 . Il Kirchmann poi avrebbe riprodotto l&apos;edizione ultima Hartenstein; l&apos;Adickes, per lo più, il testo della 5
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
 ; e lo stesso tes
-<text:span text:style-name="T28">
+<text:span text:style-name="T32">
 t
 </text:span>
 o, in più punti, anche il Vorländer. L&apos; Erdmann, pertanto, rifacendo a parte la storia del testo, dimostrata la necessità di cercare nell&apos;edizione del 1787 il testo genuino di Kant
-<text:note text:id="ftn15" text:note-class="footnote">
+<text:note text:id="ftn16" text:note-class="footnote">
 <text:note-citation>
 16
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 V. B. Erdmann
 </text:span>
 , 
@@ -2124,21 +2172,21 @@ Critica
 Critica
 </text:span>
  segna l&apos;inizio
-<text:note text:id="ftn16" text:note-class="footnote">
+<text:note text:id="ftn17" text:note-class="footnote">
 <text:note-citation>
 17
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 V. Erdmann
 </text:span>
 , Vorr. alla 3
-<text:span text:style-name="T25">
+<text:span text:style-name="T26">
 a
 </text:span>
  ediz. della sua 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Kants
 </text:span>
  
@@ -2146,7 +2194,7 @@ Kants
 Kritik
 </text:span>
  ecc. e 
-<text:span text:style-name="T16">
+<text:span text:style-name="T17">
 Kehrbach
 </text:span>
 , 
@@ -2158,40 +2206,40 @@ Replik gegen des Hrn. Privatdocentes B. Erdmann Recensions meiner Ausgabe der Ka
 </text:note-body>
 </text:note>
 . Ora è evidente che entrambi questi punti di vista sono egualmente ragionevoli e accettabili; e che però non c&apos;è una ragione per preferire assolutamente un metodo all&apos;altro. L&apos;importante è che, in un modo o nell&apos;altro, si renda possibile lo studio di tutte le differenze tra le due edizioni fondamentali. Ciò che non pare a niun patto accettabile filologicamente, è il partito adottato dagli ultimi traduttori francesi; i quali dànno nel testo l&apos;edizione del 1781 con tutte le aggiunte dell&apos;edizione 1787, ma pongono in nota i rifacimenti, che nella 2
-<text:span text:style-name="T26">
+<text:span text:style-name="T27">
 a
 </text:span>
  corrono parallelamente ai rispettivi luoghi 
 <text:soft-page-break/>
 della 1
-<text:span text:style-name="T26">
+<text:span text:style-name="T27">
 a
 </text:span>
  edizione: costituendo così arbitrariamente un testo, che non è nè quello della 1
-<text:span text:style-name="T26">
+<text:span text:style-name="T27">
 a
 </text:span>
  edizione, nè quello della 2
-<text:span text:style-name="T26">
+<text:span text:style-name="T27">
 a 
 </text:span>
-<text:span text:style-name="T26">
-<text:note text:id="ftn17" text:note-class="footnote">
+<text:span text:style-name="T27">
+<text:note text:id="ftn18" text:note-class="footnote">
 <text:note-citation>
 18
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
 A torto dicono di aver seguito la «disposition adoptée par B. Erdmann dans sa cinquiéme édition» (p. XXII). Perchè nella 5
-<text:span text:style-name="T26">
+<text:span text:style-name="T27">
 a
 </text:span>
  ediz. l&apos;Erdmann mette tutto da una parte, sopra, il testo della 2
-<text:span text:style-name="T26">
+<text:span text:style-name="T27">
 a
 </text:span>
  ediz., e sotto, soltanto le varianti della 1
-<text:span text:style-name="T26">
+<text:span text:style-name="T27">
 a
 </text:span>
 .
@@ -2201,6 +2249,383 @@ a
 </text:span>
 .
 </text:p>
+<text:p text:style-name="P28">
+La questione del testo di Kant ha dato bensì da fare a causa della scorrezione tipografica delle edizioni curate dallo stesso Kant. Onde è nata una già ricca letteratura di recensioni, che ora emendano errori evidenti, ora propongono congetture più o meno dubbie. Fin dal 1794, nel libro del Mellin 
+<text:span text:style-name="T11">
+Marginalien und Register zu Kants Kritik der reinen Vernunft
+</text:span>
+<text:span text:style-name="T11">
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+19
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Rist. da L. Goldshmidt, Gotha, 1900.
+</text:p>
+</text:note-body>
+</text:note>
+</text:span>
+, si dava un lungo elenco degli errori di stampa della 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+; e un altro lungo indice ne dava l&apos;anno appresso il dott. Grillo nel 
+<text:span text:style-name="T11">
+Philosophischen Anzeiger der Annalen der Philosophie u. der philos. Geister
+</text:span>
+, con aggiunte del Meyer. Ma la critica del testo ebbe grande impulso dalla 
+<text:span text:style-name="T11">
+Kantphilologie
+</text:span>
+, che s&apos;accompagnò al fiorire del neokantismo nella seconda metà del secolo XIX. Si cominciò nel 1877 con alcune 
+<text:span text:style-name="T11">
+Textkritische Bemerkungen
+</text:span>
+ di Ant. Leclair
+<text:note text:id="ftn19" text:note-class="footnote">
+<text:note-citation>
+20
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Nel libro 
+<text:span text:style-name="T11">
+Krit. Beiträge zur Kategorienlehre Kants
+</text:span>
+, Praga, 1877, pagine 104-5.
+</text:p>
+</text:note-body>
+</text:note>
+, con le recensioni del Kehrbach e dell&apos;Erdmann nelle loro edizioni; continuò il Vaihinger nel suo 
+<text:span text:style-name="T11">
+Commentario alla Critica
+</text:span>
+<text:span text:style-name="T11">
+<text:note text:id="ftn20" text:note-class="footnote">
+<text:note-citation>
+21
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Bd. I., 1881 e Bd. II, 1882 (Stuttgart).
+</text:p>
+</text:note-body>
+</text:note>
+</text:span>
+; e il Vaihinger stesso, il Wille e il Riehl, lo stesso Vorländer, e l&apos;Erdmann vi attesero con lunga pazienza 
+<text:soft-page-break/>
+ed acume
+<text:note text:id="ftn21" text:note-class="footnote">
+<text:note-citation>
+22
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Pel Vorländer e per l&apos;Erdmann si vedano le loro edizioni. Per gli altri tutti gli articoli citati dallo stesso 
+<text:span text:style-name="T17">
+Erdmann
+</text:span>
+, 
+<text:span text:style-name="T11">
+Introd. all&apos;ed. dell&apos;Accademia della 2
+</text:span>
+<text:span text:style-name="T28">
+a
+</text:span>
+<text:span text:style-name="T11">
+ Critica
+</text:span>
+ pp 566-7.
+</text:p>
+</text:note-body>
+</text:note>
+. Frutto della stessa 
+<text:span text:style-name="T11">
+Kantphilologie
+</text:span>
+, utile soltanto a chiarimenti meramente verbali del testo, sono le note marginali di Kant a un suo esemplare della 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+, pubblicato dall&apos;Erdmann nel 1881
+<text:note text:id="ftn22" text:note-class="footnote">
+<text:note-citation>
+23
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T17">
+Kants
+</text:span>
+, 
+<text:span text:style-name="T11">
+Krit. d. r. V. Nachträge
+</text:span>
+: Kants Nachlass. hg. v. 
+<text:span text:style-name="T17">
+B. Erdmann
+</text:span>
+, Kiel, 1881.
+</text:p>
+</text:note-body>
+</text:note>
+.
+</text:p>
+<text:p text:style-name="P27"/>
+<text:p text:style-name="P36">
+IV
+</text:p>
+<text:p text:style-name="P37">
+Delle traduzioni della 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+ fuori del suolo tedesco lunga, com&apos;è noto, è la lista: non ne manca nessuna delle principali letterature europee
+<text:note text:id="ftn23" text:note-class="footnote">
+<text:note-citation>
+24
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Vedi l&apos;elenco nel 
+<text:span text:style-name="T11">
+Dictionary
+</text:span>
+ del 
+<text:span text:style-name="T17">
+Baldwin
+</text:span>
+, III 1
+<text:span text:style-name="T29">
+a
+</text:span>
+, 287 e in 
+<text:span text:style-name="T17">
+Ueberweg Heinze
+</text:span>
+, 
+<text:span text:style-name="T11">
+Grundriss
+</text:span>
+, ditt. Th., I
+<text:span text:style-name="T29">
+8
+</text:span>
+, 260.
+</text:p>
+</text:note-body>
+</text:note>
+ e non ne mancava già l&apos;italiana; senza dire di quella, assai infelice per vero, fatta in latino da Federico Gottlob Born, professore dell&apos;Università di Lipsia, nel 1796; che pure fu letta da molti anche in Italia prima che s&apos;avessero altri mezzi tra noi per informarsi del contenuto dell&apos;opera celebratissima
+<text:note text:id="ftn24" text:note-class="footnote">
+<text:note-citation>
+25
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Vedi su di essa 
+<text:span text:style-name="T17">
+Credaro
+</text:span>
+, 
+<text:span text:style-name="T11">
+A. Testa e i primordi del kantismo in Italia
+</text:span>
+. Nota IV, negli 
+<text:span text:style-name="T11">
+Atti della R. Acc. Lincei
+</text:span>
+, 1885-86, s. 4
+<text:span text:style-name="T30">
+a
+</text:span>
+, vol. II, 2° semestre, pp. 292-94.
+</text:p>
+</text:note-body>
+</text:note>
+. Ma nel 1820 si cominciò a pubblicare nella 
+<text:span text:style-name="T11">
+Collezione dei classici metafisici
+</text:span>
+, che dirigevano a Pavia Giuseppe Germani, Luigi Rolla e Defendente Sacchi, una traduzione italiana; della quale uscirono quell&apos;anno i pri
+<text:soft-page-break/>
+mi tre tometti; e altri cinque nel 1822
+<text:note text:id="ftn25" text:note-class="footnote">
+<text:note-citation>
+26
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T11">
+Critica della ragion pura
+</text:span>
+ di 
+<text:span text:style-name="T17">
+Manuele Kant
+</text:span>
+, traduzione dal tedesco, Pavia, presso i collettori [Germani, Rolla e Sacchi], coi tipi di Pietro Bizzoni succ. di Bolzani, 1820. Manca il nome del traduttore. ―Dal tomo IV in poi: 
+<text:span text:style-name="T11">
+C. d. r. p.
+</text:span>
+ di M. K. tradotta dal tedesco dal cav. V. Mantovani già professore di medicina pratica nell&apos; I. R. Univ. di Pavia. Chirurgo in capo militare, ecc., 1822. Sono a stampa dello stesso M. 8 voll. di 
+<text:span text:style-name="T11">
+Lezioni di terapia speciale sulle infiammazioni e rendiconto clinico
+</text:span>
+ di V. M., suppl. alla nuova cattedra di medicina pratica dei chirurgi nell I. R. Univ. di Pavia l&apos;anno 1819. Nella ded. del libro al sig. G. de Kluky, i. r. consigliere e protomedico del Governo di Milano, l&apos;A., oltre che Cav. del r. i. ord. ital. della Corona Ferrea, si dice «Ispett. gener. agg. di sanità militare in ritiro, socio di Accad. letterarie e scientifiche». Altrove: «Chiamato a supplire alla rispettiva cattedra sull&apos;ultimo declinare del 1818» (v. III, p. 296).
+</text:p>
+</text:note-body>
+</text:note>
+. Ne era autore il vecchio chirurgo Vincenzo Mantovani, allora professore supplente di medicina pratica in quella Università; il quale era stato una volta a Koenigsberg e aveva visto nell&apos;atrio della cattedrale, presso l&apos;Università, il busto di Kant, messovi nel 1811; e aveva trovato che quella fronte «per l&apos;ampiezza delle dimensioni e pelle sì pronunziate protuberanze anteriori» poteva servir di «modello alla craniologia di Gall, quando sotto quelle protuberanze riponeva gli organi della finezza e speculazione metafisica». Conosceva l&apos;opera del Villers: 
+<text:span text:style-name="T11">
+Philosophie de Kant ou principes fondamentaux de la philosophie trascendentale
+</text:span>
+ (1801), la Storia del Degerando (1804) e la versione francese di quella del Buhle (1816); e se ne giovò per l&apos;intelligenza del testo, per le note aggiunte alla sua traduzione
+<text:note text:id="ftn26" text:note-class="footnote">
+<text:note-citation>
+27
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Il 
+<text:span text:style-name="T17">
+Credaro
+</text:span>
+, dice che il M. si servì nelle sue note del Reinhold e dello Schulze. Ma il M. dichiara di essersi servito del Villers, anche perchè questo scrittore s&apos;era attenuto «ai meglio riputati fra i concittadini di K., come Reinhold» ecc. (p. 10).
+</text:p>
+</text:note-body>
+</text:note>
+, e per un discorso 
+<text:span text:style-name="T11">
+Della vita e delle opere 
+</text:span>
+<text:soft-page-break/>
+<text:span text:style-name="T11">
+di Kant
+</text:span>
+, premesso al primo tomo. Ebbe presente la seconda edizione nella ristampa con la data di Francoforte e Lipsia, 1794. «Edizione», egli dice, «che rinvenne scorretta anzi che no; e mi sarei trovato più volte imbarazzato in errori di stampa, che il senso affatto scambiavano, se non avessi avuto per cui giovarmi della versione latina, essendo altronde impossibile, o per lo manco assai difficile, che i due testi si combinassero negli stessi abbagli appuntino. Il che avverto essendo essa pure inesattissima e veramente sibillina»
+<text:note text:id="ftn27" text:note-class="footnote">
+<text:note-citation>
+28
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Vedi 
+<text:span text:style-name="T11">
+Proemio alla traduzione
+</text:span>
+, t. I, pp. 12-13.
+</text:p>
+</text:note-body>
+</text:note>
+. E dalla traduzione del Born ritradusse alla meglio la prefazione alla edizione del 1781, seguendo per tutto il resto quella del 1787.
+</text:p>
+<text:p text:style-name="P37">
+Il saggio della prosa del Mantovani teste riferito può dare un&apos;idea del difetto principale della sua traduzione, non solo «inelegante», cementi gi
+<text:span text:style-name="T33">
+à
+</text:span>
+ sospettava, ma così dura da riuscire spesso inintelligibile, per la trascuranza delle norme più comuni della sintassi italiana come per l&apos;uso od abuso stranissimo del vocabolario. È stato detto che questa pubblicazione nocque, lungi dal giovare, alla conoscenza di Kant in Italia. Giudizio forse ingiustamente esagerato, poiché non sarebbe possibile, credo, additare nel Gallupp
+<text:span text:style-name="T34">
+i
+</text:span>
+, che di questa traduzione dovette sempre servirsi, o nel Rossini, che vi fece anche lui ricorso nelle prime sue opere, prima che avesse imparato il tedesco un&apos;erronea interpretazione da ascriversi in colpa al povero Mantovani. Il quale pare generalmente esatto nella sua traduzione; ma con la sua orrida forma, 
+<text:soft-page-break/>
+che lo stesso Gal
+<text:span text:style-name="T35">
+lu
+</text:span>
+ppi, nelle sue citazioni, procurava di pulire, dovette certamente, a molti che l&apos;avevano, far passare la voglia di leggere mai in italiano la 
+<text:span text:style-name="T11">
+Critica della ragion pura
+</text:span>
+.
+</text:p>
+<text:p text:style-name="P37">
+Onde con verità può dirsi, che assai più della traduzione pavese abbiano giovato poi alla conoscenza della 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+ kantiana in Italia quelle francesi del Tissot (1835) e del Barni (1869); benchè la prima, letterale, nel proposito del traduttore, presentasse, con le molte durezze, inesattezze non poche di interpetrazione; e la seconda, più esatta, peccasse di libertà eccessiva verso la forma del testo, dato lo studio di renderne il pensiero in buon francese e libero dalle oscurità frequenti nella espressione troppe volte arruffata di Kant. La traduzione di un&apos;opera di filosofia s&apos;imprende in servigio di chi ignori la lingua originale, e non per schiarimento e commento del pensiero che essa contiene; al qual uopo gioverà piuttosto un&apos;esposizione analitica. Le difficoltà, che incontra chi legge il testo originale, devono essere tutte presentate a chi è costretto a leggere la traduzione, ma ha interesse di veder rispecchiato il questa, quanto più fedelmente è possibile, in tutti i suoi particolari, l&apos;atteggiamento dato dallo scrittore al proprio pensiero.
+</text:p>
+<text:p text:style-name="P37">
+Questo criterio han seguito gli autori della nuova traduzione francese, A. Trmeysagues e B. Pacaud
+<text:note text:id="ftn28" text:note-class="footnote">
+<text:note-citation>
+29
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T11">
+Crit. de la rais. pure
+</text:span>
+, Nouv. tr. franc. avec notes; Préf. de 
+<text:span text:style-name="T17">
+A. Hannequin
+</text:span>
+, Paris, Alcan, 1905.
+</text:p>
+</text:note-body>
+</text:note>
+. I quali, pertanto, non hanno esitato, all&apos;occorrenza, a foggiar pa
+<text:soft-page-break/>
+role affatto nuove al francese pur di rendere con la più precisa analogia lessicale la terminologia kantiana: traducendo, p. es., 
+<text:span text:style-name="T11">
+anschauen
+</text:span>
+ con 
+<text:span text:style-name="T11">
+intuictionner
+</text:span>
+; e non mancando di far seguire tra parentesi il termine tedesco al francese, dove questo potesse corrispondere a più d&apos;una parola tedesca come 
+<text:span text:style-name="T11">
+principe
+</text:span>
+ per 
+<text:span text:style-name="T11">
+Princip
+</text:span>
+ e 
+<text:span text:style-name="T11">
+Grundsatz, objet
+</text:span>
+ per 
+<text:span text:style-name="T11">
+Obiect
+</text:span>
+ e 
+<text:span text:style-name="T11">
+Gegenstand
+</text:span>
+, ecc.
+</text:p>
+<text:p text:style-name="P37">
+Per questa cura scrupolosa di rendere fedelissimamente tutti i particolari della espressione kantiana il Tremeysagues e il Pacaud avrebbero fatto opera eccellente senza l&apos;arbitraria costituzione del testo, da essi seguita, come fu sopra notato. Nè può dirsi che nella stessa traduzione non siano incorsi anch&apos;essi qua e là in disavvertenze, le quali dimostrano soltanto come in questa specie di lavori, per sforzi che si faccia di accuratezza, non è dato mai di toccare la perfezione. Così, nelle parti che a me è accaduto di riscontrare più minutamente, a pag. 240 alla fine del secondo 
+<text:span text:style-name="T11">
+Remarque
+</text:span>
+ si traduce «als empirischer (spazeggiato da Kant) Anschauung»: «considérée à titre d&apos;intuition»: tralasciando l&apos;
+<text:span text:style-name="T11">
+empirischer
+</text:span>
+. A pag. 244 sono saltate due righe come apparisce da questo confronto:
+</text:p>
+<table:table table:name="Tabella1" table:style-name="Tabella1">
+<table:table-column table:style-name="Tabella1.A" table:number-columns-repeated="2"/>
+<text:soft-page-break/>
+<table:table-row>
+<table:table-cell table:style-name="Tabella1.A1" office:value-type="string">
+<text:p text:style-name="Table_20_Contents">
+In der That ist aber die absolute Möglichkeit (die in aller Absicht gültig ist), kein blosser Verstandesbegriff und kaun auf keinerlei Weise von empirischem Gebrauche sein, sondern er gehört allein möglichen empirischen Verstandesgebrauch hinausgeht.
+</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Tabella1.A1" office:value-type="string">
+<text:p text:style-name="Table_20_Contents">
+Mais, en réalité, la possibilité absolue (qui est valable à tous les poits de vue) n&apos;est pas un simple concept de l&apos;entendement et ne peut d&apos;aucune facon étre d&apos;un usage empirique possible de l&apos;entendement.
+</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table>
+<text:p text:style-name="P37"/>
 <text:h text:style-name="Heading_20_1" text:outline-level="1">
 <text:bookmark-start text:name="__RefHeading___Toc377_2203379893"/>
 DEDICA
