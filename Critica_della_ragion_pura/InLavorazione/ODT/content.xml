@@ -18,7 +18,10 @@
 <style:table-properties style:width="11.202cm" table:align="margins" style:may-break-between-rows="false"/>
 </style:style>
 <style:style style:name="Tabella1.A" style:family="table-column">
-<style:table-column-properties style:column-width="5.602cm" style:rel-column-width="32767*"/>
+<style:table-column-properties style:column-width="5.6cm" style:rel-column-width="32767*"/>
+</style:style>
+<style:style style:name="Tabella1.B" style:family="table-column">
+<style:table-column-properties style:column-width="5.602cm" style:rel-column-width="32768*"/>
 </style:style>
 <style:style style:name="Tabella1.A1" style:family="table-cell">
 <style:table-cell-properties fo:padding="0.101cm" fo:border="none" style:writing-mode="page"/>
@@ -157,37 +160,73 @@
 <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
 <style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
 </style:style>
-<style:style style:name="P29" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
+<style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="007e49cd" officeooo:paragraph-rsid="007e49cd"/>
+</style:style>
+<style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="007e49cd" officeooo:paragraph-rsid="007e49cd"/>
+</style:style>
+<style:style style:name="P31" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
 <style:paragraph-properties style:page-number="auto"/>
 </style:style>
-<style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:style style:name="P32" style:family="paragraph" style:parent-style-name="Header">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="11pt" officeooo:rsid="009711ef" officeooo:paragraph-rsid="009711ef" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+</style:style>
+<style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_1">
 <style:text-properties fo:font-size="15pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
 </style:style>
-<style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_1">
 <style:paragraph-properties fo:break-before="page"/>
 <style:text-properties officeooo:paragraph-rsid="003cc729"/>
 </style:style>
-<style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_4">
+<style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_4">
 <style:text-properties officeooo:paragraph-rsid="00246cce"/>
 </style:style>
-<style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_6">
+<style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_6">
 <style:text-properties officeooo:paragraph-rsid="0026ef34"/>
-</style:style>
-<style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
-</style:style>
-<style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
-</style:style>
-<style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="007e49cd" officeooo:paragraph-rsid="007e49cd"/>
 </style:style>
 <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
 <style:text-properties officeooo:rsid="007e49cd" officeooo:paragraph-rsid="007e49cd"/>
+</style:style>
+<style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="007e49cd" officeooo:paragraph-rsid="007e49cd"/>
+</style:style>
+<style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="0095fdd3" officeooo:paragraph-rsid="0095fdd3"/>
+</style:style>
+<style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="0095fdd3" officeooo:paragraph-rsid="0095fdd3"/>
+</style:style>
+<style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="00984834" officeooo:paragraph-rsid="00984834"/>
+</style:style>
+<style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="12pt" officeooo:rsid="00984834" officeooo:paragraph-rsid="00984834" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+</style:style>
+<style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="12pt" officeooo:rsid="009d10d1" officeooo:paragraph-rsid="009d10d1" style:font-size-asian="10.5pt" style:font-size-complex="12pt"/>
+</style:style>
+<style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="14pt" officeooo:rsid="009bbce3" officeooo:paragraph-rsid="009bbce3" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
+</style:style>
+<style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="14pt" officeooo:rsid="009d10d1" officeooo:paragraph-rsid="009d10d1" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
+</style:style>
+<style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="14pt" officeooo:rsid="009d10d1" officeooo:paragraph-rsid="009d10d1" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
 </style:style>
 <style:style style:name="T1" style:family="text">
 <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none"/>
@@ -294,6 +333,9 @@
 <style:style style:name="T35" style:family="text">
 <style:text-properties officeooo:rsid="008a1246"/>
 </style:style>
+<style:style style:name="T36" style:family="text">
+<style:text-properties officeooo:rsid="009b2658"/>
+</style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
 </style:style>
@@ -332,7 +374,7 @@ www.liberliber.it
 </text:p>
 </draw:text-box>
 </draw:frame>
-<text:p text:style-name="P29">
+<text:p text:style-name="P31">
 Autore
 </text:p>
 <text:p text:style-name="LL_3a__20_titolo_20_libro">
@@ -1264,7 +1306,7 @@ Osservazione generale intorno al passaggio dalla psicologia razionale alla cosmo
 </text:p>
 </text:index-body>
 </text:table-of-content>
-<text:h text:style-name="P30" text:outline-level="1">
+<text:h text:style-name="P33" text:outline-level="1">
 EMMANUELE KANT
 </text:h>
 <text:p text:style-name="P21">
@@ -1342,7 +1384,7 @@ _____________
 <text:p text:style-name="P14">
 DICEMBRE MCMXLVIII - 4209
 </text:p>
-<text:h text:style-name="P31" text:outline-level="1">
+<text:h text:style-name="P34" text:outline-level="1">
 Prefazione a questa traduzione
 </text:h>
 <text:p text:style-name="P23">
@@ -2255,7 +2297,7 @@ La questione del testo di Kant ha dato bensì da fare a causa della scorrezione 
 Marginalien und Register zu Kants Kritik der reinen Vernunft
 </text:span>
 <text:span text:style-name="T11">
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn19" text:note-class="footnote">
 <text:note-citation>
 19
 </text:note-citation>
@@ -2283,7 +2325,7 @@ Kantphilologie
 Textkritische Bemerkungen
 </text:span>
  di Ant. Leclair
-<text:note text:id="ftn19" text:note-class="footnote">
+<text:note text:id="ftn20" text:note-class="footnote">
 <text:note-citation>
 20
 </text:note-citation>
@@ -2302,7 +2344,7 @@ Krit. Beiträge zur Kategorienlehre Kants
 Commentario alla Critica
 </text:span>
 <text:span text:style-name="T11">
-<text:note text:id="ftn20" text:note-class="footnote">
+<text:note text:id="ftn21" text:note-class="footnote">
 <text:note-citation>
 21
 </text:note-citation>
@@ -2316,7 +2358,7 @@ Bd. I., 1881 e Bd. II, 1882 (Stuttgart).
 ; e il Vaihinger stesso, il Wille e il Riehl, lo stesso Vorländer, e l&apos;Erdmann vi attesero con lunga pazienza 
 <text:soft-page-break/>
 ed acume
-<text:note text:id="ftn21" text:note-class="footnote">
+<text:note text:id="ftn22" text:note-class="footnote">
 <text:note-citation>
 22
 </text:note-citation>
@@ -2349,7 +2391,7 @@ Kantphilologie
 Critica
 </text:span>
 , pubblicato dall&apos;Erdmann nel 1881
-<text:note text:id="ftn22" text:note-class="footnote">
+<text:note text:id="ftn23" text:note-class="footnote">
 <text:note-citation>
 23
 </text:note-citation>
@@ -2373,16 +2415,16 @@ B. Erdmann
 .
 </text:p>
 <text:p text:style-name="P27"/>
-<text:p text:style-name="P36">
+<text:p text:style-name="P29">
 IV
 </text:p>
-<text:p text:style-name="P37">
+<text:p text:style-name="P30">
 Delle traduzioni della 
 <text:span text:style-name="T11">
 Critica
 </text:span>
  fuori del suolo tedesco lunga, com&apos;è noto, è la lista: non ne manca nessuna delle principali letterature europee
-<text:note text:id="ftn23" text:note-class="footnote">
+<text:note text:id="ftn24" text:note-class="footnote">
 <text:note-citation>
 24
 </text:note-citation>
@@ -2417,7 +2459,7 @@ Grundriss
 </text:note-body>
 </text:note>
  e non ne mancava già l&apos;italiana; senza dire di quella, assai infelice per vero, fatta in latino da Federico Gottlob Born, professore dell&apos;Università di Lipsia, nel 1796; che pure fu letta da molti anche in Italia prima che s&apos;avessero altri mezzi tra noi per informarsi del contenuto dell&apos;opera celebratissima
-<text:note text:id="ftn24" text:note-class="footnote">
+<text:note text:id="ftn25" text:note-class="footnote">
 <text:note-citation>
 25
 </text:note-citation>
@@ -2450,7 +2492,7 @@ Collezione dei classici metafisici
 , che dirigevano a Pavia Giuseppe Germani, Luigi Rolla e Defendente Sacchi, una traduzione italiana; della quale uscirono quell&apos;anno i pri
 <text:soft-page-break/>
 mi tre tometti; e altri cinque nel 1822
-<text:note text:id="ftn25" text:note-class="footnote">
+<text:note text:id="ftn26" text:note-class="footnote">
 <text:note-citation>
 26
 </text:note-citation>
@@ -2480,7 +2522,7 @@ Lezioni di terapia speciale sulle infiammazioni e rendiconto clinico
 Philosophie de Kant ou principes fondamentaux de la philosophie trascendentale
 </text:span>
  (1801), la Storia del Degerando (1804) e la versione francese di quella del Buhle (1816); e se ne giovò per l&apos;intelligenza del testo, per le note aggiunte alla sua traduzione
-<text:note text:id="ftn26" text:note-class="footnote">
+<text:note text:id="ftn27" text:note-class="footnote">
 <text:note-citation>
 27
 </text:note-citation>
@@ -2503,7 +2545,7 @@ Della vita e delle opere
 di Kant
 </text:span>
 , premesso al primo tomo. Ebbe presente la seconda edizione nella ristampa con la data di Francoforte e Lipsia, 1794. «Edizione», egli dice, «che rinvenne scorretta anzi che no; e mi sarei trovato più volte imbarazzato in errori di stampa, che il senso affatto scambiavano, se non avessi avuto per cui giovarmi della versione latina, essendo altronde impossibile, o per lo manco assai difficile, che i due testi si combinassero negli stessi abbagli appuntino. Il che avverto essendo essa pure inesattissima e veramente sibillina»
-<text:note text:id="ftn27" text:note-class="footnote">
+<text:note text:id="ftn28" text:note-class="footnote">
 <text:note-citation>
 28
 </text:note-citation>
@@ -2519,7 +2561,7 @@ Proemio alla traduzione
 </text:note>
 . E dalla traduzione del Born ritradusse alla meglio la prefazione alla edizione del 1781, seguendo per tutto il resto quella del 1787.
 </text:p>
-<text:p text:style-name="P37">
+<text:p text:style-name="P30">
 Il saggio della prosa del Mantovani teste riferito può dare un&apos;idea del difetto principale della sua traduzione, non solo «inelegante», cementi gi
 <text:span text:style-name="T33">
 à
@@ -2540,16 +2582,16 @@ Critica della ragion pura
 </text:span>
 .
 </text:p>
-<text:p text:style-name="P37">
+<text:p text:style-name="P30">
 Onde con verità può dirsi, che assai più della traduzione pavese abbiano giovato poi alla conoscenza della 
 <text:span text:style-name="T11">
 Critica
 </text:span>
  kantiana in Italia quelle francesi del Tissot (1835) e del Barni (1869); benchè la prima, letterale, nel proposito del traduttore, presentasse, con le molte durezze, inesattezze non poche di interpetrazione; e la seconda, più esatta, peccasse di libertà eccessiva verso la forma del testo, dato lo studio di renderne il pensiero in buon francese e libero dalle oscurità frequenti nella espressione troppe volte arruffata di Kant. La traduzione di un&apos;opera di filosofia s&apos;imprende in servigio di chi ignori la lingua originale, e non per schiarimento e commento del pensiero che essa contiene; al qual uopo gioverà piuttosto un&apos;esposizione analitica. Le difficoltà, che incontra chi legge il testo originale, devono essere tutte presentate a chi è costretto a leggere la traduzione, ma ha interesse di veder rispecchiato il questa, quanto più fedelmente è possibile, in tutti i suoi particolari, l&apos;atteggiamento dato dallo scrittore al proprio pensiero.
 </text:p>
-<text:p text:style-name="P37">
+<text:p text:style-name="P30">
 Questo criterio han seguito gli autori della nuova traduzione francese, A. Trmeysagues e B. Pacaud
-<text:note text:id="ftn28" text:note-class="footnote">
+<text:note text:id="ftn29" text:note-class="footnote">
 <text:note-citation>
 29
 </text:note-citation>
@@ -2598,7 +2640,7 @@ Gegenstand
 </text:span>
 , ecc.
 </text:p>
-<text:p text:style-name="P37">
+<text:p text:style-name="P30">
 Per questa cura scrupolosa di rendere fedelissimamente tutti i particolari della espressione kantiana il Tremeysagues e il Pacaud avrebbero fatto opera eccellente senza l&apos;arbitraria costituzione del testo, da essi seguita, come fu sopra notato. Nè può dirsi che nella stessa traduzione non siano incorsi anch&apos;essi qua e là in disavvertenze, le quali dimostrano soltanto come in questa specie di lavori, per sforzi che si faccia di accuratezza, non è dato mai di toccare la perfezione. Così, nelle parti che a me è accaduto di riscontrare più minutamente, a pag. 240 alla fine del secondo 
 <text:span text:style-name="T11">
 Remarque
@@ -2610,7 +2652,8 @@ empirischer
 . A pag. 244 sono saltate due righe come apparisce da questo confronto:
 </text:p>
 <table:table table:name="Tabella1" table:style-name="Tabella1">
-<table:table-column table:style-name="Tabella1.A" table:number-columns-repeated="2"/>
+<table:table-column table:style-name="Tabella1.A"/>
+<table:table-column table:style-name="Tabella1.B"/>
 <text:soft-page-break/>
 <table:table-row>
 <table:table-cell table:style-name="Tabella1.A1" office:value-type="string">
@@ -2625,7 +2668,129 @@ Mais, en réalité, la possibilité absolue (qui est valable à tous les poits d
 </table:table-cell>
 </table:table-row>
 </table:table>
-<text:p text:style-name="P37"/>
+<text:p text:style-name="P30"/>
+<text:p text:style-name="P30">
+Qui la ripetizione della parola 
+<text:span text:style-name="T11">
+usage
+</text:span>
+ avrà magari fatto saltare due righe della traduzione al tipografo; ma i traduttori non dovettero in questo punto riscontrare le bozze di stampa col testo originale. Come a pag. 254 dove 
+<text:span text:style-name="T11">
+successive Wiederholung
+</text:span>
+ rimane tradotto con 
+<text:span text:style-name="T11">
+répetition nécessaire
+</text:span>
+; e a pag. 256 dove 
+<text:span text:style-name="T11">
+in einer nicht sinnlichen Anschauung
+</text:span>
+ è reso; 
+<text:span text:style-name="T11">
+dans une intuition sensible
+</text:span>
+. Non è esatto a pag. 279 dire che: «l&apos;espace et le temps ne seront pas des 
+<text:span text:style-name="T11">
+représentations 
+</text:span>
+des choses en soi, mais des phénomènes» («nicht Bestimmungen der Dinge an sich» ecc.). A pag. 281 è affatto sbagliato il senso, dove la frase 
+<text:span text:style-name="T11">
+das Intelligibile eine ganz besondere Anschauung, die wir nicht aben, erforden würde und in Ermangelung derselben für uns nicht sei
+</text:span>
+ (cioè: «l&apos;intelligibile richiederebbe una intuizione affatto particolare che non abbiamo, e in mancanza della quale per noi esso non è niente») vien tradotta: 
+<text:span text:style-name="T11">
+l&apos;intelligible exigerait une intuition 
+</text:span>
+<text:soft-page-break/>
+<text:span text:style-name="T11">
+tout à fait particulière, que nous n&apos;avons pas, el que rien ne peut remplacer pour nous
+</text:span>
+. A pag. 302 non si dovrebbe dire 
+<text:span text:style-name="T11">
+eux seuls rendent poissible la connaissance
+</text:span>
+ ecc. ma 
+<text:span text:style-name="T11">
+eux rendent seulement
+</text:span>
+ o 
+<text:span text:style-name="T11">
+seulement rendent possible
+</text:span>
+ ecc. A pag. 305 in lin. 6 non è reso il pensiero di Kant saltando le parole 
+<text:span text:style-name="T11">
+zur unwollkommenen Erläuterung
+</text:span>
+, che dovrebbero tradursi dopo la frase 
+<text:span text:style-name="T11">
+ne peut jamais servir que d&apos;exemple
+</text:span>
+. E così via.
+</text:p>
+<text:p text:style-name="P29"/>
+<text:p text:style-name="P39">
+V
+</text:p>
+<text:p text:style-name="P40">
+Questi appunti, cui da luogo un lavoro tanto accurato, gioveranno forse a procurare un pò d&apos;indulgenza alle mende, che si potranno trovare in questa nuova traduzione italiana; quantunque l&apos;amico Giuseppe Lombardo-Radice,―che la condusse fino al principio della «Nota alle Anfibolie dei concetti di riflessione» (pag260), e l&apos;avrebbe condotta egli stesso a termine, se nel terremoto di Messina del 28 dicembre non avesse perduto tutti i suoi libri e le sue carte, e smarrito l&apos;animo di riprendere subito e continuare alacremente un&apos;opera così faticosa, che era già molto innanzi e gli venne troncata tra mano e in molta parte distrutta, ―e, dopo di lui, io sottentratogli pel resto del lavoro, fin d&apos;allora in corso di stampa, non abbiamo risparmiato cure per dare agli studiosi italiani una traduzione, che riunisse alla maggior possibile 
+<text:soft-page-break/>
+chiarezza e italianità di forma una fedeltà scrupolosa allo stile di Kant.
+</text:p>
+<text:p text:style-name="P41">
+Il testo, da noi adoperato, è quello del Vorländer, preferito per la sua comodità e pel diligente glossario della terminologia della 
+<text:span text:style-name="T11">
+Critica
+</text:span>
+, utile a chi voglia rendere questa terminologia con precisione, confrontando i varii luoghi in cui ciascun termine ricorre. E però col Vorländer diamo il testo della 2
+<text:span text:style-name="T21">
+a
+</text:span>
+ edizione, e in nota tutte le varianti della 1
+<text:span text:style-name="T21">
+a
+</text:span>
+, rimandando a un&apos;appendice, che verrà in fondo al secondo volume, i due lunghi brani della 1
+<text:span text:style-name="T21">
+a
+</text:span>
+, concernenti la «Deduzione dei concetti puri dell&apos;intelletto» e i «Paralogismi della ragion pura»; poichè non vedemmo l&apos;utilità del metodo seguito dall&apos;Erdmann nella sua 5
+<text:span text:style-name="T21">
+a
+</text:span>
+ edizione, di farli correre per parecchie pagine sotto al testo corrispondente della 2
+<text:span text:style-name="T21">
+a
+</text:span>
+ edizione. Ma la lezione del Vorländer, nella revisione del lavoro, abbiamo sempre collazionata col testo delle edizioni dell&apos;Accademia di Berlino.
+</text:p>
+<text:p text:style-name="P42">
+Palermo, 10 Luglio, 1909.
+</text:p>
+<text:p text:style-name="P44">
+G.G.
+</text:p>
+<text:p text:style-name="P41">
+La nuova edizione di questa traduzione non è una semplice ristampa della precedente. Lieto della occasione che mi si porgeva di migliorare il nostro lavoro, il quale, ma
+<text:span text:style-name="T36">
+l
+</text:span>
+grado i suoi difetti, ha incontrato favore nel pubblico e recato fors&apos;anco non piccolo giovamento alla cultura filosofica italiana, ne ho profittato per correggere accuratamente e in buona parte rifare la traduzione, studian
+<text:soft-page-break/>
+domi di ottenere il massimo possibile della fedeltà congiunto con quel tanto di chiarezza che è ragionevole esigere in libro di così astrusa e laboriosa speculazione.
+</text:p>
+<text:p text:style-name="P41">
+Non mi lusingo nè anche ora di aver fatto opera perfetta; e non avrei qui che a ripetere la protesta fatta nove anni fa a proposito delle sviste non potute evitare 
+<text:s/>
+nello stesso lavoro, del resto eccellente, degli ultimi traduttori francesi; ma posso affermare che la presente edizione s&apos;avvantaggia di gran lunga sulla prima, almeno per esattezza.
+</text:p>
+<text:p text:style-name="P43">
+Roma, 10 Settembre 1918.
+</text:p>
+<text:p text:style-name="P46">
+G.G.
+</text:p>
+<text:p text:style-name="P45"/>
 <text:h text:style-name="Heading_20_1" text:outline-level="1">
 <text:bookmark-start text:name="__RefHeading___Toc377_2203379893"/>
 DEDICA
@@ -2730,7 +2895,7 @@ Sezione prima ― Dello spazio
 Corollari dei concetti precedenti
 <text:bookmark-end text:name="__RefHeading___Toc413_2203379893"/>
 </text:h>
-<text:h text:style-name="P32" text:outline-level="4">
+<text:h text:style-name="P35" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc415_2203379893"/>
 Sezione seconda ― Del tempo
 <text:bookmark-end text:name="__RefHeading___Toc415_2203379893"/>
@@ -2818,7 +2983,7 @@ I. Analitica trascendentale
 I. ― Analitica dei concetti
 <text:bookmark-end text:name="__RefHeading___Toc445_2203379893"/>
 </text:h>
-<text:h text:style-name="P33" text:outline-level="6">
+<text:h text:style-name="P36" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc447_2203379893"/>
 Cap I. ― Del filo conduttore per la scoperta di tutti i concetti puri dell&apos;intelletto
 <text:bookmark-end text:name="__RefHeading___Toc447_2203379893"/>
