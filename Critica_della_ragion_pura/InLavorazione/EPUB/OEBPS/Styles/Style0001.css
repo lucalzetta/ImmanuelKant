@@ -11,6 +11,9 @@ border-width : 0;
 margin : 0;
 padding : 0;
 }
+footer {
+padding-top : 17em;
+}
 h1 {
 text-align : center;
 }
@@ -45,8 +48,8 @@ font-family : "Courier New";
 text-align : center;
 }
 #testo_copertina {
-display:none;
-visibility:hidden;
+/*display:none;
+visibility:hidden;*/
 }
 .testo_distanziato {
 padding-top: 2em;
@@ -61,6 +64,12 @@ text-align : center;
 font-size : 250%;
  text-align : center;
 }
+.testo_frontespizio_titolo_dist {
+padding-top : 7em;
+font-size : 250%;
+text-align : center;
+}
+
 p.testo_indice {
 list-style-type:none;
 margin-left:0;
@@ -104,9 +113,28 @@ p.testo_centrato {
 text-align : center;
 }
 
+p.testo_centrato_gran {
+text-align : center;
+letter-spacing : 0.3em;
+font-size : 1.2em;
+}
+
+p.testo_centrato_grands {
+padding-top : 2em;
+text-align : center;
+font-size : 2em;
+}
+
 p.testo_centrato_s {
 text-align : center;
 font-size : 0.5em;
+}
+
+p.testo_centrato_motto {
+padding-top : 8em;
+font-weight : 500;
+text-align : center;
+font-size : 2em;
 }
 
 p.editore_max{
@@ -123,6 +151,10 @@ font-family : sans-serif;
 font-weight : 400;
 font-size : 1em;
 /*letter-spacing :1em;*/
+}
+
+p.giustif{
+text-align : justify;
 }
 
 p.testo_destro{
@@ -167,8 +199,8 @@ font-variant : small-caps;
 }
 /*elemento inserito per migliorare la resa della prefazione del libro 'Origini della scienza'*/
 span.testo_ridotto{
-font-weight : 800;
-font-size : 0.8em;
+font-weight : 500;
+font-size : 0.5em;
 }
 
 /* tentativo di eliminazione dell'entità &lt; ed &amp;*/
@@ -185,11 +217,6 @@ table{
 padding-top : 2em;
 }
 
-table.center{
-margin-left : auto;
-margin-right : auto;
-}
-
 table.indentata{
 padding-left : 30%;
 font-weight : normal;
@@ -204,16 +231,4 @@ padding-top : 1em;
 padding-bottom : 1em;
 }
 
-td.c{
-text-align : center;
-}
-
-td.l{
-text-align : left;
-}
-
-th{
-text-align : center;
-font-weight : normal;
-}
 /* Stili Liber Liber 2025-01-07 - stili specifici FINE */

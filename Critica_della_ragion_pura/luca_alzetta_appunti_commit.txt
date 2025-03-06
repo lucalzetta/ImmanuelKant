@@ -38,4 +38,4 @@ sab 8 feb 2025, 14:42:05 Completato TOC, errore da correggere.
 
 03-03-2025 08:23 Conclusione della prefazione. Aggiornamento odt.
 
-
+06-03-2025 09:52 Aggiunto sottocopertina. Modificato il foglio di stile per rendere gli effetti della sottocopertine, del motto. Aggiunto il motto della seconda edizione.

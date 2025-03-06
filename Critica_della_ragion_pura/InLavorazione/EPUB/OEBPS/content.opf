@@ -51,9 +51,9 @@
     <itemref idref="pagina_1_copertina_libro.xhtml"/>
     <itemref idref="pagina_2_colophon_libro.xhtml"/>
     <itemref idref="pagina_3_donazioni.xhtml"/>
+    <itemref idref="pagina_4_indice_libro.xhtml"/>
     <itemref idref="pagina_5_frontespizio.xhtml"/>
     <itemref idref="pagina_5_frontespizio_II.xhtml"/>
-    <itemref idref="pagina_4_indice_libro.xhtml"/>
     <itemref idref="pagina_6_prefazione_libro.xhtml"/>
     <itemref idref="pagina_7_entrata_libro.xhtml"/>
     <itemref idref="pagina_8_motto_libro.xhtml"/>
