@@ -53,227 +53,239 @@
 <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
 </style:style>
-<style:style style:name="P6" style:family="paragraph" style:parent-style-name="Contents_20_4">
+<style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+</style:style>
+<style:style style:name="P7" style:family="paragraph" style:parent-style-name="Contents_20_4">
 <style:paragraph-properties>
 <style:tab-stops>
 <style:tab-stop style:position="9.703cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 </style:tab-stops>
 </style:paragraph-properties>
 </style:style>
-<style:style style:name="P7" style:family="paragraph" style:parent-style-name="Contents_20_5">
+<style:style style:name="P8" style:family="paragraph" style:parent-style-name="Contents_20_5">
 <style:paragraph-properties>
 <style:tab-stops>
 <style:tab-stop style:position="9.202cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 </style:tab-stops>
 </style:paragraph-properties>
 </style:style>
-<style:style style:name="P8" style:family="paragraph" style:parent-style-name="Contents_20_6">
+<style:style style:name="P9" style:family="paragraph" style:parent-style-name="Contents_20_6">
 <style:paragraph-properties>
 <style:tab-stops>
 <style:tab-stop style:position="8.703cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 </style:tab-stops>
 </style:paragraph-properties>
 </style:style>
-<style:style style:name="P9" style:family="paragraph" style:parent-style-name="Contents_20_7">
+<style:style style:name="P10" style:family="paragraph" style:parent-style-name="Contents_20_7">
 <style:paragraph-properties>
 <style:tab-stops>
 <style:tab-stop style:position="8.202cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 </style:tab-stops>
 </style:paragraph-properties>
 </style:style>
-<style:style style:name="P10" style:family="paragraph" style:parent-style-name="Contents_20_8">
+<style:style style:name="P11" style:family="paragraph" style:parent-style-name="Contents_20_8">
 <style:paragraph-properties>
 <style:tab-stops>
 <style:tab-stop style:position="7.703cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 </style:tab-stops>
 </style:paragraph-properties>
 </style:style>
-<style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
 <style:text-properties fo:font-size="20pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
 </style:style>
-<style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties fo:font-size="14pt" officeooo:rsid="003cc729" officeooo:paragraph-rsid="003cc729" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-</style:style>
 <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-<style:text-properties fo:font-size="14pt" officeooo:rsid="009bbce3" officeooo:paragraph-rsid="009bbce3" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
-</style:style>
-<style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-<style:text-properties fo:font-size="14pt" officeooo:rsid="009d10d1" officeooo:paragraph-rsid="009d10d1" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
-</style:style>
-<style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties fo:font-size="9pt" officeooo:rsid="003cc729" officeooo:paragraph-rsid="003cc729" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
-</style:style>
-<style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties fo:font-size="9pt" officeooo:rsid="0040b48f" officeooo:paragraph-rsid="0040b48f" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
-</style:style>
-<style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties fo:font-size="6pt" officeooo:rsid="003cc729" officeooo:paragraph-rsid="003cc729" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
-</style:style>
-<style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties fo:font-size="6pt" officeooo:rsid="003cd168" officeooo:paragraph-rsid="003cd168" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
-</style:style>
-<style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties fo:font-size="12pt" officeooo:rsid="003cc729" officeooo:paragraph-rsid="003cc729" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-</style:style>
-<style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties fo:font-size="12pt" officeooo:rsid="003cd168" officeooo:paragraph-rsid="003cd168" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-</style:style>
-<style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties fo:font-size="12pt" officeooo:rsid="0040b48f" officeooo:paragraph-rsid="0040b48f" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-</style:style>
-<style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-<style:text-properties fo:font-size="12pt" officeooo:rsid="00984834" officeooo:paragraph-rsid="00984834" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-</style:style>
-<style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-<style:text-properties fo:font-size="12pt" officeooo:rsid="009d10d1" officeooo:paragraph-rsid="009d10d1" style:font-size-asian="10.5pt" style:font-size-complex="12pt"/>
-</style:style>
-<style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties fo:font-size="15pt" officeooo:rsid="003cd168" officeooo:paragraph-rsid="003cd168" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
-</style:style>
-<style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties fo:font-size="15pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
-</style:style>
-<style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties fo:font-size="10pt" officeooo:rsid="003cd168" officeooo:paragraph-rsid="003cd168" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
-</style:style>
-<style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="00406ea3" officeooo:paragraph-rsid="00406ea3"/>
-</style:style>
-<style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="00406ea3" officeooo:paragraph-rsid="00406ea3"/>
-</style:style>
-<style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="0059a3d8" officeooo:paragraph-rsid="0059a3d8"/>
-</style:style>
-<style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="0059a3d8" officeooo:paragraph-rsid="0059a3d8"/>
-</style:style>
-<style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
-</style:style>
-<style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
-</style:style>
-<style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="007e49cd" officeooo:paragraph-rsid="007e49cd"/>
-</style:style>
-<style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="007e49cd" officeooo:paragraph-rsid="007e49cd"/>
-</style:style>
-<style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="0095fdd3" officeooo:paragraph-rsid="0095fdd3"/>
-</style:style>
-<style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="0095fdd3" officeooo:paragraph-rsid="0095fdd3"/>
-</style:style>
-<style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
-<style:text-properties officeooo:rsid="00984834" officeooo:paragraph-rsid="00984834"/>
-</style:style>
-<style:style style:name="P38" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
-<style:paragraph-properties style:page-number="auto"/>
-</style:style>
-<style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_1">
-<style:text-properties fo:font-size="15pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
-</style:style>
-<style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_1">
-<style:paragraph-properties fo:break-before="page"/>
-<style:text-properties officeooo:paragraph-rsid="003cc729"/>
-</style:style>
-<style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_4">
-<style:text-properties officeooo:paragraph-rsid="00246cce"/>
-</style:style>
-<style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_6">
-<style:text-properties officeooo:paragraph-rsid="0026ef34"/>
-</style:style>
-<style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-<style:text-properties fo:font-size="14pt" officeooo:rsid="009d10d1" officeooo:paragraph-rsid="009d10d1" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
-</style:style>
-<style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-<style:text-properties fo:font-size="14pt" officeooo:rsid="009d10d1" officeooo:paragraph-rsid="009d10d1" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
-</style:style>
-<style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-<style:text-properties fo:font-size="14pt" officeooo:rsid="009e2c27" officeooo:paragraph-rsid="009e2c27" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
-</style:style>
-<style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-<style:text-properties fo:font-size="14pt" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
-</style:style>
-<style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-<style:text-properties fo:font-size="14pt" fo:font-style="italic" style:font-size-asian="12.25pt" style:font-style-asian="italic" style:font-size-complex="14pt" style:font-style-complex="italic"/>
-</style:style>
-<style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-<style:text-properties fo:font-size="14pt" fo:font-style="italic" style:font-size-asian="12.25pt" style:font-style-asian="italic" style:font-size-complex="14pt" style:font-style-complex="italic"/>
-</style:style>
-<style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
 <style:text-properties fo:font-size="20pt" officeooo:rsid="009e2c27" officeooo:paragraph-rsid="009e2c27" style:font-size-asian="17.5pt" style:font-size-complex="20pt"/>
 </style:style>
-<style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
 <style:text-properties fo:font-size="20pt" style:font-size-asian="17.5pt" style:font-size-complex="20pt"/>
 </style:style>
-<style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-<style:text-properties fo:font-size="22pt" officeooo:rsid="009e2c27" officeooo:paragraph-rsid="009e2c27" style:font-size-asian="19.25pt" style:font-size-complex="22pt"/>
+<style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="14pt" officeooo:rsid="003cc729" officeooo:paragraph-rsid="003cc729" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
 </style:style>
-<style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="14pt" officeooo:rsid="009bbce3" officeooo:paragraph-rsid="009bbce3" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
+</style:style>
+<style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="14pt" officeooo:rsid="009d10d1" officeooo:paragraph-rsid="009d10d1" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
+</style:style>
+<style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="14pt" officeooo:rsid="009d10d1" officeooo:paragraph-rsid="009d10d1" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
+</style:style>
+<style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="14pt" officeooo:rsid="009d10d1" officeooo:paragraph-rsid="009d10d1" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
+</style:style>
+<style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="14pt" officeooo:rsid="009e2c27" officeooo:paragraph-rsid="009e2c27" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
+</style:style>
+<style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="14pt" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
+</style:style>
+<style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="14pt" fo:font-style="italic" style:font-size-asian="12.25pt" style:font-style-asian="italic" style:font-size-complex="14pt" style:font-style-complex="italic"/>
+</style:style>
+<style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="14pt" fo:font-style="italic" style:font-size-asian="12.25pt" style:font-style-asian="italic" style:font-size-complex="14pt" style:font-style-complex="italic"/>
+</style:style>
+<style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="14pt" fo:font-style="italic" style:font-size-asian="12.25pt" style:font-style-asian="italic" style:font-size-complex="14pt" style:font-style-complex="italic"/>
+</style:style>
+<style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="14pt" fo:font-style="normal" style:font-size-asian="12.25pt" style:font-style-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal"/>
+</style:style>
+<style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="9pt" officeooo:rsid="003cc729" officeooo:paragraph-rsid="003cc729" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+</style:style>
+<style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="9pt" officeooo:rsid="0040b48f" officeooo:paragraph-rsid="0040b48f" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+</style:style>
+<style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="6pt" officeooo:rsid="003cc729" officeooo:paragraph-rsid="003cc729" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+</style:style>
+<style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="6pt" officeooo:rsid="003cd168" officeooo:paragraph-rsid="003cd168" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+</style:style>
+<style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="12pt" officeooo:rsid="003cc729" officeooo:paragraph-rsid="003cc729" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+</style:style>
+<style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="12pt" officeooo:rsid="003cd168" officeooo:paragraph-rsid="003cd168" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+</style:style>
+<style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="12pt" officeooo:rsid="0040b48f" officeooo:paragraph-rsid="0040b48f" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+</style:style>
+<style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="12pt" officeooo:rsid="00984834" officeooo:paragraph-rsid="00984834" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+</style:style>
+<style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="12pt" officeooo:rsid="009d10d1" officeooo:paragraph-rsid="009d10d1" style:font-size-asian="10.5pt" style:font-size-complex="12pt"/>
+</style:style>
+<style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
 <style:text-properties fo:font-size="12pt" officeooo:rsid="009e2c27" officeooo:paragraph-rsid="009e2c27" style:font-size-asian="10.5pt" style:font-size-complex="12pt"/>
 </style:style>
-<style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="15pt" officeooo:rsid="003cd168" officeooo:paragraph-rsid="003cd168" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+</style:style>
+<style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="15pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+</style:style>
+<style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-size="10pt" officeooo:rsid="003cd168" officeooo:paragraph-rsid="003cd168" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+</style:style>
+<style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="00406ea3" officeooo:paragraph-rsid="00406ea3"/>
+</style:style>
+<style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="00406ea3" officeooo:paragraph-rsid="00406ea3"/>
+</style:style>
+<style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="0059a3d8" officeooo:paragraph-rsid="0059a3d8"/>
+</style:style>
+<style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="0059a3d8" officeooo:paragraph-rsid="0059a3d8"/>
+</style:style>
+<style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
+</style:style>
+<style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="006a4dbc" officeooo:paragraph-rsid="006a4dbc"/>
+</style:style>
+<style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="007e49cd" officeooo:paragraph-rsid="007e49cd"/>
+</style:style>
+<style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="007e49cd" officeooo:paragraph-rsid="007e49cd"/>
+</style:style>
+<style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="0095fdd3" officeooo:paragraph-rsid="0095fdd3"/>
+</style:style>
+<style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="0095fdd3" officeooo:paragraph-rsid="0095fdd3"/>
+</style:style>
+<style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="00984834" officeooo:paragraph-rsid="00984834"/>
+</style:style>
+<style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-size="22pt" officeooo:rsid="009e2c27" officeooo:paragraph-rsid="009e2c27" style:font-size-asian="19.25pt" style:font-size-complex="22pt"/>
+</style:style>
+<style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
 <style:text-properties fo:font-variant="small-caps" fo:font-size="12pt" officeooo:rsid="009e2c27" officeooo:paragraph-rsid="009e2c27" style:font-size-asian="10.5pt" style:font-size-complex="12pt"/>
 </style:style>
-<style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-<style:text-properties fo:font-variant="small-caps" fo:font-size="18pt" officeooo:rsid="009e2c27" officeooo:paragraph-rsid="009e2c27" style:font-size-asian="15.75pt" style:font-size-complex="18pt"/>
-</style:style>
-<style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
 <style:text-properties fo:font-variant="small-caps" fo:font-size="18pt" fo:font-style="normal" officeooo:rsid="009e9fe4" officeooo:paragraph-rsid="009e9fe4" style:font-size-asian="15.75pt" style:font-style-asian="normal" style:font-size-complex="18pt" style:font-style-complex="normal"/>
 </style:style>
-<style:style style:name="P56" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-variant="small-caps" fo:font-size="14pt" fo:font-style="italic" officeooo:rsid="00a4c5dd" officeooo:paragraph-rsid="00a4c5dd" style:font-size-asian="12.25pt" style:font-style-asian="italic" style:font-size-complex="14pt" style:font-style-complex="italic"/>
+</style:style>
+<style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
 <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-size="14pt" fo:font-style="normal" officeooo:rsid="009e9fe4" officeooo:paragraph-rsid="009e9fe4" style:font-size-asian="12.25pt" style:font-style-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal"/>
 </style:style>
-<style:style style:name="P57" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
 <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-size="12pt" fo:font-style="italic" officeooo:rsid="009e9fe4" officeooo:paragraph-rsid="009e9fe4" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-size-complex="12pt" style:font-style-complex="italic"/>
 </style:style>
-<style:style style:name="P58" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:style style:name="P56" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-size="18pt" fo:font-style="italic" officeooo:rsid="009e2c27" officeooo:paragraph-rsid="009e2c27" style:font-size-asian="15.75pt" style:font-style-asian="italic" style:font-size-complex="18pt" style:font-style-complex="italic"/>
+</style:style>
+<style:style style:name="P57" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
+<style:paragraph-properties style:page-number="auto"/>
+</style:style>
+<style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:text-properties fo:font-size="15pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+</style:style>
+<style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:paragraph-properties fo:break-before="page"/>
+<style:text-properties officeooo:paragraph-rsid="003cc729"/>
+</style:style>
+<style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_4">
+<style:text-properties officeooo:paragraph-rsid="00246cce"/>
+</style:style>
+<style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_6">
+<style:text-properties officeooo:paragraph-rsid="0026ef34"/>
 </style:style>
 <style:style style:name="T1" style:family="text">
 <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none"/>
@@ -369,31 +381,52 @@
 <style:text-properties style:text-position="super 58%" officeooo:rsid="009e9fe4"/>
 </style:style>
 <style:style style:name="T32" style:family="text">
-<style:text-properties officeooo:rsid="006d1068"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="00a30a62"/>
 </style:style>
 <style:style style:name="T33" style:family="text">
-<style:text-properties officeooo:rsid="00753303"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="00bfd4d6"/>
 </style:style>
 <style:style style:name="T34" style:family="text">
-<style:text-properties officeooo:rsid="008670bb"/>
+<style:text-properties officeooo:rsid="006d1068"/>
 </style:style>
 <style:style style:name="T35" style:family="text">
-<style:text-properties officeooo:rsid="008984bc"/>
+<style:text-properties officeooo:rsid="00753303"/>
 </style:style>
 <style:style style:name="T36" style:family="text">
-<style:text-properties officeooo:rsid="008a1246"/>
+<style:text-properties officeooo:rsid="008670bb"/>
 </style:style>
 <style:style style:name="T37" style:family="text">
-<style:text-properties officeooo:rsid="009b2658"/>
+<style:text-properties officeooo:rsid="008984bc"/>
 </style:style>
 <style:style style:name="T38" style:family="text">
-<style:text-properties fo:font-variant="normal" fo:text-transform="none"/>
+<style:text-properties officeooo:rsid="008a1246"/>
 </style:style>
 <style:style style:name="T39" style:family="text">
-<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+<style:text-properties officeooo:rsid="009b2658"/>
 </style:style>
 <style:style style:name="T40" style:family="text">
+<style:text-properties fo:font-variant="normal" fo:text-transform="none"/>
+</style:style>
+<style:style style:name="T41" style:family="text">
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+</style:style>
+<style:style style:name="T42" style:family="text">
 <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-size="12pt" style:font-size-asian="10.5pt" style:font-size-complex="12pt"/>
+</style:style>
+<style:style style:name="T43" style:family="text">
+<style:text-properties officeooo:rsid="00a30a62"/>
+</style:style>
+<style:style style:name="T44" style:family="text">
+<style:text-properties officeooo:rsid="00b3330f"/>
+</style:style>
+<style:style style:name="T45" style:family="text">
+<style:text-properties officeooo:rsid="00b4568c"/>
+</style:style>
+<style:style style:name="T46" style:family="text">
+<style:text-properties officeooo:rsid="00c19e14"/>
+</style:style>
+<style:style style:name="T47" style:family="text">
+<style:text-properties officeooo:rsid="00c7942d"/>
 </style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
@@ -433,7 +466,7 @@ www.liberliber.it
 </text:p>
 </draw:text-box>
 </draw:frame>
-<text:p text:style-name="P38">
+<text:p text:style-name="P57">
 Autore
 </text:p>
 <text:p text:style-name="LL_3a__20_titolo_20_libro">
@@ -750,49 +783,49 @@ INTRODUZIONE
 15
 </text:a>
 </text:p>
-<text:p text:style-name="P6">
+<text:p text:style-name="P7">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc385_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 I. Della differenza tra conoscenza pura ed empirica
 <text:tab/>
 15
 </text:a>
 </text:p>
-<text:p text:style-name="P6">
+<text:p text:style-name="P7">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc387_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 II. Noi siamo in possesso di certe conoscenze a priori e nè anche il senso comune ne è mai privo
 <text:tab/>
 15
 </text:a>
 </text:p>
-<text:p text:style-name="P6">
+<text:p text:style-name="P7">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc389_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 III. La filosofia ha bisogno di una scienza, che determini la possibilità, i principii e l&apos;àmbito di tutte le conoscenze a priori
 <text:tab/>
 15
 </text:a>
 </text:p>
-<text:p text:style-name="P6">
+<text:p text:style-name="P7">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc391_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 IV. Della differenza tra i giudizi analitici e sintetici
 <text:tab/>
 15
 </text:a>
 </text:p>
-<text:p text:style-name="P6">
+<text:p text:style-name="P7">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc393_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 V. In tutte le scienze teoretiche della ragione sono compresi, come principii, giudizi sintetici a priori
 <text:tab/>
 15
 </text:a>
 </text:p>
-<text:p text:style-name="P6">
+<text:p text:style-name="P7">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc395_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 VI. Problema generale della ragion pura
 <text:tab/>
 15
 </text:a>
 </text:p>
-<text:p text:style-name="P6">
+<text:p text:style-name="P7">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc397_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 VII. Idea e partizione di una scienza speciale, sotto nome di Critica della ragion Pura
 <text:tab/>
@@ -821,84 +854,84 @@ ESTETICA TRASCENDENTALE
 17
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc405_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 1
 <text:tab/>
 17
 </text:a>
 </text:p>
-<text:p text:style-name="P6">
+<text:p text:style-name="P7">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc407_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione prima ― Dello spazio
 <text:tab/>
 17
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc409_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 2 Esposizione metafisica di questo concetto
 <text:tab/>
 17
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc411_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 3 Esposizione trascendentale del concetto di spazio
 <text:tab/>
 17
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc413_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Corollari dei concetti precedenti
 <text:tab/>
 17
 </text:a>
 </text:p>
-<text:p text:style-name="P6">
+<text:p text:style-name="P7">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc415_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione seconda ― Del tempo
 <text:tab/>
 17
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc417_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 4 Esposizione metafisica del concetto del tempo
 <text:tab/>
 17
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc419_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 5 Esposizione trascendentale del concetto del tempo
 <text:tab/>
 17
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc421_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 6 Corollari di questi concetti
 <text:tab/>
 17
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc423_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 7 Chiarimento
 <text:tab/>
 17
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc425_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 8 Osservazioni generali sull&apos;estetica trascendentale
 <text:tab/>
 17
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc427_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Conclusione dell&apos;estetica trascendentale
 <text:tab/>
@@ -919,49 +952,49 @@ LOGICA TRASCENDENTALE
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P6">
+<text:p text:style-name="P7">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc433_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 INTRODUZIONE ― Idea di una logica trascendentale
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P7">
+<text:p text:style-name="P8">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc435_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 I. Della logica in generale
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P7">
+<text:p text:style-name="P8">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc437_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 II. Della logica trascendentale
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P7">
+<text:p text:style-name="P8">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc439_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 III. Della divisione della logica generale in analitica e dialettica
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P7">
+<text:p text:style-name="P8">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc441_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 IV. Divisione della logica trascendentale in analitica e dialettica trascendentale
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P6">
+<text:p text:style-name="P7">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc443_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 I. Analitica trascendentale
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P7">
+<text:p text:style-name="P8">
 <text:soft-page-break/>
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc445_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 I. ― Analitica dei concetti
@@ -969,98 +1002,98 @@ I. ― Analitica dei concetti
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc447_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Cap I. ― Del filo conduttore per la scoperta di tutti i concetti puri dell&apos;intelletto
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc449_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione prima ― Dell&apos;uso logico dell&apos;intelletto in generale
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc451_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione seconda ― Della funzione logica dell&apos;intelletto nei giudizi, § 9
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc453_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione terza ― Dei concetti puri dell&apos;intelletto o categorie, §§ 10-12
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc455_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Cap II. ― Deduzione dei concetti puri dell&apos;intelletto:
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc457_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione prima:
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc459_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 13. Dei principii di una deduzione trascendentale in generale
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc461_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 14. Passaggio alla deduzione trascendentale delle categorie
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc463_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione seconda ― Deduzione trascendentale dei concetti puri dell&apos;intelletto:
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc465_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 15. Della possibilità di una unificazione in generale
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc467_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 16. Dell&apos;unità sintetica originaria dell&apos;appercezione
 <text:tab/>
 19
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc469_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 17. Il principio dell&apos;unità sintetica dell&apos;appercezione è il principio supremo di ogni uso dell&apos;intelletto
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc471_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 18. Che cosa sia l&apos;unità oggettiva dell&apos;autocoscienza
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc473_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 19. La forma logica di tutti i giudizi consiste nell&apos;unità oggettiva 
 </text:a>
@@ -1071,98 +1104,98 @@ dell&apos;appercezione dei concetti in essi contenuti
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc475_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 20. Tutte le intuizioni sensibili sottostanno alle categorie, come condizioni in cui soltanto il molteplice di quelle può raccogliersi in una coscienza
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc477_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 21. Annotazione
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc479_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 22. La categoria non ha altro uso alla conoscenza delle cose che di esser applicata agli oggetti dell&apos;esperienza
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc481_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 23.
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc483_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 24. Dell&apos;applicazione delle categorie agli oggetti dei sensi in generale
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc485_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 25.
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc487_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 26. Deduzione trascendentale dell&apos;uso empirico possibile in generale dei concetti puri dell&apos;intelletto
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc489_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 § 27. Risultato di questa deduzione dei concetti dell&apos;intelletto
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc491_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Concetto sommario di questa deduzione
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P7">
+<text:p text:style-name="P8">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc493_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Libro II. ― Analitica dei principi
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc495_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Introduzione ― Del giudizio trascendentale in generale
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc497_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Cap I. ― Dello schematismo dei concetti puri dell&apos;intelletto
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc499_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Cap II. ― Sistema di tutti i principii dell&apos;intelletto puro
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc501_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione prima ― Del principio supremo 
 </text:a>
@@ -1173,126 +1206,126 @@ di tutti i giudizi analitici
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc503_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione seconda ― Del principio supremo di tutti i giudizi sintetici
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc505_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione terza ― Rappresentazione sistematica di tutti i principii sinteticidell&apos;intelletto puro
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc507_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 1) Assiomi dell&apos;intuizione
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc509_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 2) Anticipazioni della percezione
 <text:tab/>
 20
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc511_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 3) Analogie dell&apos;esperienza
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P10">
+<text:p text:style-name="P11">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc513_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 4) Postulati del pensiero empirico in generale
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc515_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Confutazione dell&apos;idealismo
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc517_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Osservazione generale sul sistema dei principii
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc519_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Cap III. ― Del principio della distinzione di tutti gli oggetti in generale in fenomeni e noumeni
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc521_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Appendice. ― Anfibolia dei concetti della riflessione per lo scambio dell&apos;uso empirico dell&apos;intelletto con l&apos;uso trascendentale
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc523_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Nota alla Anfibolia dei concetti della riflessione
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P6">
+<text:p text:style-name="P7">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc525_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Dialettica trascendentale.
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P7">
+<text:p text:style-name="P8">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc527_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Introduzione:
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc529_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 I. Dell&apos;apparenza trascendentale
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc531_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 II. Della ragion pura come sede dell&apos;apparenza trascendentale.
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc533_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 A) Della ragione in generale
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc535_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 B) Dell&apos;uso logico della ragione
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P9">
+<text:p text:style-name="P10">
 <text:soft-page-break/>
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc537_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 C) Dell&apos;uso puro della ragione
@@ -1300,63 +1333,63 @@ C) Dell&apos;uso puro della ragione
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P7">
+<text:p text:style-name="P8">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc539_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Libro I. ― Dei concetti della ragion pura
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc541_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione prima ― Delle idee in generale
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc543_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione seconda ― Delle idee trascendenti
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc545_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Sezione terza ― Sistema delle idee trascendentali
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P7">
+<text:p text:style-name="P8">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc547_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Libro II ― Dei raziocinii dialettici della ragion pura
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc549_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Cap I. Dei paralogismi della ragion pura
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc551_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Confutazione dell&apos;argomento di Mendelssohn della permanenza dell&apos;anima
 <text:tab/>
 21
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc553_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Conclusione della soluzione del paralogismo psicologico
 <text:tab/>
 22
 </text:a>
 </text:p>
-<text:p text:style-name="P8">
+<text:p text:style-name="P9">
 <text:a xlink:type="simple" xlink:href="#__RefHeading___Toc555_2203379893" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">
 Osservazione generale intorno al passaggio dalla psicologia razionale alla cosmologia
 <text:tab/>
@@ -1365,99 +1398,99 @@ Osservazione generale intorno al passaggio dalla psicologia razionale alla cosmo
 </text:p>
 </text:index-body>
 </text:table-of-content>
-<text:h text:style-name="P39" text:outline-level="1">
+<text:h text:style-name="P58" text:outline-level="1">
 EMMANUELE KANT
 </text:h>
-<text:p text:style-name="P25">
+<text:p text:style-name="P37">
 _________
 </text:p>
-<text:p text:style-name="P25"/>
-<text:p text:style-name="P11">
+<text:p text:style-name="P37"/>
+<text:p text:style-name="P12">
 CRITICA
 </text:p>
-<text:p text:style-name="P12">
+<text:p text:style-name="P15">
 DELLA RAGION PURA
 </text:p>
-<text:p text:style-name="P15">
+<text:p text:style-name="P26">
 TRADOTTA
 </text:p>
-<text:p text:style-name="P17">
+<text:p text:style-name="P28">
 DA
 </text:p>
-<text:p text:style-name="P19">
+<text:p text:style-name="P30">
 GIOVANNI GENTILE e GIUSEPPE LOMBARDO-RADICE
 </text:p>
-<text:p text:style-name="P24">
+<text:p text:style-name="P36">
 PARTE PRIMA
 </text:p>
-<text:p text:style-name="P26">
+<text:p text:style-name="P38">
 SESTA EDIZIONE
 </text:p>
-<text:p text:style-name="P26">
+<text:p text:style-name="P38">
 <draw:frame draw:style-name="fr2" draw:name="Immagine1" text:anchor-type="char" svg:width="2.79cm" svg:height="2.743cm" draw:z-index="3">
 <draw:image xlink:href="Pictures/10000000000000EC000000E81B4BB187A3798E27.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
 </draw:frame>
 BARI
 </text:p>
-<text:p text:style-name="P26">
+<text:p text:style-name="P38">
 GIUS. LATERZA &amp; FIGLI
 </text:p>
-<text:p text:style-name="P18">
+<text:p text:style-name="P29">
 TIPOGRAFI-EDITORI-LIBRAI
 </text:p>
-<text:p text:style-name="P20">
+<text:p text:style-name="P31">
 1949
 </text:p>
-<text:p text:style-name="P20"/>
-<text:p text:style-name="P20"/>
-<text:p text:style-name="P20"/>
-<text:p text:style-name="P20"/>
-<text:p text:style-name="P20">
+<text:p text:style-name="P31"/>
+<text:p text:style-name="P31"/>
+<text:p text:style-name="P31"/>
+<text:p text:style-name="P31"/>
+<text:p text:style-name="P31">
 <text:soft-page-break/>
 ______________
 </text:p>
-<text:p text:style-name="P20"/>
-<text:p text:style-name="P21">
+<text:p text:style-name="P31"/>
+<text:p text:style-name="P32">
 PROPRIETÀ LETTERARIA
 </text:p>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21">
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32">
 _____________
 </text:p>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P21"/>
-<text:p text:style-name="P16">
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P32"/>
+<text:p text:style-name="P27">
 DICEMBRE MCMXLVIII - 4209
 </text:p>
-<text:h text:style-name="P40" text:outline-level="1">
+<text:h text:style-name="P59" text:outline-level="1">
 Prefazione a questa traduzione
 </text:h>
-<text:p text:style-name="P27">
+<text:p text:style-name="P39">
 I
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 I. La 
 <text:span text:style-name="T11">
 Critica della ragion pura
 </text:span>
  tra le altre opere di Kant. ― II. Composizione della Critica. ― III. Le varie edizioni e la costituzione del testo. ― IV. Traduzioni. ― V. Di questa traduzione.
 </text:p>
-<text:p text:style-name="P28"/>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40"/>
+<text:p text:style-name="P40">
 Tutta l&apos;attività letteraria di Kant si suole dividere in due periodi principali: di cui l&apos;uno va dal 1746 al 1770, e l&apos;altro da questo anno alla morte del filosofo (1804), o, se si vuole, al 1798, data dell&apos;
 <text:span text:style-name="T11">
 Antropologia
@@ -1468,31 +1501,31 @@ De mundi sensibilis atque intelligibilis forma et principiis
 </text:span>
 , scritta da Kant per ottenere la cattedra di ordinario di Logica e Metafisica nella Università di Koenigsberg.
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 Gli scritti precedenti si muovono o 
 <text:s/>
 nell&apos;àmbito della scienza naturale e matematica, di cui il criticismo posteriore doveva ricercare la possibilità e determinare il concetto, o in quello della metafisica leibniziana, di cui il criticismo doveva più tardi dimostrare l&apos;impossibilità. Di questi scritti basterà ricordare i principali:
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:soft-page-break/>
 <text:span text:style-name="T11">
 Pensieri intorno alla vera valutazione delle forze e critica degli argomenti, di cui si son serviti in questa questione Leibniz e altri meccanici
 </text:span>
  (1746). Questo libro porta la data dell&apos;anno in cui fu incominciato a stampare; ma la dedica è del 1747, e il libro pare fosse finito di stampare nel &apos;49.
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 Storia generale della natura e teoria del cielo, o saggio intorno alla costituzione e all&apos;origine meccanica del mondo secondo i principii newtoniani
 </text:span>
  (1755).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 Principiorum primorum cognitionis metaphisicae nova dilucidatio
 </text:span>
  (1755).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 Metaphisicæ cum geometria junctae usus in philosophia naturali, cuius specimen I continet monadologiam ph
 </text:span>
@@ -1504,7 +1537,7 @@ sicam
 </text:span>
  (1756).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 Nuove osservazioni sulla spi
 </text:span>
@@ -1516,37 +1549,37 @@ gazione di venti
 </text:span>
  (1756).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 Nuova teoria del movimento e della quiete
 </text:span>
  (1758).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 Saggio di alcune osservazioni intorno all&apos;ottimismo
 </text:span>
  (1759).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 La falsa sottigliezza delle quattro figure sillogistiche
 </text:span>
 (1762).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 Tentativo d&apos;introdurre il concetto delle quantità negative in filosofia
 </text:span>
  (1763).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 L&apos;unico possibile argomento dell&apos;esistenza di Dio
 </text:span>
  (1763).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 Ricerche sulla evidenza dei principii della teologia na
 </text:span>
@@ -1556,19 +1589,19 @@ turale e della morale
 </text:span>
  (1764).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 Osservazioni sul sentimento del bello e del sublime
 </text:span>
  (1764).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 Sogni di un visionario spiegati coi sogni della metafisica
 </text:span>
  (1764).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 <text:span text:style-name="T11">
 Del primo principio delle differenze delle regioni nello spazio 
 </text:span>
@@ -1578,7 +1611,7 @@ Del primo principio delle differenze delle regioni nello spazio
 </text:span>
 768).
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 Nell&apos;uno o nell&apos;altro di questi scritti lo storico della genesi del pensiero kantiano scorge le tendenze e i germi del criticismo; ma questo nasce, si può dire, nella Dissertazione del 1770: dove Kant si stacca dalla filosofia leibniziana, distinguendo nettamente la conoscenza sensibile dalla conoscenza intellettuale: quella dei fenomeni, questa dei noumeni; e abbozzando, rispetto alla prima, quell&apos;Estetica trascendentale, che sarà la prima parte e il fondamento della 
 <text:span text:style-name="T11">
 Critica della ragion pura
@@ -1587,7 +1620,7 @@ Critica della ragion pura
 <text:soft-page-break/>
 dente dall&apos;esperienza: la metafisica, che è la dottrina del puro intelletto o delle idee pure («possibilità, esistenza, necessità, sostanza, causa, ecc. coi loro contrarii e correlati»): le quali non derivano dall&apos;esperienza, anzi costituiscono la natura stessa dell&apos;intelletto puro, e quindi le sue leggi necessarie operanti inconsapevolmente nello stesso uso logico per la costituzione dell&apos;esperienza. Questa dottrina delle idee pure, o intellezione reale, da la conoscenza delle cose in sè o dei noumeni, il cui principio è Dio.
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 L&apos;intelletto puro è, insomma, nel suo uso reale, la ragion pura, di cui si occuperà la critica posteriore; e la possibilità o meno della sua intellezione reale (per la quale, fin dal 1770, kant vede che si richiederebbe un&apos;intuizione intellettuale analoga a quella sensibile, che fornisce la materia prima dell&apos;esperienza), resta il problema, su cui Kant si travaglierà per un intero ventennio: e la cui soluzione, iniziata nel 1781 con la 
 <text:span text:style-name="T11">
 Critica della ragion pura
@@ -1644,7 +1677,7 @@ Antropologia
 </text:span>
 , con altri scritti minori e postumi, sono rimaneggiamenti parziali, chiarimenti, appendici, svolgimenti particolari; che non aggiungono, per altro, nè modificano alcuna parte sostanziale del pensiero esposto nella detta trilogia.
 </text:p>
-<text:p text:style-name="P28">
+<text:p text:style-name="P40">
 Nella quale trilogia si spezza, per così dire, e si riorganizza, integrandosi, il pensiero della Dissertazione del 1770. In questa Dissertazione, la scienza 
 <text:s/>
 è scienza del mondo intelligibile: esperienza e metafisica. La 
@@ -1667,11 +1700,11 @@ Critica del giudizio
 </text:span>
 , dove il giudizio riflesso sulla natura, oggetto della scienza, dà al filosofo come una seconda vista, la quale al di sotto del meccanismo scorge una finalità necessaria all&apos;intelligenza della natura, e solleva tutta la realtà, da un punto di vista regolativo, e cioè spirituale, al piano dello spirito.
 </text:p>
-<text:p text:style-name="P29"/>
-<text:p text:style-name="P29">
+<text:p text:style-name="P41"/>
+<text:p text:style-name="P41">
 II
 </text:p>
-<text:p text:style-name="P30">
+<text:p text:style-name="P42">
 Non aveva, si può dire, pubblicato la dissertazione 
 <text:span text:style-name="T11">
 De mundi sensibilis
@@ -1722,7 +1755,7 @@ Ghesch d. n. Philos
 </text:note>
 ―sono raccolti tutti insieme nel disegno d&apos;una sola opera, che avrebbe abbracciato così la materia di tutte le tre Critiche.
 </text:p>
-<text:p text:style-name="P30">
+<text:p text:style-name="P42">
 Ma, ben presto, dalla nebulosa si cominciò a staccare, com&apos;era naturale, e a pigliar corpo a sè la questione fondamentale: la teoretica. In una importantissima lettera, del 21 febbraio 1772, Kant scrive allo stesso Herz: «Percorrendo col pensiero la parte teoretica in tutta la sua estensione nei rapporti reciproci de&apos; varii elementi tra loro, mi sono accorto, che a me manca tuttavia qualcosa d&apos;essenziale, a cui, come gli altri, nè anche io, nel corso delle mie ricerche metafisiche, avevo posto mai attenzione, e che in realtà è la chiave di tutto il segreto della metafisica rimasta finora un mistero. Io, cioè, mi sono chiesto: su quale base è fondato il rapporto di ciò, che si dice in noi rappresentazione, con l&apos;oggetto?»
 <text:note text:id="ftn3" text:note-class="footnote">
 <text:note-citation>
@@ -1764,7 +1797,7 @@ X, 126.
 </text:note>
 .
 </text:p>
-<text:p text:style-name="P30">
+<text:p text:style-name="P42">
 In questa lettera apparisce per la prima volta il titolo della prima e maggiore 
 <text:span text:style-name="T11">
 Critica
@@ -1775,7 +1808,7 @@ Critica della ragion pura
 </text:span>
 .
 </text:p>
-<text:p text:style-name="P30">
+<text:p text:style-name="P42">
 Pure, trascorsero più di tre mesi e di tre anni prima che l&apos;opera fosse scritta. Lo stato della salute, molto cagionevole, e la difficoltà delle analisi laboriose richieste soprattutto dall&apos;Analitica trascendentale, obbligarono Kant 
 <text:soft-page-break/>
 a lavorarvi attorno ben dieci anni: durante i quali non pubblicò se non alcuni piccoli scritti di nessun interesse per la filosofia critica: una recensione d&apos;uno scritto 
@@ -1792,10 +1825,10 @@ Filantropino
 </text:span>
  del Basedow (1776, 77, 78).
 </text:p>
-<text:p text:style-name="P30">
+<text:p text:style-name="P42">
 Nè la redazione dell&apos;opera progrediva a passo a passo col tempo. Anzi, è fuor di dubbio, che essa prese nel pensiero di Kant la sua forma definitiva solo negli ultimi anni, o, meglio, negli ultimi mesi di questo faticoso periodo d&apos;incubazione. In una lettera, scritta il 5 aprile 1778, all&apos;Herz, Kant fa conto ancora di poter pubblicare tra pochi mesi la «promessa operetta» e scrive al suo corrispondente: «Le cause del ritardo per un lavoro, che ammonterà a un numero di fogli non grande, spero vorrà un giorno trovarle giustificate per la natura della cosa e dello stesso disegno propostomi». L&apos;operetta, a ogni modo, tra pochi mesi sarebbe stata stampata.
 </text:p>
-<text:p text:style-name="P30">
+<text:p text:style-name="P42">
 L&apos;operetta, invece, divenne un&apos;opera, e non fu pronta per la stampa se non verso la fine del 1780. L&apos;editore Hartknoch di Riga, per l&apos;intromissione di Hamann, il 9 settembre aveva offerto a Kant di stampare la sua opera
 <text:note text:id="ftn5" text:note-class="footnote">
 <text:note-citation>
@@ -1819,7 +1852,7 @@ Briefwechsel
 <text:soft-page-break/>
 Herder: «Un libro così corpulento non è proporzionato nè alla statura dell&apos;autore nè al concetto della ragion pura, che egli contrappone alla pigra=alla mia». E dovette aspettare altre sei settimane per avere tutto il resto con la fine e col principio del libro: e gli ultimi giorni di luglio per ricevere dalla mano del filosofo l&apos;esemplare a lui dedicato.
 </text:p>
-<text:p text:style-name="P30">
+<text:p text:style-name="P42">
 L&apos;operetta, dunque, di tre anni prima riuscì un grosso volume, il cui numero di fogli supera due alfabeti. Segno evidente, che l&apos;opera pubblicata non solo non era scritta intorno alla metà del 1788; ma allora non si poteva nè anche calcolare dall&apos;autore quali proporzioni essa avrebbe assunte. Non si tratta, come dice il Fischer, di lavoro di lima e di semplici ampliamenti, che Kant potè fare nel ricopiare in pulito il suo manoscritto: ma della vera e propria stesura definitiva, in cui fuse certamente varii materiali raccolti già intorno alle singole parti. E bisogna pertanto intendere alla lettera quello che Kant dice a Mendelssohn nella lettera del 18 agosto 1783; dove, scusandosi delle oscurità della 
 <text:span text:style-name="T11">
 Critica
@@ -1848,7 +1881,7 @@ Fischer
 </text:note>
 .
 </text:p>
-<text:p text:style-name="P30">
+<text:p text:style-name="P42">
 Sicchè la 
 <text:span text:style-name="T11">
 Critica della ragion pura
@@ -1900,11 +1933,11 @@ Gesanim. Schr. hg.v.d. K.
 </text:note>
 , dopo un&apos;aspra meditazione di molti anni, durante la quale parve spesso all&apos;autore di essere sul punto di acquistare un&apos;idea chiara e definitiva di tutte le parti della sua opera; ma ancora a mezzo il 1778 s&apos;ingannava, e doveva tuttavia lavorarvi ancora per un pezzo.
 </text:p>
-<text:p text:style-name="P30"/>
-<text:p text:style-name="P31">
+<text:p text:style-name="P42"/>
+<text:p text:style-name="P43">
 III
 </text:p>
-<text:p text:style-name="P32">
+<text:p text:style-name="P44">
 La prima edizione della 
 <text:span text:style-name="T11">
 Critica
@@ -1950,7 +1983,7 @@ hin und wieder verbesserte
 </text:span>
  (qua e là migliorata) in un volume di pp. LXIV-884, presso lo stesso Hartknoch.
 </text:p>
-<text:p text:style-name="P32">
+<text:p text:style-name="P44">
 Quali miglioramenti Kant intese introdurre nel suo libro, 
 <text:soft-page-break/>
 lo dice egli stesso nella prefazione alla nuova edizione (pp. 33 sgg. q. trad.); nè è di questo luogo entrare a discutere della questione tanto dibattuta, dal Jacobi e dallo Schopenhauer a B. Erdmann e al Fischer, intorno al valore delle differenze tra le due edizioni. Anche in questa traduzione tutte queste differenze si possono studiare e giudicare direttamente. Esse, oltre a leggère variazioni verbali, consistono in ampliamenti e accorciamenti, aggiunte e soppressioni. Sono ampliate nella 2&lt;sup&gt;a&lt;/sup&gt; edizione l&apos;introduzione e alcune parti dell&apos;Estetica trascendentale; la Deduzione dei concetti puri dell&apos;intelletto è rifatta interamente; parzialmente, il capitolo «Del principio della distinzione di tutti gli oggetti in generale in fenomeni e noumeni». Nell&apos;Analitica dei principii è aggiunta la «Confutazione dell&apos;idealismo» e l&apos;«Osservazione generale sul sistema dei principii»; rifatto e abbreviato assai è il capitolo dei «Paralogismi della ragion pura». Tutte le differenze si riferiscono, dunque, alla parte della 
@@ -1958,7 +1991,7 @@ lo dice egli stesso nella prefazione alla nuova edizione (pp. 33 sgg. q. trad.);
 Critica
 </text:span>
 , che si dà tradotta in questo primo volume. E le più importanti sono quattro: 1) la nuova forma della Deduzione dei concetti puri dell&apos;intelletto; 2) e alla teoria della distinzione dei fenomeni e dei noumeni; 3) l&apos;aggiunta della Confutazione dell&apos;idealismo; 4) i tagli nei Paralogismi della ragion pura. La sostanza di queste differenze variamente giudicata s
-<text:span text:style-name="T32">
+<text:span text:style-name="T34">
 e
 </text:span>
 condo le tendenze diverse dei critici, si può certamente riassumere nello sforzo fatto da Kant,―dopo l&apos;interpretazione berkeleiana, che fu data generalmente della 1
@@ -1985,7 +2018,7 @@ Critica
 </text:span>
  il suo pensiero sul bisogno che sentiva fortissimo di non finire nell&apos;idealismo, questo bisogno c&apos;era in lui anche prima, fin dalla Dissertazione del &apos;70, dove pure si parla del principio del fenomeno fuori del fenomeno. Era la posizione storica di Kant, come di Jacobi e di quanti allora toglievano il problema da Hume.
 </text:p>
-<text:p text:style-name="P32">
+<text:p text:style-name="P44">
 E la 2
 <text:span text:style-name="T22">
 a
@@ -2072,7 +2105,7 @@ a
 </text:span>
  edizione.
 </text:p>
-<text:p text:style-name="P32">
+<text:p text:style-name="P44">
 Contemporaneamente al Rosenkranz, una collezione completa degli scritti di Kant fu curata dall&apos; Hartenstein (1838), da lui stesso ripubblicata trent&apos;anni più tardi (1867-68): e questi, all&apos;incontro, messo a fondamento il testo del 1787, le diede in nota le minori varianti del 1781, e in appendice le due più lunghe intorno alla Deduzione dei concetti puri dell&apos;intelletto e ai Paralogismi. E questa sua edizione riprodusse a parte nel 1853 e nel &apos;68; quando uscì anche quella del Kirchmann (nella sua 
 <text:span text:style-name="T11">
 Philosophische Bibli
@@ -2230,7 +2263,7 @@ a
 a
 </text:span>
 ; e lo stesso tes
-<text:span text:style-name="T33">
+<text:span text:style-name="T35">
 t
 </text:span>
 o, in più punti, anche il Vorländer. L&apos; Erdmann, pertanto, rifacendo a parte la storia del testo, dimostrata la necessità di cercare nell&apos;edizione del 1787 il testo genuino di Kant
@@ -2261,7 +2294,7 @@ Paralogismi
 </text:span>
  incluso) e quello del 1787 sono riprodotti separatamente, non senza avvertire via via, a pie&apos; del secondo, dove occorrono le differenze del primo.
 </text:p>
-<text:p text:style-name="P32">
+<text:p text:style-name="P44">
 Più utili, senza dubbio, sono le edizioni comuni, complessive, che mettono a riscontro i due testi. Ma a torto dall&apos;uno o dall&apos;altro dei varii editori s&apos;è creduto, che il giudizio comparativo intorno al valore dottrinale delle due edizioni dovesse servire di base alla scelta del testo da porre a fondamento della propria. L&apos;editore non deve giudicare, ma presentare nella forma più schietta e genuina l&apos;opera da giudicare: far opera di filologo e non di 
 <text:soft-page-break/>
 filosofo. Pure, movendo da un criterio filologico il Kehrbach e l&apos;Erdmann, come s&apos;è visto, han creduto di dover giungere a conclusioni opposte: parendo al primo , che un&apos;edizione complessiva della 
@@ -2350,7 +2383,7 @@ a
 </text:span>
 .
 </text:p>
-<text:p text:style-name="P32">
+<text:p text:style-name="P44">
 La questione del testo di Kant ha dato bensì da fare a causa della scorrezione tipografica delle edizioni curate dallo stesso Kant. Onde è nata una già ricca letteratura di recensioni, che ora emendano errori evidenti, ora propongono congetture più o meno dubbie. Fin dal 1794, nel libro del Mellin 
 <text:span text:style-name="T11">
 Marginalien und Register zu Kants Kritik der reinen Vernunft
@@ -2473,11 +2506,11 @@ B. Erdmann
 </text:note>
 .
 </text:p>
-<text:p text:style-name="P31"/>
-<text:p text:style-name="P33">
+<text:p text:style-name="P43"/>
+<text:p text:style-name="P45">
 IV
 </text:p>
-<text:p text:style-name="P34">
+<text:p text:style-name="P46">
 Delle traduzioni della 
 <text:span text:style-name="T11">
 Critica
@@ -2620,19 +2653,19 @@ Proemio alla traduzione
 </text:note>
 . E dalla traduzione del Born ritradusse alla meglio la prefazione alla edizione del 1781, seguendo per tutto il resto quella del 1787.
 </text:p>
-<text:p text:style-name="P34">
+<text:p text:style-name="P46">
 Il saggio della prosa del Mantovani teste riferito può dare un&apos;idea del difetto principale della sua traduzione, non solo «inelegante», cementi gi
-<text:span text:style-name="T34">
+<text:span text:style-name="T36">
 à
 </text:span>
  sospettava, ma così dura da riuscire spesso inintelligibile, per la trascuranza delle norme più comuni della sintassi italiana come per l&apos;uso od abuso stranissimo del vocabolario. È stato detto che questa pubblicazione nocque, lungi dal giovare, alla conoscenza di Kant in Italia. Giudizio forse ingiustamente esagerato, poiché non sarebbe possibile, credo, additare nel Gallupp
-<text:span text:style-name="T35">
+<text:span text:style-name="T37">
 i
 </text:span>
 , che di questa traduzione dovette sempre servirsi, o nel Rossini, che vi fece anche lui ricorso nelle prime sue opere, prima che avesse imparato il tedesco un&apos;erronea interpretazione da ascriversi in colpa al povero Mantovani. Il quale pare generalmente esatto nella sua traduzione; ma con la sua orrida forma, 
 <text:soft-page-break/>
 che lo stesso Gal
-<text:span text:style-name="T36">
+<text:span text:style-name="T38">
 lu
 </text:span>
 ppi, nelle sue citazioni, procurava di pulire, dovette certamente, a molti che l&apos;avevano, far passare la voglia di leggere mai in italiano la 
@@ -2641,14 +2674,14 @@ Critica della ragion pura
 </text:span>
 .
 </text:p>
-<text:p text:style-name="P34">
+<text:p text:style-name="P46">
 Onde con verità può dirsi, che assai più della traduzione pavese abbiano giovato poi alla conoscenza della 
 <text:span text:style-name="T11">
 Critica
 </text:span>
  kantiana in Italia quelle francesi del Tissot (1835) e del Barni (1869); benchè la prima, letterale, nel proposito del traduttore, presentasse, con le molte durezze, inesattezze non poche di interpetrazione; e la seconda, più esatta, peccasse di libertà eccessiva verso la forma del testo, dato lo studio di renderne il pensiero in buon francese e libero dalle oscurità frequenti nella espressione troppe volte arruffata di Kant. La traduzione di un&apos;opera di filosofia s&apos;imprende in servigio di chi ignori la lingua originale, e non per schiarimento e commento del pensiero che essa contiene; al qual uopo gioverà piuttosto un&apos;esposizione analitica. Le difficoltà, che incontra chi legge il testo originale, devono essere tutte presentate a chi è costretto a leggere la traduzione, ma ha interesse di veder rispecchiato il questa, quanto più fedelmente è possibile, in tutti i suoi particolari, l&apos;atteggiamento dato dallo scrittore al proprio pensiero.
 </text:p>
-<text:p text:style-name="P34">
+<text:p text:style-name="P46">
 Questo criterio han seguito gli autori della nuova traduzione francese, A. Trmeysagues e B. Pacaud
 <text:note text:id="ftn29" text:note-class="footnote">
 <text:note-citation>
@@ -2699,7 +2732,7 @@ Gegenstand
 </text:span>
 , ecc.
 </text:p>
-<text:p text:style-name="P34">
+<text:p text:style-name="P46">
 Per questa cura scrupolosa di rendere fedelissimamente tutti i particolari della espressione kantiana il Tremeysagues e il Pacaud avrebbero fatto opera eccellente senza l&apos;arbitraria costituzione del testo, da essi seguita, come fu sopra notato. Nè può dirsi che nella stessa traduzione non siano incorsi anch&apos;essi qua e là in disavvertenze, le quali dimostrano soltanto come in questa specie di lavori, per sforzi che si faccia di accuratezza, non è dato mai di toccare la perfezione. Così, nelle parti che a me è accaduto di riscontrare più minutamente, a pag. 240 alla fine del secondo 
 <text:span text:style-name="T11">
 Remarque
@@ -2727,8 +2760,8 @@ Mais, en réalité, la possibilité absolue (qui est valable à tous les poits d
 </table:table-cell>
 </table:table-row>
 </table:table>
-<text:p text:style-name="P34"/>
-<text:p text:style-name="P34">
+<text:p text:style-name="P46"/>
+<text:p text:style-name="P46">
 Qui la ripetizione della parola 
 <text:span text:style-name="T11">
 usage
@@ -2787,16 +2820,16 @@ ne peut jamais servir que d&apos;exemple
 </text:span>
 . E così via.
 </text:p>
-<text:p text:style-name="P33"/>
-<text:p text:style-name="P35">
+<text:p text:style-name="P45"/>
+<text:p text:style-name="P47">
 V
 </text:p>
-<text:p text:style-name="P36">
+<text:p text:style-name="P48">
 Questi appunti, cui da luogo un lavoro tanto accurato, gioveranno forse a procurare un pò d&apos;indulgenza alle mende, che si potranno trovare in questa nuova traduzione italiana; quantunque l&apos;amico Giuseppe Lombardo-Radice,―che la condusse fino al principio della «Nota alle Anfibolie dei concetti di riflessione» (pag260), e l&apos;avrebbe condotta egli stesso a termine, se nel terremoto di Messina del 28 dicembre non avesse perduto tutti i suoi libri e le sue carte, e smarrito l&apos;animo di riprendere subito e continuare alacremente un&apos;opera così faticosa, che era già molto innanzi e gli venne troncata tra mano e in molta parte distrutta, ―e, dopo di lui, io sottentratogli pel resto del lavoro, fin d&apos;allora in corso di stampa, non abbiamo risparmiato cure per dare agli studiosi italiani una traduzione, che riunisse alla maggior possibile 
 <text:soft-page-break/>
 chiarezza e italianità di forma una fedeltà scrupolosa allo stile di Kant.
 </text:p>
-<text:p text:style-name="P37">
+<text:p text:style-name="P49">
 Il testo, da noi adoperato, è quello del Vorländer, preferito per la sua comodità e pel diligente glossario della terminologia della 
 <text:span text:style-name="T11">
 Critica
@@ -2823,105 +2856,98 @@ a
 </text:span>
  edizione. Ma la lezione del Vorländer, nella revisione del lavoro, abbiamo sempre collazionata col testo delle edizioni dell&apos;Accademia di Berlino.
 </text:p>
-<text:p text:style-name="P22">
+<text:p text:style-name="P33">
 Palermo, 10 Luglio, 1909.
 </text:p>
-<text:p text:style-name="P13">
+<text:p text:style-name="P16">
 G.G.
 </text:p>
-<text:p text:style-name="P37">
+<text:p text:style-name="P49">
 La nuova edizione di questa traduzione non è una semplice ristampa della precedente. Lieto della occasione che mi si porgeva di migliorare il nostro lavoro, il quale, ma
-<text:span text:style-name="T37">
+<text:span text:style-name="T39">
 l
 </text:span>
 grado i suoi difetti, ha incontrato favore nel pubblico e recato fors&apos;anco non piccolo giovamento alla cultura filosofica italiana, ne ho profittato per correggere accuratamente e in buona parte rifare la traduzione, studian
 <text:soft-page-break/>
 domi di ottenere il massimo possibile della fedeltà congiunto con quel tanto di chiarezza che è ragionevole esigere in libro di così astrusa e laboriosa speculazione.
 </text:p>
-<text:p text:style-name="P37">
+<text:p text:style-name="P49">
 Non mi lusingo nè anche ora di aver fatto opera perfetta; e non avrei qui che a ripetere la protesta fatta nove anni fa a proposito delle sviste non potute evitare 
 <text:s/>
 nello stesso lavoro, del resto eccellente, degli ultimi traduttori francesi; ma posso affermare che la presente edizione s&apos;avvantaggia di gran lunga sulla prima, almeno per esattezza.
 </text:p>
-<text:p text:style-name="P23">
+<text:p text:style-name="P34">
 Roma, 10 Settembre 1918.
 </text:p>
-<text:p text:style-name="P14">
+<text:p text:style-name="P17">
 G.G.
 </text:p>
-<text:p text:style-name="P43"/>
-<text:p text:style-name="P43"/>
-<text:p text:style-name="P43"/>
-<text:p text:style-name="P43"/>
-<text:p text:style-name="P43"/>
-<text:p text:style-name="P43"/>
-<text:p text:style-name="P43"/>
-<text:p text:style-name="P43"/>
-<text:p text:style-name="P43"/>
-<text:p text:style-name="P43"/>
-<text:p text:style-name="P43"/>
-<text:p text:style-name="P44">
+<text:p text:style-name="P18"/>
+<text:p text:style-name="P18"/>
+<text:p text:style-name="P18"/>
+<text:p text:style-name="P18"/>
+<text:p text:style-name="P18"/>
+<text:p text:style-name="P18"/>
+<text:p text:style-name="P18"/>
+<text:p text:style-name="P18"/>
+<text:p text:style-name="P18"/>
+<text:p text:style-name="P18"/>
+<text:p text:style-name="P18"/>
+<text:p text:style-name="P19">
 <text:soft-page-break/>
 </text:p>
-<text:p text:style-name="P44"/>
-<text:p text:style-name="P44"/>
-<text:p text:style-name="P44"/>
-<text:p text:style-name="P49">
+<text:p text:style-name="P19"/>
+<text:p text:style-name="P19"/>
+<text:p text:style-name="P19"/>
+<text:p text:style-name="P13">
 CRITICA
 </text:p>
-<text:p text:style-name="P45">
+<text:p text:style-name="P20">
 DELLA
 </text:p>
-<text:p text:style-name="P51">
+<text:p text:style-name="P50">
 RAGION PURA
 </text:p>
-<text:p text:style-name="P51"/>
-<text:p text:style-name="P51"/>
-<text:p text:style-name="P51"/>
-<text:p text:style-name="P51"/>
-<text:p text:style-name="P51"/>
-<text:p text:style-name="P51"/>
-<text:p text:style-name="P52"/>
-<text:p text:style-name="P52"/>
-<text:p text:style-name="P52"/>
-<text:p text:style-name="P52"/>
-<text:p text:style-name="P53">
+<text:p text:style-name="P50"/>
+<text:p text:style-name="P50"/>
+<text:p text:style-name="P50"/>
+<text:p text:style-name="P50"/>
+<text:p text:style-name="P50"/>
+<text:p text:style-name="P50"/>
+<text:p text:style-name="P35"/>
+<text:p text:style-name="P35"/>
+<text:p text:style-name="P35"/>
+<text:p text:style-name="P35"/>
+<text:p text:style-name="P51">
 Kant, 
-<text:span text:style-name="T39">
+<text:span text:style-name="T41">
 Ragion pura.
 </text:span>
 </text:p>
-<text:p text:style-name="P54">
+<text:p text:style-name="P56">
 <text:soft-page-break/>
-<text:span text:style-name="T39"/>
 </text:p>
-<text:p text:style-name="P54">
-<text:span text:style-name="T39"/>
-</text:p>
-<text:p text:style-name="P54">
-<text:span text:style-name="T39"/>
-</text:p>
-<text:p text:style-name="P54">
-<text:span text:style-name="T39"/>
-</text:p>
-<text:p text:style-name="P55">
-<text:span text:style-name="T38">
+<text:p text:style-name="P56"/>
+<text:p text:style-name="P56"/>
+<text:p text:style-name="P56"/>
+<text:p text:style-name="P52">
+<text:span text:style-name="T40">
 BACO 
 </text:span>
-<text:span text:style-name="T40">
+<text:span text:style-name="T42">
 DE 
 </text:span>
-<text:span text:style-name="T38">
+<text:span text:style-name="T40">
 VERULAMIO
 </text:span>
 </text:p>
-<text:p text:style-name="P57">
+<text:p text:style-name="P55">
 Instauratio magna, Praefatio.
 </text:p>
-<text:p text:style-name="P57"/>
-<text:p text:style-name="P56">
+<text:p text:style-name="P55"/>
+<text:p text:style-name="P54">
 De nobis ipsis silemus: de re autem, quae agitur, petimus: ut homines eam non opinionem, sed opus esse cogitent; ac pro certo habeant, non sectae nos alicuius, aut placiti, sed utilitatis et amplitudinis humanae fundamenta moliri. Deinde ut suis commodis aequi ― in commune consulant ― et ipsi in parte veniant. Praeterea ut bene sperent, neque instaurationem nostra ut quiddam infinitum et ultra mortale fingant, et animo concipiant; cum revera sit infiniti finis et terminus legitimus.
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn30" text:note-class="footnote">
 <text:note-citation>
 30
 </text:note-citation>
@@ -2941,31 +2967,278 @@ a
 A SUA ECCELLENZA
 <text:bookmark-end text:name="__RefHeading___Toc377_2203379893"/>
 </text:h>
-<text:p text:style-name="P58">
+<text:p text:style-name="P6">
 IL REAL MINISTRO DI STATO
 </text:p>
-<text:p text:style-name="P58"/>
-<text:p text:style-name="P50">
+<text:p text:style-name="P6"/>
+<text:p text:style-name="P14">
 BARONE DI ZEDLITZ
 </text:p>
-<text:p text:style-name="P46"/>
-<text:p text:style-name="P47">
+<text:p text:style-name="P21"/>
+<text:p text:style-name="P22">
 Grazioso Signore,
 </text:p>
-<text:p text:style-name="P48">
-Promuovere
+<text:p text:style-name="P23">
+Promuovere per la propria parte l&apos;incremento delle scienze, significa lavorare nell&apos;interesse particolare dell&apos;Eccellenza Vostra; giacchè questo è con quello intimamente legato non soltanto per il posto eminente 
+<text:s/>
+di mecenate, ma anche per la qualità, che assai meglio affida, di amatore e 
+<text:s/>
+illuminato conoscitore. Perciò io mi servo dell&apos;unico mezzo, che incerto modo sia in mio potere, di testimoniarle la mia gratitudine per la benevola fiducia della quale l&apos;eccellenza vostra mi opnora, come se io potessi in qualche modo contribuire a cotesto scopo
+<text:note text:id="ftn31" text:note-class="footnote">
+<text:note-citation>
+31
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Nella dedica dell
+<text:span text:style-name="T43">
+a
+</text:span>
+ 1
+<text:span text:style-name="T32">
+a
+</text:span>
+ edizione (29 marzo 1781) a questo punto seguivano le parole:
+</text:p>
+<text:p text:style-name="Footnote">
+<text:tab/>
+«Colui che gode della vita speculativa, trova, fra i suoi modesti desiderii, nella approvazione di un illuminato e valoroso giudice un potente incoraggiamento a sforzi, la cui utilità è grande sebbene lontana e perciò affatto disconosciuta agli occhi del volgo».
+</text:p>
+</text:note-body>
+</text:note>
+.
+</text:p>
+<text:p text:style-name="P23">
+A quella stessa benigna attenzione, della quale l&apos;Eccel
+<text:soft-page-break/>
+lenza Vostra ha reputato degna la prima edizione di quest&apos;opera, offro ora anche questa seconda, e insieme con essa tutti gli altri interessi della mia carriera letteraria, e sono con la più profonda devozione
+</text:p>
+<text:p text:style-name="P23">
+dell&apos;Eccellenza Vostra
+</text:p>
+<text:p text:style-name="P24">
+Umilissimo e obbedientissimo
+</text:p>
+<text:p text:style-name="P24">
+servitore
+</text:p>
+<text:p text:style-name="P53">
+Emanuele Kant.
+</text:p>
+<text:p text:style-name="P53"/>
+<text:p text:style-name="P25">
+Königsberg, il 26 aprile 1787.
 </text:p>
 <text:h text:style-name="Heading_20_1" text:outline-level="1">
 <text:bookmark-start text:name="__RefHeading___Toc379_2203379893"/>
 Prefazione alla prima edizione
 <text:bookmark-end text:name="__RefHeading___Toc379_2203379893"/>
 </text:h>
+<text:p text:style-name="Text_20_body">
+La ragione umana, in una specie delle sue conoscenze, ha il destino particolare di essere tormentata da problemi, che non può evitare, perchè son posti dalla natura della stessa ragione, ma dei quali non può trovare la soluzione, perchè oltrepassano ogni potere della ragione umana.
+</text:p>
+<text:p text:style-name="Text_20_body">
+In tale imbarazzo cade senza sua colpa. Comincia con principii, l&apos;uso dei quali nel corso dell&apos;esperienza è inevitabile, ed è insieme sufficientemente garantito da essa. Con essi (come porta la sua stessa natura) la ragione sale sempre più alto a condizioni sempre più remote. Ma, accorgendosi che in tal modo il suo lavoro deve rimanere sempre incompiuto, perchè i problemi non cessano mai d&apos;incalzarla, si vede costretta a ricorrere a principii, che oltrepassano ogni possibile uso empirico e, ciò malgrado, paiono tanto poco sospetti che il senso comune sta in pieno accordo con essi. Se non che, per tal modo, incorre in oscurità e contraddizioni, dalle quali può bensì inferire che in fondo debbano esservi errori nascosti, ma non riesce a scoprirli, poichè quei principii, di cui si serve, uscendo fuori dei limiti di ogni esperienza, non riconoscono più una pietra di paragone dell&apos;esperienza. Ora, il campo di queste lotte senza fine si chiama Metafisica.
+</text:p>
+<text:p text:style-name="Text_20_body">
+<text:soft-page-break/>
+Fu già tempo che questa era chiamata la regina di tutte le scienze; e, se si prende l&apos;intenzione pel fatto, meritava certo questo titolo onorifico, per la importanza capitale del suo oggetto. Ma ormai la moda del nostro tempo porta 
+<text:s/>
+a disprezzarla, e la matrona si lamenta, respinta ed abbandonata come Ecuba: 
+<text:span text:style-name="T11">
+modo maxima rerum, tot generis natisque potens ― nunc trahor exul, inops.
+</text:span>
+― 
+<text:span text:style-name="T17">
+Ovid
+</text:span>
+., 
+<text:span text:style-name="T11">
+Metam
+</text:span>
+.
+<text:note text:id="ftn32" text:note-class="footnote">
+<text:note-citation>
+32
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Lib. XIII, vv. 508-510.
+</text:p>
+</text:note-body>
+</text:note>
+</text:p>
+<text:p text:style-name="Text_20_body">
+A principio, la sua dominazione, sotto il governo dei dommatici, era dispotica. Ma poichè la legislazione serbava ancora traccia dell&apos;antica barbarie, a poco a poco degenerò per guerre intestine in una completa anarchia; e gli scettici, sorta di nomadi, nemici giurati di ogni stabile cultura della terra, rompevano di tempo in tempo la concordia sociale. Tuttavia, poichè fortunatamente erano in pochi, non potevano impedire che quelli, sempre di nuovo, sebbene senza un concorde disegno, cercassero di ricomporla. Nell&apos;età moderna in verità, parve che tutte queste lotte dovessero aver fine per mezzo di una certa fisiologia dell&apos;intelletto umano (per opera del celebre Locke), e che dovesse esser pienamente risoluta la questione della legittimità di quelle pretese. Ma avvenne che, sebbene l&apos;origine della presunta regina si facesse derivare dalla plebaglia della comune esperienza, e perciò a buon diritto si dovesse aver per sospetta la sua arroganza, poichè nell&apos;atto questa genealogia falsamente le venne attribuita, essa ha continuato sempre a mante
+<text:soft-page-break/>
+nere le sue pretese; e così si è ricaduti nel vecchio e tarlato dommatismo, e quindi nel discredito, dal quale si era voluta salvare la scienza. Ormai, dopo aver inutilmente tentato (se n&apos;è convinti) tutte le vie, impera sovrano il fastidio ed un totale indifferentismo, padre del caos e della notte delle scienze, ma ad un tempo origine o almeno preludio di prossimo rinnovamento e rischiaramento, ancorchè da uno zelo male impiegato esse siano state rese oscure, confuse e inservibili.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Giacchè invano si vuol affettare indifferenza riguardo a ricerche siffatte, il cui oggetto non può mai essere indifferente per la natura umana. Perciò anche i sedicenti indifferenti, sebbene si ingannino di mascherarsi cangiando il linguaggio della scuola in un tono popolare, appena vogliono riflettere su qualche oggetto, ricadono inevitabilmente in quelle affermazioni metafisiche, verso le quali ostentano tanto disprezzo. Frattanto, questa indifferenza che s&apos;incontra proprio in mezzo al fiorire di tutte le scienze, e che tocca appunto quella, alla cui conoscenza, se fosse possibile averne una, meno si vorrebbe rinunziare, è un fenomeno che merita attenzione e riflessione. Non è per certo effetto di leggerezza, ma del giudizio ponderato dell&apos;età moderna, che non vuole più oltre farsi tenere a bada da una parvenza di sapere, ed è un invito alla ragione di intraprendere nuovamente il più grave dei suoi uffici, cioè la conoscenza di sè, e di erigere un tribunale, che la garantisca nelle sue pretese legittime, ma condanni quelle che non hanno fondamento, 
+<text:soft-page-break/>
+non arbitrariamente, ma secondo le sue eterne ed immutabili leggi; e questo tribunale non può essere se non la critica della ragion pura stessa.
+<text:note text:id="ftn33" text:note-class="footnote">
+<text:note-citation>
+33
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Si sentono assai spesso lamenti sulla povertà del pensiero del nostro tempo e sulla decadenza della scienza solida. Ma io vedo che le scienze, le cui basi sono ben fondate, come la matematica, la fisica, ecc., non meritano punto simile rimprovero, chè anzi mantengono la vecchia fama di solidità, e negli ultimi tempi l&apos;hanno piuttosto accresciuta. Lo spirito, che è appunto lo stesso spirito, si dimostrerebbe produttivo anche negli altri campi del conoscere, solo che si fosse curata bene la rettificazione dei loro principii. Mancando la quale, indifferenza, dubbio, e infine critica rigorosa son prova, più che di povertà, di profondità di pensiero. Il tempo nostro è proprio il tempo della critica, cui tutto deve sottostare. Vi si vogliono sottrarre la religione per la santità sua, e la legislazione per la sua maestà. Ma così esse lasciano adito a giusti sospetti, e non possono pretendere quell&apos;incondizionata stima, che la ragione concede solo a ciò che ha saputo resistere al suo libero e pubblico esame. (N. d. K.)
+</text:p>
+</text:note-body>
+</text:note>
+</text:p>
+<text:p text:style-name="Text_20_body">
+Io non intendo per essa una critica dei libri e dei sistemi filosofici, ma la critica della facoltà della ragione in generale riguardo a tutte le conoscenze alle quali essa può aspirare indipendentemente da ogni esperienza; quindi la decisione della possibilità di una metafisica in generale, e la determinazione così delle fonti, come dell&apos;ambito e dei limiti della medesima, è tutto dedotto da principii.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Mi sono dunque messo per questa via, che era l&apos;unica che rimanesse, e mi lusingo d&apos;aver in essa trovato il modo di abbattere tutti gli errori 
+<text:s/>
+che sinora hanno messo la ragione in discordia con se stessa nel suo uso di là da ogni esperienza. Non mi sono schermito dai problemi che si presentavano, adducendo a scusa l&apos;impotenza della ragione umana; al contrario, li ho completamente spe
+<text:soft-page-break/>
+cificati secondo principio, e, dopo aver scoperto il punto del malinteso della ragione rispetto a se stessa, li ho risoluti, appagandone pienamente le esigenze. Cer
+<text:span text:style-name="T44">
+t
+</text:span>
+o, la mia risposta a quei problemi non è così soddisfacente come avrebbe potuto aspettarla la curiosità dommaticamente fantasticante; perchè ci sarebbe voluta non meno dell&apos;arte magica per accontentarla, ed io non me ne intendo. Se non che, questo non era neppure il fine della destinazione naturale della nostra ragione; ed il dovere della filosofia era di toglier via l&apos;illusione che proveniva da un malinteso, dovesse pure restarne annullata perciò una così apprezzata e cara credenza. In questa impresa ho fatto della precisione nei particolari la mia gran divisa; e ardisco dire che non c&apos;è un solo problema metafisico che qui sia rimasto insoluto, o de
+<text:span text:style-name="T45">
+l
+</text:span>
+la cui soluzione non sia data almeno la chiave. Infatti, la ragion pura è unità così perfetta, che, se il suo principio fosse insufficiente a risolvere anche un solo di tutti i problemi che le son proposti dalla sua stessa natura, sarebbe senz&apos;altro da respingere, poichè in tal caso non potrebbe essere applicato con piena sicurezza a nessuno degli altri.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Dicendo questo, mi par di vedere nel volto del lettore un&apos;aria di fastidio misto a disprezzo per le mie pretese, in apparenza orgogliose e reboanti; e pure sono, senza confronto, più moderate di quelle che ha avanzato ogni autore del solito programma, il quale presume, per esempio, di dimostrarvi la semplicità dell&apos;anima o la necessità di un cominciamento del mondo. Giacchè costo
+<text:soft-page-break/>
+ro si fanno garanti di estendere la ragione umana di là da ogni confine dell&apos;esperienza possibile, laddove io modestamente confesso che ciò supera totalmente il mio potere; e invece mi attengo semplicemente alla ragione stessa e al suo pensiero puro, per la compiuta conoscenza dei quali non devo cercar lontano intorno a me, poichè li trovo in me stesso; di che anche la logica comune mi offre già un esempio: che cioè tutte le sue operazioni semplici si possono enumerare completamente e sistematicamente; soltanto che qui sorge la questione sin dove possa io sperare con esse di conchiuder qualcosa, quando mi venga tolta ogni materia ed appoggio dell&apos;esperienza.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Tanto basta circa la compiutezza per il raggiungimento di ciascuno dei fini, e circa la precisione per il raggiungimento dei fini tutti nel loro insieme; i quali non ci sono imposti da un disegno arbitrario, ma dalla natura della stessa conoscenza, materia della nostra ricerca critica.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Resta a dire della certezza e della chiarezza, due punti che riguardano la forma, come requisiti essenziali che si posson pretendere da un autore che si accinge a un&apos;impresa così lubrica.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Per ciò che riguarda la certezza, mi sono imposto una legge, che cioè in questa specie di considerazioni non è permesso a nessun patto opinare, e tutto ciò che, anche lontanamente, in esse somigli a un&apos;ipotesi, è merce proi
+<text:soft-page-break/>
+bita, che non può esser venduta nè anche al prezzo più vile, ma, appena scoperta, dev&apos;essere sequestrata. Giacchè quello che annunzia ogni conoscenza che deve valere a priori, è che essa vuol essere assolutamente 
+<text:s/>
+necessaria; tanto più una determinazione di tutte le conoscenze pure a priori, la quale deve essere l&apos;unità di misura e perciò anche l&apos;esempio di ogni certezza apodittica (filosofica). Se poi in questo punto ho mantenuto ciò a cui mi sono impegnato, resta interamente rimesso al giudizio del lettore, poichè all&apos;autore spetta solamente di presentare le sue ragioni, e non di giudicare l&apos;effetto di esse su&apos; suoi giudici. Tuttavia, affinchè non vi sia nessuna causa innocente d&apos;indebolimento delle medesime, gli sia permesso di indicare egli stesso quei passi, che potrebbero dar luogo a qualche diffidenza, sebbene si riferiscano a scopi secondari, a fin di prevenire in tempo l&apos;influenza che anche un minimo scrupolo del lettore potrebbe esercitare in seguito sul suo giudizio intorno allo scopo principale.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Io non conosco ricerche relative allo studio della facoltà, che noi chiamiamo intelletto, e insieme, alla determinazione delle regole e dei limiti del suo uso, più importanti di quelle che io ho istituite sotto il titolo di 
+<text:span text:style-name="T11">
+Deduzione dei concetti puri dell&apos;intelletto
+</text:span>
+, nel II capitolo dell&apos;
+<text:span text:style-name="T11">
+Analitica trascendentale
+</text:span>
+; ed esse mi sono costate la maggiore, e, spero, non inutile fatica. Ma questa trattazione alquanto approfondita ha due parti. L&apos;una riguarda gli oggetti dell&apos;intelletto puro, e deve stabilire e spiegare 
+<text:soft-page-break/>
+la validità oggettiva de&apos; suoi concetti a priori; e rientra appunto perciò essenzialmente nei miei fini. L&apos;altra passa a considerare lo stesso intelletto puro secondo la sua possibilità e i poteri conoscitivi su cui esso si fonda, per studiarlo quindi nel rapporto soggettivo; e, sebbene questa esposizione sia d&apos;importanza vitale per lo scopo principale della mia opera, non ne fa tuttavia parte essenziale, perchè la questione principale rimane sempre quella: «che cosa, e fin dove, l&apos;intelletto e la ragione, all&apos;infuori di ogni esperienza, possono conoscere?»; e non già: «com&apos;è possibile la stessa facoltà di conoscere?». Poichè quest&apos;ultima è quasi la ricerca della causa di un dato effetto, e perciò ha in sè qualcosa che somiglia ad una ipotesi (sebbene, in realtà, la cosa non stia proprio così, come mostrerò in altra occasione), così pare che qui sia il caso di prendermi libertà di opinare, e di lasciare al lettore la stessa libertà di opinare altrimenti. Al qual proposito devo richiamare alla mente del lettore, che se la mia deduzione soggettiva non produce in lui quel pieno convincimento che io mi spero, tuttavia quella oggettiva, alla quale principalmente io miro, mantiene tutta la sua forza, come, in ogni caso, è sufficientemente dimostrato da ciò che è detto a pag. 92 e 93
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+34
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Della stessa 1
+<text:span text:style-name="T33">
+a
+</text:span>
+ ediz. tedesca. L&apos;A. si riferisce al 
+<text:span text:style-name="T11">
+Passaggio alla deduzione trascendentale delle categorie
+</text:span>
+, in principio.
+</text:p>
+</text:note-body>
+</text:note>
+.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Infine, per quanto concerne la chiarezza, il lettore ha tutto il diritto di chiedere in primo luogo la chiarezza discorsiva (logica) per concetti, e quindi anche la chiarez
+<text:soft-page-break/>
+za intuitiva (estetica) per intuizioni, ossia per mezzo di esempi o altri chiarimenti 
+<text:span text:style-name="T11">
+in concreto
+</text:span>
+. La prima ho curata abbastanza, ed era l&apos;essenziale pel mio proposito; ma è stata anche causa accidentale ch&apos;io non abbia potuto soddisfare alla seconda esigenza, non veramente così urgente come la prima, ma tuttavia anch&apos;essa legittima. Sono stato quasi sempre irresoluto nel progresso del mio lavoro, come dovessi comportarmi a questo riguardo. Esempi e chiarimenti mi parevano sempre necessari, e venivano quindi anche effettivamente abbondanti e spontanei al loro luogo, nel primo getto dell&apos;opera. Ma, quando vidi la vastità del mio lavoro e la moltitudine degli oggetti che avrei dovuto trattare, e però mi accorsi che la sola esposizione rigida e nuda, puramente scolastica, avrebbe dato già all&apos;opera una grande estensione, giudicai inopportun
+<text:span text:style-name="T46">
+o
+</text:span>
+ allargarla ancora con esempi e chiarimenti, che del resto sono necessari solo dal punto di vista popolare; tanto più che questo lavoro non è punto adatto all&apos;uso del popolo, e gli speciali conoscitori della scienza non hanno tanto bisogno di questa facilitazione, che, se è certamente sempre gradita, qui tuttavia può anche nuocere allo scopo dell&apos;opera. L&apos;abate Terrason veramente diceva
+<text:note text:id="ftn34" text:note-class="footnote">
+<text:note-citation>
+35
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+N. nel 1670 a Lione m. nel 1750 a Parigi. La frase citata da Kant è nella sua opera sulla 
+<text:span text:style-name="T11">
+Filosofia nei suoi influssi su tutti gli oggetti dello spiritoe dei costumi
+</text:span>
+ 1754, trad. ted. 1762.
+</text:p>
+</text:note-body>
+</text:note>
+:―Se si misura la lunghezza del libro non dal numero delle pagine, ma dal tempo che è necessario ad intenderlo, di parecchi libri si potrebbe dire che sarebbero molto più brevi, se non fossero così 
+<text:soft-page-break/>
+brevi.― Ma d&apos;altra parte, se si bada alla comprensione di un vastissimo insieme di conoscenza speculativa, sottomesso tuttavia ad un unico principio, si potrebbe dire con ugual diritto: Certi libri sarebbero stati assai più chiari , se non avessero voluto esser tanto chiari. Gli espedienti della chiarezza servono nelle parti, ma spesso pregiudicano all&apos;insieme, perchè non permettono al lettore di giungere con sufficiente rapidità a una veduta generale del tutto, e coi loro vivaci colori nascondono e rendono irriconoscibili l&apos;articolazione e la struttura del sistema, che è pure quello che più importa, a chi voglia poterne giudicare l&apos;unità e la bellezza.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Ciò potrà, credo, servire di non piccolo allettamento al lettore ed unire il suo sforzo a quello dell&apos;autore, se ha in animo di eseguire, colla guida dell&apos;abbozzo messogli innanzi, compiutamente e durevolmente un&apos;opera grande ed importante. La metafisica, secondo i concetti che qui ne daremo, è la sola fra tutte le scienze che possa ripromettersi, e in breve tempo, e con pochi sforzi, ma associati, siffatta compiutezza, in modo che di poi altro non resti da fare alla posterità, se non adattarla alla maniera didattica ai suoi scopi, senza per altro poterne accrescere menomamente il contenuto. Altro non è infatti che l&apos;inventario di tutto ciò che possediamo per mezzo della ragion pura, sistematicamente ordinato. Nulla qui può sfuggirci, perchè ciò che la ragione trae interamente da se stessa, non può rimaner celato, ma per opera della stessa ragione viene alla luce, appena scoperto il princi
+<text:soft-page-break/>
+pio generale che la governa. L&apos;unità perfetta di tale specie di conoscenze, derivanti cioè da puri concetti, senza che nulla di empirico, o anche solo una particolare intuizione, che conduca a concrete determinazioni, possa influire su di essa per allargarne la cerchia ed accrescerle, rende non solo possibile, ma necessaria questa compiutezza incondizionata. 
+<text:span text:style-name="T11">
+Tecum habita et noris, quam sit tibi curta supellex
+</text:span>
+. 
+<text:span text:style-name="T17">
+Persio
+</text:span>
+<text:span text:style-name="T17">
+<text:note text:id="ftn35" text:note-class="footnote">
+<text:note-citation>
+36
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T11">
+Satir
+</text:span>
+. IV, 52.
+</text:p>
+</text:note-body>
+</text:note>
+</text:span>
+.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Spero anche di dare un tale sistema della ragion pura (speculativa) sotto il titolo: Metafisica della natura; la quale non sarebbe forse per estensione nemmeno la metà, ma per contenuto incomparabilmente più ricca di questa critica, che doveva innanzi tutto esporre le fonti e le condizioni della possibilità di quella, ed era obbligata così a sbarazzare e spianare un terreno tutto gibboso. Qui dal mio lettore spero l&apos;indulgenza e l&apos;imparzialità di un giudice; nell&apos;altra opera, cui accenno, avrò bisogno invece del buon volere e dell&apos;aiuto di un collaboratore; poichè, per quanto compiutamente siano stati esposti nella critica tutti i principii del sistema, nondimeno nell&apos;esecuzione del sistema stesso non deve mancare nessuno dei concetti derivati, i quali non si possono dare a un tratto a priori, ma devono essere indagati a uno a uno; e come nella critica è stata esaurita tutta la sintesi dei concetti, così dovrà accadere dell&apos;analisi; impresa che sarà molto facile, e più uno svago che un lavoro
+<text:note text:id="ftn36" text:note-class="footnote">
+<text:note-citation>
+37
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Seguono due avvertenze, relative a particolari tipografici della 1
+<text:span text:style-name="T47">
+a
+</text:span>
+ ediz.
+</text:p>
+</text:note-body>
+</text:note>
+.
+</text:p>
 <text:h text:style-name="Heading_20_1" text:outline-level="1">
 <text:bookmark-start text:name="__RefHeading___Toc381_2203379893"/>
 <text:s text:c="4"/>
 Prefazione alla seconda edizione
 <text:bookmark-end text:name="__RefHeading___Toc381_2203379893"/>
 </text:h>
+<text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_1" text:outline-level="1">
 <text:bookmark-start text:name="__RefHeading___Toc383_2203379893"/>
 <text:s text:c="3"/>
@@ -3054,7 +3327,7 @@ Sezione prima ― Dello spazio
 Corollari dei concetti precedenti
 <text:bookmark-end text:name="__RefHeading___Toc413_2203379893"/>
 </text:h>
-<text:h text:style-name="P41" text:outline-level="4">
+<text:h text:style-name="P60" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc415_2203379893"/>
 Sezione seconda ― Del tempo
 <text:bookmark-end text:name="__RefHeading___Toc415_2203379893"/>
@@ -3142,7 +3415,7 @@ I. Analitica trascendentale
 I. ― Analitica dei concetti
 <text:bookmark-end text:name="__RefHeading___Toc445_2203379893"/>
 </text:h>
-<text:h text:style-name="P42" text:outline-level="6">
+<text:h text:style-name="P61" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc447_2203379893"/>
 Cap I. ― Del filo conduttore per la scoperta di tutti i concetti puri dell&apos;intelletto
 <text:bookmark-end text:name="__RefHeading___Toc447_2203379893"/>

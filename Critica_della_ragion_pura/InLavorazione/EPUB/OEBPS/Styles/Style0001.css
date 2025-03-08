@@ -137,6 +137,10 @@ text-align : center;
 font-size : 2em;
 }
 
+p.testo_distanziato_basso {
+padding-top: 15em;
+}
+
 p.editore_max{
 text-align : center;
 font-family : sans-serif;
