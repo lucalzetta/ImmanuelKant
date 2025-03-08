@@ -428,6 +428,9 @@
 <style:style style:name="T47" style:family="text">
 <style:text-properties officeooo:rsid="00c7942d"/>
 </style:style>
+<style:style style:name="T48" style:family="text">
+<style:text-properties officeooo:rsid="00cc38ee"/>
+</style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
 </style:style>
@@ -3136,7 +3139,7 @@ Analitica trascendentale
 ; ed esse mi sono costate la maggiore, e, spero, non inutile fatica. Ma questa trattazione alquanto approfondita ha due parti. L&apos;una riguarda gli oggetti dell&apos;intelletto puro, e deve stabilire e spiegare 
 <text:soft-page-break/>
 la validità oggettiva de&apos; suoi concetti a priori; e rientra appunto perciò essenzialmente nei miei fini. L&apos;altra passa a considerare lo stesso intelletto puro secondo la sua possibilità e i poteri conoscitivi su cui esso si fonda, per studiarlo quindi nel rapporto soggettivo; e, sebbene questa esposizione sia d&apos;importanza vitale per lo scopo principale della mia opera, non ne fa tuttavia parte essenziale, perchè la questione principale rimane sempre quella: «che cosa, e fin dove, l&apos;intelletto e la ragione, all&apos;infuori di ogni esperienza, possono conoscere?»; e non già: «com&apos;è possibile la stessa facoltà di conoscere?». Poichè quest&apos;ultima è quasi la ricerca della causa di un dato effetto, e perciò ha in sè qualcosa che somiglia ad una ipotesi (sebbene, in realtà, la cosa non stia proprio così, come mostrerò in altra occasione), così pare che qui sia il caso di prendermi libertà di opinare, e di lasciare al lettore la stessa libertà di opinare altrimenti. Al qual proposito devo richiamare alla mente del lettore, che se la mia deduzione soggettiva non produce in lui quel pieno convincimento che io mi spero, tuttavia quella oggettiva, alla quale principalmente io miro, mantiene tutta la sua forza, come, in ogni caso, è sufficientemente dimostrato da ciò che è detto a pag. 92 e 93
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn34" text:note-class="footnote">
 <text:note-citation>
 34
 </text:note-citation>
@@ -3168,7 +3171,7 @@ in concreto
 o
 </text:span>
  allargarla ancora con esempi e chiarimenti, che del resto sono necessari solo dal punto di vista popolare; tanto più che questo lavoro non è punto adatto all&apos;uso del popolo, e gli speciali conoscitori della scienza non hanno tanto bisogno di questa facilitazione, che, se è certamente sempre gradita, qui tuttavia può anche nuocere allo scopo dell&apos;opera. L&apos;abate Terrason veramente diceva
-<text:note text:id="ftn34" text:note-class="footnote">
+<text:note text:id="ftn35" text:note-class="footnote">
 <text:note-citation>
 35
 </text:note-citation>
@@ -3198,7 +3201,7 @@ Tecum habita et noris, quam sit tibi curta supellex
 Persio
 </text:span>
 <text:span text:style-name="T17">
-<text:note text:id="ftn35" text:note-class="footnote">
+<text:note text:id="ftn36" text:note-class="footnote">
 <text:note-citation>
 36
 </text:note-citation>
@@ -3216,7 +3219,7 @@ Satir
 </text:p>
 <text:p text:style-name="Text_20_body">
 Spero anche di dare un tale sistema della ragion pura (speculativa) sotto il titolo: Metafisica della natura; la quale non sarebbe forse per estensione nemmeno la metà, ma per contenuto incomparabilmente più ricca di questa critica, che doveva innanzi tutto esporre le fonti e le condizioni della possibilità di quella, ed era obbligata così a sbarazzare e spianare un terreno tutto gibboso. Qui dal mio lettore spero l&apos;indulgenza e l&apos;imparzialità di un giudice; nell&apos;altra opera, cui accenno, avrò bisogno invece del buon volere e dell&apos;aiuto di un collaboratore; poichè, per quanto compiutamente siano stati esposti nella critica tutti i principii del sistema, nondimeno nell&apos;esecuzione del sistema stesso non deve mancare nessuno dei concetti derivati, i quali non si possono dare a un tratto a priori, ma devono essere indagati a uno a uno; e come nella critica è stata esaurita tutta la sintesi dei concetti, così dovrà accadere dell&apos;analisi; impresa che sarà molto facile, e più uno svago che un lavoro
-<text:note text:id="ftn36" text:note-class="footnote">
+<text:note text:id="ftn37" text:note-class="footnote">
 <text:note-citation>
 37
 </text:note-citation>
@@ -3238,6 +3241,65 @@ a
 Prefazione alla seconda edizione
 <text:bookmark-end text:name="__RefHeading___Toc381_2203379893"/>
 </text:h>
+<text:p text:style-name="Text_20_body">
+Se l&apos;elaborazione delle conoscenze, che appartengono al dominio della ragione, segua o pur no la via sicura di una scienza, si può giudicare subito dal risultato. Quando essa, dopo aver fatto molti apparecchi e preparativi, appena viene allo scopo, cade in imbarazzo, o, per raggiunger quello, deve di nuovo e più volte rifarsi da capo e mettersi per altra via; se a un tempo non è possibile mettere d&apos;accordo i diversi collaboratori sul modo col quale debba essere perseguito lo scopo comune; allora sempre si può esser convinti, che un tale studio è ancor ben lontano dal seguire la via sicura propria di una scienza, ed è invece un semplice brancolamento; ed è merito della ragione scoprire possibilmente questa via, dovesse pure ripudiarsi come inutile ciò che era contenuto nello scopo, quale prima veniva senza riflessione concepito.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Che la logica abbia seguito questo sicuro cammino fin dai tempi più antichi, si rileva dal fatto che, a cominciare da Aristotele, non ha dovuto fare nessun passo indietro, se non si vogliano considerare come correzione l&apos;abbandono di qualche superflua sottigliezza o la più chiara determinazione della sua esposizione; ciò che appartiene più all&apos;eleganza, che alla sicurezza di una scienza. Notevole è ancora il fatto che sin oggi la logica non 
+<text:soft-page-break/>
+ha potuto fare un passo innanzi, di modo che, secondo ogni apparenza, essa è da ritenersi come chiusa e completa. Infatti, se taluni moderni han preteso di estenderla aggiungendovi alcuni capitoli, o psicologici, sulle diverse facoltà conoscitive (l&apos;immaginazione, lo spirito); o metafisici, sull&apos;origine della conoscenza o sulle specie diverse di certezza secondo la diversità degli oggetti (idealismo, scetticismo, ecc.); o antropologici, sui pregiudizi (loro cause e rimedi): ciò prova la loro ignoranza della natura propria di questa scienza. Non è un accrescimento, ma uno storpiamento delle scienze, quando se ne oltrepassano i reciproci confini; ma il confine della logica è a sufficienza determinato da ciò, che essa è una scienza, la quale espone per disteso e rigorosamente prova soltanto le regole formali di tutto il pensiero, sia questo a priori od empirico, abbia qualsivoglia origine ed oggetto, trovi nel nostro spirito ostacoli accidentali o naturali.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Se la logica è tanto ben riuscita, deve questo vantaggio semplicemente alla sua delimitazione, ond&apos;essa è autorizzata, o, meglio, obbligata, ad astrarre da tutti gli oggetti della conoscenza e dalla loro differenza; sicchè l&apos;intelletto non deve nella logica occuparsi d&apos;altro che di se stesso e della propria forma. Doveva naturalmente riuscire assai più difficile per la ragione entrare nella via sicura della scienza, quando avesse avuto da fare non solo con se stessa, ma ancora cogli oggetti; quindi la logica, in quanto propedeutica, non costituisce quasi altro 
+<text:soft-page-break/>
+che il vestibolo delle scienze, e, quando si parla di conoscenze, si presuppone bensì una logica pel giudizio di esse, ma il loro contenuto deve cercarsi nelle scienze propriamente ed oggettivamente dette.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Ora, in quanto in queste deve aver parte la ragione, è necessario che in esse qualcosa sia conosciuto a priori; e la loro conoscenza si può riferire al loro oggetto in doppia maniera: o semplicemente per determinar questo e il suo concetto (che deve essere dato d&apos;altronde), o per realizzarlo. L&apos;una è conoscenza teoretica della ragione, l&apos;altra pratica. Dell&apos;una e dell&apos;altra è necessario che la parte pura, ampio o ristretto che ne sia il contenuto, cioè quella, nella quale la ragione determina il suo oggetto interamente a priori, sia esposta dapprima da sola, e ciò che proviene da altre fonti non vi sia menomamente mescolato; giacchè è cattiva amministrazione spendere alla cieca tutti gli introiti, senza poter poi distinguere, quando vengano meno le rendite, qual parte di esse possa sopportare le spese e quale richie
+<text:span text:style-name="T48">
+da
+</text:span>
+ che si limitino.
+</text:p>
+<text:p text:style-name="Text_20_body">
+La matematica e la fisica sono le due conoscenze teoretiche della ragione, che devono determinare a priori il loro oggetto: la prima in modo del tutto puro, la seconda almeno in parte, ma tenendo conto ancora di altre 
+<text:s/>
+fonti di conoscenze oltre a quella della ragione.
+</text:p>
+<text:p text:style-name="Text_20_body">
+La matematica dai tempi più remoti, a cui giunge la storia della ragione umana, è entrata, col meraviglioso popolo dei Greci, sulla via sicura della scienza. Soltanto, 
+<text:soft-page-break/>
+non bisogna credere che le sia riuscito così facile come alla logica, dove la ragione ha da fare solo con se stessa, per trovare, o meglio aprire a se medesima, la via regia; io credo piuttosto che a lungo (specialmente presso gli Egizi) sia rimasta ai tentativi incerti, e che questa trasformazione definitiva debba essere attribuita a una rivoluzione, che mise in effetto la felice idea d&apos;un uomo solo, con una ricerca tale che, dopo di essa, la via da seguire non poteva più essere un&apos;incognita, e la strada sicura della scienza era ormai aperta e tracciata per tutti i tempi e per infinito tratto. La storia di questa rivoluzione della maniera di pensare, la quale è ben più importante della scoperta della via al famoso Capo, e quella del fortunato mortale che la portò a compimento, non ci è stata tramandata. Ma la leggenda che ci riferisce Diogene Laerzio, il quale nomina il supposto scopritore dei più elementari principii di dimostrazione geometrica, che, secondo il comune giudizio, non han bisogno di dimostrazione, prova che il ricordo della rivoluzione che si compì col primo passo nella scoperta della nuova via, dovè sembrare straordinariamente importante ai matematici, e perciò divenne indimenticabile. Il primo che dimostrò il triangolo isoscele
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+38
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Vedi 
+<text:span text:style-name="T17">
+Euclide
+</text:span>
+, 
+<text:span text:style-name="T11">
+Elem
+</text:span>
+., lib. I, prop. 5. In tutte le edizioni originali, per un trascorso di penna, si legge 
+<text:span text:style-name="T11">
+gleichseitigen
+</text:span>
+ (equilatero) invece di 
+<text:span text:style-name="T11">
+gleichschenklichten
+</text:span>
+ (isoscele), come avverte lo stesso Kant in una lettera a Cristoforo Gottofredo Schütz del 25 gennaio (giugno?) 1787.
+</text:p>
+</text:note-body>
+</text:note>
+ (si chiamasse Talete o come si voglia), fu colpito da una gran luce, perchè comprese ch&apos;egli non doveva seguire a passo a passo ciò 
+<text:soft-page-break/>
+che vedeva nella figura, nè attaccarsi al semplice concetto di questa figura per apprenderne le proprietà; ma, per mezzo di ciò che per i suoi stessi concetti pensava e rappresentava a se stesso (per costruzione), produrla; e che, per apprenderne qualche cosa a priori, non doveva attribuire alla cosa se non ciò che scaturiva necessariamente da quello che, secondo il suo concetto, vi aveva posto egli stesso.
+</text:p>
 <text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_1" text:outline-level="1">
 <text:bookmark-start text:name="__RefHeading___Toc383_2203379893"/>
