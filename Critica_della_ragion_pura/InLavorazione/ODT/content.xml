@@ -431,6 +431,9 @@
 <style:style style:name="T48" style:family="text">
 <style:text-properties officeooo:rsid="00cc38ee"/>
 </style:style>
+<style:style style:name="T49" style:family="text">
+<style:text-properties officeooo:rsid="00d47810"/>
+</style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
 </style:style>
@@ -3270,7 +3273,7 @@ fonti di conoscenze oltre a quella della ragione.
 La matematica dai tempi più remoti, a cui giunge la storia della ragione umana, è entrata, col meraviglioso popolo dei Greci, sulla via sicura della scienza. Soltanto, 
 <text:soft-page-break/>
 non bisogna credere che le sia riuscito così facile come alla logica, dove la ragione ha da fare solo con se stessa, per trovare, o meglio aprire a se medesima, la via regia; io credo piuttosto che a lungo (specialmente presso gli Egizi) sia rimasta ai tentativi incerti, e che questa trasformazione definitiva debba essere attribuita a una rivoluzione, che mise in effetto la felice idea d&apos;un uomo solo, con una ricerca tale che, dopo di essa, la via da seguire non poteva più essere un&apos;incognita, e la strada sicura della scienza era ormai aperta e tracciata per tutti i tempi e per infinito tratto. La storia di questa rivoluzione della maniera di pensare, la quale è ben più importante della scoperta della via al famoso Capo, e quella del fortunato mortale che la portò a compimento, non ci è stata tramandata. Ma la leggenda che ci riferisce Diogene Laerzio, il quale nomina il supposto scopritore dei più elementari principii di dimostrazione geometrica, che, secondo il comune giudizio, non han bisogno di dimostrazione, prova che il ricordo della rivoluzione che si compì col primo passo nella scoperta della nuova via, dovè sembrare straordinariamente importante ai matematici, e perciò divenne indimenticabile. Il primo che dimostrò il triangolo isoscele
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn38" text:note-class="footnote">
 <text:note-citation>
 38
 </text:note-citation>
@@ -3299,6 +3302,65 @@ gleichschenklichten
  (si chiamasse Talete o come si voglia), fu colpito da una gran luce, perchè comprese ch&apos;egli non doveva seguire a passo a passo ciò 
 <text:soft-page-break/>
 che vedeva nella figura, nè attaccarsi al semplice concetto di questa figura per apprenderne le proprietà; ma, per mezzo di ciò che per i suoi stessi concetti pensava e rappresentava a se stesso (per costruzione), produrla; e che, per apprenderne qualche cosa a priori, non doveva attribuire alla cosa se non ciò che scaturiva necessariamente da quello che, secondo il suo concetto, vi aveva posto egli stesso.
+</text:p>
+<text:p text:style-name="Text_20_body">
+La fisica giunse ben più lentamente a trovare la via maestra della scienza; giacchè non è passato più di un secolo e mezzo circa dacchè la proposta del profondo Bacone di Verulamio, in parte provocò, in parte, poichè si era già sulla traccia di essa, accelerò la scoperta, che può allo stesso modo essere spiegata solo da una rapida rivoluzione precedente nel modo di pensare. Io qui prenderò in considerazione la fisica solo in quanto è fondata su principii empirici.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Quando Galilei fece rotolare le sue sfere su di un piano inclinato, con un peso scelto da lui stesso, e Torricelli fece sopportare all&apos;aria un peso, che egli stesso sapeva di già uguale a quello di una colonna d&apos;acqua conosciuta, e, più tardi, Stahl trasformò i metalli in calce, e questa di nuovo in metallo, togliendovi o aggiungendovi qualche cosa
+<text:note text:id="ftn39" text:note-class="footnote">
+<text:note-citation>
+39
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Non seguo qui, in maniera precisa, il filo storico del metodo sperimentale, i cui primi inizi non sono del resto ben noti.
+</text:p>
+</text:note-body>
+</text:note>
+, fu una rivelazione luminosa per tutti gl&apos;investigatori della natura. Essi compresero che la ragione vede solo ciò che lei stessa produce secondo il proprio dise
+<text:soft-page-break/>
+gno, e che, con principii de&apos; suoi giudizi secondo leggi immutabili, deve essa entrare innanzi e costringere la natura a rispondere alle sue domande; e non lasciarsi guidare da lei, per dir così, alle redini; perchè altrimenti le nostre osservazioni, fatte a caso e senza un disegno prestabilito, non metterebbero capo alla legge necessaria, che la ragione cerca e di cui ha bisogno. È necessario dunque che la ragione si presenti alla natura avendo in una mano i principii, secondo i quali soltanto è possibile che fenomeni concordanti abbian valore di legge, e nell&apos;altra l&apos;esperimento, che essa ha immaginato secondo questi principii, per venir istruita da lei; ma non in qualità di scolaro che stia a sentire tutto ciò che piaccia al maestro; anzi di giudice, che dal suo seggio costringa i testimoni a rispondere alle domande che egli loro rivolge. La fisica pertanto è debitrice di così felice rivoluzione, compiutasi nel suo metodo, solo a questa idea, che la ragione deve (senza fantasticare intorno ad essa) cercare nella natura, conformemente a quello che essa stessa vi pone , ciò che deve apprenderne, e di cui nulla potrebbe da se stessa sapere. Così la fisica ha potuto prima d&apos;ogni altra disciplina esser posta sulla via sicura della scienza, laddove da tanti secoli essa non era stato altro che un semplice brancolamento.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Alla metafisica, conoscenza speculativa razionale, affatto isolata, che si eleva assolutamente al di sopra degli insegnamenti dell&apos;esperienza, e mediante semplici concetti (non, come la matematica, per l&apos;applicazione di 
+<text:soft-page-break/>
+questi all&apos;intuizione), nella quale dunque la ragione dev&apos;essere scolara 
+<text:span text:style-name="T49">
+d
+</text:span>
+i se stessa, non è sinora toccata la fortuna di potersi avviare per la via sicura della scienza; sebbene essa sia più antica di tutte le altre scienze, e sopravviverebbe, anche quando le altre dovessero tutte quante essere inghiottite nel vortice di una barbarie che tutto devastasse. Giacchè la ragione si trova in essa continuamente in imbarazzo, anche quando vuole scoprire (com&apos;essa presume) a priori quelle leggi, che la più comune esperienza conferma. In essa si deve innumerevoli volte rifar la via, poichè si trova che quella già seguita non conduce alla meta; e, quanto all&apos;accordo dei suoi cultori nelle loro affermazioni, essa è così lontana dall&apos;averlo raggiunto, che è piuttosto un campo di lotta: il quale par proprio un campo destinato ad esercitar le forze antagonistiche, in cui nemmeno un campione ha mai potuto impadronirsi 
+<text:s/>
+della più piccola parte di terreno e fondar nella sua vittoria un durevole possesso. Non v&apos;è dunque alcun dubbio, che il suo procedimento finora sia stato un semplice andar a tentoni e, quel che è peggio, tra semplici concetti.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Da che deriva dunque che essa non abbia ancora potuto trovare il cammino sicuro della scienza? Egli è forse impossibile? Perchè dunque la natura ha messo nella nostra ragione questa infaticabile tendenza, che gliene fa cercare la traccia, come se fosse per lei l&apos;interesse più grave fra tutti? Ma v&apos;ha di più: quanto poco motivo abbiamo noi di ripor fede nella nostra ragione, se essa non 
+<text:soft-page-break/>
+solo ci abbandona in uno dei più importanti oggetti della nostra curiosità, ma ci attira con lusinghe, e alla fine c&apos;inganna? Oppure, se fino ad oggi abbiamo deviato, di quali indizi possiamo profittare, per sperare di essere più fortunati che gli altri finora non siano stati, rinnovando la ricerca?
+</text:p>
+<text:p text:style-name="Text_20_body">
+Io dovevo pensare che gli esempi della matematica e della fisica, che sono ora ciò che sono per effetto di una rivoluzione, fossero abbastanza degni di nota, per riflettere sul punto essenziale del cambiamento di metodo, che è stato loro di tanto vantaggio, e per imitarlo qui, almeno come tentativo, per quanto l&apos;analogia delle medesime, come conoscenze razionali, con la metafisica ce lo permette. Sinora si è ammesso che ogni nostra conoscenza dovesse regolarsi sugli oggetti; ma tutti i tentativi di stabilire intorno ad essi qualche cosa a priori, per mezzo di concetti, coi quali si sarebbe potuto allargare la nostra conoscenza, assumendo un tal presupposto, non riuscirono a nulla. Si faccia, finalmente, la prova di vedere se saremo più fortunati nei problemi della metafisica, facendo l&apos;ipotesi che gli oggetti debbano regolarsi sulla nostra conoscenza: ciò che si accorda meglio colla desiderata possibilità d&apos;una conoscenza a priori, che stabilisca qualcosa relativamente agli oggetti, prima che essi ci siano dati. Qui è proprio come per la prima idea di Copernico; il quale, vedendo che non poteva spiegare i movimenti celesti ammettendo che tutto l&apos;esercito degli astri rotasse intorno allo spettatore, cercò se non potesse 
+<text:soft-page-break/>
+riuscir meglio facendo girare l&apos;osservatore, e lasciando invece stare gli astri. Ora in metafisica si può veder di fare un tentativo simile per ciò che riguarda l&apos;intuizione degli oggetti. Se l&apos;intuizione si deve regolare sulla natura degli oggetti, non vedo punto come si potrebbe saperne qualcosa a priori; se l&apos;oggetto invece (in quanto oggetto del senso) si regola sulla natura della nostra facoltà intuitiva, mi posso benissimo rappresentare questa possibilità. Ma, poichè non posso arrestarmi a intuizioni di questo genere, se esse devono diventare conoscenze; e poichè è necessario che io le riferisca, in quanto rappresentazioni, a qualcosa che ne sia l&apos;oggetto e che io determini mediante quelle; così non mi rimane 
+<text:s/>
+che ammettere: o che i concetti, coi quali io compio questa determinazione, si regolino anch&apos;essi sull&apos;oggetto, e in questo caso io mi trovo nella stessa difficoltà, del modo cioè in cui possa conoscere qualcosa a priori; oppure gli oggetti o, ciò che è lo stesso, l&apos;esperienza, nella quale soltanto essi sono conosciuti (in quanto oggetti dati), si regolino su questi concetti; ed io vedo subito una via d&apos;uscita più facile, poichè l&apos;esperienza stessa è un modo di conoscenza, che richiede il concorso dell&apos;intelletto, del quale devo presupporre in me stesso la regola, prima che gli oggetti mi sieno dati, e perciò a priori; e questa regola si esprime in concetti a priori, sui quali tutti gli oggetti dell&apos;esperienza devono necessariamente regolarsi, e coi quali devono accordarsi. Per ciò che riguarda gli oggetti, in quanto essi sono semplicemente pensati dalla ragione, ossia necessariamente, ma non possono 
+<text:soft-page-break/>
+esser dati punto nell&apos;esperienza (almeno come la ragione li pensa), i tentativi di pensarli (devono pur potersi pensare!) forniranno quindi una eccellente pietra di paragone di quel che noi assumiamo come il mutato metodo nel modo di pensare, ed è: che noi delle cose non conosciamo a priori, se non quello stesso che noi stessi vi mettiamo
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+40
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Questo metodo, imitato dal fisico, consiste, dunque, in ciò: ricercare gli elementi della ragion pura in quello che può confermare o contraddire per mezzo di un esperimento. Ora, non v&apos;è esperienza possibile (come c&apos;è in fisica), che permetta di verificare, quanto ai loro oggetti, le proposizioni della ragion pura, soprattutto quando queste si avventurano di là dai limiti di ogni esperienza possibile; non si potrà dunque far questa verifica se non con concetti e principii, che noi ammettiamo a priori, prendendoli in tal maniera, che questi medesimi oggetti possano essere considerati, da un lato come oggetti del senso, dall&apos;altro come oggetti che soltanto si pensa, tutt&apos;al più per la ragione isolata, e sforzantesi di elevarsi al di sopra dei limiti dell&apos;esperienza; e perciò da due diversi punti di vista. Ora, se si trova che, considerando le cose da questo duplice punto di vista, ha luogo l&apos;accordo col principio della ragion pura, e che, considerandoli da un solo punto di vista, la ragione viene necessariamente in conflitto con se stessa, allora l&apos;esperimento decide per la esattezza di tal distinzione. (
+<text:span text:style-name="T11">
+N. di K.
+</text:span>
+)
+</text:p>
+</text:note-body>
+</text:note>
+.
 </text:p>
 <text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_1" text:outline-level="1">
