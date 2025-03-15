@@ -58,3 +58,4 @@ gio 13 mar 2025, 16:59:03 Avanzamento prefazione alla seconda edizione e aggiorn
 
 ven 14 mar 2025, 18:15:02 Conclusione prefazione alla seconda edizione, partenza dalla pagina 56 del pdf.
 
+sab 15 mar 2025, 17:31:50 Allineato l'odt. Il file di Libre Office Writer è ora alla sua REV 20.

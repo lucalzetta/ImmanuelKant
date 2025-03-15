@@ -3,16 +3,16 @@
 <office:settings>
 <config:config-item-set config:name="ooo:view-settings">
 <config:config-item config:name="ViewAreaTop" config:type="long">
-824230
+893468
 </config:config-item>
 <config:config-item config:name="ViewAreaLeft" config:type="long">
 0
 </config:config-item>
 <config:config-item config:name="ViewAreaWidth" config:type="long">
-38049
+35535
 </config:config-item>
 <config:config-item config:name="ViewAreaHeight" config:type="long">
-21909
+17967
 </config:config-item>
 <config:config-item config:name="ShowRedlineChanges" config:type="boolean">
 true
@@ -26,22 +26,22 @@ false
 view2
 </config:config-item>
 <config:config-item config:name="ViewLeft" config:type="long">
-5771
+7110
 </config:config-item>
 <config:config-item config:name="ViewTop" config:type="long">
-842786
+905376
 </config:config-item>
 <config:config-item config:name="VisibleLeft" config:type="long">
 0
 </config:config-item>
 <config:config-item config:name="VisibleTop" config:type="long">
-824230
+893468
 </config:config-item>
 <config:config-item config:name="VisibleRight" config:type="long">
-38047
+35534
 </config:config-item>
 <config:config-item config:name="VisibleBottom" config:type="long">
-846138
+911433
 </config:config-item>
 <config:config-item config:name="ZoomType" config:type="short">
 0
@@ -237,7 +237,7 @@ true
 true
 </config:config-item>
 <config:config-item config:name="Rsid" config:type="int">
-15863088
+16305483
 </config:config-item>
 <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
 <config:config-item config:name="FieldAutoUpdate" config:type="boolean">
