@@ -11,12 +11,18 @@ border-width : 0;
 margin : 0;
 padding : 0;
 }
+
 footer {
 padding-top : 17em;
 }
 h1 {
 text-align : center;
 }
+
+h1 > sup > a {
+font-size : 0.4em;
+}
+
 h2 {
 text-align : center;
 }
