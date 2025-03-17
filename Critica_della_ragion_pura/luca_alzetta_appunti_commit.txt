@@ -62,3 +62,5 @@ sab 15 mar 2025, 17:31:50 Allineato l'odt. Il file di Libre Office Writer è ora
 
 dom 16 mar 2025, 11:14:36 Inizio I paragafo dell'introduzione. Completato I paragrafo iniziato II paragrafo dell'introduzione. Partenza dalla pagina 61 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 21.
 
+lun 17 mar 2025, 10:12:11 Inizio III paragafo dell'introduzione. Completato III paragrafo iniziato IV paragrafo dell'introduzione. Partenza dalla pagina 66 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 22.
+

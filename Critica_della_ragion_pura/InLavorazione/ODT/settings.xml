@@ -3,7 +3,7 @@
 <office:settings>
 <config:config-item-set config:name="ooo:view-settings">
 <config:config-item config:name="ViewAreaTop" config:type="long">
-946596
+1012636
 </config:config-item>
 <config:config-item config:name="ViewAreaLeft" config:type="long">
 0
@@ -29,19 +29,19 @@ view2
 19817
 </config:config-item>
 <config:config-item config:name="ViewTop" config:type="long">
-961655
+1012885
 </config:config-item>
 <config:config-item config:name="VisibleLeft" config:type="long">
 0
 </config:config-item>
 <config:config-item config:name="VisibleTop" config:type="long">
-946596
+1012636
 </config:config-item>
 <config:config-item config:name="VisibleRight" config:type="long">
 35534
 </config:config-item>
 <config:config-item config:name="VisibleBottom" config:type="long">
-964561
+1030601
 </config:config-item>
 <config:config-item config:name="ZoomType" config:type="short">
 0
@@ -237,7 +237,7 @@ true
 true
 </config:config-item>
 <config:config-item config:name="Rsid" config:type="int">
-17121891
+17805448
 </config:config-item>
 <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
 <config:config-item config:name="FieldAutoUpdate" config:type="boolean">
