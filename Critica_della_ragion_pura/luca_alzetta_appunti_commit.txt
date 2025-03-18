@@ -66,4 +66,6 @@ lun 17 mar 2025, 10:12:11 Inizio III paragafo dell'introduzione. Completato III 
 
 mar 18 mar 2025, 08:33:23 Avanzamento IV paragafo dell'introduzione. Completato IV paragrafo dell'introduzione. Partenza dalla pagina 69 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 23.
 
+mar 18 mar 2025, 23:32:10 Inizio V paragafo dell'introduzione. Partenza dalla pagina 72 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 24.
+
 
