@@ -495,6 +495,15 @@
 <style:style style:name="T67" style:family="text">
 <style:text-properties officeooo:rsid="011c4290"/>
 </style:style>
+<style:style style:name="T68" style:family="text">
+<style:text-properties officeooo:rsid="012d6937"/>
+</style:style>
+<style:style style:name="T69" style:family="text">
+<style:text-properties officeooo:rsid="012dfd8e"/>
+</style:style>
+<style:style style:name="T70" style:family="text">
+<style:text-properties officeooo:rsid="012f87c1"/>
+</style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
 </style:style>
@@ -4024,7 +4033,7 @@ non empirici, perchè portano seco quella necessità, che dalla esperienza non s
 </text:p>
 <text:p text:style-name="Text_20_body">
 Veramente a prima vista si dovrebbe pensare che la proposizione 7+5=12 sia una proposizione semplicemente analitica, risultante pel principio di contraddizione dal concetto di una somma di sette e di cinque. Ma, se si considera la cosa più da vicino, si trova che il concetto della somma di 7 e 5 non racchiude altro che l&apos;unione di due numeri in un solo, senza che perciò venga assolutamente pensato qual sia questo numero unico che raccoglie gli altri due. Il concetto di dodici non è punto pensato già pel fatto che io penso semplicemente quella unione di sette e di cinque, e finchè io analizzerò il mio concetto di una tal possibile somma, dodici. Bisogna oltrepassare questi concetti, ricorrendo all&apos;intuizione corrispondente ad uno dei numeri, come, ad es., alle cinque dita della mano, o (come Segner nella sua aritmetica
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn57" text:note-class="footnote">
 <text:note-citation>
 57
 </text:note-citation>
@@ -4048,7 +4057,7 @@ a
 ) a cinque punti, e aggiungendo successivamente al concetto di sette le unità del numero cinque date nell&apos;intuizione. Infatti io prendo prima il numero 7, e, ricorrendo pel numero 5 all&apos;aiuto delle dita della mia mano come intuizione, le unità, che prima ho prese tutte insieme per formare il numero 5, ora le aggiungo in quella mia imma
 <text:soft-page-break/>
 gine ad una ad una al numero 7, e vedo così nascere il numero 12. Che 5 si dovesse aggiungere a 7, l&apos;avevo in verità pensato nel concetto di una somma 7+5; ma non che questa somma fosse uguale a 12
-<text:note text:id="ftn57" text:note-class="footnote">
+<text:note text:id="ftn58" text:note-class="footnote">
 <text:note-citation>
 58
 </text:note-citation>
@@ -4067,12 +4076,89 @@ a
 <text:p text:style-name="Text_20_body">
 Tanto meno è analitico un principio qualunque della geometria pura. Che la linea retta sia la più breve fra due punti, è una proposizione sintetica. Perchè il mio concetto di retta non contiene niente di quantità, ma solo una qualità. il concetto della più breve è dunque interamente aggiunto, e non può essere ricavato con nessuna analisi da quello della linea retta. Qui deve perciò chiamarsi in aiuto l&apos;intuizione, mediante la quale solamente è possibile la sintesi.
 </text:p>
-<text:p text:style-name="Text_20_body"/>
+<text:p text:style-name="Text_20_body">
+Alcune poche proposizioni fondamentali
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+59
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T11">
+Grundsätze
+</text:span>
+, che in generale da noi si traduce principii.
+</text:p>
+</text:note-body>
+</text:note>
+ presupposte dai geometri sono, in verità, realmente analitiche e riposano sul principio di contraddizione: ma è anche vero che non servono, in quanto proposizioni identiche, se non alla catena del metodo, e non han valore di pricipii; tali sono, per esempio, 
+<text:span text:style-name="T11">
+a = a
+</text:span>
+, il tutto è uguale a se stes
+<text:soft-page-break/>
+so; oppure 
+<text:span text:style-name="T11">
+a
+</text:span>
+ + 
+<text:span text:style-name="T11">
+b
+</text:span>
+ &gt; 
+<text:span text:style-name="T11">
+a
+</text:span>
+, ossia il tutto è maggiore della parte. E pure anche queste stesse, sebbene valgano in base a semplici concetti, in matematica vengono ammesse solo perchè possono esser rappresentate per intuizione. Quel che in questo caso ci fa credere comunemente, che il predicato di tali giudizi apodittici si trovi già nel nostro concetto, e però il giudizio sia analitico, è soltanto un&apos;ambiguità dell&apos;espressione. Cioè noi dobbiamo aggiungere un certo predicato ad un concetto dato, e questa necessità tocca già i 
+<text:s/>
+concetti. Ma la questione non è che cosa dobbiamo pensare in aggiunta ad un concetto dato, ma che cosa realmente pensiamo in esso sebbene solo oscuramente; ed è chiaro che il predicato aderisce bensì necessariamente a quei concetti, ma non perchè pensato nello stesso concetto, sibbene in virtù di un&apos;intuizione, la quale deve aggiungersi al concetto.
+</text:p>
+<text:p text:style-name="Text_20_body">
+2. La fisica (
+<text:span text:style-name="T11">
+Physica
+</text:span>
+) comprende in se come pricipii giudizi sintetici a priori. Addurrò in esempio soltanto un paio di proposizioni, come quella che in tutti i cangiamenti del mondo corporeo la 
+<text:s/>
+quantità della materia resta invariata; oppure quest&apos;altra, che in ogni comunicazione di movimento l&apos;azione e la reazione saranno sempre uguali tra loro. In entrambe non soltanto è chiara la loro necessità, la loro origine a priori, ma è chiaro altresì che sono proposizioni sintetiche. Giacchè nel concetto della materia io non penso alla permanenza, ma solo alla sua presenza nello spazio, in quanto lo riempie. Perciò io oltrepasso realmente il concetto della materia, per ag
+<text:soft-page-break/>
+giungervi a priori qualche cosa che in quel concetto non pensavo. La proposizione dunque non è analitica ma sintetica, e tuttavia pensata a priori; e lo stesso si dica delle altre proposizioni della parte pura della fisica.
+</text:p>
+<text:p text:style-name="Text_20_body">
+3. Nella metafisica, considerando questa scienza solo come una scienza finora soltanto tentata, ma tuttavia indispensabile per la natura della ragione umana, devono esser contenute conoscenze sintetiche a priori, e non si tratta perciò di semplicemente scomporre e chiarire analiticamente i concetti che ci formiamo a priori delle cose, ma vogliamo estendere a priori la nostra conoscenza; e a tal uopo dobbiamo servir
+<text:span text:style-name="T68">
+c
+</text:span>
+i di tali principii che aggiungano al concetto dato qualche cosa che non vi era contenuto; e mediante giudizi sintetici a priori ci spingiamo fin là, dove l&apos;esperienza non può seguirci: per esempio, nella proposizione: il mondo deve avere un primo principio ecc.; e così la metafisica consta dunque, almeno secondo il suo scopo, di mere proposizioni sintetiche a priori.
+</text:p>
 <text:h text:style-name="Heading_20_4" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc395_2203379893"/>
 VI. Problema generale della ragion pura
 <text:bookmark-end text:name="__RefHeading___Toc395_2203379893"/>
 </text:h>
+<text:p text:style-name="Text_20_body">
+È già un bel guadagno quando si può raccogliere una quantità di ricerche sotto la formola di problema unico. Giacchè per tal modo non solo vien agevolato il nostro proprio lavoro in quanto ess
+<text:span text:style-name="T69">
+o
+</text:span>
+ è esattamente determinato, ma anche ad ogni altro che voglia esaminarlo è reso facile il giudizio se abbiamo fatto abbastanza o no pel nostro proposito. Il problema proprio della ragion pura è 
+<text:soft-page-break/>
+dunque contenuto nella domanda: COME SONO POSSIBILI GIUDIZI SINTETICI A PRIORI?
+</text:p>
+<text:p text:style-name="Text_20_body">
+La ragione, per la quale la metafisica è rimasta fin qui in una condizione oscillante di incertezza e di contraddizione, è da cercarsi esclusivamente nel fatto, che non s&apos;è posto mente in passato a questo problema, e nemmeno forse alla differenza dei giudizi analitici e sintetici. Intanto la vita e la morte della metafisica dipende dalla soluzione di questo problema, o da una dimostrazione soddisfacente che la possibilità, che essa desidera saper definita, in realtà non c&apos;è. David Hume, che fra tutti i filosofi ha affront
+<text:span text:style-name="T70">
+ato
+</text:span>
+ più da vicino questo problema, ma che rimase lungi dal pensarlo con sufficiente precisione e in tutta la sua universalità, e si fermò semplicemente alla proposizione sintetica del nesso dell&apos;effetto con la sua causa (
+<text:span text:style-name="T11">
+principium causalitatis
+</text:span>
+), credette di poter concludere che tale principio a priori fosse assolutamente impossibile; e, secondo le sue conclusioni, ciò che chiamiamo metafisica, verrebbe ad essere una semplice illusione d&apos;una presunta cognizione razionale; illusione, che essa in fatto ha preso a prestito dall&apos;esperienza, e che dall&apos;abitudine ha ricevuto l&apos;apparenza della necessità. Alla quale asserzione, distruttiva di ogni filosofia, pure egli non si sarebbe mai lasciato andare, se avesse avuto innanzi agli occhi il problema nostro nella sua universalità: poichè allora avrebbe visto che, secondo i suoi argomenti, non potrebbe esserci più neppure una matematica pura, perchè questa comprende certamente principii 
+<text:soft-page-break/>
+sintetici a priori: affermazione dalla quale il suo buon senso allora lo avrebbe ben preservato.
+</text:p>
+<text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_4" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc397_2203379893"/>
 VII. Idea e partizione di una scienza speciale, sotto nome di Critica della ragion Pura
