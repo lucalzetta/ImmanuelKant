@@ -71,3 +71,5 @@ mar 18 mar 2025, 23:32:10 Inizio V paragafo dell'introduzione. Partenza dalla pa
 
 gio 20 mar 2025, 08:05:01 Avanzamento V paragafo dell'introduzione. Partenza dalla pagina 74 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 25.
 
+sab 22 mar 2025, 13:44:01 Avanzamento VI paragafo dell'introduzione. Coclusine del VI paragrafo e avvio del VII. Conclusione del VII paragrafo e chiusura del file: pagina_12_introduzione_libro.xhtml. Partenza dalla pagina 77 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 26.
+

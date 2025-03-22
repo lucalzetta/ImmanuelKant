@@ -294,6 +294,12 @@
 <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_6">
 <style:text-properties officeooo:paragraph-rsid="0026ef34"/>
 </style:style>
+<style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:text-properties officeooo:paragraph-rsid="01368e94"/>
+</style:style>
+<style:style style:name="P65" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+</style:style>
 <style:style style:name="T1" style:family="text">
 <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none"/>
 </style:style>
@@ -346,163 +352,196 @@
 <style:text-properties fo:font-style="italic" officeooo:rsid="00e83efb" style:font-style-asian="italic" style:font-style-complex="italic"/>
 </style:style>
 <style:style style:name="T18" style:family="text">
-<style:text-properties officeooo:rsid="005207ad"/>
+<style:text-properties fo:font-style="italic" officeooo:rsid="014e12cd" style:font-style-asian="italic" style:font-style-complex="italic"/>
 </style:style>
 <style:style style:name="T19" style:family="text">
-<style:text-properties fo:font-variant="small-caps"/>
+<style:text-properties officeooo:rsid="005207ad"/>
 </style:style>
 <style:style style:name="T20" style:family="text">
-<style:text-properties fo:font-variant="small-caps" officeooo:rsid="006b6dae"/>
+<style:text-properties fo:font-variant="small-caps"/>
 </style:style>
 <style:style style:name="T21" style:family="text">
-<style:text-properties officeooo:rsid="005f38b4"/>
+<style:text-properties fo:font-variant="small-caps" officeooo:rsid="006b6dae"/>
 </style:style>
 <style:style style:name="T22" style:family="text">
-<style:text-properties officeooo:rsid="00633495"/>
+<style:text-properties officeooo:rsid="005f38b4"/>
 </style:style>
 <style:style style:name="T23" style:family="text">
-<style:text-properties style:text-position="super 58%"/>
+<style:text-properties officeooo:rsid="00633495"/>
 </style:style>
 <style:style style:name="T24" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="006f0dd4"/>
+<style:text-properties style:text-position="super 58%"/>
 </style:style>
 <style:style style:name="T25" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="0073098d"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="006f0dd4"/>
 </style:style>
 <style:style style:name="T26" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="0073bafe"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0073098d"/>
 </style:style>
 <style:style style:name="T27" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="00753303"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0073bafe"/>
 </style:style>
 <style:style style:name="T28" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="007709b3"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="00753303"/>
 </style:style>
 <style:style style:name="T29" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="0077d4c4"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="007709b3"/>
 </style:style>
 <style:style style:name="T30" style:family="text">
-<style:text-properties style:text-position="super 58%" fo:font-style="italic" officeooo:rsid="007ca69c" style:font-style-asian="italic" style:font-style-complex="italic"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0077d4c4"/>
 </style:style>
 <style:style style:name="T31" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="00800a1a"/>
+<style:text-properties style:text-position="super 58%" fo:font-style="italic" officeooo:rsid="007ca69c" style:font-style-asian="italic" style:font-style-complex="italic"/>
 </style:style>
 <style:style style:name="T32" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="00828c42"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="00800a1a"/>
 </style:style>
 <style:style style:name="T33" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="009e9fe4"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="00828c42"/>
 </style:style>
 <style:style style:name="T34" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="00a30a62"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="009e9fe4"/>
 </style:style>
 <style:style style:name="T35" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="00bfd4d6"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="00a30a62"/>
 </style:style>
 <style:style style:name="T36" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="00fb7450"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="00bfd4d6"/>
 </style:style>
 <style:style style:name="T37" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="01078d35"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="00fb7450"/>
 </style:style>
 <style:style style:name="T38" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="010910ce"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="01078d35"/>
 </style:style>
 <style:style style:name="T39" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="0119117d"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="010910ce"/>
 </style:style>
 <style:style style:name="T40" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="011d48e4"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0119117d"/>
 </style:style>
 <style:style style:name="T41" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="0123631f"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="011d48e4"/>
 </style:style>
 <style:style style:name="T42" style:family="text">
-<style:text-properties style:text-position="super 58%" officeooo:rsid="01253053"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0123631f"/>
 </style:style>
 <style:style style:name="T43" style:family="text">
-<style:text-properties officeooo:rsid="006d1068"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="01253053"/>
 </style:style>
 <style:style style:name="T44" style:family="text">
-<style:text-properties officeooo:rsid="00753303"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="014bbc42"/>
 </style:style>
 <style:style style:name="T45" style:family="text">
-<style:text-properties officeooo:rsid="008670bb"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="014bd93b"/>
 </style:style>
 <style:style style:name="T46" style:family="text">
-<style:text-properties officeooo:rsid="008984bc"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="014e12cd"/>
 </style:style>
 <style:style style:name="T47" style:family="text">
-<style:text-properties officeooo:rsid="008a1246"/>
+<style:text-properties officeooo:rsid="006d1068"/>
 </style:style>
 <style:style style:name="T48" style:family="text">
-<style:text-properties officeooo:rsid="009b2658"/>
+<style:text-properties officeooo:rsid="00753303"/>
 </style:style>
 <style:style style:name="T49" style:family="text">
-<style:text-properties fo:font-variant="normal" fo:text-transform="none"/>
+<style:text-properties officeooo:rsid="008670bb"/>
 </style:style>
 <style:style style:name="T50" style:family="text">
-<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+<style:text-properties officeooo:rsid="008984bc"/>
 </style:style>
 <style:style style:name="T51" style:family="text">
-<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-size="12pt" style:font-size-asian="10.5pt" style:font-size-complex="12pt"/>
+<style:text-properties officeooo:rsid="008a1246"/>
 </style:style>
 <style:style style:name="T52" style:family="text">
-<style:text-properties officeooo:rsid="00a30a62"/>
+<style:text-properties officeooo:rsid="009b2658"/>
 </style:style>
 <style:style style:name="T53" style:family="text">
-<style:text-properties officeooo:rsid="00b3330f"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none"/>
 </style:style>
 <style:style style:name="T54" style:family="text">
-<style:text-properties officeooo:rsid="00b4568c"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
 </style:style>
 <style:style style:name="T55" style:family="text">
-<style:text-properties officeooo:rsid="00c19e14"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-size="12pt" style:font-size-asian="10.5pt" style:font-size-complex="12pt"/>
 </style:style>
 <style:style style:name="T56" style:family="text">
-<style:text-properties officeooo:rsid="00c7942d"/>
+<style:text-properties officeooo:rsid="00a30a62"/>
 </style:style>
 <style:style style:name="T57" style:family="text">
-<style:text-properties officeooo:rsid="00cc38ee"/>
+<style:text-properties officeooo:rsid="00b3330f"/>
 </style:style>
 <style:style style:name="T58" style:family="text">
-<style:text-properties officeooo:rsid="00d47810"/>
+<style:text-properties officeooo:rsid="00b4568c"/>
 </style:style>
 <style:style style:name="T59" style:family="text">
-<style:text-properties officeooo:rsid="00de3c10"/>
+<style:text-properties officeooo:rsid="00c19e14"/>
 </style:style>
 <style:style style:name="T60" style:family="text">
-<style:text-properties officeooo:rsid="00def315"/>
+<style:text-properties officeooo:rsid="00c7942d"/>
 </style:style>
 <style:style style:name="T61" style:family="text">
-<style:text-properties officeooo:rsid="00e45365"/>
+<style:text-properties officeooo:rsid="00cc38ee"/>
 </style:style>
 <style:style style:name="T62" style:family="text">
-<style:text-properties officeooo:rsid="00e56d7c"/>
+<style:text-properties officeooo:rsid="00d47810"/>
 </style:style>
 <style:style style:name="T63" style:family="text">
-<style:text-properties officeooo:rsid="00e665e1"/>
+<style:text-properties officeooo:rsid="00de3c10"/>
 </style:style>
 <style:style style:name="T64" style:family="text">
-<style:text-properties officeooo:rsid="00e89f5c"/>
+<style:text-properties officeooo:rsid="00def315"/>
 </style:style>
 <style:style style:name="T65" style:family="text">
-<style:text-properties officeooo:rsid="00eb6b14"/>
+<style:text-properties officeooo:rsid="00e45365"/>
 </style:style>
 <style:style style:name="T66" style:family="text">
-<style:text-properties officeooo:rsid="00ec2e2d"/>
+<style:text-properties officeooo:rsid="00e56d7c"/>
 </style:style>
 <style:style style:name="T67" style:family="text">
-<style:text-properties officeooo:rsid="011c4290"/>
+<style:text-properties officeooo:rsid="00e665e1"/>
 </style:style>
 <style:style style:name="T68" style:family="text">
-<style:text-properties officeooo:rsid="012d6937"/>
+<style:text-properties officeooo:rsid="00e89f5c"/>
 </style:style>
 <style:style style:name="T69" style:family="text">
-<style:text-properties officeooo:rsid="012dfd8e"/>
+<style:text-properties officeooo:rsid="00eb6b14"/>
 </style:style>
 <style:style style:name="T70" style:family="text">
+<style:text-properties officeooo:rsid="00ec2e2d"/>
+</style:style>
+<style:style style:name="T71" style:family="text">
+<style:text-properties officeooo:rsid="011c4290"/>
+</style:style>
+<style:style style:name="T72" style:family="text">
+<style:text-properties officeooo:rsid="012d6937"/>
+</style:style>
+<style:style style:name="T73" style:family="text">
+<style:text-properties officeooo:rsid="012dfd8e"/>
+</style:style>
+<style:style style:name="T74" style:family="text">
 <style:text-properties officeooo:rsid="012f87c1"/>
+</style:style>
+<style:style style:name="T75" style:family="text">
+<style:text-properties officeooo:rsid="01432608"/>
+</style:style>
+<style:style style:name="T76" style:family="text">
+<style:text-properties officeooo:rsid="01446b64"/>
+</style:style>
+<style:style style:name="T77" style:family="text">
+<style:text-properties officeooo:rsid="014594df"/>
+</style:style>
+<style:style style:name="T78" style:family="text">
+<style:text-properties officeooo:rsid="014731ab"/>
+</style:style>
+<style:style style:name="T79" style:family="text">
+<style:text-properties officeooo:rsid="0147ab8b"/>
+</style:style>
+<style:style style:name="T80" style:family="text">
+<style:text-properties officeooo:rsid="01495219"/>
+</style:style>
+<style:style style:name="T81" style:family="text">
+<style:text-properties officeooo:rsid="01503f2c"/>
 </style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
@@ -1682,7 +1721,7 @@ Sogni di un visionario spiegati coi sogni della metafisica
 Del primo principio delle differenze delle regioni nello spazio 
 </text:span>
 (
-<text:span text:style-name="T18">
+<text:span text:style-name="T19">
 1
 </text:span>
 768).
@@ -1803,7 +1842,7 @@ spetta alla natura degli oggetti; e che si conosca esattamente «ciò che riposa
 <text:note-body>
 <text:p text:style-name="Footnote">
 Vedi 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Kant
 </text:span>
 , 
@@ -1847,7 +1886,7 @@ Briefw.
 </text:note-body>
 </text:note>
  Questo rapporto non si spiega per via naturale, considerando i nostri concetti come cause o come effetti degli oggetti. La spiegazione sovrannaturale suppone un&apos;illuminazione divina (Platone, Malebranche) o un&apos;armonia prestabilita (Leibniz), e si rifugia in ambo i casi nell&apos;intervento d
-<text:span text:style-name="T22">
+<text:span text:style-name="T23">
 i
 </text:span>
 vi
@@ -1857,7 +1896,7 @@ no. «Se non che, il
 Deus ex machina
 </text:span>
 , per la determinazione dell&apos;origine e del valore delle nostre conoscenze, è ciò che di più assurdo si possa soltanto pensare, e oltre al circolo fallace, che importa nella concatenazione logica delle nostre idee, ha lo svantaggio di venire in aiuto al fantasticare delle chimere divote e sofistiche.» La sua ricerca quindi s&apos;indirizza alle «fonti della conoscenza intellettuale» per determinare la natura e i limiti della metafisica. «Ora sono in grado di fornire una critica della ragion pura, contenente la natura della conoscenza, sì teoretica che pratica, in quanto semplicemente intellettuale: di cui prima elaborerò la prima parte circa le fonti della metafisica, i suoi metodi e limiti; e la pubblich
-<text:span text:style-name="T21">
+<text:span text:style-name="T22">
 e
 </text:span>
 rò forse fra tre mesi»
@@ -1913,7 +1952,7 @@ L&apos;operetta, invece, divenne un&apos;opera, e non fu pronta per la stampa se
 <text:note-body>
 <text:p text:style-name="Footnote">
 Vedi la sua lettera in 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Kant
 </text:span>
 , 
@@ -1940,7 +1979,7 @@ Critica
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Kant
 </text:span>
 , 
@@ -1948,7 +1987,7 @@ Kant
 Briefw
 </text:span>
 ., X, 323. Cfr. 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Fischer
 </text:span>
 , o. c., I, 74-8.
@@ -1972,7 +2011,7 @@ metà del 1780
 <text:note-body>
 <text:p text:style-name="Footnote">
 Altri crede che la redazione ultima sia da assegnare agli ultimi mesi del 1779 tra il maggio e il settembre: ma la lettera la Mendelssohn mi pare perentoria. V. l&apos;Intr. di 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 H. Adikes
 </text:span>
  alla sua ed. della 
@@ -1980,7 +2019,7 @@ H. Adikes
 Kr. d. r. V.
 </text:span>
 , Berlin, Meyer u. Muller, 1899 con la recensione del 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Vaihinger
 </text:span>
  nell&apos; 
@@ -1988,11 +2027,11 @@ Vaihinger
 Arch. f. Gesch. d. Phil.
 </text:span>
 , IV, 724-29; e principalmente 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 B. Erdmann
 </text:span>
  Einl. in 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Kant
 </text:span>
 , 
@@ -2027,14 +2066,14 @@ mesi del 1786 era esaurita; e, nel marzo di quell&apos;anno, Kant si accingeva a
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T20">
+<text:span text:style-name="T21">
 V
 </text:span>
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 . B. Erdmann
 </text:span>
  Einl, in 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Kant
 </text:span>
 , 
@@ -2067,11 +2106,11 @@ lo dice egli stesso nella prefazione alla nuova edizione (pp. 33 sgg. q. trad.);
 Critica
 </text:span>
 , che si dà tradotta in questo primo volume. E le più importanti sono quattro: 1) la nuova forma della Deduzione dei concetti puri dell&apos;intelletto; 2) e alla teoria della distinzione dei fenomeni e dei noumeni; 3) l&apos;aggiunta della Confutazione dell&apos;idealismo; 4) i tagli nei Paralogismi della ragion pura. La sostanza di queste differenze variamente giudicata s
-<text:span text:style-name="T43">
+<text:span text:style-name="T47">
 e
 </text:span>
 condo le tendenze diverse dei critici, si può certamente riassumere nello sforzo fatto da Kant,―dopo l&apos;interpretazione berkeleiana, che fu data generalmente della 1
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
  edizione della 
@@ -2081,7 +2120,7 @@ Critica
 ,―per isfuggire alle spire dell&apos;idealismo e fon
 <text:soft-page-break/>
 dare l&apos;affermazione della cosa in sè. Ma è del pari incontestabile, che, se Kant dai giudizi sulla 1
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
  edizione fu indotto a scrivere i 
@@ -2096,7 +2135,7 @@ Critica
 </text:p>
 <text:p text:style-name="P44">
 E la 2
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
  edizione fu sempre riprodotta in tutte le successive fino a quella del Rosenkranz (nel 2° volume dell&apos;edizione delle opere complete di Kant, curata da lui e dallo Schubert) nel 1838: ossia nella terza (Riga, 1790), nella quarta (ivi, 1794), nella quinta (Lipsia, 1799) e nelle due postume: la sesta e la settima (Lipsia, 1818 e 1828). Nel 1815, il Jacobi, nel suo scritto 
@@ -2110,7 +2149,7 @@ Sull&apos;idealismo trascendentale
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Jacobi
 </text:span>
 , 
@@ -2123,29 +2162,29 @@ Sämmtl. WW.
 </text:note>
 </text:span>
 , lamentando la mancanza nella 2
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
  edizione di alcuni passi della 1
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
 , assai importanti per l&apos;intelligenza dell&apos;idealismo kantiano, notava che la 1
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
  edizione si era allora resa assai rara e si vedeva solo nelle biblioteche pubbliche e nelle grandi librerie private. Lo Schopenhauer nella «Critica della filosofia kantiana», aggiunta nella sua opera principale , nel 1819, appoggiava la sua critica della cosa in sè, contraddittoriamente fondata da Kant nel principio di causa non applicabile se non ai fenomeni, sulla 2
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
  edizione; e, quando più tardi potè leg
 <text:soft-page-break/>
 gere la 1
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
 , e non vi trovò tale contraddizione e quell&apos;orrore ingiustificabile che vedeva nella 2
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
  per l&apos;idealismo radicale di Berkeley, trattò questa ultima come un «testo mutilato, corrotto e in certo modo non autentico»: peggioramento senile della mente kantiana; e documento atto a spiegare perchè a Kant era successo il periodo dell&apos;incomprensione di Kant. Egli indusse il Rosenkranz nel 1838 a riprodurre per la prima volta la edizione del 1781, come la vera Critica genuina, scrivendogli tre lettere, di una delle quali il Rosenkranz diede un estratto nella prefazione al suo volume
@@ -2156,7 +2195,7 @@ a
 <text:note-body>
 <text:p text:style-name="Footnote">
 V. anche 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Schopenhauer
 </text:span>
 , 
@@ -2164,7 +2203,7 @@ Schopenhauer
 Die Welt als Wille u. Vorst.
 </text:span>
 , tr. fr., II, 25. Le tre lettere scritte al Rosenkranz sono state poi pubblicate dal 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Reicke
 </text:span>
  nell&apos; 
@@ -2176,7 +2215,7 @@ Altpreussische Monatschrift
 </text:note-body>
 </text:note>
 . Il Rosenkranz bensì riprodusse accortamente in XXVIII Supplementi le principali varianti della 2
-<text:span text:style-name="T24">
+<text:span text:style-name="T25">
 a
 </text:span>
  edizione.
@@ -2216,11 +2255,11 @@ Di questa è uscita un&apos;ottava ediz. riveduta da Th. Valentiner (Leipzig, 19
 K. d. r. V.
 </text:span>
  Text der Ausg. von 1781 mit Beifügung Sämmtl. Abweichungen der Ausg. von 1787 hg. v. 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 D. K. Kehrbah
 </text:span>
 , Leipzig, Reclam, 1877 (2
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
  edizione migliorata 1878). Numm. 851-55 della «Universal-Bibliothek».
@@ -2235,7 +2274,7 @@ a
 <text:note-body>
 <text:p text:style-name="Footnote">
 Leipzig, 1878; 3
-<text:span text:style-name="T25">
+<text:span text:style-name="T26">
 a
 </text:span>
  ediz. stereotipa «mehrfach verbesserte» ivi, 1884.
@@ -2258,11 +2297,11 @@ Critica
 <text:note-body>
 <text:p text:style-name="Footnote">
 Una Rist. della 2
-<text:span text:style-name="T26">
+<text:span text:style-name="T27">
 a
 </text:span>
  ediz., con un intr. sulla vita e le opere di Kant, è quella di 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Zimmermann
 </text:span>
 , Leipzig und Wien, Meiers Bibliograph. Institut, 1890.
@@ -2277,7 +2316,7 @@ Zimmermann
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 I. Kant
 </text:span>
 , 
@@ -2289,57 +2328,57 @@ K. d. r. V., hg., v.
 </text:note-body>
 </text:note>
  che tutti gli editori (lui compreso), dal Rosenkranz in poi, avevano seguito a occhi chiusi la tradizione cominciata col Jacobi e collo Schopenhauer, che tutte le edizioni originali, dalla 3
-<text:span text:style-name="T27">
+<text:span text:style-name="T28">
 a
 </text:span>
  alla 7
-<text:span text:style-name="T27">
+<text:span text:style-name="T28">
 a
 </text:span>
 , riproducessero letteralmente la 2
-<text:span text:style-name="T27">
+<text:span text:style-name="T28">
 a
 </text:span>
 ; il che è falso, perchè un attento esame dimostra invece, che ogni edizione, dopo la 3
-<text:span text:style-name="T27">
+<text:span text:style-name="T28">
 a
 </text:span>
 , si fonda su quella immediatamente precedente; la 6
-<text:span text:style-name="T27">
+<text:span text:style-name="T28">
 a
 </text:span>
  quindi sulla 5
-<text:span text:style-name="T27">
+<text:span text:style-name="T28">
 a
 </text:span>
 , accogliendo senza criterio le correzioni nel 1795 arbitrariamente proposte pel testo di Kant da un dott. Grillo, e già 
 <text:soft-page-break/>
 passate nella 5
-<text:span text:style-name="T27">
+<text:span text:style-name="T28">
 a
 </text:span>
 , come ultima edizione uscita vivente Kant, fosse da attribuire una speciale importanza, il Rosenkranz e l&apos; Hartenstein, pel teso della 2
-<text:span text:style-name="T27">
+<text:span text:style-name="T28">
 a
 </text:span>
  edizione, attinsero alla 5
-<text:span text:style-name="T27">
+<text:span text:style-name="T28">
 a
 </text:span>
 , che aveva aggiunti i suoi difetti a quelli della 3
-<text:span text:style-name="T27">
+<text:span text:style-name="T28">
 a
 </text:span>
  e della 4
-<text:span text:style-name="T27">
+<text:span text:style-name="T28">
 a
 </text:span>
 . Il Kirchmann poi avrebbe riprodotto l&apos;edizione ultima Hartenstein; l&apos;Adickes, per lo più, il testo della 5
-<text:span text:style-name="T27">
+<text:span text:style-name="T28">
 a
 </text:span>
 ; e lo stesso tes
-<text:span text:style-name="T44">
+<text:span text:style-name="T48">
 t
 </text:span>
 o, in più punti, anche il Vorländer. L&apos; Erdmann, pertanto, rifacendo a parte la storia del testo, dimostrata la necessità di cercare nell&apos;edizione del 1787 il testo genuino di Kant
@@ -2349,7 +2388,7 @@ o, in più punti, anche il Vorländer. L&apos; Erdmann, pertanto, rifacendo a pa
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 V. B. Erdmann
 </text:span>
 , 
@@ -2388,15 +2427,15 @@ Critica
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 V. Erdmann
 </text:span>
 , Vorr. alla 3
-<text:span text:style-name="T28">
+<text:span text:style-name="T29">
 a
 </text:span>
  ediz. della sua 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Kants
 </text:span>
  
@@ -2404,7 +2443,7 @@ Kants
 Kritik
 </text:span>
  ecc. e 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Kehrbach
 </text:span>
 , 
@@ -2416,24 +2455,24 @@ Replik gegen des Hrn. Privatdocentes B. Erdmann Recensions meiner Ausgabe der Ka
 </text:note-body>
 </text:note>
 . Ora è evidente che entrambi questi punti di vista sono egualmente ragionevoli e accettabili; e che però non c&apos;è una ragione per preferire assolutamente un metodo all&apos;altro. L&apos;importante è che, in un modo o nell&apos;altro, si renda possibile lo studio di tutte le differenze tra le due edizioni fondamentali. Ciò che non pare a niun patto accettabile filologicamente, è il partito adottato dagli ultimi traduttori francesi; i quali dànno nel testo l&apos;edizione del 1781 con tutte le aggiunte dell&apos;edizione 1787, ma pongono in nota i rifacimenti, che nella 2
-<text:span text:style-name="T29">
+<text:span text:style-name="T30">
 a
 </text:span>
  corrono parallelamente ai rispettivi luoghi 
 <text:soft-page-break/>
 della 1
-<text:span text:style-name="T29">
+<text:span text:style-name="T30">
 a
 </text:span>
  edizione: costituendo così arbitrariamente un testo, che non è nè quello della 1
-<text:span text:style-name="T29">
+<text:span text:style-name="T30">
 a
 </text:span>
  edizione, nè quello della 2
-<text:span text:style-name="T29">
+<text:span text:style-name="T30">
 a 
 </text:span>
-<text:span text:style-name="T29">
+<text:span text:style-name="T30">
 <text:note text:id="ftn18" text:note-class="footnote">
 <text:note-citation>
 18
@@ -2441,15 +2480,15 @@ a
 <text:note-body>
 <text:p text:style-name="Footnote">
 A torto dicono di aver seguito la «disposition adoptée par B. Erdmann dans sa cinquiéme édition» (p. XXII). Perchè nella 5
-<text:span text:style-name="T29">
+<text:span text:style-name="T30">
 a
 </text:span>
  ediz. l&apos;Erdmann mette tutto da una parte, sopra, il testo della 2
-<text:span text:style-name="T29">
+<text:span text:style-name="T30">
 a
 </text:span>
  ediz., e sotto, soltanto le varianti della 1
-<text:span text:style-name="T29">
+<text:span text:style-name="T30">
 a
 </text:span>
 .
@@ -2533,14 +2572,14 @@ ed acume
 <text:note-body>
 <text:p text:style-name="Footnote">
 Pel Vorländer e per l&apos;Erdmann si vedano le loro edizioni. Per gli altri tutti gli articoli citati dallo stesso 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Erdmann
 </text:span>
 , 
 <text:span text:style-name="T11">
 Introd. all&apos;ed. dell&apos;Accademia della 2
 </text:span>
-<text:span text:style-name="T30">
+<text:span text:style-name="T31">
 a
 </text:span>
 <text:span text:style-name="T11">
@@ -2565,7 +2604,7 @@ Critica
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Kants
 </text:span>
 , 
@@ -2573,7 +2612,7 @@ Kants
 Krit. d. r. V. Nachträge
 </text:span>
 : Kants Nachlass. hg. v. 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 B. Erdmann
 </text:span>
 , Kiel, 1881.
@@ -2603,15 +2642,15 @@ Vedi l&apos;elenco nel
 Dictionary
 </text:span>
  del 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Baldwin
 </text:span>
 , III 1
-<text:span text:style-name="T31">
+<text:span text:style-name="T32">
 a
 </text:span>
 , 287 e in 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Ueberweg Heinze
 </text:span>
 , 
@@ -2619,7 +2658,7 @@ Ueberweg Heinze
 Grundriss
 </text:span>
 , ditt. Th., I
-<text:span text:style-name="T31">
+<text:span text:style-name="T32">
 8
 </text:span>
 , 260.
@@ -2634,7 +2673,7 @@ Grundriss
 <text:note-body>
 <text:p text:style-name="Footnote">
 Vedi su di essa 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Credaro
 </text:span>
 , 
@@ -2646,7 +2685,7 @@ A. Testa e i primordi del kantismo in Italia
 Atti della R. Acc. Lincei
 </text:span>
 , 1885-86, s. 4
-<text:span text:style-name="T32">
+<text:span text:style-name="T33">
 a
 </text:span>
 , vol. II, 2° semestre, pp. 292-94.
@@ -2670,7 +2709,7 @@ mi tre tometti; e altri cinque nel 1822
 Critica della ragion pura
 </text:span>
  di 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Manuele Kant
 </text:span>
 , traduzione dal tedesco, Pavia, presso i collettori [Germani, Rolla e Sacchi], coi tipi di Pietro Bizzoni succ. di Bolzani, 1820. Manca il nome del traduttore. ―Dal tomo IV in poi: 
@@ -2697,7 +2736,7 @@ Philosophie de Kant ou principes fondamentaux de la philosophie trascendentale
 <text:note-body>
 <text:p text:style-name="Footnote">
 Il 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Credaro
 </text:span>
 , dice che il M. si servì nelle sue note del Reinhold e dello Schulze. Ma il M. dichiara di essersi servito del Villers, anche perchè questo scrittore s&apos;era attenuto «ai meglio riputati fra i concittadini di K., come Reinhold» ecc. (p. 10).
@@ -2731,17 +2770,17 @@ Proemio alla traduzione
 </text:p>
 <text:p text:style-name="P46">
 Il saggio della prosa del Mantovani teste riferito può dare un&apos;idea del difetto principale della sua traduzione, non solo «inelegante», cementi gi
-<text:span text:style-name="T45">
+<text:span text:style-name="T49">
 à
 </text:span>
  sospettava, ma così dura da riuscire spesso inintelligibile, per la trascuranza delle norme più comuni della sintassi italiana come per l&apos;uso od abuso stranissimo del vocabolario. È stato detto che questa pubblicazione nocque, lungi dal giovare, alla conoscenza di Kant in Italia. Giudizio forse ingiustamente esagerato, poiché non sarebbe possibile, credo, additare nel Gallupp
-<text:span text:style-name="T46">
+<text:span text:style-name="T50">
 i
 </text:span>
 , che di questa traduzione dovette sempre servirsi, o nel Rossini, che vi fece anche lui ricorso nelle prime sue opere, prima che avesse imparato il tedesco un&apos;erronea interpretazione da ascriversi in colpa al povero Mantovani. Il quale pare generalmente esatto nella sua traduzione; ma con la sua orrida forma, 
 <text:soft-page-break/>
 che lo stesso Gal
-<text:span text:style-name="T47">
+<text:span text:style-name="T51">
 lu
 </text:span>
 ppi, nelle sue citazioni, procurava di pulire, dovette certamente, a molti che l&apos;avevano, far passare la voglia di leggere mai in italiano la 
@@ -2769,7 +2808,7 @@ Questo criterio han seguito gli autori della nuova traduzione francese, A. Trmey
 Crit. de la rais. pure
 </text:span>
 , Nouv. tr. franc. avec notes; Préf. de 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 A. Hannequin
 </text:span>
 , Paris, Alcan, 1905.
@@ -2911,23 +2950,23 @@ Il testo, da noi adoperato, è quello del Vorländer, preferito per la sua comod
 Critica
 </text:span>
 , utile a chi voglia rendere questa terminologia con precisione, confrontando i varii luoghi in cui ciascun termine ricorre. E però col Vorländer diamo il testo della 2
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
  edizione, e in nota tutte le varianti della 1
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
 , rimandando a un&apos;appendice, che verrà in fondo al secondo volume, i due lunghi brani della 1
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
 , concernenti la «Deduzione dei concetti puri dell&apos;intelletto» e i «Paralogismi della ragion pura»; poichè non vedemmo l&apos;utilità del metodo seguito dall&apos;Erdmann nella sua 5
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
  edizione, di farli correre per parecchie pagine sotto al testo corrispondente della 2
-<text:span text:style-name="T23">
+<text:span text:style-name="T24">
 a
 </text:span>
  edizione. Ma la lezione del Vorländer, nella revisione del lavoro, abbiamo sempre collazionata col testo delle edizioni dell&apos;Accademia di Berlino.
@@ -2940,7 +2979,7 @@ G.G.
 </text:p>
 <text:p text:style-name="P49">
 La nuova edizione di questa traduzione non è una semplice ristampa della precedente. Lieto della occasione che mi si porgeva di migliorare il nostro lavoro, il quale, ma
-<text:span text:style-name="T48">
+<text:span text:style-name="T52">
 l
 </text:span>
 grado i suoi difetti, ha incontrato favore nel pubblico e recato fors&apos;anco non piccolo giovamento alla cultura filosofica italiana, ne ho profittato per correggere accuratamente e in buona parte rifare la traduzione, studian
@@ -2996,7 +3035,7 @@ RAGION PURA
 <text:p text:style-name="P35"/>
 <text:p text:style-name="P51">
 Kant, 
-<text:span text:style-name="T50">
+<text:span text:style-name="T54">
 Ragion pura.
 </text:span>
 </text:p>
@@ -3007,13 +3046,13 @@ Ragion pura.
 <text:p text:style-name="P56"/>
 <text:p text:style-name="P56"/>
 <text:p text:style-name="P52">
-<text:span text:style-name="T49">
+<text:span text:style-name="T53">
 BACO 
 </text:span>
-<text:span text:style-name="T51">
+<text:span text:style-name="T55">
 DE 
 </text:span>
-<text:span text:style-name="T49">
+<text:span text:style-name="T53">
 VERULAMIO
 </text:span>
 </text:p>
@@ -3030,7 +3069,7 @@ De nobis ipsis silemus: de re autem, quae agitur, petimus: ut homines eam non op
 <text:note-body>
 <text:p text:style-name="Footnote">
 Questo motto fu aggiunto da Kant nella 2
-<text:span text:style-name="T33">
+<text:span text:style-name="T34">
 a
 </text:span>
  edizione, dove sta a tergo del frontespizio.
@@ -3067,11 +3106,11 @@ illuminato conoscitore. Perciò io mi servo dell&apos;unico mezzo, che incerto m
 <text:note-body>
 <text:p text:style-name="Footnote">
 Nella dedica dell
-<text:span text:style-name="T52">
+<text:span text:style-name="T56">
 a
 </text:span>
  1
-<text:span text:style-name="T34">
+<text:span text:style-name="T35">
 a
 </text:span>
  edizione (29 marzo 1781) a questo punto seguivano le parole:
@@ -3125,7 +3164,7 @@ a disprezzarla, e la matrona si lamenta, respinta ed abbandonata come Ecuba:
 modo maxima rerum, tot generis natisque potens ― nunc trahor exul, inops.
 </text:span>
 ― 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Ovid
 </text:span>
 ., 
@@ -3173,11 +3212,11 @@ Mi sono dunque messo per questa via, che era l&apos;unica che rimanesse, e mi lu
 che sinora hanno messo la ragione in discordia con se stessa nel suo uso di là da ogni esperienza. Non mi sono schermito dai problemi che si presentavano, adducendo a scusa l&apos;impotenza della ragione umana; al contrario, li ho completamente spe
 <text:soft-page-break/>
 cificati secondo principio, e, dopo aver scoperto il punto del malinteso della ragione rispetto a se stessa, li ho risoluti, appagandone pienamente le esigenze. Cer
-<text:span text:style-name="T53">
+<text:span text:style-name="T57">
 t
 </text:span>
 o, la mia risposta a quei problemi non è così soddisfacente come avrebbe potuto aspettarla la curiosità dommaticamente fantasticante; perchè ci sarebbe voluta non meno dell&apos;arte magica per accontentarla, ed io non me ne intendo. Se non che, questo non era neppure il fine della destinazione naturale della nostra ragione; ed il dovere della filosofia era di toglier via l&apos;illusione che proveniva da un malinteso, dovesse pure restarne annullata perciò una così apprezzata e cara credenza. In questa impresa ho fatto della precisione nei particolari la mia gran divisa; e ardisco dire che non c&apos;è un solo problema metafisico che qui sia rimasto insoluto, o de
-<text:span text:style-name="T54">
+<text:span text:style-name="T58">
 l
 </text:span>
 la cui soluzione non sia data almeno la chiave. Infatti, la ragion pura è unità così perfetta, che, se il suo principio fosse insufficiente a risolvere anche un solo di tutti i problemi che le son proposti dalla sua stessa natura, sarebbe senz&apos;altro da respingere, poichè in tal caso non potrebbe essere applicato con piena sicurezza a nessuno degli altri.
@@ -3219,7 +3258,7 @@ la validità oggettiva de&apos; suoi concetti a priori; e rientra appunto perci�
 <text:note-body>
 <text:p text:style-name="Footnote">
 Della stessa 1
-<text:span text:style-name="T35">
+<text:span text:style-name="T36">
 a
 </text:span>
  ediz. tedesca. L&apos;A. si riferisce al 
@@ -3240,7 +3279,7 @@ za intuitiva (estetica) per intuizioni, ossia per mezzo di esempi o altri chiari
 in concreto
 </text:span>
 . La prima ho curata abbastanza, ed era l&apos;essenziale pel mio proposito; ma è stata anche causa accidentale ch&apos;io non abbia potuto soddisfare alla seconda esigenza, non veramente così urgente come la prima, ma tuttavia anch&apos;essa legittima. Sono stato quasi sempre irresoluto nel progresso del mio lavoro, come dovessi comportarmi a questo riguardo. Esempi e chiarimenti mi parevano sempre necessari, e venivano quindi anche effettivamente abbondanti e spontanei al loro luogo, nel primo getto dell&apos;opera. Ma, quando vidi la vastità del mio lavoro e la moltitudine degli oggetti che avrei dovuto trattare, e però mi accorsi che la sola esposizione rigida e nuda, puramente scolastica, avrebbe dato già all&apos;opera una grande estensione, giudicai inopportun
-<text:span text:style-name="T55">
+<text:span text:style-name="T59">
 o
 </text:span>
  allargarla ancora con esempi e chiarimenti, che del resto sono necessari solo dal punto di vista popolare; tanto più che questo lavoro non è punto adatto all&apos;uso del popolo, e gli speciali conoscitori della scienza non hanno tanto bisogno di questa facilitazione, che, se è certamente sempre gradita, qui tuttavia può anche nuocere allo scopo dell&apos;opera. L&apos;abate Terrason veramente diceva
@@ -3270,10 +3309,10 @@ pio generale che la governa. L&apos;unità perfetta di tale specie di conoscenze
 Tecum habita et noris, quam sit tibi curta supellex
 </text:span>
 . 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Persio
 </text:span>
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 <text:note text:id="ftn36" text:note-class="footnote">
 <text:note-citation>
 36
@@ -3299,7 +3338,7 @@ Spero anche di dare un tale sistema della ragion pura (speculativa) sotto il tit
 <text:note-body>
 <text:p text:style-name="Footnote">
 Seguono due avvertenze, relative a particolari tipografici della 1
-<text:span text:style-name="T56">
+<text:span text:style-name="T60">
 a
 </text:span>
  ediz.
@@ -3329,7 +3368,7 @@ che il vestibolo delle scienze, e, quando si parla di conoscenze, si presuppone 
 </text:p>
 <text:p text:style-name="Text_20_body">
 Ora, in quanto in queste deve aver parte la ragione, è necessario che in esse qualcosa sia conosciuto a priori; e la loro conoscenza si può riferire al loro oggetto in doppia maniera: o semplicemente per determinar questo e il suo concetto (che deve essere dato d&apos;altronde), o per realizzarlo. L&apos;una è conoscenza teoretica della ragione, l&apos;altra pratica. Dell&apos;una e dell&apos;altra è necessario che la parte pura, ampio o ristretto che ne sia il contenuto, cioè quella, nella quale la ragione determina il suo oggetto interamente a priori, sia esposta dapprima da sola, e ciò che proviene da altre fonti non vi sia menomamente mescolato; giacchè è cattiva amministrazione spendere alla cieca tutti gli introiti, senza poter poi distinguere, quando vengano meno le rendite, qual parte di esse possa sopportare le spese e quale richie
-<text:span text:style-name="T57">
+<text:span text:style-name="T61">
 da
 </text:span>
  che si limitino.
@@ -3350,7 +3389,7 @@ non bisogna credere che le sia riuscito così facile come alla logica, dove la r
 <text:note-body>
 <text:p text:style-name="Footnote">
 Vedi 
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Euclide
 </text:span>
 , 
@@ -3396,7 +3435,7 @@ gno, e che, con principii de&apos; suoi giudizi secondo leggi immutabili, deve e
 Alla metafisica, conoscenza speculativa razionale, affatto isolata, che si eleva assolutamente al di sopra degli insegnamenti dell&apos;esperienza, e mediante semplici concetti (non, come la matematica, per l&apos;applicazione di 
 <text:soft-page-break/>
 questi all&apos;intuizione), nella quale dunque la ragione dev&apos;essere scolara 
-<text:span text:style-name="T58">
+<text:span text:style-name="T62">
 d
 </text:span>
 i se stessa, non è sinora toccata la fortuna di potersi avviare per la via sicura della scienza; sebbene essa sia più antica di tutte le altre scienze, e sopravviverebbe, anche quando le altre dovessero tutte quante essere inghiottite nel vortice di una barbarie che tutto devastasse. Giacchè la ragione si trova in essa continuamente in imbarazzo, anche quando vuole scoprire (com&apos;essa presume) a priori quelle leggi, che la più comune esperienza conferma. In essa si deve innumerevoli volte rifar la via, poichè si trova che quella già seguita non conduce alla meta; e, quanto all&apos;accordo dei suoi cultori nelle loro affermazioni, essa è così lontana dall&apos;averlo raggiunto, che è piuttosto un campo di lotta: il quale par proprio un campo destinato ad esercitar le forze antagonistiche, in cui nemmeno un campione ha mai potuto impadronirsi 
@@ -3450,7 +3489,7 @@ ha molto di simile con quello, che i chimici chiamano qualche volta prova di rid
 <text:span text:style-name="T11">
 N. di K.
 </text:span>
-<text:span text:style-name="T59">
+<text:span text:style-name="T63">
 )
 </text:span>
 </text:p>
@@ -3459,7 +3498,7 @@ N. di K.
 . Resta ora a vedere, dopo avere negato alla ragione speculativa ogni passo nel campo del 
 <text:s/>
 soprasensibile, se non si trovino nella sua conoscenza pratica dati, per determinare quel concetto trascendente dell&apos;incondizionato proprio della ragione, e per oltrepassare in tal modo, secondo i desiderii della metafisica, i limiti di ogni esperienza possibile mediante la nostra conoscenza a priori, possibile, per altro, solo dal punto di vista pratico. Con questo procedimento la ragione speculativa ci ha a
-<text:span text:style-name="T60">
+<text:span text:style-name="T64">
 l
 </text:span>
 meno procurato un campo libero per tale estensione della ricerca, sebbene essa abbia dovuto lasciarlo vuoto; e ci resta così, e noi vi siamo autorizzati da lei stessa, la possibilità di occuparlo, se ci riesce, con i dati pratici della medesima
@@ -3474,7 +3513,7 @@ Così le leggi centrali dei movimenti dei corpi celesti conferirono certezza ass
 <text:span text:style-name="T11">
 N. di K.
 </text:span>
-<text:span text:style-name="T60">
+<text:span text:style-name="T64">
 )
 </text:span>
 </text:p>
@@ -3498,7 +3537,7 @@ nil actum reputans, si quid superesset agendum
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Lucano
 </text:span>
 , 
@@ -3531,7 +3570,7 @@ Per conoscere un oggetto si richiede che io possa provare la sua possibilità (s
 <text:span text:style-name="T11">
 N. di K.
 </text:span>
-<text:span text:style-name="T61">
+<text:span text:style-name="T65">
 )
 </text:span>
 </text:p>
@@ -3552,11 +3591,11 @@ Erscheinung
 </text:note-body>
 </text:note>
  senza qualche cosa che in essa appaia. Ora, supposto che no
-<text:span text:style-name="T62">
+<text:span text:style-name="T66">
 n
 </text:span>
  fosse punto fatta la distinzione, fatta necessariamente dalla nostra critica, delle cose come oggetti dell&apos;esperienza dalle medesime 
-<text:span text:style-name="T63">
+<text:span text:style-name="T67">
 come
 </text:span>
  cose in sè, ne nascerebbe la conseguenza, che il principio di causalità, e con esso il meccanismo naturale, nella determinazione delle cose dovrebbe valere per tutte le cose stesse in generale, come cause efficienti. Dello stesso ente, dunque, come per es., dell&apos;anima umana, io non potrei dire che la sua volontà sia libera e che sia a un tempo soggetta alla necessità naturale, cioè che non sia libera, senza cadere in una contraddizione manifesta; giacchè in ambedue le proposizioni, avrei preso l&apos;anima nell&apos;identico significato, cioè 
@@ -3590,7 +3629,7 @@ stellungsarten
  (sensibile e intellettuale), e la limitazione che ne segue dei concetti puri dell&apos;intelletto, e perciò anche dei principii che ne derivano. Ora, posto che la morale necessariamente supponga la libertà (nel senso più rigoroso) come proprietà del nostro volere, giacchè essa ammette immanenti a priori nella nostra ragione, come suoi dati, principii pratici originari, i quali senza il presupposto della libertà sarebbero assolutamente impossibili; ove però la ragione speculativa avesse provato che questi principii non sono pensabili, di necessità quel presupposto, cioè il presupposto morale, dovrebbe cedere a quell&apos;altro, il cui contrario importa una evidente contraddizione; e, per conseguenza, libertà e con lei moralità (il cui contrario non racchiude alcuna contraddizione, se non si presuppone già la libertà) dovrebbero cedere il posto al meccanismo della natura. Ma, poichè per la morale io ho bisogno soltanto che la libertà non sia in sè contraddittoria, e si possa almeno pensare senza che, a un esame più profondo, essa debba creare un ostacolo al meccanismo naturale dello stesso operare (preso sotto altro rapporto), così la dottrina della moralità mantiene il suo posto, e altrettanto fa la scienza della natura: il che non avverrebbe, se la critica non ci avesse in precedenza istruiti della irrimediabile nostra ignoranza rispetto alle cose in sè, e se non avesse limitato ai semplici fenomeni tutto ciò che possiamo conoscere teoricamente. La stessa discussione appunto dell&apos;utilità positiva dei 
 <text:soft-page-break/>
 principii critici della ragion pura si presenta ove si consideri il concetto di Dio, della natura semplice della nostra anima, su che non insisto per brevità. Io 
-<text:span text:style-name="T64">
+<text:span text:style-name="T68">
 dunque 
 </text:span>
 non posso ammettere mai Dio, la libertà, l&apos;immortalità per l&apos;uso pratico necessario della mia ragione, senza togliere a un tempo alla ragione speculativa le sue pretese a vedute trascendenti; giacchè, per arrivare a questo, bisogna che essa impieghi tali principii; che non si estendono in realtà se non agli oggetti di esperienza possibile, e quando tuttavia si vogliano applicare a ciò che non può essere oggetto di esperienza, lo trasformano realmente subito in fenomeno, e così dimostrano impossibile ogni estensione pratica della ragion pura. Io dunque ho dovuto sopprimere il sapere per sostituirvi la fede; e del resto, il dommatismo della metafisica, cioè il pregiudizio di progredire in questa scienza senza una critica della ragion pura, è la vera fonte dello scetticismo che si contrappone alla moralità, la quale è sempre mai fortemente dommatica. ― Se dunque è impossibile lasciare ai posteri una metafisica sistematica, costruita a seconda della critica della ragion pura, questo non sarà un dono di scarso prezzo; sia che si consideri semplicemente la coltura lungo le vie sicure di una scienza in generale, anzi che per tentativi a casaccio e per scorrerie fatte alla leggiera senza critica; o che si badi anche al miglior impiego del tempo per una gioventù avida di sapere, che trova nell&apos;ordinario dommatismo un incentivo, così precoce e così efficace, a ragionare alla leggiera di cose di cui non comprende nulla, e delle quali essa, come nessuno al 
@@ -3605,11 +3644,11 @@ tingenza del mutevole e necessità di un primo motore); ― se, uscite dalle scu
 e grande creatore del mondo, fede che si diffonde nel pubblico, perchè riposa su fondamenti razionali; è da concludere, che non soltanto questo dominio resta intatto, ma, inoltre, guadagna d&apos;importanza, dal fatto che le scuole avranno imparato finalmente a non accampar pretese per una cognizione più vasta e più alta di quella, alla quale può arrivare facilmente la gran maggioranza degli uomini (per noi degnissima di stima); e a limitarsi quindi unicamente per la cultura a trattare quelle prove che sono alla portata di tutti e sufficienti dal punto di vista morale. Questa riforma dunque colpisce soltanto le arroganti pretese delle 
 <text:soft-page-break/>
 scuole, che in questo punto (come spesso a ragione in parecchi altri) si vantano volentieri d&apos;esser 
-<text:span text:style-name="T65">
+<text:span text:style-name="T69">
 s
 </text:span>
 ole capaci di conoscere e di custodire l
-<text:span text:style-name="T66">
+<text:span text:style-name="T70">
 e
 </text:span>
  verità; delle quali alla folla lasciano solo l&apos;uso, ma delle quali serbano gelosamente la chiave (
@@ -3623,7 +3662,7 @@ quod mecum nescit, solus vult scire videri
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Orazio
 </text:span>
 , 
@@ -3720,7 +3759,7 @@ I. Della differenza tra conoscenza pura ed empirica
 <text:note-body>
 <text:p text:style-name="Footnote">
 La 1
-<text:span text:style-name="T36">
+<text:span text:style-name="T37">
 a
 </text:span>
  ediz. divideva l&apos;introduzione solo in due paragrafi: I. 
@@ -3732,7 +3771,7 @@ Idea della filosofia trascendentale
 Partizione alla filosofia trascendentale
 </text:span>
 ; e al posto dei primi due paragrafi di questa 2
-<text:span text:style-name="T36">
+<text:span text:style-name="T37">
 a
 </text:span>
  ediz., aveva questi pochi periodi:
@@ -3796,7 +3835,7 @@ III
 <text:note-body>
 <text:p text:style-name="Footnote">
 Questo paragrafo, tolti i pochi periodi tradotti nella nota precedente, e poche e quasi insignificanti aggiunte e correzioni, riproduce il paragrafo I della 1
-<text:span text:style-name="T37">
+<text:span text:style-name="T38">
 a
 </text:span>
  edizione.
@@ -3822,7 +3861,7 @@ de impresa, essa ne prende l&apos;impegno piena di confidenza
 <text:note-body>
 <text:p text:style-name="Footnote">
 Questo capoverso: «Questi inevitabili... l&apos;esecuzione», è un&apos;aggiunta della 2
-<text:span text:style-name="T38">
+<text:span text:style-name="T39">
 a
 </text:span>
  edizione.
@@ -3966,7 +4005,7 @@ accade io penso per verità una esistenza, alla quale precede un tempo ecc.; e d
 <text:note-body>
 <text:p text:style-name="Footnote">
 Le parole «sta ...concetto e» sono aggiunte nella 2
-<text:span text:style-name="T39">
+<text:span text:style-name="T40">
 a
 </text:span>
  edizione.
@@ -3987,7 +4026,7 @@ A
 B
 </text:span>
 , ad esso estraneo, e che, ciò malgrado, stima con esso congiunto? non può essere l&apos;e
-<text:span text:style-name="T67">
+<text:span text:style-name="T71">
 s
 </text:span>
 perienza, poichè il principio citato aggiunge questa seconda rappresentazione alla prima, non solo con universalità maggiore di quella che può dare l&apos;esperienza, ma altresì con la nota della necessità, e per ciò del tutto a priori, e in base a semplici concetti. Ora tutto lo scopo supremo delle nostre conoscenze speculative a priori si fonda su tali principi sintetici o estensivi; perchè gli analitici sono, sì, importantissimi e necessariissimi, ma solo per giungere a quella chiarezza dei concetti, che è desiderabile per una sicura ed ampia sintesi, come per una conquista realmente nuova
@@ -4002,7 +4041,7 @@ I due paragrafi che seguono (V e VI) sono desunti dai
 Prolegomeni
 </text:span>
  (V, n.1) con piccole modificazioni. Nella 1
-<text:span text:style-name="T40">
+<text:span text:style-name="T41">
 a
 </text:span>
  edizione a questo punto seguivano le parole:
@@ -4039,7 +4078,7 @@ Veramente a prima vista si dovrebbe pensare che la proposizione 7+5=12 sia una p
 </text:note-citation>
 <text:note-body>
 <text:p text:style-name="Footnote">
-<text:span text:style-name="T19">
+<text:span text:style-name="T20">
 Segner
 </text:span>
 , 
@@ -4047,7 +4086,7 @@ Segner
 Anfangsgründe der Mathematik
 </text:span>
 , 2
-<text:span text:style-name="T41">
+<text:span text:style-name="T42">
 a
 </text:span>
  ediz. Halle, 1773.
@@ -4064,7 +4103,7 @@ gine ad una ad una al numero 7, e vedo così nascere il numero 12. Che 5 si dove
 <text:note-body>
 <text:p text:style-name="Footnote">
 Questi ultimi due periodi sono aggiunti nella 2
-<text:span text:style-name="T42">
+<text:span text:style-name="T43">
 a
 </text:span>
  ediz.
@@ -4078,7 +4117,7 @@ Tanto meno è analitico un principio qualunque della geometria pura. Che la line
 </text:p>
 <text:p text:style-name="Text_20_body">
 Alcune poche proposizioni fondamentali
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn59" text:note-class="footnote">
 <text:note-citation>
 59
 </text:note-citation>
@@ -4126,7 +4165,7 @@ giungervi a priori qualche cosa che in quel concetto non pensavo. La proposizion
 </text:p>
 <text:p text:style-name="Text_20_body">
 3. Nella metafisica, considerando questa scienza solo come una scienza finora soltanto tentata, ma tuttavia indispensabile per la natura della ragione umana, devono esser contenute conoscenze sintetiche a priori, e non si tratta perciò di semplicemente scomporre e chiarire analiticamente i concetti che ci formiamo a priori delle cose, ma vogliamo estendere a priori la nostra conoscenza; e a tal uopo dobbiamo servir
-<text:span text:style-name="T68">
+<text:span text:style-name="T72">
 c
 </text:span>
 i di tali principii che aggiungano al concetto dato qualche cosa che non vi era contenuto; e mediante giudizi sintetici a priori ci spingiamo fin là, dove l&apos;esperienza non può seguirci: per esempio, nella proposizione: il mondo deve avere un primo principio ecc.; e così la metafisica consta dunque, almeno secondo il suo scopo, di mere proposizioni sintetiche a priori.
@@ -4136,18 +4175,21 @@ i di tali principii che aggiungano al concetto dato qualche cosa che non vi era 
 VI. Problema generale della ragion pura
 <text:bookmark-end text:name="__RefHeading___Toc395_2203379893"/>
 </text:h>
-<text:p text:style-name="Text_20_body">
+<text:p text:style-name="P57">
 È già un bel guadagno quando si può raccogliere una quantità di ricerche sotto la formola di problema unico. Giacchè per tal modo non solo vien agevolato il nostro proprio lavoro in quanto ess
-<text:span text:style-name="T69">
+<text:span text:style-name="T73">
 o
 </text:span>
  è esattamente determinato, ma anche ad ogni altro che voglia esaminarlo è reso facile il giudizio se abbiamo fatto abbastanza o no pel nostro proposito. Il problema proprio della ragion pura è 
 <text:soft-page-break/>
-dunque contenuto nella domanda: COME SONO POSSIBILI GIUDIZI SINTETICI A PRIORI?
+dunque contenuto nella domanda: 
+<text:span text:style-name="T20">
+come sono possibili giudizi sintetici a priori?
+</text:span>
 </text:p>
-<text:p text:style-name="Text_20_body">
+<text:p text:style-name="P57">
 La ragione, per la quale la metafisica è rimasta fin qui in una condizione oscillante di incertezza e di contraddizione, è da cercarsi esclusivamente nel fatto, che non s&apos;è posto mente in passato a questo problema, e nemmeno forse alla differenza dei giudizi analitici e sintetici. Intanto la vita e la morte della metafisica dipende dalla soluzione di questo problema, o da una dimostrazione soddisfacente che la possibilità, che essa desidera saper definita, in realtà non c&apos;è. David Hume, che fra tutti i filosofi ha affront
-<text:span text:style-name="T70">
+<text:span text:style-name="T74">
 ato
 </text:span>
  più da vicino questo problema, ma che rimase lungi dal pensarlo con sufficiente precisione e in tutta la sua universalità, e si fermò semplicemente alla proposizione sintetica del nesso dell&apos;effetto con la sua causa (
@@ -4158,12 +4200,247 @@ principium causalitatis
 <text:soft-page-break/>
 sintetici a priori: affermazione dalla quale il suo buon senso allora lo avrebbe ben preservato.
 </text:p>
+<text:p text:style-name="P64">
+Nella soluzione del superiore problema è riposta a un tempo la possibilità dell&apos;uso puro della ragione per fondare e recare in atto tutte le scienze che contengono una conoscenza teorica a priori degli oggetti, con concetti, e, 
+<text:s/>
+cioè, la risposta alle domane:
+</text:p>
+<text:p text:style-name="P64">
+<text:span text:style-name="T20">
+Com&apos;è possibile una metafisica pura?
+</text:span>
+</text:p>
+<text:p text:style-name="Text_20_body">
+<text:span text:style-name="T20">
+Com&apos;è possibile una fisica pura?
+</text:span>
+</text:p>
+<text:p text:style-name="Text_20_body">
+Di queste scienze, poichè esse realmente ci sono, convien bene domandarsi come sieno possibili; poichè, che debban esser possibili, è provato dalla loro stessa esistenza di fatto
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+60
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Taluno potrebbe ancora dubitare che questa esistenza l&apos;abbia la fisica pura. Ma basta dare un&apos;occhiata alle diverse proposizioni, che s&apos;incontrano al principio della fisica propriamente detta (empirica), come quelle della permanenza della stessa quantità di materia, dell&apos;inerzia, dell&apos;uguaglianza di azione e reazione e così via, per convincersi subito che esse costituiscono una 
+<text:span text:style-name="T11">
+Physican puram (o rationalem)
+</text:span>
+, che merita bene di essere esposta separatamente, come scienza speciale, in tutta la sua estensione, piccola o grande che sia. (
+<text:span text:style-name="T11">
+N. di K.
+</text:span>
+)
+</text:p>
+</text:note-body>
+</text:note>
+. Per ciò che riguarda la metafisica, il suo progresso fin qui assai infelice, poichè di nessuna delle metafisiche fin qui esposte, per ciò che spetta al suo scopo essenziale, si può dire che essa realmente esista, deve ad ognuno lasciar dubitare con ragione della sua possibilità.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Ma, tuttavia, anche questa specie di conoscenza deve, in un certo senso, essere considerata come data, e la metafisica, se pure non come scienza, esiste certo come ten
+<text:soft-page-break/>
+denza naturale (
+<text:span text:style-name="T11">
+metaphysica naturalis
+</text:span>
+). Giacchè la ragione umana viene irresistibilmente, anche senza che la muova la semplice velleità di molto sapere, incitata da un proprio bisogno, e muove incontro a quei problemi che non possono esser risoluti da nessun uso empirico della ragione, nè da principii tolti da questo; e così in tutti gli uomini, appena in loro la ragione si è innalzata sino alla speculazione, v&apos;è stata in ogni tempo una metafisica, e vi sarà sempre. ora anche per essa c&apos;è la questione: 
+<text:span text:style-name="T20">
+com&apos;è possibile la metafisica in quanto tendenza naturale?
+</text:span>
+ cioè, come 
+<text:s/>
+nascono dalla natura della ragione umana universale i problemi che la ragion pura affronta, e ai quali essa si sente dal proprio bisogno spinta a rispondere il meglio che può?
+</text:p>
+<text:p text:style-name="Text_20_body">
+Ma, poichè tutte le ricerche fatte fin qui, per rispondere a quelle naturali domande: se il mondo abbia un cominciamento, o esista dall&apos;eternità e così via, sono sempre incorse in inevitabili contraddizioni, così non ci si può arrendere alla semplice tendenza naturale verso la metafisica, cioè alla stessa facoltà pura della ragione, dalla quale certo deriva sempre una qualche metafisica (quale che sia); ma dev&apos;esser possibile giunger con essa alla certezza di un giudizio relativamente alla nostra scienza o ignoranza de&apos; suoi oggetti, cioè a pronunziarsi circa gli oggetti delle sue questioni, ovvero intorno alla potenza e impotenza della ragione rispetto ai medesimi; e però o allargare con fiducia la nostra ragion pura, o restringerla entro limiti determinati e sicuri. Quest&apos;ultimo problema, 
+<text:soft-page-break/>
+che deriva da quello generale di sopra, sarebbe a ragione questo: 
+<text:span text:style-name="T20">
+com&apos;è possibile la metafisica come scienza?
+</text:span>
+</text:p>
+<text:p text:style-name="Text_20_body">
+La critica della regione, dunque, conduce alla fine necessariamente alla scienza; l&apos;uso dommatico, invece, di essa senza critica, ad affermazioni prive di fondamento, alle quali si potrà sempre contrapporne altre ugualmente verisimili, e perciò allo scetticismo.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Inoltre questa scienza non può essere d&apos;una lunghezza grande, scoraggiante, perchè non ha da fare con oggetti della ragione, la cui molteplicità è infinita, ma soltanto con se stessa, con problemi che sorgono esclusivamente dal suo grembo, proposti a lei, non dalla natura delle cose che sono da lei differenti, ma dalla sua propria; dal momento che, quando essa abbia prima imparato a conoscere compiutamente la sua propria capacità rispetto agli oggetti, che le si possono presentare nella esperienza, deve diventar facile determinare in modo completo e sicuro l&apos;ambito e i limiti del suo uso al di là di tutti i confin
+<text:span text:style-name="T75">
+i
+</text:span>
+ dell&apos;esperienza.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Si può dunque, anzi si deve far conto che non sieno mai esistiti tentativi fatti sino ad ora per creare dommaticamente una metafisica; perchè quel che vi è in questa o in quella di analitico, cioè la semplice scomposizione dei concetti che giacciono a 
+<text:span text:style-name="T76">
+pr
+</text:span>
+iori nella nostra ragione, non costituisce punto lo scopo, ma solo un preparativo per la vera metafisica, per estendere, cioè, sinteticamente la 
+<text:soft-page-break/>
+sua co
+<text:span text:style-name="T77">
+n
+</text:span>
+oscenza a priori; e a questo essa
+<text:note text:id="ftn60" text:note-class="footnote">
+<text:note-citation>
+61
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+La scomposizione dei concetti.
+</text:p>
+</text:note-body>
+</text:note>
+ non basta; poichè mostra solo ciò che è contenuto nei concetti, ma non come noi siamo pervenuti a priori a tali concetti, acciò si possa in conseguenza determinare il loro legittimo uso rispetto agli oggetti di ogni conoscenza in generale. E basta anche soltanto una piccola dose di abnegazione per rinunziare a queste pretese, giacchè le incontestabili contraddizioni della ragione con se stessa, inevitabili in un procedimento dommatico, già da molto tempo han gettato il discredito sulla metafisica passata. Piuttosto sarà necessaria molta 
+<text:span text:style-name="T78">
+co
+</text:span>
+stanza per non lasciarsi rimuovere per nessuna difficoltà intrinseca od esteriore ostacolo dal promuovere finalmente una volta lo sviluppo rigoglios
+<text:span text:style-name="T79">
+o e
+</text:span>
+ fecondo di una scienza indispensabile all&apos;umana ragione; una scienza della quale si potranno tagliare i rami che ne son venuti fuori, ma non mai svellere le radici, con un&apos;altra trattazione del tutto opposta alle precedenti.
+</text:p>
 <text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_4" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc397_2203379893"/>
-VII. Idea e partizione di una scienza speciale, sotto nome di Critica della ragion Pura
+VII. Idea e partizione di una scienza speciale, sotto nome di 
+<text:span text:style-name="T80">
+c
+</text:span>
+ritica della ragion 
+<text:span text:style-name="T80">
+p
+</text:span>
+ura
 <text:bookmark-end text:name="__RefHeading___Toc397_2203379893"/>
 </text:h>
+<text:p text:style-name="Text_20_body">
+Da tutto ciò scaturisce dunque l&apos;idea di una scienza speciale, che si può chiamare Critica della ragion pura. Poichè la ragione è la facoltà che ci fornisce i principii a priori della conoscenza
+<text:note text:id="ftn61" text:note-class="footnote">
+<text:note-citation>
+62
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+La prima edizione diceva: «... una scienza speciale, che può servire alla critica della ragion pura. Ma si chiama pura ogni conoscenza, che non è mista di nulla d&apos;estraneo. In particolare poi si chiama pura una conoscenza, nella quale non sia mescolata nessuna esperienza o sensazione, e che perciò è possibile del tutto a priori. Ora la ragione è la facoltà, ecc. ».
+</text:p>
+</text:note-body>
+</text:note>
+. Ragion pura è perciò quella 
+<text:soft-page-break/>
+che contiene i principii per conoscere qualche cosa assolutamente a priori. Un organo della ragion pura sarebbe un complesso dei principii, secondo i quali possono essere acquistate ed effettivamente recate in atto tutte le conoscenze pure a priori. L&apos;applicazione completa di un siffatto organo costituirebbe un sistema della ragion pura. Ma poichè questo sistema è desiderato moltissimo, e resta ancora a veder se e in quali casi una tale estensione della nostra conoscenza sia possibile, così noi possiamo considerare una scienza che si limiti al semplice giudicamento della ragion pura, delle sue fonti e dei suoi limiti, come propedeutica al sistema della ragion pura. Una tale scienza non si dovrebbe ancora chiamare dottrina, ma solo critica della ragion pura; e la sua utilità sarebbe in realtà, riguardo alla speculazione
+<text:note text:id="ftn62" text:note-class="footnote">
+<text:note-citation>
+63
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Le parole «rispetto alla speculazione» sono della 2
+<text:span text:style-name="T44">
+a
+</text:span>
+ edizione.
+</text:p>
+</text:note-body>
+</text:note>
+, solo negativa, giacchè servirebbe ad epurare, non ad allargare la nostra ragione, e a liberarla dagli errori; ciò che è già moltissimo di guadagnato. Chiamo trascendentale ogni conoscenza che si occupa non degli oggetti, ma del nostro modo di conoscenza degli oggetti in quanto questa deve esser possibile a priori
+<text:note text:id="ftn63" text:note-class="footnote">
+<text:note-citation>
+64
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Le parole «... ma alla nostra... a priori» ci sembrano più chiare di quelle della 1
+<text:span text:style-name="T45">
+a
+</text:span>
+ edizione: «ma coi nostri concetti a priori degli oggetti in generale».
+</text:p>
+</text:note-body>
+</text:note>
+.Si direbbe filosofia trascendentale un sistema di siffatti concetti. Ma questa filosofia, d&apos;altra parte, è troppo ancora per cominciare. In
+<text:soft-page-break/>
+fatti, dovendo una tale scienza contenere interamente 
+<text:s/>
+tanto la conoscenza analitica quanto la sintetica a priori. essa è, per ciò che riguarda il nostro scopo, di estensione troppo vasta, laddove noi vogliamo spingere l&apos;analisi fin dove sia indispensabilmente necessario affinchè si possano cogliere in tutta la loro portata i principii della sintesi a priori, come quello che ora soltanto ci riguarda. Questa ricerca, che non possiamo propriamente chiamare dottrina, ma solo critica trascendentale, poichè non mira all&apos;allargamento delle conoscenze stesse, ma soltanto alla loro rettificazione, e che deve darci la pietra di paragone del valore o della vanità di tutte le conoscenze a priori, è ciò di cui ora ci occupiamo. Una tale critica è dunque una preparazione, se è possibile, ad un organo; e, se questo non dovesse riuscire, almeno ad un canone della ragione, secondo il quale in ogni caso si potrebbe un giorno esporre, così analiticamente come sinteticamente, il sistema completo della filosofia della ragion pura, abbia esso a consistere nell&apos;estensione o nella semplice limitazione della sua conoscenza. Che poi questo sistema sia possibile, anzi non sia per essere di tale ampiezza da togliere la speranza di compierlo, si può già argomentare da ciò, che qui si tratta non della natura delle cose, che è inesauribile, ma dell&apos;intelletto, che giudica della natura delle cose, anzi di questo intelletto soltanto rispetto alla sua conoscenza a priori; e il contenuto di quest&apos;oggetto, non dovendo esser cerato fuori di noi, non può restar celato, e secondo ogni presunzione è abbastanza piccolo da poter esser rilevato interamente, 
+<text:soft-page-break/>
+giudicato nel suo valore o non valore, e ridotto al suo giusto apprezzamento. Tanto meno si deve qui aspettare una critica dei libri e dei sistemi della ragion pura, ma quella della facoltà stessa della ragion pura. Se non che, se si pone a base questa critica, si ha una sicura pietra di paragone per apprezzare il valore filosofico delle opere antiche e moderne in questa branca; se no, storico e giudice, incompetenti, giudicano le asserzioni infondate degli altri in nome delle proprie, che son
+<text:span text:style-name="T81">
+o
+</text:span>
+ altrettanto arbitrarie
+<text:span text:style-name="T18">
+<text:note text:id="ftn64" text:note-class="footnote">
+<text:note-citation>
+65
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Le parole «tanto meno...arbitrario» non erano nella 1
+<text:span text:style-name="T46">
+a
+</text:span>
+ ediz. Dopo di esse, con le parole «la filosofia trascendentale...» incominciava la seconda sezione della primitiva redazione di questa introduzione, intitolata, come già ricordammo (pag. 37): 
+<text:span text:style-name="T11">
+Partizione alla filosofia trascendentale
+</text:span>
+.
+</text:p>
+</text:note-body>
+</text:note>
+</text:span>
+.
+</text:p>
+<text:p text:style-name="Text_20_body">
+La filosofia trascendentale è l&apos;idea d&apos;una scienza, di cui la critica della ragion pura deve architettonicamente, cioè per principii, abbozzare il disegno intero, con piena garanzia di solidità e sicurezza di tutte le parti che compongono un tale edificio. Essa è il sistema di tutti i principii della ragion pura. Se questa critica non si chiama essa stessa filosofia trascendentale, la ragione è che, per essere un sistema completo, dovrebbe contenere altresì un&apos;analisi compiuta di tutta la conoscenza umana a priori. Ora la nostra critica certo deve metterci sott&apos;occhio l&apos;enumerazione completa di tutti 
+<text:s/>
+i concetti fondamentali, che costituiscono la suddetta conoscenza pura. Ma non contiene l&apos;analisi particolareggiata di questi concetti, nè la rassegna completa di tutti quelli che ne derivano, in parte perchè tale analisi non sarebbe conforme ai 
+<text:soft-page-break/>
+suoi fini, non presentando essa la stessa difficoltà, che sta invece nella sintesi, intorno alla quale lavora, come in proprio terreno, tutta la critica; in parte perchè sarebbe rotta l&apos;unità del disegno, se si volesse dare con la responsabilità della compiutezza una tale analisi e deduzione, di cui possiam fare a meno, considerati i fini della nostra critica. Questa compiutezza, per altro, tanto nell&apos;analisi quanto nella deduzione dai concetti a priori che rimangono da assegnare, è facile a integrare quando prima di tutto ci siano questi concetti soltanto come principii completi della sintesi e non manchi nulla rispetto a questo scopo essenziale.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Appartiene quindi alla critica della ragion pura tutto ciò che costituisce la filosofia trascendentale, ed essa è la idea completa della filosofia trascendentale, ma non ancora questa scienza stessa, giacchè nell&apos;analisi va soltanto fin là dove è necessario, per giudicare perfettamente la conoscenza sintetica a priori.
+</text:p>
+<text:p text:style-name="Text_20_body">
+La mira precipua nella partizione di tale 
+<text:s/>
+scienza è, che non vi devono entrare punto concetti i quali contengano in sè qualcosa di empirico: ossia, che la conoscenza a priori sia pienamente pura. Perciò, sebbene i principii supremi della moralità e i suoi concetti fondamentali sieno conoscenze a priori, essi non appartengono tuttavia alla filosofia trascendentale, poichè essi, per quanto certo non mettano i concetti del piacere e del dolore, dei desiderii e delle tendenze, ecc., che son tutti di origine empirica, a base dei precetti morali, tuttavia nel concetto 
+<text:soft-page-break/>
+del dovere non possono non farli entrare per la costruzione d&apos;un sistema di moralità pura, o come impedimento che va superato, o come stimolo di cui non va fatto un motivo
+<text:note text:id="ftn65" text:note-class="footnote">
+<text:note-citation>
+66
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Prima edizione: «poichè i concetti di piacere e dolore, ecc., che hanno tutti origine empirica, devono esservi presupposti».
+</text:p>
+</text:note-body>
+</text:note>
+. Perciò la filosofia trascendentale è filosofia
+<text:note text:id="ftn66" text:note-class="footnote">
+<text:note-citation>
+67
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T11">
+Weltweisheit
+</text:span>
+ (= sapienza mondana).
+</text:p>
+</text:note-body>
+</text:note>
+ della ragion pura semplicemente speculativa. Giacchè tutto ciò che è pratico, in quanto comprende de&apos; motivi, ha attinenza con i sentimenti, che appartengono alle fonti empiriche della conoscenza.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Se dunque si vuol dividere questa scienza dal punto di vista generale di un sistema, la scienza, che ci accingiamo ad esporre, deve comprendere, in primo luogo, una dottrina degli elementi, e in secondo luogo, una dottrina del metodo della ragion pura. Ciascuna di queste parti principali avrebbe poi sue proprie divisioni, il cui fondamento tuttavia non è qui ancora il luogo di esporre. In una introduzione o avvertenza preliminare par che sia necessario soltanto notare che si danno due tronchi dell&apos;umana conoscenza, che rampollano probabilmente da una radice comune ma a noi sconosciuta: cioè, senso e intelletto; col primo dei quali ci son dati gli oggetti, col secondo essi sono pensati. Ora il senso, in quanto deve contenere rappresentazioni a priori, che formano la condizione a cui ci son dati gli oggetti, apparterrebbe alla filosofia trascendentale. La teoria trascendentale della sensibilità dovrebbe spettare alla prima parte parte della scienza degli elementi, poichè le condizioni, a cui 
+<text:soft-page-break/>
+soltanto gli oggetti sono dati alla conoscenza umana, precedono quelle, a cui i medesimi oggetti sono pensati.
+</text:p>
+<text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_1" text:outline-level="1">
 <text:bookmark-start text:name="__RefHeading___Toc399_2203379893"/>
 I DOTTRINA TRASCENDENTALE DEGLI ELEMENTI
