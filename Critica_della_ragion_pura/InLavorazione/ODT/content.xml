@@ -278,27 +278,33 @@
 <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
 <style:text-properties officeooo:paragraph-rsid="01033dc4"/>
 </style:style>
-<style:style style:name="P59" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
+<style:style style:name="P59" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:text-properties officeooo:paragraph-rsid="01368e94"/>
+</style:style>
+<style:style style:name="P60" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
 <style:paragraph-properties style:page-number="auto"/>
 </style:style>
-<style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:style style:name="P61" style:family="paragraph" style:parent-style-name="Footnote">
+<style:text-properties officeooo:paragraph-rsid="015b47f0"/>
+</style:style>
+<style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_1">
 <style:text-properties fo:font-size="15pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
 </style:style>
-<style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_1">
 <style:paragraph-properties fo:break-before="page"/>
 <style:text-properties officeooo:paragraph-rsid="003cc729"/>
 </style:style>
-<style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_4">
+<style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_4">
 <style:text-properties officeooo:paragraph-rsid="00246cce"/>
 </style:style>
-<style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_6">
+<style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_6">
 <style:text-properties officeooo:paragraph-rsid="0026ef34"/>
 </style:style>
-<style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:text-properties officeooo:paragraph-rsid="01368e94"/>
+<style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:text-properties fo:font-variant="small-caps" officeooo:paragraph-rsid="01368e94"/>
 </style:style>
-<style:style style:name="P65" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+<style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:text-properties fo:font-variant="small-caps"/>
 </style:style>
 <style:style style:name="T1" style:family="text">
 <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none"/>
@@ -439,109 +445,127 @@
 <style:text-properties style:text-position="super 58%" officeooo:rsid="014e12cd"/>
 </style:style>
 <style:style style:name="T47" style:family="text">
-<style:text-properties officeooo:rsid="006d1068"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0159f748"/>
 </style:style>
 <style:style style:name="T48" style:family="text">
-<style:text-properties officeooo:rsid="00753303"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="015bd960"/>
 </style:style>
 <style:style style:name="T49" style:family="text">
-<style:text-properties officeooo:rsid="008670bb"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="015d73e4"/>
 </style:style>
 <style:style style:name="T50" style:family="text">
-<style:text-properties officeooo:rsid="008984bc"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="015feb33"/>
 </style:style>
 <style:style style:name="T51" style:family="text">
-<style:text-properties officeooo:rsid="008a1246"/>
+<style:text-properties style:text-position="super 58%" officeooo:rsid="0162e710"/>
 </style:style>
 <style:style style:name="T52" style:family="text">
-<style:text-properties officeooo:rsid="009b2658"/>
+<style:text-properties officeooo:rsid="006d1068"/>
 </style:style>
 <style:style style:name="T53" style:family="text">
-<style:text-properties fo:font-variant="normal" fo:text-transform="none"/>
+<style:text-properties officeooo:rsid="00753303"/>
 </style:style>
 <style:style style:name="T54" style:family="text">
-<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+<style:text-properties officeooo:rsid="008670bb"/>
 </style:style>
 <style:style style:name="T55" style:family="text">
-<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-size="12pt" style:font-size-asian="10.5pt" style:font-size-complex="12pt"/>
+<style:text-properties officeooo:rsid="008984bc"/>
 </style:style>
 <style:style style:name="T56" style:family="text">
-<style:text-properties officeooo:rsid="00a30a62"/>
+<style:text-properties officeooo:rsid="008a1246"/>
 </style:style>
 <style:style style:name="T57" style:family="text">
-<style:text-properties officeooo:rsid="00b3330f"/>
+<style:text-properties officeooo:rsid="009b2658"/>
 </style:style>
 <style:style style:name="T58" style:family="text">
-<style:text-properties officeooo:rsid="00b4568c"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none"/>
 </style:style>
 <style:style style:name="T59" style:family="text">
-<style:text-properties officeooo:rsid="00c19e14"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
 </style:style>
 <style:style style:name="T60" style:family="text">
-<style:text-properties officeooo:rsid="00c7942d"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-size="12pt" style:font-size-asian="10.5pt" style:font-size-complex="12pt"/>
 </style:style>
 <style:style style:name="T61" style:family="text">
-<style:text-properties officeooo:rsid="00cc38ee"/>
+<style:text-properties officeooo:rsid="00a30a62"/>
 </style:style>
 <style:style style:name="T62" style:family="text">
-<style:text-properties officeooo:rsid="00d47810"/>
+<style:text-properties officeooo:rsid="00b3330f"/>
 </style:style>
 <style:style style:name="T63" style:family="text">
-<style:text-properties officeooo:rsid="00de3c10"/>
+<style:text-properties officeooo:rsid="00b4568c"/>
 </style:style>
 <style:style style:name="T64" style:family="text">
-<style:text-properties officeooo:rsid="00def315"/>
+<style:text-properties officeooo:rsid="00c19e14"/>
 </style:style>
 <style:style style:name="T65" style:family="text">
-<style:text-properties officeooo:rsid="00e45365"/>
+<style:text-properties officeooo:rsid="00c7942d"/>
 </style:style>
 <style:style style:name="T66" style:family="text">
-<style:text-properties officeooo:rsid="00e56d7c"/>
+<style:text-properties officeooo:rsid="00cc38ee"/>
 </style:style>
 <style:style style:name="T67" style:family="text">
-<style:text-properties officeooo:rsid="00e665e1"/>
+<style:text-properties officeooo:rsid="00d47810"/>
 </style:style>
 <style:style style:name="T68" style:family="text">
-<style:text-properties officeooo:rsid="00e89f5c"/>
+<style:text-properties officeooo:rsid="00de3c10"/>
 </style:style>
 <style:style style:name="T69" style:family="text">
-<style:text-properties officeooo:rsid="00eb6b14"/>
+<style:text-properties officeooo:rsid="00def315"/>
 </style:style>
 <style:style style:name="T70" style:family="text">
-<style:text-properties officeooo:rsid="00ec2e2d"/>
+<style:text-properties officeooo:rsid="00e45365"/>
 </style:style>
 <style:style style:name="T71" style:family="text">
-<style:text-properties officeooo:rsid="011c4290"/>
+<style:text-properties officeooo:rsid="00e56d7c"/>
 </style:style>
 <style:style style:name="T72" style:family="text">
-<style:text-properties officeooo:rsid="012d6937"/>
+<style:text-properties officeooo:rsid="00e665e1"/>
 </style:style>
 <style:style style:name="T73" style:family="text">
-<style:text-properties officeooo:rsid="012dfd8e"/>
+<style:text-properties officeooo:rsid="00e89f5c"/>
 </style:style>
 <style:style style:name="T74" style:family="text">
-<style:text-properties officeooo:rsid="012f87c1"/>
+<style:text-properties officeooo:rsid="00eb6b14"/>
 </style:style>
 <style:style style:name="T75" style:family="text">
-<style:text-properties officeooo:rsid="01432608"/>
+<style:text-properties officeooo:rsid="00ec2e2d"/>
 </style:style>
 <style:style style:name="T76" style:family="text">
-<style:text-properties officeooo:rsid="01446b64"/>
+<style:text-properties officeooo:rsid="011c4290"/>
 </style:style>
 <style:style style:name="T77" style:family="text">
-<style:text-properties officeooo:rsid="014594df"/>
+<style:text-properties officeooo:rsid="012d6937"/>
 </style:style>
 <style:style style:name="T78" style:family="text">
-<style:text-properties officeooo:rsid="014731ab"/>
+<style:text-properties officeooo:rsid="012dfd8e"/>
 </style:style>
 <style:style style:name="T79" style:family="text">
-<style:text-properties officeooo:rsid="0147ab8b"/>
+<style:text-properties officeooo:rsid="012f87c1"/>
 </style:style>
 <style:style style:name="T80" style:family="text">
-<style:text-properties officeooo:rsid="01495219"/>
+<style:text-properties officeooo:rsid="01432608"/>
 </style:style>
 <style:style style:name="T81" style:family="text">
+<style:text-properties officeooo:rsid="01446b64"/>
+</style:style>
+<style:style style:name="T82" style:family="text">
+<style:text-properties officeooo:rsid="014594df"/>
+</style:style>
+<style:style style:name="T83" style:family="text">
+<style:text-properties officeooo:rsid="014731ab"/>
+</style:style>
+<style:style style:name="T84" style:family="text">
+<style:text-properties officeooo:rsid="0147ab8b"/>
+</style:style>
+<style:style style:name="T85" style:family="text">
+<style:text-properties officeooo:rsid="01495219"/>
+</style:style>
+<style:style style:name="T86" style:family="text">
 <style:text-properties officeooo:rsid="01503f2c"/>
+</style:style>
+<style:style style:name="T87" style:family="text">
+<style:text-properties officeooo:rsid="015f1177"/>
 </style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
@@ -581,7 +605,7 @@ www.liberliber.it
 </text:p>
 </draw:text-box>
 </draw:frame>
-<text:p text:style-name="P59">
+<text:p text:style-name="P60">
 Autore
 </text:p>
 <text:p text:style-name="LL_3a__20_titolo_20_libro">
@@ -1513,7 +1537,7 @@ Osservazione generale intorno al passaggio dalla psicologia razionale alla cosmo
 </text:p>
 </text:index-body>
 </text:table-of-content>
-<text:h text:style-name="P60" text:outline-level="1">
+<text:h text:style-name="P62" text:outline-level="1">
 EMMANUELE KANT
 </text:h>
 <text:p text:style-name="P37">
@@ -1591,7 +1615,7 @@ _____________
 <text:p text:style-name="P27">
 DICEMBRE MCMXLVIII - 4209
 </text:p>
-<text:h text:style-name="P61" text:outline-level="1">
+<text:h text:style-name="P63" text:outline-level="1">
 Prefazione a questa traduzione
 </text:h>
 <text:p text:style-name="P39">
@@ -2106,7 +2130,7 @@ lo dice egli stesso nella prefazione alla nuova edizione (pp. 33 sgg. q. trad.);
 Critica
 </text:span>
 , che si dà tradotta in questo primo volume. E le più importanti sono quattro: 1) la nuova forma della Deduzione dei concetti puri dell&apos;intelletto; 2) e alla teoria della distinzione dei fenomeni e dei noumeni; 3) l&apos;aggiunta della Confutazione dell&apos;idealismo; 4) i tagli nei Paralogismi della ragion pura. La sostanza di queste differenze variamente giudicata s
-<text:span text:style-name="T47">
+<text:span text:style-name="T52">
 e
 </text:span>
 condo le tendenze diverse dei critici, si può certamente riassumere nello sforzo fatto da Kant,―dopo l&apos;interpretazione berkeleiana, che fu data generalmente della 1
@@ -2378,7 +2402,7 @@ a
 a
 </text:span>
 ; e lo stesso tes
-<text:span text:style-name="T48">
+<text:span text:style-name="T53">
 t
 </text:span>
 o, in più punti, anche il Vorländer. L&apos; Erdmann, pertanto, rifacendo a parte la storia del testo, dimostrata la necessità di cercare nell&apos;edizione del 1787 il testo genuino di Kant
@@ -2770,17 +2794,17 @@ Proemio alla traduzione
 </text:p>
 <text:p text:style-name="P46">
 Il saggio della prosa del Mantovani teste riferito può dare un&apos;idea del difetto principale della sua traduzione, non solo «inelegante», cementi gi
-<text:span text:style-name="T49">
+<text:span text:style-name="T54">
 à
 </text:span>
  sospettava, ma così dura da riuscire spesso inintelligibile, per la trascuranza delle norme più comuni della sintassi italiana come per l&apos;uso od abuso stranissimo del vocabolario. È stato detto che questa pubblicazione nocque, lungi dal giovare, alla conoscenza di Kant in Italia. Giudizio forse ingiustamente esagerato, poiché non sarebbe possibile, credo, additare nel Gallupp
-<text:span text:style-name="T50">
+<text:span text:style-name="T55">
 i
 </text:span>
 , che di questa traduzione dovette sempre servirsi, o nel Rossini, che vi fece anche lui ricorso nelle prime sue opere, prima che avesse imparato il tedesco un&apos;erronea interpretazione da ascriversi in colpa al povero Mantovani. Il quale pare generalmente esatto nella sua traduzione; ma con la sua orrida forma, 
 <text:soft-page-break/>
 che lo stesso Gal
-<text:span text:style-name="T51">
+<text:span text:style-name="T56">
 lu
 </text:span>
 ppi, nelle sue citazioni, procurava di pulire, dovette certamente, a molti che l&apos;avevano, far passare la voglia di leggere mai in italiano la 
@@ -2979,7 +3003,7 @@ G.G.
 </text:p>
 <text:p text:style-name="P49">
 La nuova edizione di questa traduzione non è una semplice ristampa della precedente. Lieto della occasione che mi si porgeva di migliorare il nostro lavoro, il quale, ma
-<text:span text:style-name="T52">
+<text:span text:style-name="T57">
 l
 </text:span>
 grado i suoi difetti, ha incontrato favore nel pubblico e recato fors&apos;anco non piccolo giovamento alla cultura filosofica italiana, ne ho profittato per correggere accuratamente e in buona parte rifare la traduzione, studian
@@ -3035,7 +3059,7 @@ RAGION PURA
 <text:p text:style-name="P35"/>
 <text:p text:style-name="P51">
 Kant, 
-<text:span text:style-name="T54">
+<text:span text:style-name="T59">
 Ragion pura.
 </text:span>
 </text:p>
@@ -3046,13 +3070,13 @@ Ragion pura.
 <text:p text:style-name="P56"/>
 <text:p text:style-name="P56"/>
 <text:p text:style-name="P52">
-<text:span text:style-name="T53">
+<text:span text:style-name="T58">
 BACO 
 </text:span>
-<text:span text:style-name="T55">
+<text:span text:style-name="T60">
 DE 
 </text:span>
-<text:span text:style-name="T53">
+<text:span text:style-name="T58">
 VERULAMIO
 </text:span>
 </text:p>
@@ -3106,7 +3130,7 @@ illuminato conoscitore. Perciò io mi servo dell&apos;unico mezzo, che incerto m
 <text:note-body>
 <text:p text:style-name="Footnote">
 Nella dedica dell
-<text:span text:style-name="T56">
+<text:span text:style-name="T61">
 a
 </text:span>
  1
@@ -3212,11 +3236,11 @@ Mi sono dunque messo per questa via, che era l&apos;unica che rimanesse, e mi lu
 che sinora hanno messo la ragione in discordia con se stessa nel suo uso di là da ogni esperienza. Non mi sono schermito dai problemi che si presentavano, adducendo a scusa l&apos;impotenza della ragione umana; al contrario, li ho completamente spe
 <text:soft-page-break/>
 cificati secondo principio, e, dopo aver scoperto il punto del malinteso della ragione rispetto a se stessa, li ho risoluti, appagandone pienamente le esigenze. Cer
-<text:span text:style-name="T57">
+<text:span text:style-name="T62">
 t
 </text:span>
 o, la mia risposta a quei problemi non è così soddisfacente come avrebbe potuto aspettarla la curiosità dommaticamente fantasticante; perchè ci sarebbe voluta non meno dell&apos;arte magica per accontentarla, ed io non me ne intendo. Se non che, questo non era neppure il fine della destinazione naturale della nostra ragione; ed il dovere della filosofia era di toglier via l&apos;illusione che proveniva da un malinteso, dovesse pure restarne annullata perciò una così apprezzata e cara credenza. In questa impresa ho fatto della precisione nei particolari la mia gran divisa; e ardisco dire che non c&apos;è un solo problema metafisico che qui sia rimasto insoluto, o de
-<text:span text:style-name="T58">
+<text:span text:style-name="T63">
 l
 </text:span>
 la cui soluzione non sia data almeno la chiave. Infatti, la ragion pura è unità così perfetta, che, se il suo principio fosse insufficiente a risolvere anche un solo di tutti i problemi che le son proposti dalla sua stessa natura, sarebbe senz&apos;altro da respingere, poichè in tal caso non potrebbe essere applicato con piena sicurezza a nessuno degli altri.
@@ -3279,7 +3303,7 @@ za intuitiva (estetica) per intuizioni, ossia per mezzo di esempi o altri chiari
 in concreto
 </text:span>
 . La prima ho curata abbastanza, ed era l&apos;essenziale pel mio proposito; ma è stata anche causa accidentale ch&apos;io non abbia potuto soddisfare alla seconda esigenza, non veramente così urgente come la prima, ma tuttavia anch&apos;essa legittima. Sono stato quasi sempre irresoluto nel progresso del mio lavoro, come dovessi comportarmi a questo riguardo. Esempi e chiarimenti mi parevano sempre necessari, e venivano quindi anche effettivamente abbondanti e spontanei al loro luogo, nel primo getto dell&apos;opera. Ma, quando vidi la vastità del mio lavoro e la moltitudine degli oggetti che avrei dovuto trattare, e però mi accorsi che la sola esposizione rigida e nuda, puramente scolastica, avrebbe dato già all&apos;opera una grande estensione, giudicai inopportun
-<text:span text:style-name="T59">
+<text:span text:style-name="T64">
 o
 </text:span>
  allargarla ancora con esempi e chiarimenti, che del resto sono necessari solo dal punto di vista popolare; tanto più che questo lavoro non è punto adatto all&apos;uso del popolo, e gli speciali conoscitori della scienza non hanno tanto bisogno di questa facilitazione, che, se è certamente sempre gradita, qui tuttavia può anche nuocere allo scopo dell&apos;opera. L&apos;abate Terrason veramente diceva
@@ -3338,7 +3362,7 @@ Spero anche di dare un tale sistema della ragion pura (speculativa) sotto il tit
 <text:note-body>
 <text:p text:style-name="Footnote">
 Seguono due avvertenze, relative a particolari tipografici della 1
-<text:span text:style-name="T60">
+<text:span text:style-name="T65">
 a
 </text:span>
  ediz.
@@ -3368,7 +3392,7 @@ che il vestibolo delle scienze, e, quando si parla di conoscenze, si presuppone 
 </text:p>
 <text:p text:style-name="Text_20_body">
 Ora, in quanto in queste deve aver parte la ragione, è necessario che in esse qualcosa sia conosciuto a priori; e la loro conoscenza si può riferire al loro oggetto in doppia maniera: o semplicemente per determinar questo e il suo concetto (che deve essere dato d&apos;altronde), o per realizzarlo. L&apos;una è conoscenza teoretica della ragione, l&apos;altra pratica. Dell&apos;una e dell&apos;altra è necessario che la parte pura, ampio o ristretto che ne sia il contenuto, cioè quella, nella quale la ragione determina il suo oggetto interamente a priori, sia esposta dapprima da sola, e ciò che proviene da altre fonti non vi sia menomamente mescolato; giacchè è cattiva amministrazione spendere alla cieca tutti gli introiti, senza poter poi distinguere, quando vengano meno le rendite, qual parte di esse possa sopportare le spese e quale richie
-<text:span text:style-name="T61">
+<text:span text:style-name="T66">
 da
 </text:span>
  che si limitino.
@@ -3435,7 +3459,7 @@ gno, e che, con principii de&apos; suoi giudizi secondo leggi immutabili, deve e
 Alla metafisica, conoscenza speculativa razionale, affatto isolata, che si eleva assolutamente al di sopra degli insegnamenti dell&apos;esperienza, e mediante semplici concetti (non, come la matematica, per l&apos;applicazione di 
 <text:soft-page-break/>
 questi all&apos;intuizione), nella quale dunque la ragione dev&apos;essere scolara 
-<text:span text:style-name="T62">
+<text:span text:style-name="T67">
 d
 </text:span>
 i se stessa, non è sinora toccata la fortuna di potersi avviare per la via sicura della scienza; sebbene essa sia più antica di tutte le altre scienze, e sopravviverebbe, anche quando le altre dovessero tutte quante essere inghiottite nel vortice di una barbarie che tutto devastasse. Giacchè la ragione si trova in essa continuamente in imbarazzo, anche quando vuole scoprire (com&apos;essa presume) a priori quelle leggi, che la più comune esperienza conferma. In essa si deve innumerevoli volte rifar la via, poichè si trova che quella già seguita non conduce alla meta; e, quanto all&apos;accordo dei suoi cultori nelle loro affermazioni, essa è così lontana dall&apos;averlo raggiunto, che è piuttosto un campo di lotta: il quale par proprio un campo destinato ad esercitar le forze antagonistiche, in cui nemmeno un campione ha mai potuto impadronirsi 
@@ -3489,7 +3513,7 @@ ha molto di simile con quello, che i chimici chiamano qualche volta prova di rid
 <text:span text:style-name="T11">
 N. di K.
 </text:span>
-<text:span text:style-name="T63">
+<text:span text:style-name="T68">
 )
 </text:span>
 </text:p>
@@ -3498,7 +3522,7 @@ N. di K.
 . Resta ora a vedere, dopo avere negato alla ragione speculativa ogni passo nel campo del 
 <text:s/>
 soprasensibile, se non si trovino nella sua conoscenza pratica dati, per determinare quel concetto trascendente dell&apos;incondizionato proprio della ragione, e per oltrepassare in tal modo, secondo i desiderii della metafisica, i limiti di ogni esperienza possibile mediante la nostra conoscenza a priori, possibile, per altro, solo dal punto di vista pratico. Con questo procedimento la ragione speculativa ci ha a
-<text:span text:style-name="T64">
+<text:span text:style-name="T69">
 l
 </text:span>
 meno procurato un campo libero per tale estensione della ricerca, sebbene essa abbia dovuto lasciarlo vuoto; e ci resta così, e noi vi siamo autorizzati da lei stessa, la possibilità di occuparlo, se ci riesce, con i dati pratici della medesima
@@ -3513,7 +3537,7 @@ Così le leggi centrali dei movimenti dei corpi celesti conferirono certezza ass
 <text:span text:style-name="T11">
 N. di K.
 </text:span>
-<text:span text:style-name="T64">
+<text:span text:style-name="T69">
 )
 </text:span>
 </text:p>
@@ -3570,7 +3594,7 @@ Per conoscere un oggetto si richiede che io possa provare la sua possibilità (s
 <text:span text:style-name="T11">
 N. di K.
 </text:span>
-<text:span text:style-name="T65">
+<text:span text:style-name="T70">
 )
 </text:span>
 </text:p>
@@ -3591,11 +3615,11 @@ Erscheinung
 </text:note-body>
 </text:note>
  senza qualche cosa che in essa appaia. Ora, supposto che no
-<text:span text:style-name="T66">
+<text:span text:style-name="T71">
 n
 </text:span>
  fosse punto fatta la distinzione, fatta necessariamente dalla nostra critica, delle cose come oggetti dell&apos;esperienza dalle medesime 
-<text:span text:style-name="T67">
+<text:span text:style-name="T72">
 come
 </text:span>
  cose in sè, ne nascerebbe la conseguenza, che il principio di causalità, e con esso il meccanismo naturale, nella determinazione delle cose dovrebbe valere per tutte le cose stesse in generale, come cause efficienti. Dello stesso ente, dunque, come per es., dell&apos;anima umana, io non potrei dire che la sua volontà sia libera e che sia a un tempo soggetta alla necessità naturale, cioè che non sia libera, senza cadere in una contraddizione manifesta; giacchè in ambedue le proposizioni, avrei preso l&apos;anima nell&apos;identico significato, cioè 
@@ -3629,7 +3653,7 @@ stellungsarten
  (sensibile e intellettuale), e la limitazione che ne segue dei concetti puri dell&apos;intelletto, e perciò anche dei principii che ne derivano. Ora, posto che la morale necessariamente supponga la libertà (nel senso più rigoroso) come proprietà del nostro volere, giacchè essa ammette immanenti a priori nella nostra ragione, come suoi dati, principii pratici originari, i quali senza il presupposto della libertà sarebbero assolutamente impossibili; ove però la ragione speculativa avesse provato che questi principii non sono pensabili, di necessità quel presupposto, cioè il presupposto morale, dovrebbe cedere a quell&apos;altro, il cui contrario importa una evidente contraddizione; e, per conseguenza, libertà e con lei moralità (il cui contrario non racchiude alcuna contraddizione, se non si presuppone già la libertà) dovrebbero cedere il posto al meccanismo della natura. Ma, poichè per la morale io ho bisogno soltanto che la libertà non sia in sè contraddittoria, e si possa almeno pensare senza che, a un esame più profondo, essa debba creare un ostacolo al meccanismo naturale dello stesso operare (preso sotto altro rapporto), così la dottrina della moralità mantiene il suo posto, e altrettanto fa la scienza della natura: il che non avverrebbe, se la critica non ci avesse in precedenza istruiti della irrimediabile nostra ignoranza rispetto alle cose in sè, e se non avesse limitato ai semplici fenomeni tutto ciò che possiamo conoscere teoricamente. La stessa discussione appunto dell&apos;utilità positiva dei 
 <text:soft-page-break/>
 principii critici della ragion pura si presenta ove si consideri il concetto di Dio, della natura semplice della nostra anima, su che non insisto per brevità. Io 
-<text:span text:style-name="T68">
+<text:span text:style-name="T73">
 dunque 
 </text:span>
 non posso ammettere mai Dio, la libertà, l&apos;immortalità per l&apos;uso pratico necessario della mia ragione, senza togliere a un tempo alla ragione speculativa le sue pretese a vedute trascendenti; giacchè, per arrivare a questo, bisogna che essa impieghi tali principii; che non si estendono in realtà se non agli oggetti di esperienza possibile, e quando tuttavia si vogliano applicare a ciò che non può essere oggetto di esperienza, lo trasformano realmente subito in fenomeno, e così dimostrano impossibile ogni estensione pratica della ragion pura. Io dunque ho dovuto sopprimere il sapere per sostituirvi la fede; e del resto, il dommatismo della metafisica, cioè il pregiudizio di progredire in questa scienza senza una critica della ragion pura, è la vera fonte dello scetticismo che si contrappone alla moralità, la quale è sempre mai fortemente dommatica. ― Se dunque è impossibile lasciare ai posteri una metafisica sistematica, costruita a seconda della critica della ragion pura, questo non sarà un dono di scarso prezzo; sia che si consideri semplicemente la coltura lungo le vie sicure di una scienza in generale, anzi che per tentativi a casaccio e per scorrerie fatte alla leggiera senza critica; o che si badi anche al miglior impiego del tempo per una gioventù avida di sapere, che trova nell&apos;ordinario dommatismo un incentivo, così precoce e così efficace, a ragionare alla leggiera di cose di cui non comprende nulla, e delle quali essa, come nessuno al 
@@ -3644,11 +3668,11 @@ tingenza del mutevole e necessità di un primo motore); ― se, uscite dalle scu
 e grande creatore del mondo, fede che si diffonde nel pubblico, perchè riposa su fondamenti razionali; è da concludere, che non soltanto questo dominio resta intatto, ma, inoltre, guadagna d&apos;importanza, dal fatto che le scuole avranno imparato finalmente a non accampar pretese per una cognizione più vasta e più alta di quella, alla quale può arrivare facilmente la gran maggioranza degli uomini (per noi degnissima di stima); e a limitarsi quindi unicamente per la cultura a trattare quelle prove che sono alla portata di tutti e sufficienti dal punto di vista morale. Questa riforma dunque colpisce soltanto le arroganti pretese delle 
 <text:soft-page-break/>
 scuole, che in questo punto (come spesso a ragione in parecchi altri) si vantano volentieri d&apos;esser 
-<text:span text:style-name="T69">
+<text:span text:style-name="T74">
 s
 </text:span>
 ole capaci di conoscere e di custodire l
-<text:span text:style-name="T70">
+<text:span text:style-name="T75">
 e
 </text:span>
  verità; delle quali alla folla lasciano solo l&apos;uso, ma delle quali serbano gelosamente la chiave (
@@ -4026,7 +4050,7 @@ A
 B
 </text:span>
 , ad esso estraneo, e che, ciò malgrado, stima con esso congiunto? non può essere l&apos;e
-<text:span text:style-name="T71">
+<text:span text:style-name="T76">
 s
 </text:span>
 perienza, poichè il principio citato aggiunge questa seconda rappresentazione alla prima, non solo con universalità maggiore di quella che può dare l&apos;esperienza, ma altresì con la nota della necessità, e per ciò del tutto a priori, e in base a semplici concetti. Ora tutto lo scopo supremo delle nostre conoscenze speculative a priori si fonda su tali principi sintetici o estensivi; perchè gli analitici sono, sì, importantissimi e necessariissimi, ma solo per giungere a quella chiarezza dei concetti, che è desiderabile per una sicura ed ampia sintesi, come per una conquista realmente nuova
@@ -4165,7 +4189,7 @@ giungervi a priori qualche cosa che in quel concetto non pensavo. La proposizion
 </text:p>
 <text:p text:style-name="Text_20_body">
 3. Nella metafisica, considerando questa scienza solo come una scienza finora soltanto tentata, ma tuttavia indispensabile per la natura della ragione umana, devono esser contenute conoscenze sintetiche a priori, e non si tratta perciò di semplicemente scomporre e chiarire analiticamente i concetti che ci formiamo a priori delle cose, ma vogliamo estendere a priori la nostra conoscenza; e a tal uopo dobbiamo servir
-<text:span text:style-name="T72">
+<text:span text:style-name="T77">
 c
 </text:span>
 i di tali principii che aggiungano al concetto dato qualche cosa che non vi era contenuto; e mediante giudizi sintetici a priori ci spingiamo fin là, dove l&apos;esperienza non può seguirci: per esempio, nella proposizione: il mondo deve avere un primo principio ecc.; e così la metafisica consta dunque, almeno secondo il suo scopo, di mere proposizioni sintetiche a priori.
@@ -4177,7 +4201,7 @@ VI. Problema generale della ragion pura
 </text:h>
 <text:p text:style-name="P57">
 È già un bel guadagno quando si può raccogliere una quantità di ricerche sotto la formola di problema unico. Giacchè per tal modo non solo vien agevolato il nostro proprio lavoro in quanto ess
-<text:span text:style-name="T73">
+<text:span text:style-name="T78">
 o
 </text:span>
  è esattamente determinato, ma anche ad ogni altro che voglia esaminarlo è reso facile il giudizio se abbiamo fatto abbastanza o no pel nostro proposito. Il problema proprio della ragion pura è 
@@ -4189,7 +4213,7 @@ come sono possibili giudizi sintetici a priori?
 </text:p>
 <text:p text:style-name="P57">
 La ragione, per la quale la metafisica è rimasta fin qui in una condizione oscillante di incertezza e di contraddizione, è da cercarsi esclusivamente nel fatto, che non s&apos;è posto mente in passato a questo problema, e nemmeno forse alla differenza dei giudizi analitici e sintetici. Intanto la vita e la morte della metafisica dipende dalla soluzione di questo problema, o da una dimostrazione soddisfacente che la possibilità, che essa desidera saper definita, in realtà non c&apos;è. David Hume, che fra tutti i filosofi ha affront
-<text:span text:style-name="T74">
+<text:span text:style-name="T79">
 ato
 </text:span>
  più da vicino questo problema, ma che rimase lungi dal pensarlo con sufficiente precisione e in tutta la sua universalità, e si fermò semplicemente alla proposizione sintetica del nesso dell&apos;effetto con la sua causa (
@@ -4200,24 +4224,20 @@ principium causalitatis
 <text:soft-page-break/>
 sintetici a priori: affermazione dalla quale il suo buon senso allora lo avrebbe ben preservato.
 </text:p>
-<text:p text:style-name="P64">
+<text:p text:style-name="P59">
 Nella soluzione del superiore problema è riposta a un tempo la possibilità dell&apos;uso puro della ragione per fondare e recare in atto tutte le scienze che contengono una conoscenza teorica a priori degli oggetti, con concetti, e, 
 <text:s/>
 cioè, la risposta alle domane:
 </text:p>
-<text:p text:style-name="P64">
-<text:span text:style-name="T20">
+<text:p text:style-name="P66">
 Com&apos;è possibile una metafisica pura?
-</text:span>
 </text:p>
-<text:p text:style-name="Text_20_body">
-<text:span text:style-name="T20">
+<text:p text:style-name="P67">
 Com&apos;è possibile una fisica pura?
-</text:span>
 </text:p>
 <text:p text:style-name="Text_20_body">
 Di queste scienze, poichè esse realmente ci sono, convien bene domandarsi come sieno possibili; poichè, che debban esser possibili, è provato dalla loro stessa esistenza di fatto
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn60" text:note-class="footnote">
 <text:note-citation>
 60
 </text:note-citation>
@@ -4265,24 +4285,24 @@ La critica della regione, dunque, conduce alla fine necessariamente alla scienza
 </text:p>
 <text:p text:style-name="Text_20_body">
 Inoltre questa scienza non può essere d&apos;una lunghezza grande, scoraggiante, perchè non ha da fare con oggetti della ragione, la cui molteplicità è infinita, ma soltanto con se stessa, con problemi che sorgono esclusivamente dal suo grembo, proposti a lei, non dalla natura delle cose che sono da lei differenti, ma dalla sua propria; dal momento che, quando essa abbia prima imparato a conoscere compiutamente la sua propria capacità rispetto agli oggetti, che le si possono presentare nella esperienza, deve diventar facile determinare in modo completo e sicuro l&apos;ambito e i limiti del suo uso al di là di tutti i confin
-<text:span text:style-name="T75">
+<text:span text:style-name="T80">
 i
 </text:span>
  dell&apos;esperienza.
 </text:p>
 <text:p text:style-name="Text_20_body">
 Si può dunque, anzi si deve far conto che non sieno mai esistiti tentativi fatti sino ad ora per creare dommaticamente una metafisica; perchè quel che vi è in questa o in quella di analitico, cioè la semplice scomposizione dei concetti che giacciono a 
-<text:span text:style-name="T76">
+<text:span text:style-name="T81">
 pr
 </text:span>
 iori nella nostra ragione, non costituisce punto lo scopo, ma solo un preparativo per la vera metafisica, per estendere, cioè, sinteticamente la 
 <text:soft-page-break/>
 sua co
-<text:span text:style-name="T77">
+<text:span text:style-name="T82">
 n
 </text:span>
 oscenza a priori; e a questo essa
-<text:note text:id="ftn60" text:note-class="footnote">
+<text:note text:id="ftn61" text:note-class="footnote">
 <text:note-citation>
 61
 </text:note-citation>
@@ -4293,11 +4313,11 @@ La scomposizione dei concetti.
 </text:note-body>
 </text:note>
  non basta; poichè mostra solo ciò che è contenuto nei concetti, ma non come noi siamo pervenuti a priori a tali concetti, acciò si possa in conseguenza determinare il loro legittimo uso rispetto agli oggetti di ogni conoscenza in generale. E basta anche soltanto una piccola dose di abnegazione per rinunziare a queste pretese, giacchè le incontestabili contraddizioni della ragione con se stessa, inevitabili in un procedimento dommatico, già da molto tempo han gettato il discredito sulla metafisica passata. Piuttosto sarà necessaria molta 
-<text:span text:style-name="T78">
+<text:span text:style-name="T83">
 co
 </text:span>
 stanza per non lasciarsi rimuovere per nessuna difficoltà intrinseca od esteriore ostacolo dal promuovere finalmente una volta lo sviluppo rigoglios
-<text:span text:style-name="T79">
+<text:span text:style-name="T84">
 o e
 </text:span>
  fecondo di una scienza indispensabile all&apos;umana ragione; una scienza della quale si potranno tagliare i rami che ne son venuti fuori, ma non mai svellere le radici, con un&apos;altra trattazione del tutto opposta alle precedenti.
@@ -4306,11 +4326,11 @@ o e
 <text:h text:style-name="Heading_20_4" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc397_2203379893"/>
 VII. Idea e partizione di una scienza speciale, sotto nome di 
-<text:span text:style-name="T80">
+<text:span text:style-name="T85">
 c
 </text:span>
 ritica della ragion 
-<text:span text:style-name="T80">
+<text:span text:style-name="T85">
 p
 </text:span>
 ura
@@ -4318,7 +4338,7 @@ ura
 </text:h>
 <text:p text:style-name="Text_20_body">
 Da tutto ciò scaturisce dunque l&apos;idea di una scienza speciale, che si può chiamare Critica della ragion pura. Poichè la ragione è la facoltà che ci fornisce i principii a priori della conoscenza
-<text:note text:id="ftn61" text:note-class="footnote">
+<text:note text:id="ftn62" text:note-class="footnote">
 <text:note-citation>
 62
 </text:note-citation>
@@ -4331,7 +4351,7 @@ La prima edizione diceva: «... una scienza speciale, che può servire alla crit
 . Ragion pura è perciò quella 
 <text:soft-page-break/>
 che contiene i principii per conoscere qualche cosa assolutamente a priori. Un organo della ragion pura sarebbe un complesso dei principii, secondo i quali possono essere acquistate ed effettivamente recate in atto tutte le conoscenze pure a priori. L&apos;applicazione completa di un siffatto organo costituirebbe un sistema della ragion pura. Ma poichè questo sistema è desiderato moltissimo, e resta ancora a veder se e in quali casi una tale estensione della nostra conoscenza sia possibile, così noi possiamo considerare una scienza che si limiti al semplice giudicamento della ragion pura, delle sue fonti e dei suoi limiti, come propedeutica al sistema della ragion pura. Una tale scienza non si dovrebbe ancora chiamare dottrina, ma solo critica della ragion pura; e la sua utilità sarebbe in realtà, riguardo alla speculazione
-<text:note text:id="ftn62" text:note-class="footnote">
+<text:note text:id="ftn63" text:note-class="footnote">
 <text:note-citation>
 63
 </text:note-citation>
@@ -4346,7 +4366,7 @@ a
 </text:note-body>
 </text:note>
 , solo negativa, giacchè servirebbe ad epurare, non ad allargare la nostra ragione, e a liberarla dagli errori; ciò che è già moltissimo di guadagnato. Chiamo trascendentale ogni conoscenza che si occupa non degli oggetti, ma del nostro modo di conoscenza degli oggetti in quanto questa deve esser possibile a priori
-<text:note text:id="ftn63" text:note-class="footnote">
+<text:note text:id="ftn64" text:note-class="footnote">
 <text:note-citation>
 64
 </text:note-citation>
@@ -4367,12 +4387,12 @@ fatti, dovendo una tale scienza contenere interamente
 tanto la conoscenza analitica quanto la sintetica a priori. essa è, per ciò che riguarda il nostro scopo, di estensione troppo vasta, laddove noi vogliamo spingere l&apos;analisi fin dove sia indispensabilmente necessario affinchè si possano cogliere in tutta la loro portata i principii della sintesi a priori, come quello che ora soltanto ci riguarda. Questa ricerca, che non possiamo propriamente chiamare dottrina, ma solo critica trascendentale, poichè non mira all&apos;allargamento delle conoscenze stesse, ma soltanto alla loro rettificazione, e che deve darci la pietra di paragone del valore o della vanità di tutte le conoscenze a priori, è ciò di cui ora ci occupiamo. Una tale critica è dunque una preparazione, se è possibile, ad un organo; e, se questo non dovesse riuscire, almeno ad un canone della ragione, secondo il quale in ogni caso si potrebbe un giorno esporre, così analiticamente come sinteticamente, il sistema completo della filosofia della ragion pura, abbia esso a consistere nell&apos;estensione o nella semplice limitazione della sua conoscenza. Che poi questo sistema sia possibile, anzi non sia per essere di tale ampiezza da togliere la speranza di compierlo, si può già argomentare da ciò, che qui si tratta non della natura delle cose, che è inesauribile, ma dell&apos;intelletto, che giudica della natura delle cose, anzi di questo intelletto soltanto rispetto alla sua conoscenza a priori; e il contenuto di quest&apos;oggetto, non dovendo esser cerato fuori di noi, non può restar celato, e secondo ogni presunzione è abbastanza piccolo da poter esser rilevato interamente, 
 <text:soft-page-break/>
 giudicato nel suo valore o non valore, e ridotto al suo giusto apprezzamento. Tanto meno si deve qui aspettare una critica dei libri e dei sistemi della ragion pura, ma quella della facoltà stessa della ragion pura. Se non che, se si pone a base questa critica, si ha una sicura pietra di paragone per apprezzare il valore filosofico delle opere antiche e moderne in questa branca; se no, storico e giudice, incompetenti, giudicano le asserzioni infondate degli altri in nome delle proprie, che son
-<text:span text:style-name="T81">
+<text:span text:style-name="T86">
 o
 </text:span>
  altrettanto arbitrarie
 <text:span text:style-name="T18">
-<text:note text:id="ftn64" text:note-class="footnote">
+<text:note text:id="ftn65" text:note-class="footnote">
 <text:note-citation>
 65
 </text:note-citation>
@@ -4409,7 +4429,7 @@ La mira precipua nella partizione di tale
 scienza è, che non vi devono entrare punto concetti i quali contengano in sè qualcosa di empirico: ossia, che la conoscenza a priori sia pienamente pura. Perciò, sebbene i principii supremi della moralità e i suoi concetti fondamentali sieno conoscenze a priori, essi non appartengono tuttavia alla filosofia trascendentale, poichè essi, per quanto certo non mettano i concetti del piacere e del dolore, dei desiderii e delle tendenze, ecc., che son tutti di origine empirica, a base dei precetti morali, tuttavia nel concetto 
 <text:soft-page-break/>
 del dovere non possono non farli entrare per la costruzione d&apos;un sistema di moralità pura, o come impedimento che va superato, o come stimolo di cui non va fatto un motivo
-<text:note text:id="ftn65" text:note-class="footnote">
+<text:note text:id="ftn66" text:note-class="footnote">
 <text:note-citation>
 66
 </text:note-citation>
@@ -4420,7 +4440,7 @@ Prima edizione: «poichè i concetti di piacere e dolore, ecc., che hanno tutti 
 </text:note-body>
 </text:note>
 . Perciò la filosofia trascendentale è filosofia
-<text:note text:id="ftn66" text:note-class="footnote">
+<text:note text:id="ftn67" text:note-class="footnote">
 <text:note-citation>
 67
 </text:note-citation>
@@ -4464,8 +4484,166 @@ ESTETICA TRASCENDENTALE
 <text:h text:style-name="Heading_20_6" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc405_2203379893"/>
 § 1
+<text:note text:id="ftn68" text:note-class="footnote">
+<text:note-citation>
+68
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="P61">
+La divisione in paragrafi mancava nella 1
+<text:span text:style-name="T47">
+a
+</text:span>
+ ediz.
+</text:p>
+</text:note-body>
+</text:note>
 <text:bookmark-end text:name="__RefHeading___Toc405_2203379893"/>
 </text:h>
+<text:p text:style-name="Text_20_body">
+Se in qualunque modo e con qualunque mezzo una conoscenza si può sempre riferire ad oggetti, quella tuttavia, per cui tale riferimento avviene immediatamente, e che ogni pensiero ha di mira come mezzo, è l&apos;intuizione. Ma questa ha luogo soltanto a condizione che l&apos;oggetto ci sia dato; e questo, a sua volta, è possibile, almeno per noi uomini
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+69
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+«almeno per noi uomini» è un&apos;aggiunta della 2
+<text:span text:style-name="T48">
+a
+</text:span>
+ ediz.
+</text:p>
+</text:note-body>
+</text:note>
+, solo in quanto modifichi in certo modo lo spirito. La capacità (recettività) di ricevere rappresentazioni pel modo in cui siamo modificati dagli oggetti, si chiama sensibilità, ed essa sola ci fornisce intuizioni; ma queste vengono pensate dall&apos;intelletto, e da esso derivano i concetti. Ma ogni pensiero deve, direttamente o indirettamente, mediante certe note
+<text:note text:id="ftn69" text:note-class="footnote">
+<text:note-citation>
+70
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+«mediante certe note» è un&apos;aggiunta della 2
+<text:span text:style-name="T49">
+a
+</text:span>
+ ediz.
+</text:p>
+</text:note-body>
+</text:note>
+, riferirsi infine a intuizioni, e perciò, in noi, alla sensibilità, giacchè in altro modo non può esserci dato verun oggetto.
+</text:p>
+<text:p text:style-name="Text_20_body">
+L&apos;azione di un oggetto sulla capacità rappresentativa, in quanto noi ne siamo affetti, è sensazione. Quella intuizione, che si riferisce a un oggetto mediante la sensazione, dicesi empirica. 
+<text:span text:style-name="T87">
+L
+</text:span>
+&apos;oggetto indeterminato di una in
+<text:soft-page-break/>
+tuizione empirica si dice fenomeno
+<text:note text:id="ftn70" text:note-class="footnote">
+<text:note-citation>
+71
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Il testo ha 
+<text:span text:style-name="T11">
+Erscheinung
+</text:span>
+ = apparizione o parvenza. Ma tanto l&apos;uno quanto l&apos;altro di questi termini dicono in italiano qualcosa di troppo più particolare dell&apos;
+<text:span text:style-name="T11">
+Erscheinung
+</text:span>
+ di Kant, che è, come egli dice altrove, l&apos;oggetto della percezione. Quindi preferiamo tradurlo con «fenomeno», adoperando egli infatti promiscuamente 
+<text:span text:style-name="T11">
+Erscheinung
+</text:span>
+ e 
+<text:span text:style-name="T11">
+Phaenomenon
+</text:span>
+.
+</text:p>
+</text:note-body>
+</text:note>
+.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Nel fenomeno, io chiamo materia ciò che corrisponde alla sensazione; ciò invece, per cui il molteplice del fenomeno possa essere ordinato
+<text:note text:id="ftn71" text:note-class="footnote">
+<text:note-citation>
+72
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+La 1
+<text:span text:style-name="T50">
+a
+</text:span>
+ ediz.: «intuito».
+</text:p>
+</text:note-body>
+</text:note>
+ in determinati rapporti, chiamo forma del fenomeno. Poichè quello, in cui soltanto le sensazioni si ordinano e possono esser poste in una forma determinata, non può esser da capo sensazione; così la materia di ogni fenomeno deve bene esser data solo a posteriori, ma la forma di esso dev&apos;essere del tutto a priori, bella e pronta nello spirito; e però potersi considerare separata da ogni sensazione.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Tutte le rappresentazioni, nelle quali non è mescolato nulla di ciò che appartiene alla sensazione, le chiamo pure (in senso trascendentale). Quindi la forma pura delle intuizioni sensibili in generale si troverà a priori nello spirito, nel quale tutta la varietà dei fenomeni viene intuita in determinati rapporti. Questa forma pura della sensibilità si chiamerà essa stessa intuizione pura. Così, se dalla rappresentazione di un corpo separo ciò che ne pensa l&apos;intelletto, come sostanza, forza, divisibilità, ecc., e a un tempo ciò che appartiene alla sensazione, come impenetrabilità, durezza, colore, ecc., mi resta tuttavia qualche cosa di questa intuizione empirica, cioè l&apos;esten
+<text:soft-page-break/>
+sione e la forma. Queste appartengono alla intuizione pura, che ha luogo a priori nello spirito, anche senza un attuale oggetto dei sensi, o una sensazione, quasi semplice forma della sensibilità.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Chiamo estetica trascendentale
+<text:note text:id="ftn72" text:note-class="footnote">
+<text:note-citation>
+73
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+I tedeschi sono i soli, che si servano al presente della parola estetica per indicare ciò che gli altri chiamano critica del gusto. La ragione sta nella fallita speranza dell&apos;eccellente analista Baumgarten, il quale credette di ridurre a principii razionali il giudizio critico del bello, e di elevarne le regole a scienza. Ma codesto sforzo è vano. Imperocchè le dette regole e i criteri del gusto sono per le loro principali fonti (*), empirici, e però non possono mai servire a determinate leggi a priori, sulle quali dovrebbe appoggiarsi il nostro giudizio del bello: piuttosto questo forma la pietra di paragone della validità di quelli. Sarebbe perciò ragionevole o abbandonare di nuovo questa denominazione, e mantenerla a quella dottrina che è vera scienza (con che ci si avvicinerebbe anche alla lingua e al significato degli antichi, presso i quali famosa fu la divisione della conoscenza in αιθητἁ xaί νοητἁ); oppure assegnare la parola sia alla filosofia speculativa sia all&apos;estetica, prendendola ora in senso trascendentale, ora in senso psicologico (**). (
+<text:span text:style-name="T11">
+N. di K.
+</text:span>
+)
+</text:p>
+<text:p text:style-name="Footnote">
+La parola Estetica, come nome della scienza speciale del bello, venne per la prima volta usata dal 
+<text:span text:style-name="T20">
+Baumgarten
+</text:span>
+ nel 1735, nella dissertazione 
+<text:span text:style-name="T11">
+Meditationes philosoficae de nonnullis ad poëma pertinentibus
+</text:span>
+ (ristampata da 
+<text:span text:style-name="T20">
+B. Croce
+</text:span>
+, Napoli. 1900).
+</text:p>
+<text:p text:style-name="Footnote">
+(*)La attenuazione «principali», è della 2
+<text:span text:style-name="T51">
+a
+</text:span>
+ edizione.
+</text:p>
+<text:p text:style-name="Footnote">
+(**)Le parole «oppure mantenere... psicologico» sono un&apos;aggiunta della 2
+<text:span text:style-name="T51">
+a
+</text:span>
+ edizione.
+</text:p>
+</text:note-body>
+</text:note>
+ una scienza di tutti i principii a priori della sensibilità. Deve esserci una tale scienza, che costituisca la prima parte di una dottrina trascendentale degli elementi, in opposizione a quella che contiene i principii del pensiero puro e vien denominata logica trascendentale.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Nella estetica trascendentale, dunque, noi isoleremo dapprima la sensibilità, separandone tutto ciò che ne 
+<text:soft-page-break/>
+pensa coi suoi concetti l&apos;intelletto, affinchè non vi resti altro che l&apos;intuizione empirica. In secondo luogo, separeremo ancora da questa ciò che appartiene alla sensazione, affinchè non ne rimanga altro che la intuizione pura e la semplice forma dei fenomeni, che è ciò solo che la sensibilità può fornire a priori. In questa ricerca si troverà che vi ha due forme pure di intuizione sensibile, come principii della conoscenza a priori, cioè spazio e tempo, del cui esame noi ci occuperemo or ora.
+</text:p>
 <text:h text:style-name="Heading_20_4" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc407_2203379893"/>
 Sezione prima ― Dello spazio
@@ -4486,7 +4664,7 @@ Sezione prima ― Dello spazio
 Corollari dei concetti precedenti
 <text:bookmark-end text:name="__RefHeading___Toc413_2203379893"/>
 </text:h>
-<text:h text:style-name="P62" text:outline-level="4">
+<text:h text:style-name="P64" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc415_2203379893"/>
 Sezione seconda ― Del tempo
 <text:bookmark-end text:name="__RefHeading___Toc415_2203379893"/>
@@ -4574,7 +4752,7 @@ I. Analitica trascendentale
 I. ― Analitica dei concetti
 <text:bookmark-end text:name="__RefHeading___Toc445_2203379893"/>
 </text:h>
-<text:h text:style-name="P63" text:outline-level="6">
+<text:h text:style-name="P65" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc447_2203379893"/>
 Cap I. ― Del filo conduttore per la scoperta di tutti i concetti puri dell&apos;intelletto
 <text:bookmark-end text:name="__RefHeading___Toc447_2203379893"/>
