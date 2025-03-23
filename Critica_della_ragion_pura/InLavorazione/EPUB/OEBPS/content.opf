@@ -61,13 +61,13 @@
     <itemref idref="pagina_10_prefazione_Ied_libro.xhtml"/>
     <itemref idref="pagina_11_prefazione_IIed_libro.xhtml"/>
     <itemref idref="pagina_12_introduzione_libro.xhtml"/>
-    <itemref idref="pagina_x_note_libro.xhtml"/>
     <itemref idref="sezione_0001_0000_0001_libro.xhtml"/>
     <itemref idref="sezione_0001_0000_0002_libro.xhtml"/>
     <itemref idref="sezione_0002_0000_0001_libro.xhtml"/>
     <itemref idref="sezione_0002_0000_0002_libro.xhtml"/>
     <itemref idref="sezione_0002_0000_0003_libro.xhtml"/>
     <itemref idref="Sezione_0003_0000_0001_libro.xhtml"/>
+    <itemref idref="pagina_x_note_libro.xhtml"/>
   </spine>
   <guide>
     <reference type="cover" title="Cover" href="Text/pagina_1_copertina_libro.xhtml"/>
