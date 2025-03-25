@@ -79,3 +79,5 @@ dom 23 mar 2025, 11:20:22 Avanzamento Estetica trascendentale, paragrafo 2, 3 e 
 
 mar 25 mar 2025, 15:33:23 Avanzamento Estetica trascendentale, utimato corollario, iniziato sezione seconda, del tempo, esposizione metafisica del concetto di tempo. Nel file sezione_0001_0000_0002_libro.xhtml. Partenza dalla pagina 95 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 29.
 
+mar 25 mar 2025, 18:01:58 mar 25 mar 2025, 15:33:23 Avanzamento Estetica trascendentale, del tempo, esposizione metafisica del concetto di tempo. Cocluso il paragrafo 4. Nel file sezione_0001_0000_0002_libro.xhtml. Partenza dalla pagina 97 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 30.
+
