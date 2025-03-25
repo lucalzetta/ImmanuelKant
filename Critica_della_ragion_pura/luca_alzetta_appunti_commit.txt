@@ -77,3 +77,5 @@ sab 22 mar 2025, 22:23:07 Inizio Dottrina trascendentale degli elementi, Estetic
 
 dom 23 mar 2025, 11:20:22 Avanzamento Estetica trascendentale, paragrafo 2, 3 e iniziato il corollario nel file sezione_0001_0000_0002_libro.xhtml. Partenza dalla pagina 90 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 28.
 
+mar 25 mar 2025, 15:33:23 Avanzamento Estetica trascendentale, utimato corollario, iniziato sezione seconda, del tempo, esposizione metafisica del concetto di tempo. Nel file sezione_0001_0000_0002_libro.xhtml. Partenza dalla pagina 95 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 29.
+

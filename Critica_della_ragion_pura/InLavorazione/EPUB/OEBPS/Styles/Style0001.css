@@ -108,6 +108,10 @@ div{
 text-align : center;
 }
 
+div.intestazione{
+text-align : center;
+}
+
 p.testo_indentato_reverso{
 padding-left : 2.5em;
 margin-left : 2,5em;
