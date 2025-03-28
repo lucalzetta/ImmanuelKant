@@ -594,6 +594,12 @@
 <style:style style:name="T96" style:family="text">
 <style:text-properties officeooo:rsid="018c97a5"/>
 </style:style>
+<style:style style:name="T97" style:family="text">
+<style:text-properties officeooo:rsid="0190012a"/>
+</style:style>
+<style:style style:name="T98" style:family="text">
+<style:text-properties officeooo:rsid="019162d8"/>
+</style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
 </style:style>
@@ -4927,7 +4933,7 @@ dev&apos;esserci un&apos;intuizione immediata.
 <text:h text:style-name="Heading_20_6" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc419_2203379893"/>
 § 5
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn82" text:note-class="footnote">
 <text:note-citation>
 82
 </text:note-citation>
@@ -4946,7 +4952,7 @@ a
 </text:h>
 <text:p text:style-name="Text_20_body">
 Posso per ciò rinviare al n. 3
-<text:note text:id="ftn82" text:note-class="footnote">
+<text:note text:id="ftn83" text:note-class="footnote">
 <text:note-citation>
 83
 </text:note-citation>
@@ -5007,11 +5013,65 @@ e
 § 7 Chiarimento
 <text:bookmark-end text:name="__RefHeading___Toc423_2203379893"/>
 </text:h>
+<text:p text:style-name="Text_20_body">
+Contro questa teoria, che ammette la realtà empirica del tempo, ma ne contesta la realtà assoluta e trascendentale, ho ricevuto, da parte di uomini intelligenti, una obiezione talmente concorde, da farmi argomentare che si dovrebbe naturalmente presentare ad ogni lettore, a cui queste questioni non siano familiari. Essa dunque suona: i cangiamenti esistono realmente (lo prova l&apos;interno mutarsi delle nostre proprie rappresentazioni, quand&apos;anche si volesse negare tutti i fenomeni esterni unitamente ai loro cangiamenti). Ora i cangiamenti delle rappresentazioni non sono possibili se non nel tempo; dunque il tempo è qualcosa di reale. La risposta non presenta nessuna difficoltà. Accetto tutto l&apos;argomento. Il tempo, non v&apos;ha dubbio, è qualcosa di r
+<text:span text:style-name="T97">
+e
+</text:span>
+ale, cioè la forma reale 
+<text:soft-page-break/>
+dell&apos;intuizione interna. Ha dunque realtà soggettiva rispetto all&apos;esperienza interna, cioè: io ho realmente la rappresentazione del tempo e delle mie determinazioni in esso. Esso è dunque da considerare reale non come oggetto, ma come modo di rappresentazione di me stesso come oggetto. Ma, se io stesso o un altro ente mi potesse percepire senza questa condizione della sensibilità, quelle stesse determinazioni appunto, che noi ora ci raffiguriamo come cangiamenti, darebbero una conoscenza, nella quale la rappresentazione del tempo e con essa quella del cangiamento, non avrebbe più luogo. Resta dunque la sua realtà empirica come condizione di tutte le nostre esperienze. Solo la realtà assoluta, dopo ciò che abbiamo detto, non può essergli riconosciuta. Esso non è se non la forma delle nostre intuizioni interne
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+84
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Certo, io posso dire: le mie rappresentazioni si susseguono; ma ciò significa solamente: noi abbiamo coscienza di esse, come in una serie temporale, cioè secondo la forma del senso interno. Il tempo perciò non è considerato come qualcosa in sè, e nemmeno come una determinazione inerente 
+<text:span text:style-name="T98">
+o
+</text:span>
+ggettivamente alle cose. (
+<text:span text:style-name="T11">
+N. di k.
+</text:span>
+)
+</text:p>
+</text:note-body>
+</text:note>
+. Se si toglie da esso la condizione speciale della nostra sensibilità, sparisce anche il concetto di tempo, ed essa non appartiene agli oggetti stessi, ma semplicemente al soggetto che li intuisce.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Tempo e spazio sono pertanto due fonti del conoscere, dalle quali possono essere attinte a priori varie conoscenze sintetiche, come segnatamente ce ne dà uno splendido esempio la matematica pura, rispetto alla conoscenza dello spazio e dei suoi rapporti. Essi cioè 
+<text:soft-page-break/>
+sono, tutti due, forme pure di tutte le intuizioni sensibili; e così rendono possibili proposizioni sintetiche a priori. Ma queste fonti a priori della conoscenza, si determinano da sè i loro confini (che sono semplicemente condizioni della sensibilità), pel fatto che si riferiscono agli oggetti, solo in quanto questi son considerati come fenomeni, ma non rappresentano cose in sè. Solo quelli sono il campo della loro validità, fuori del quale, ove se n&apos;esca, non c&apos;è più uso oggettivo di essi. Questa realtà dello spazio e del tempo, del resto, ci lascia intatta la sicurezza della conoscenza sperimentale; perchè noi siamo ugualmente certi, o che queste forme appartengano alle cose in sè, o solo alla nostra intuizione di queste cose in un modo necessario. Al contrario, coloro che affermano la realtà assoluta dello spazio e del tempo, la considerino come sussistente o soltanto come inerente, vengono di necessità a contraddire ai principii dell&apos;esperienza. Giacchè, se si risolvono per la prima ipotesi (ch&apos;è comunemente il partito dei fisici matematici), devono ammettere due non-enti
+<text:note text:id="ftn84" text:note-class="footnote">
+<text:note-citation>
+85
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T11">
+Erscheinung.
+</text:span>
+</text:p>
+</text:note-body>
+</text:note>
+ (spazio e tempo) come eterni ed infiniti, aventi una realtà per sè; che (pur non essendo niente di reale) esistono solo per contenere in sè tutto il reale. Se prendono il secondo partito (che è quello di alcuni fisici metafisici), e spazio e tempo valgono per loro come rapporti dei fenomeni (giustapposizione o successione), astratti dall&apos;esperienza, benchè confusamente rappresentanti per tale astrazione: essi debbono negare 
+<text:soft-page-break/>
+alle teorie a priori della matematica rispetto alle cose reali (per es. nello spazio) la loro validità o almeno la certezza apodittica, poichè la certezza matematica non è punto a posteriori, e i concetti a priori di spazio e di tempo, secondo questa opinione, vengono ad essere solo creature dell&apos;immaginazione; la fonte della quale in realtà va cercata nell&apos;esperienza, dai cui rapporti astratti l&apos;immaginazione ha composto qualcosa, che contiene ciò che in essa v&apos;è di generale, ma che non può esistere senza le limitazioni che la natura ha con essi congiunte. I primi ci fanno il guadagno di rendersi liberi il terreno dei fenomeni per le affermazioni matematiche. Al contrario, si smarriscono per causa di queste stesse condizioni, quando l&apos;intelletto vuol andare al di là di cotesto terreno. I secondi in confronto ci guadagnano di più, cioè non capitano loro incontro le rappresentazioni di spazio e tempo se vogliono giudicare degli oggetti non come fenomeni, ma solo in rapporto con l&apos;intelletto; ma essi non possono nè giustificare (poichè loro manca una intuizione a priori, vera ed oggettivamente valida) la possibilità di conoscenze matematiche a priori, e nè anche mettere le proposizioni sperimentali in un accordo necessario con quelle affermazioni. Nella nostra teoria la vera natura di quelle due forme originarie del senso toglie di mezzo entrambe le difficoltà.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Infine, che l&apos;estetica trascendentale non possa contenere più di questi due elementi, spazio e tempo, è chiaro dal fatto che tutti gli altri concetti appartenenti alla sensibi
+<text:soft-page-break/>
+lità ― anche quello del movimento, che implica l&apos;uno e l&apos;altro, ― suppongono qualcosa di empirico. Questo infatti presuppone la percezione di qualcosa di mobile. Ma nello spazio, considerato in se stesso, non c&apos;è mobile; perciò il mobile dev&apos;essere qualcosa che nello spazio si ha solo per mezzo dell&apos;esperienza; e perciò un dato empirico. Parimenti, l&apos;estetica trascendentale non può contare fra i suoi dati a priori il concetto del cangiamento; perchè non il tempo stesso cangia, ma qualcosa che è nel tempo. A ciò dunque occorre la percezione di un qualunque esistente, e la successione delle sue determinazioni; quindi l&apos;esperienza.
+</text:p>
 <text:h text:style-name="Heading_20_6" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc425_2203379893"/>
 § 8 Osservazioni generali sull&apos;estetica trascendentale
 <text:bookmark-end text:name="__RefHeading___Toc425_2203379893"/>
 </text:h>
+<text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_6" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc427_2203379893"/>
 Conclusione dell&apos;estetica trascendental
