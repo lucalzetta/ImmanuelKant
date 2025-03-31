@@ -93,3 +93,5 @@ dom 30 mar 2025, 13:26:19 Conclusione Estetica trascendentale. Chiuso il file se
 
 dom 30 mar 2025, 19:04:39 Avvio Logica trascendentale. Inizio introduzione capoverso I nel file sezione_0002_0000_0001_libro.xhtml. Partenza dalla pagina 117 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 36.
 
+lun 31 mar 2025, 09:07:46 Avvio Logica trascendentale. Inizio introduzione, concluso capoverso I nel file sezione_0002_0000_0001_libro.xhtml. Aggiustamento del file css per centrare il titolo di livello 5 'h5'. Impostato la partenza del capoverso II. Partenza dalla pagina 118 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 37.
+
