@@ -97,3 +97,5 @@ lun 31 mar 2025, 09:07:46 Avvio Logica trascendentale. Inizio introduzione, conc
 
 mar 1 apr 2025, 09:14:20 Avanzamento Logica trascendentale. Avanzamento introduzione, conclusione del capoverso II, inizio capoverso III nel file sezione_0002_0000_0001_libro.xhtml.  Partenza dalla pagina 120 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 38.
 
+mer 2 apr 2025, 08:51:45 Conclusione della Logica trascendentale. conclusione del capoverso III, conclusione del capoverso IV. Inizio dell'Analitica trascendentale, inizio e conclusione paragrafo I. Inizio del Libro I: analitica dei concetti nel file sezione_0002_0000_0001_libro.xhtml.  Partenza dalla pagina 123 del pdf. Allineato l'odt, il file di Libre Office Writer è ora alla sua REV 39.
+
