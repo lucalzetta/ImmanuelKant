@@ -37,6 +37,9 @@ text-align : center;
 
 h5 {
 text-align : center;
+font-size : 1.3em;
+font-weight : 700;
+letter-spacing : 0.4em;
 }
 
 h6
@@ -114,6 +117,17 @@ text-align : center;
 
 div.intestazione{
 text-align : center;
+}
+
+p.paragrafo{
+padding-top : 1.5em;
+text-align : center;
+}
+
+p.sezione{
+text-align : center;
+font-variant : small-caps;
+font-size : 0.8em;
 }
 
 p.testo_indentato_reverso{
@@ -242,6 +256,8 @@ content : '\0026';
 /*Fine zona sperimentale, funzionamento raggiunto, testato su Firefox*/
 
 table{
+margin-left : auto;
+margin-right : auto;
 padding-top : 2em;
 }
 
@@ -252,11 +268,9 @@ text-align : left;
 }
 
 td{
-text-align : justify;
-padding-left : 1em;
-padding-right : 1em;
-padding-top : 1em;
-padding-bottom : 1em;
+text-align : center;
+padding-left : 6em;
+padding-right : 6em;
 }
 
 /* Stili Liber Liber 2025-01-07 - stili specifici FINE */
