@@ -119,6 +119,12 @@ div.intestazione{
 text-align : center;
 }
 
+p.capitolo{
+text-align : center;
+font-variant : small-caps;
+font-size : 1.1em;
+}
+
 p.paragrafo{
 padding-top : 1.5em;
 text-align : center;
