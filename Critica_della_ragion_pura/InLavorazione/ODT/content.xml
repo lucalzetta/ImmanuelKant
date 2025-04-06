@@ -404,34 +404,33 @@
 <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
 <style:text-properties officeooo:rsid="01fac0ad" officeooo:paragraph-rsid="01fac0ad"/>
 </style:style>
-<style:style style:name="P78" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
+<style:style style:name="P78" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:text-properties officeooo:paragraph-rsid="0206aa23"/>
+</style:style>
+<style:style style:name="P79" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
 <style:paragraph-properties style:page-number="auto"/>
 </style:style>
-<style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_1">
 <style:text-properties fo:font-size="15pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
 </style:style>
-<style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_1">
 <style:paragraph-properties fo:break-before="page"/>
 <style:text-properties officeooo:paragraph-rsid="003cc729"/>
 </style:style>
-<style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_4">
+<style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_4">
 <style:text-properties officeooo:paragraph-rsid="00246cce"/>
 </style:style>
-<style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_6">
+<style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_6">
 <style:text-properties style:text-underline-style="none"/>
 </style:style>
-<style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_6">
+<style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_6">
 <style:text-properties officeooo:paragraph-rsid="0026ef34"/>
 </style:style>
-<style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_7">
+<style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_7">
 <style:text-properties officeooo:paragraph-rsid="01ee28a7"/>
 </style:style>
-<style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_8">
+<style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_8">
 <style:text-properties officeooo:paragraph-rsid="0206aa23"/>
-</style:style>
-<style:style style:name="P86" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-<style:text-properties fo:font-variant="normal" fo:text-transform="none" officeooo:rsid="01f62ab5" officeooo:paragraph-rsid="01f62ab5"/>
 </style:style>
 <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:text-properties officeooo:paragraph-rsid="0206aa23"/>
@@ -816,7 +815,7 @@ www.liberliber.it
 </text:p>
 </draw:text-box>
 </draw:frame>
-<text:p text:style-name="P78">
+<text:p text:style-name="P79">
 Autore
 </text:p>
 <text:p text:style-name="LL_3a__20_titolo_20_libro">
@@ -1743,7 +1742,7 @@ Osservazione generale intorno al passaggio dalla psicologia razionale alla cosmo
 </text:p>
 </text:index-body>
 </text:table-of-content>
-<text:h text:style-name="P79" text:outline-level="1">
+<text:h text:style-name="P80" text:outline-level="1">
 EMMANUELE KANT
 </text:h>
 <text:p text:style-name="P38">
@@ -1821,7 +1820,7 @@ _____________
 <text:p text:style-name="P28">
 DICEMBRE MCMXLVIII - 4209
 </text:p>
-<text:h text:style-name="P80" text:outline-level="1">
+<text:h text:style-name="P81" text:outline-level="1">
 Prefazione a questa traduzione
 </text:h>
 <text:p text:style-name="P40">
@@ -5073,7 +5072,7 @@ L&apos;osservazione andava fatta, per impedire che venisse in mente di spiegare 
 <text:soft-page-break/>
 infatti, ciò che originariamente è già soltanto fenomeno, per es. una rosa, nel senso empirico vale come cosa in sè, che tuttavia può apparire diversamente a ciascun occhio rispetto al colore. AL contrario, il concetto trascendentale dei fenomeni nello spazio è un avvertimento critico, che in generale niente di quel che è intuito nello spazio, è cosa in sè; e ancora, che lo spazio non è una forma delle cose, la quale sia in qualche modo propria delle cose in se stesse: ma che gli oggetti in sè ci sono affatto ignoti, e quelli che chiamiamo oggetti esterni, non sono altro che semplici rappresentazioni della nostra sensibilità; la cui forma è lo spazio, ma il cui vero correlato, la cosa in sè, rimane pertanto affatto sconosciuto e inconoscibile, ma non è mai domandato all&apos;esperienza.
 </text:p>
-<text:h text:style-name="P81" text:outline-level="4">
+<text:h text:style-name="P82" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc415_2203379893"/>
 Sezione seconda ― Del tempo
 <text:bookmark-end text:name="__RefHeading___Toc415_2203379893"/>
@@ -5410,7 +5409,7 @@ intuitus originarius
 </text:span>
 ), e quindi non è intellettuale, come quella che, per la ragione addotta, par convenire soltanto all&apos;Ente primo, ma non mai ad un essere che è dipendente, e rispetto alla sua esistenza, e rispetto alla sua intuizione (la sua esistenza è determinata in rapporto ad oggetti dati); sebbene l&apos;ultima osservazione sulla nostra teoria estetica debba soltanto essere tenuta in conto di chiarimento, e non di dimostrazione.
 </text:p>
-<text:h text:style-name="P82" text:outline-level="6">
+<text:h text:style-name="P83" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc427_2203379893"/>
 CONCLUSIONE DELL&apos;ESTETICA TRASCENDENTAL
 <text:span text:style-name="T5">
@@ -5624,7 +5623,7 @@ Intendo per analitica dei concetti non l&apos;analisi di essi o il procedimento,
 <text:soft-page-break/>
 concetti nella filosofia in generale. Noi dunque seguiremo i concetti puri fino ai loro primi germi e alle loro prime virtualità nell&apos;umano intelletto, dove essi giacciono pronti, fino a che da ultimo, svoltisi in occasione dell&apos;esperienza, e per opera dell&apos;intelletto stesso liberati dalle relative condizioni empiriche, si manifestano in tutta la loro genuina natura.
 </text:p>
-<text:h text:style-name="P83" text:outline-level="6">
+<text:h text:style-name="P84" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc447_2203379893"/>
 Cap I. ― Del filo conduttore per la scoperta di tutti i concetti puri dell&apos;intelletto
 <text:bookmark-end text:name="__RefHeading___Toc447_2203379893"/>
@@ -5877,12 +5876,12 @@ consequens
 <text:soft-page-break/>
 falsa fra tutte quelle che si può prendere) a trovare la vera. La proposizione problematica è dunque quella, che esprime solo una possibilità logica (che non è punto oggettiva), ossia una libera scelta di assumere tale proposizione come valida: ammissione puramente arbitraria di essa nell&apos;intelletto. La proposizione assertoria esprime la realtà logica o la verità; come in un sillogismo ipotetico l&apos;antecedente è problematico nella maggiore, assertorio nella minore, e indica che la proposizione è già legata con l&apos;intelletto in virtù delle sue leggi. La proposizione apodittica pensa il giudizio assertorio determinato secondo queste leggi dell&apos;intelletto stesso e, per conseguenza come affermante a priori; ed esprime in tal modo una necessità logica. Ora, poichè tutto qui si incorpora gradatamente nell&apos;intelletto, per modo che si giudica dapprima qualche cosa problematicamente, e la si ammette in sèguito assertoriamente come vera, e la si afferma, infine, come inseparabilmente legata con l&apos;intelletto, cioè come necessaria ed apodittica, le tre funzioni della modalità si possono considerare come altrettanti momenti del pensiero in generale.
 </text:p>
-<text:h text:style-name="P84" text:outline-level="7">
+<text:h text:style-name="P85" text:outline-level="7">
 <text:bookmark-start text:name="__RefHeading___Toc453_2203379893"/>
 Sezione terza ― Dei concetti puri dell&apos;intelletto o categorie, §10
 <text:bookmark-end text:name="__RefHeading___Toc453_2203379893"/>
 </text:h>
-<text:h text:style-name="P84" text:outline-level="7"/>
+<text:h text:style-name="P85" text:outline-level="7"/>
 <text:p text:style-name="P74">
 Come è già stato detto parecchie volte, la logica generale astrae da tutto il contenuto della conoscenza, e aspetta quindi che le rappresentazioni le siano date dondechessia, per trasformarle in concetti; il che ha 
 <text:soft-page-break/>
@@ -6142,7 +6141,7 @@ in possesso. Analizzerò questi concetti, in seguito, quando ciò sarà necessar
 <text:s/>
 non resta che da riempirle, e una topica sistematica, com&apos;è la presente, difficilmente può sbagliare il posto, al quale ciascun concetto appartiene, mentre può facilmente additare quelli che son tuttavia vacanti.
 </text:p>
-<text:h text:style-name="P85" text:outline-level="8">
+<text:h text:style-name="P86" text:outline-level="8">
 <text:bookmark-start text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 <text:soft-page-break/>
 § 1
@@ -6150,7 +6149,7 @@ non resta che da riempirle, e una topica sistematica, com&apos;è la presente, d
 1
 </text:span>
 <text:span text:style-name="T114">
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn96" text:note-class="footnote">
 <text:note-citation>
 96
 </text:note-citation>
@@ -6168,9 +6167,9 @@ a
 .
 <text:bookmark-end text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 </text:h>
-<text:p text:style-name="P87">
+<text:p text:style-name="P78">
 Intorno a questa tavola delle categorie si possono fare diverse considerazioni, che forse potrebbero aver importanti conseguenze, rispetto alla forma scientifica di tutte le conoscenze razionali. Che infatti questo quadro nella parte teoretica della filosofia sia straordinariamente utile, anzi indispensabile, ad abbozzare completamente il disegno della totalità di una scienza, in quanto essa si appoggia su principii a priori, e a ricavarne matematicamente le parti secondo determinati principii, risulta chiaro da questo, che la detta tavola comprende tutti quanti i concetti elementari dell&apos;intelletto, anzi la forma d&apos;un sistema di essi nell&apos;intelletto umano; e per conseguenza una guida a tutti i momenti di una data scienza speculativa, nonchè al suo ordinamento, come io ne ho dato anche una prova altrove
-<text:note text:id="ftn96" text:note-class="footnote">
+<text:note text:id="ftn97" text:note-class="footnote">
 <text:note-citation>
 97
 </text:note-citation>
@@ -6193,6 +6192,10 @@ Principii
 </text:note>
 . Ecco ora alcune osservazioni.
 </text:p>
+<text:p text:style-name="P78">
+La prima è: che questa tavola, contenente quattro classi di concetti dell&apos;intelletto, si può subito suddividere in due parti, delle quali la prima è indirizzata agli oggetti dell&apos;intuizione (così pura, come empirica), la seconda invece alla esistenza di questi oggetti (o in rapporto reciproco tra loro, o in rapporto con l&apos;intelletto).
+</text:p>
+<text:p text:style-name="P78"/>
 <text:p text:style-name="P61"/>
 <text:h text:style-name="Heading_20_6" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc455_2203379893"/>
