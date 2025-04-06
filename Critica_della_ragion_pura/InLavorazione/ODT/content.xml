@@ -407,38 +407,35 @@
 <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:text-properties officeooo:paragraph-rsid="0206aa23"/>
 </style:style>
-<style:style style:name="P79" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
+<style:style style:name="P79" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:text-properties officeooo:paragraph-rsid="02157e88"/>
+</style:style>
+<style:style style:name="P80" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
 <style:paragraph-properties style:page-number="auto"/>
 </style:style>
-<style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_1">
 <style:text-properties fo:font-size="15pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
 </style:style>
-<style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_1">
 <style:paragraph-properties fo:break-before="page"/>
 <style:text-properties officeooo:paragraph-rsid="003cc729"/>
 </style:style>
-<style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_4">
+<style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_4">
 <style:text-properties officeooo:paragraph-rsid="00246cce"/>
 </style:style>
-<style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_6">
+<style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_6">
 <style:text-properties style:text-underline-style="none"/>
 </style:style>
-<style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_6">
+<style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_6">
 <style:text-properties officeooo:paragraph-rsid="0026ef34"/>
 </style:style>
-<style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_7">
+<style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_7">
 <style:text-properties officeooo:paragraph-rsid="01ee28a7"/>
 </style:style>
-<style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_8">
-<style:text-properties officeooo:paragraph-rsid="0206aa23"/>
-</style:style>
 <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_8">
-<style:text-properties officeooo:paragraph-rsid="02157e88"/>
-</style:style>
-<style:style style:name="P88" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:text-properties officeooo:paragraph-rsid="0206aa23"/>
 </style:style>
-<style:style style:name="P89" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_8">
 <style:text-properties officeooo:paragraph-rsid="02157e88"/>
 </style:style>
 <style:style style:name="T1" style:family="text">
@@ -795,15 +792,6 @@
 <style:style style:name="T118" style:family="text">
 <style:text-properties officeooo:rsid="02157e88"/>
 </style:style>
-<style:style style:name="T119" style:family="text">
-<style:text-properties officeooo:rsid="021d1d69"/>
-</style:style>
-<style:style style:name="T120" style:family="text">
-<style:text-properties style:text-underline-style="solid" style:text-underline-type="double" style:text-underline-width="auto" style:text-underline-color="font-color"/>
-</style:style>
-<style:style style:name="T121" style:family="text">
-<style:text-properties style:text-underline-style="solid" style:text-underline-type="double" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="021d1d69"/>
-</style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
 </style:style>
@@ -842,7 +830,7 @@ www.liberliber.it
 </text:p>
 </draw:text-box>
 </draw:frame>
-<text:p text:style-name="P79">
+<text:p text:style-name="P80">
 Autore
 </text:p>
 <text:p text:style-name="LL_3a__20_titolo_20_libro">
@@ -1774,7 +1762,7 @@ Osservazione generale intorno al passaggio dalla psicologia razionale alla cosmo
 </text:p>
 </text:index-body>
 </text:table-of-content>
-<text:h text:style-name="P80" text:outline-level="1">
+<text:h text:style-name="P81" text:outline-level="1">
 EMMANUELE KANT
 </text:h>
 <text:p text:style-name="P38">
@@ -1852,7 +1840,7 @@ _____________
 <text:p text:style-name="P28">
 DICEMBRE MCMXLVIII - 4209
 </text:p>
-<text:h text:style-name="P81" text:outline-level="1">
+<text:h text:style-name="P82" text:outline-level="1">
 Prefazione a questa traduzione
 </text:h>
 <text:p text:style-name="P40">
@@ -5104,7 +5092,7 @@ L&apos;osservazione andava fatta, per impedire che venisse in mente di spiegare 
 <text:soft-page-break/>
 se: ma che gli oggetti in sè ci sono affatto ignoti, e quelli che chiamiamo oggetti esterni, non sono altro che semplici rappresentazioni della nostra sensibilità; la cui forma è lo spazio, ma il cui vero correlato, la cosa in sè, rimane pertanto affatto sconosciuto e inconoscibile, ma non è mai domandato all&apos;esperienza.
 </text:p>
-<text:h text:style-name="P82" text:outline-level="4">
+<text:h text:style-name="P83" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc415_2203379893"/>
 Sezione seconda ― Del tempo
 <text:bookmark-end text:name="__RefHeading___Toc415_2203379893"/>
@@ -5440,7 +5428,7 @@ intuitus originarius
 </text:span>
 ), e quindi non è intellettuale, come quella che, per la ragione addotta, par convenire soltanto all&apos;Ente primo, ma non mai ad un essere che è dipendente, e rispetto alla sua esistenza, e rispetto alla sua intuizione (la sua esistenza è determinata in rapporto ad oggetti dati); sebbene l&apos;ultima osservazione sulla nostra teoria estetica debba soltanto essere tenuta in conto di chiarimento, e non di dimostrazione.
 </text:p>
-<text:h text:style-name="P83" text:outline-level="6">
+<text:h text:style-name="P84" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc427_2203379893"/>
 CONCLUSIONE DELL&apos;ESTETICA TRASCENDENTAL
 <text:span text:style-name="T5">
@@ -5651,7 +5639,7 @@ I. ― Analitica dei concetti
 <text:p text:style-name="Text_20_body">
 Intendo per analitica dei concetti non l&apos;analisi di essi o il procedimento, ordinario nelle ricerche filosofiche, di scomporre, pel loro contenuto, i concetti che si presentano, e metterli in chiaro; ma la scomposizione, ancora poco tentata, della stessa facoltà intellettiva, per ricercare quella possibilità dei concetti che è a priori pel fatto che noi li andiamo a cercare solo nell&apos;intelletto, come nel loro luogo di origine, e ne analizziamo l&apos;uso puro in generale; poichè questo è l&apos;ufficio proprio di una filosofia trascendentale; e il resto è trattazione logica dei concetti nella filosofia in generale. Noi dunque seguiremo i concetti puri fino ai loro primi germi e alle loro prime virtualità nell&apos;umano intelletto, dove essi giacciono pronti, fino a che da ultimo, svoltisi in occasione dell&apos;esperienza, e per opera dell&apos;intelletto stesso liberati dalle relative condizioni empiriche, si manifestano in tutta la loro genuina natura.
 </text:p>
-<text:h text:style-name="P84" text:outline-level="6">
+<text:h text:style-name="P85" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc447_2203379893"/>
 <text:soft-page-break/>
 Cap I. ― Del filo conduttore per la scoperta di tutti i concetti puri dell&apos;intelletto
@@ -5903,12 +5891,12 @@ messo da qualcuno; e solo la conseguenza è assertoria. Perciò taluni giudizi p
 <text:soft-page-break/>
 siero in generale.
 </text:p>
-<text:h text:style-name="P85" text:outline-level="7">
+<text:h text:style-name="P86" text:outline-level="7">
 <text:bookmark-start text:name="__RefHeading___Toc453_2203379893"/>
 Sezione terza ― Dei concetti puri dell&apos;intelletto o categorie, §10
 <text:bookmark-end text:name="__RefHeading___Toc453_2203379893"/>
 </text:h>
-<text:h text:style-name="P85" text:outline-level="7"/>
+<text:h text:style-name="P86" text:outline-level="7"/>
 <text:p text:style-name="P74">
 Come è già stato detto parecchie volte, la logica generale astrae da tutto il contenuto della conoscenza, e aspetta quindi che le rappresentazioni le siano date dondechessia, per trasformarle in concetti; il che ha luogo analiticamente. La logica trascendentale, al contrario, trova dinanzi a sè il molteplice della sensibilità a priori, che l&apos;estetica trascendentale le presenta per dare una materia ai concetti puri dell&apos;intelletto; senza la quale essa sarebbe priva di qualsiasi contenuto, e perciò assolutamente vuota. Ora, lo spazio e il tempo contengono il molteplice dell&apos;intuizione pura a priori, ma fanno tuttavia parte di quelle condizioni 
 <text:s/>
@@ -6165,7 +6153,7 @@ in possesso. Analizzerò questi concetti, in seguito, quando ciò sarà necessar
 <text:s/>
 non resta che da riempirle, e una topica sistematica, com&apos;è la presente, difficilmente può sbagliare il posto, al quale ciascun concetto appartiene, mentre può facilmente additare quelli che son tuttavia vacanti.
 </text:p>
-<text:h text:style-name="P86" text:outline-level="8">
+<text:h text:style-name="P87" text:outline-level="8">
 <text:bookmark-start text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 § 1
 <text:span text:style-name="T116">
@@ -6249,13 +6237,13 @@ una cosa come divisibile; e
 <text:soft-page-break/>
 come i membri della divisione nel primo si escludono l&apos;un l&apos;altro, e tuttavia son collegati in una sfera, così l&apos;intelletto pone le parti della seconda come tali, la cui esistenza (come sostanza) deriva a ciascuna esclusivamente dalle altre, e pure sono insieme unite in un tutto.
 </text:p>
-<text:h text:style-name="P87" text:outline-level="8">
+<text:h text:style-name="P88" text:outline-level="8">
 § 1
 <text:span text:style-name="T118">
 2
 </text:span>
 </text:h>
-<text:p text:style-name="P89">
+<text:p text:style-name="P79">
 Ma nella filosofia trascendentale degli antichi si trova ancora un capitolo, che comprende i concetti puri dell&apos;intelletto; i quali, sebbene non fossero annoverati fra le categorie, per loro dovevano tuttavia valere come concetti a priori degli oggetti; nel qual caso il numero delle categorie crescerebbe; ciò che non è possibile. A questi concetti accenna la famosa proposizione degli scolastici, 
 <text:span text:style-name="T11">
 quodlibet ens est 
@@ -6327,7 +6315,7 @@ alle
 quaestionem facti
 </text:span>
 , io la chiamerei illustrazione
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn98" text:note-class="footnote">
 <text:note-citation>
 98
 </text:note-citation>
@@ -6350,6 +6338,13 @@ nicht ihre Deduction, sondern Illustration
 </text:note-body>
 </text:note>
  del possesso di una conoscenza pura. Ond&apos;è chiaro che di questi concetti può darsi soltanto una deduzione trascendentale e punto empirica, e che una deduzione empirica rispetto ai concetti puri a priori non è altro che un vano tentativo, nel quale possono sbizzarirsi solo coloro che non abbiano compreso nulla della natura affatto peculiare di siffatte conoscenze.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Sebbene tuttavia l&apos;unico modo di una possibile deduzione della conoscenza pura a priori, ― cioè quello per la via trascendentale, ― sia ormai convenuto, non se ne ri
+<text:soft-page-break/>
+cava perciò, che esso sia così inevitabilmente necessario. Noi abbiamo sopra seguita sino alle loro scaturigini e chiarita e determinata la validità oggettiva a priori dei concetti dello spazio e del tempo, mediante una deduzione trascendentale. Malgrado ciò la geometria procede diritta per la sua strada, servendosi di sole conoscenze a priori, senza bisogno di ottenere dalla filosofia un lasciapassare comprovante la pura e regolare provenienza di esse dal concetto fondamentale dello spazio. Se non che, è pure da considerare che l&apos;uso del concetto in questa scienza concerne solamente il mondo sensibile esterno, del quale lo spazio è la forma pura della sua intuizione, in cui perciò ogni conoscenza geometrica, fondandosi nella intuizione a priori, ha evidenza immediata, e gli oggetti (per la forma) son già dati nell&apos;intuizione, mediante la stessa conoscenza a priori. Al contrario, coi concetti puri dell&apos;intelletto incomincia l&apos;improrogabile esigenza di ricercare non solo la loro deduzione trascendentale, ma altresì quella dello spazio; infatti, poichè essi parlano di oggetti, non mediante predicati dell&apos;intuizione e della sensibilità, ma del puro pensiero a priori, si riferiscono in generale agli oggetti, senza tutte le condizioni della sensibilità; e, non essendo fondati sull&apos;esperienza, non possono nemmeno mostrare nella intuizione a priori nessun oggetto, sul quale fondino, avanti a ogni esperienza, la loro sintesi; e però non solamente fan sorgere dubbi circa il valore obbiettivo e il limite del loro uso, ma rendono ambiguo quel concetto dello spazio, per ciò che sono inclinati a servirsene al di 
+<text:soft-page-break/>
+là delle condizioni della intuizione sensibile; e perciò anche sopra era necessaria di esso una deduzione trascendentale. Il lettore deve dunque convincersi della non trascurabile necessità di tale deduzione trascendentale, prima che abbia dato anche un sol passo sul terreno della ragion pura; perchè altrimenti procede come cieco e, dopo aver errato qua e là, deve tornare a quella ignoranza, dalla quale si era partito. Ma deve anche intender bene fin da ora la irrimediabile difficoltà, perchè non abbia poi a lamentarsi della oscurità, nella quale è profondamente avvolta la cosa, o non sia troppo presto scoraggiato dagli ostacoli da superare; poichè qui si tratta o di abbandonare del tutto ogni pretesa d&apos;intender la ragion pura come il campo prediletto, quello cioè che oltrepassa i confini di ogni possibile esperienza; o di condurre a termine questa ricerca critica.
 </text:p>
 <text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_8" text:outline-level="8">
