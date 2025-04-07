@@ -128,12 +128,13 @@ font-size : 1.1em;
 p.paragrafo{
 padding-top : 1.5em;
 text-align : center;
+font-variant : small-caps;
 }
 
 p.sezione{
 text-align : center;
 font-variant : small-caps;
-font-size : 0.8em;
+font-size : 1.1em;
 }
 
 p.testo_indentato_reverso{

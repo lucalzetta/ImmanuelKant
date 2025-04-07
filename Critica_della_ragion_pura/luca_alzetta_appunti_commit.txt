@@ -116,3 +116,5 @@ dom 6 apr 2025, 14:46:35 Avanzamento dell'analitica trascendentale. Avanzamento 
 
 dom 6 apr 2025, 18:14:18 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, sezione prima, paragrafo 13 nel file sezione_0002_0000_0001_libro.xhtml.  Partenza dalla pagina 150 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 46. Tentativo di commit con firma dal sistema operativo Ubuntu con l'opzione '-S', maiuscola per la firma del commit.
 
+lun 7 apr 2025, 16:33:32 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, sezione prima, concluso paragrafo 13, avviato paragrafo 14 nel file sezione_0002_0000_0001_libro.xhtml.  Correzione di alcuni dettagli del foglio di stile. Partenza dalla pagina 151 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 47.
+
