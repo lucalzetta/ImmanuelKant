@@ -801,6 +801,9 @@
 <style:style style:name="T121" style:family="text">
 <style:text-properties officeooo:rsid="02254692"/>
 </style:style>
+<style:style style:name="T122" style:family="text">
+<style:text-properties officeooo:rsid="02372b6e"/>
+</style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
 </style:style>
@@ -6433,7 +6436,7 @@ universalmente per ragione è una illusione della nostra attività conoscitiva. 
 Ma prima voglio ancora soltanto premettere la definizione delle categorie. Esse sono concetti di un oggetto in generale, onde l&apos;intuizione di esso è considerata come determinata rispetto a una delle funzioni logiche del giudicare. Così la funzione del giudizio categorico era quella del rapporto del soggetto col predicato: per es., tutti i corpi sono divisibili. Soltanto, rispetto al puro uso logico dell&apos;intelletto, rimane indeterminato a quale dei 
 <text:soft-page-break/>
 due concetti sia da attribuirsi la funzione di soggetto e a quale quella di predicato, potendosi dire ugualmente: un che divisibile è un corpo. Ma con la categoria di sostanza, se io vi sottopongo il concetto di corpo, resta determinato che la sua intuizione empirica nell&apos;esperienza debba esser considerata sempre come soggetto e non mai come semplice predicato; e così in tutte le altre categorie
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn100" text:note-class="footnote">
 <text:note-citation>
 100
 </text:note-citation>
@@ -6493,7 +6496,7 @@ coniunctio
 Ma il concetto della unificazione implica, oltre al concetto del molteplice e della sintesi di esso, anche quello 
 <text:soft-page-break/>
 dell&apos;unità di esso. Unificazione è la rappresentazione dell&apos;unità sintetica del molteplice
-<text:note text:id="ftn100" text:note-class="footnote">
+<text:note text:id="ftn102" text:note-class="footnote">
 <text:note-citation>
 102
 </text:note-citation>
@@ -6509,15 +6512,51 @@ N. di K.
 </text:note>
 . La rappresentazione di questa unità dunque non può sorgere dall&apos;unificazione, ma essa piuttosto, intervenendo nella rappresentazione del molteplice, rende quindi primieramente possibile il concetto della unificazione. Questa unità, che precede a priori tutti i concetti di unificazione, non è punto la categoria della unità (§ 10); giacchè tutte le categorie si fondano su funzioni logiche dei giudizi, ma in questi già è pensata l&apos;unione, e perciò l&apos;unità dei concetti dati. La categoria dunque presuppone già l&apos;unificazione. Dobbiamo dunque cercare ancora più in alto l&apos;unità (come qualitativa, § 12), cercarla in ciò che contiene il principio stesso dell&apos;unità di diversi concetti nei giudizi, e perciò della possibilità dell&apos;intelletto, perfino nel suo uso logico.
 </text:p>
-<text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_8" text:outline-level="8">
 <text:bookmark-start text:name="__RefHeading___Toc467_2203379893"/>
-<text:soft-page-break/>
 § 16. Dell&apos;unità sintetica originaria dell&apos;appercezione
 <text:bookmark-end text:name="__RefHeading___Toc467_2203379893"/>
 </text:h>
+<text:p text:style-name="Text_20_body">
+L&apos;Io penso deve poter accompagnare tutte le mie rappresentazioni; chè altrimenti bisognerebbe in me immaginare qualcosa, che non potrebbe essere per nulla pensato, il che significa appunto che la rappresentazione o sarebbe impossibile, o almeno per me, non sarebbe. Quella rappresentazione, che può esser data prima di ogni pensiero, dicesi intuizione. Ogni molteplice dunque del
+<text:soft-page-break/>
+la intuizione ha una relazione necessaria con l&apos;Io penso, nello stesso soggetto, in cui questo molteplice s&apos;incontra. Ma questa rappresentazione è un atto della spontaneità, cioè non può esser considerata come appartenente alla sensibilità. Io la chiamo appercezione pura, per distinguerla dalla empirica, o anche appercezione originaria, poichè 
+<text:s/>
+appunto quella autocoscienza che, in quanto produce la rappresentazione Io penso, ― che deve poter accompagnare tutte le altre, ed è in ogni coscienza una e identica, ― non può più essere accompagnata da nessun&apos;altra. L&apos;unità di essa la chiamo pure unità trascendentale della autocoscienza, per indicare la possibilità della conoscenza a priori, che ne deriva. Giacchè le molteplici rappresentazioni, che sono date in una certa intuizione, non sarebbero tutte insieme mie rappresentazioni, se tutte insieme non appartenessero ad una autocoscienza; cioè, in quanto mie rappresentazioni (sebbene io non sia consapevole di esse, come tali), debbono necessariamente sottostare alla condizione in cui soltanto esse possono coesistere in una comune autocoscienza, poichè altrimenti non mi apparterrebbero in comune. Da questa originaria unificazione possono seguire molte conseguenze.
+</text:p>
+<text:p text:style-name="Text_20_body">
+E cioè: questa identità come nell&apos;appercezione del molteplice, dato nell&apos;intuizione, contiene una sintesi delle rappresentazioni, ed è possibile solo per la coscienza di questa sintesi. Infatti la coscienza empirica, che accompagna diverse rappresentazioni, è in sè dispersa e senza 
+<text:soft-page-break/>
+relazione con l&apos;identità del soggetto. Questa relazione dunque non ha luogo ancora per ciò che io accompagno colla coscienza ciascuna delle rappresentazioni, ma perchè le compongo tutte l&apos;una con l&apos;altra, e sono consapevole della loro sintesi. Solo perciò, in quanto posso legare in una coscienza una molteplicità di rappresentazioni date, è possibile che io mi rappresenti l&apos;identità della coscienza in queste rappresentazioni stesse; cioè, l&apos;unità analitica della appercezione è possibile solo a patto che si presupponga una unità sintetica
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+103
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+L&apos;unità analitica della coscienza appartiene a tutti i concetti generali, come tali: per es., se io penso al rosso in generale, mi rappresento una quantità che (come nota) può essere in qualche cosa, e collegata con altre rappresentazioni; così solamente mediante una possibile unità sintetica precedentemente pensata m&apos;è dato di rappresentarmene una analitica. Una rappresentazione, che dev&apos;esser pensata come comune a diverse rappresentazioni, sarà considerata come appartenente a rappresentazioni tali che abbiano in sè, oltre di essa, anche alcunchè di diverso; e per conseguenza dev&apos;esser pensata in unità sintetica con altre rappresentazioni (ancorchè solo possibili), prima che io possa concepire in essa l&apos;unità della coscienza, che ne fa il 
+<text:span text:style-name="T11">
+conceptus communis
+</text:span>
+. È dunque l&apos;unità sintetica della appercezione il punto più alto, al quale si deve legare tutto l&apos;uso dell&apos;intelletto, tutta la logica stessa, e dopo di questa la filosofia trascendentale, anzi questa facoltà è lo stesso intelletto. (
+<text:span text:style-name="T11">
+N. di K.
+</text:span>
+)
+</text:p>
+</text:note-body>
+</text:note>
+. Il pensiero: queste rappresentazioni date nell&apos;intuizione mi appartengon tutte, ― suona lo stesso che: io le unisco in una autocoscienza, o almeno posso uni
+<text:span text:style-name="T122">
+r
+</text:span>
+vele; e, sebbene esso non sia ancora la coscienza della sintesi delle rappresentazioni, ne presuppone tuttavia la possibilità; cioè, io chiamo quelle rappresentazioni tutte mie rappresentazioni, solo perchè io posso comprendere la loro molteplicità in una coscienza; altrimenti io dovrei avere un 
+<text:soft-page-break/>
+Me stesso variopinto, diverso, al pari delle rappresentazioni delle quali ho coscienza. L&apos;unità sintetica del molteplice delle intuizioni, in quanto data a priori, è dunque la base della identità dell&apos;appercezione stessa, che precede a priori ogni mio pensiero determinato. Ma l&apos;unificazione non è dunque negli oggetti, e non può esser considerata come qualcosa di attinto da essi per via di percezione, e per tal modo assunto primieramente nell&apos;intelletto; ma è soltanto una funzione dell&apos;intelletto, il quale non è altro che la facoltà di unificare a priori e di sottoporre all&apos;unità della percezione il molteplice delle rappresentazioni date; ed è questo il principio supremo di tutta la conoscenza umana.
+</text:p>
 <text:h text:style-name="Heading_20_8" text:outline-level="8">
 <text:bookmark-start text:name="__RefHeading___Toc469_2203379893"/>
+<text:soft-page-break/>
 § 17. Il principio dell&apos;unità sintetica dell&apos;appercezione è il principio supremo di ogni uso dell&apos;intelletto
 <text:bookmark-end text:name="__RefHeading___Toc469_2203379893"/>
 </text:h>
@@ -6626,12 +6665,12 @@ ell&apos;intelletto puro
 </text:h>
 <text:h text:style-name="Heading_20_8" text:outline-level="8">
 <text:bookmark-start text:name="__RefHeading___Toc509_2203379893"/>
-<text:soft-page-break/>
 2) Anticipazioni della percezione
 <text:bookmark-end text:name="__RefHeading___Toc509_2203379893"/>
 </text:h>
 <text:h text:style-name="Heading_20_8" text:outline-level="8">
 <text:bookmark-start text:name="__RefHeading___Toc511_2203379893"/>
+<text:soft-page-break/>
 3) Analogie dell&apos;esperienza
 <text:bookmark-end text:name="__RefHeading___Toc511_2203379893"/>
 </text:h>
@@ -6732,12 +6771,12 @@ Cap I. Dei paralogismi della ragion pura
 </text:h>
 <text:h text:style-name="Heading_20_6" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc551_2203379893"/>
-<text:soft-page-break/>
 Confutazione dell&apos;argomento di Mendelssohn della permanenza dell&apos;anima
 <text:bookmark-end text:name="__RefHeading___Toc551_2203379893"/>
 </text:h>
 <text:h text:style-name="Heading_20_6" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc553_2203379893"/>
+<text:soft-page-break/>
 Conclusione della soluzione del paralogismo psicologico
 <text:bookmark-end text:name="__RefHeading___Toc553_2203379893"/>
 </text:h>
