@@ -3,16 +3,16 @@
 <office:settings>
 <config:config-item-set config:name="ooo:view-settings">
 <config:config-item config:name="ViewAreaTop" config:type="long">
-4881245
+5137997
 </config:config-item>
 <config:config-item config:name="ViewAreaLeft" config:type="long">
 0
 </config:config-item>
 <config:config-item config:name="ViewAreaWidth" config:type="long">
-30006
+48844
 </config:config-item>
 <config:config-item config:name="ViewAreaHeight" config:type="long">
-26116
+21618
 </config:config-item>
 <config:config-item config:name="ShowRedlineChanges" config:type="boolean">
 true
@@ -26,22 +26,22 @@ false
 view2
 </config:config-item>
 <config:config-item config:name="ViewLeft" config:type="long">
-9402
+21029
 </config:config-item>
 <config:config-item config:name="ViewTop" config:type="long">
-4904712
+5152709
 </config:config-item>
 <config:config-item config:name="VisibleLeft" config:type="long">
 0
 </config:config-item>
 <config:config-item config:name="VisibleTop" config:type="long">
-4881245
+5137997
 </config:config-item>
 <config:config-item config:name="VisibleRight" config:type="long">
-30004
+48842
 </config:config-item>
 <config:config-item config:name="VisibleBottom" config:type="long">
-4907359
+5159613
 </config:config-item>
 <config:config-item config:name="ZoomType" config:type="short">
 0
@@ -143,6 +143,9 @@ true
 <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">
 false
 </config:config-item>
+<config:config-item config:name="WordLikeWrapForAsCharFlys" config:type="boolean">
+false
+</config:config-item>
 <config:config-item config:name="ContinuousEndnotes" config:type="boolean">
 false
 </config:config-item>
@@ -220,6 +223,9 @@ true
 <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">
 false
 </config:config-item>
+<config:config-item config:name="AutoFirstLineIndentDisregardLineSpace" config:type="boolean">
+false
+</config:config-item>
 <config:config-item config:name="AddExternalLeading" config:type="boolean">
 true
 </config:config-item>
@@ -261,7 +267,7 @@ IT
 true
 </config:config-item>
 <config:config-item config:name="Rsid" config:type="int">
-40908872
+41654010
 </config:config-item>
 <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
 <config:config-item config:name="FieldAutoUpdate" config:type="boolean">
@@ -298,6 +304,9 @@ false
 <config:config-item config:name="PrintGraphics" config:type="boolean">
 true
 </config:config-item>
+<config:config-item config:name="ImagePreferredDPI" config:type="int">
+0
+</config:config-item>
 <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">
 false
 </config:config-item>
@@ -317,6 +326,9 @@ true
 false
 </config:config-item>
 <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">
+false
+</config:config-item>
+<config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">
 false
 </config:config-item>
 <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
