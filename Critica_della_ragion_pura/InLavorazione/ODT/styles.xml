@@ -16,7 +16,7 @@
 <draw:fill-image draw:name="Bitmap_20_1" draw:display-name="Bitmap 1" xlink:href="Pictures/100000000000057800000898C7D145CF203989C3.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 <style:default-style style:family="graphic">
 <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-<style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+<style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
 <style:tab-stops/>
 </style:paragraph-properties>
 <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="it" fo:country="IT" style:letter-kerning="true" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
@@ -325,7 +325,9 @@
 <style:columns fo:column-count="1" fo:column-gap="0cm"/>
 <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
 </style:page-layout-properties>
-<style:header-style/>
+<style:header-style>
+<style:header-footer-properties fo:min-height="0cm" fo:margin-bottom="0.499cm" fo:background-color="transparent" draw:fill="none"/>
+</style:header-style>
 <style:footer-style>
 <style:header-footer-properties fo:min-height="0.6cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:background-color="transparent" style:dynamic-spacing="false" draw:fill="none" draw:fill-color="#729fcf"/>
 </style:footer-style>
@@ -361,10 +363,13 @@
 </office:automatic-styles>
 <office:master-styles>
 <style:master-page style:name="Standard" style:page-layout-name="Mpm1" draw:style-name="Mdp1">
+<style:header>
+<text:p text:style-name="Header"/>
+</style:header>
 <style:footer>
 <text:p text:style-name="Footer">
 <text:page-number text:select-page="current">
-242
+256
 </text:page-number>
 </text:p>
 </style:footer>
