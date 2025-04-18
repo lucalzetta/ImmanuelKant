@@ -186,7 +186,7 @@ font-size : 2em;
 p.testo_distanziato_basso {
 padding-top: 15em;
 }
-
+/*
 p.editore_max{
 text-align : center;
 font-family : sans-serif;
@@ -200,8 +200,8 @@ text-align : center;
 font-family : sans-serif;
 font-weight : 400;
 font-size : 1em;
-/*letter-spacing :1em;*/
 }
+*/
 
 p.giustif{
 text-align : justify;
@@ -211,9 +211,10 @@ p.testo_destro{
 text-align : right;
 }
 
-p.testo_sinistro{
+/*p.testo_sinistro{
 text-indent : -2em;
 }
+*/
 
 p#data_diritti{
 text-align : center;
@@ -253,9 +254,11 @@ font-size : 0.5em;
 }
 
 /* tentativo di eliminazione dell'entità &lt; ed &amp;*/
+/*
 span.lt:after{
 content : '\003C';
 }
+*/
 
 span.ec:after{
 content : '\0026';
@@ -267,17 +270,38 @@ margin-left : auto;
 margin-right : auto;
 padding-top : 2em;
 }
-
+/*
 table.indentata{
 padding-left : 30%;
 font-weight : normal;
 text-align : left;
 }
+*/
 
 td{
 text-align : center;
 padding-left : 6em;
 padding-right : 6em;
+}
+
+ul.liv_2{
+
+}
+
+ul.liv_3{
+
+}
+
+ul.liv_4{
+
+}
+
+ul.liv_5{
+
+}
+
+ul.liv_6{
+
 }
 
 /* Stili Liber Liber 2025-01-07 - stili specifici FINE */
