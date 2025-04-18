@@ -435,39 +435,39 @@
 <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:text-properties officeooo:paragraph-rsid="0284056f"/>
 </style:style>
-<style:style style:name="P87" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
+<style:style style:name="P87" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:text-properties style:text-underline-style="none" officeooo:rsid="0024ea17"/>
+</style:style>
+<style:style style:name="P88" style:family="paragraph" style:parent-style-name="LL_3a__20_nome_20_autore" style:master-page-name="First_20_Page">
 <style:paragraph-properties style:page-number="auto"/>
 </style:style>
-<style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_1">
 <style:text-properties fo:font-size="15pt" officeooo:paragraph-rsid="003cc729" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
 </style:style>
-<style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_1">
+<style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_1">
 <style:paragraph-properties fo:break-before="page"/>
 <style:text-properties officeooo:paragraph-rsid="003cc729"/>
 </style:style>
-<style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_4">
+<style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_4">
 <style:text-properties officeooo:paragraph-rsid="00246cce"/>
 </style:style>
-<style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_6">
+<style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_6">
 <style:text-properties style:text-underline-style="none"/>
 </style:style>
-<style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_6">
+<style:style style:name="P93" style:family="paragraph" style:parent-style-name="Heading_20_6">
 <style:text-properties officeooo:paragraph-rsid="0026ef34"/>
 </style:style>
-<style:style style:name="P93" style:family="paragraph" style:parent-style-name="Heading_20_6">
+<style:style style:name="P94" style:family="paragraph" style:parent-style-name="Heading_20_6">
 <style:text-properties fo:font-variant="small-caps"/>
 </style:style>
-<style:style style:name="P94" style:family="paragraph" style:parent-style-name="Heading_20_7">
+<style:style style:name="P95" style:family="paragraph" style:parent-style-name="Heading_20_7">
 <style:text-properties officeooo:paragraph-rsid="01ee28a7"/>
 </style:style>
-<style:style style:name="P95" style:family="paragraph" style:parent-style-name="Heading_20_8">
+<style:style style:name="P96" style:family="paragraph" style:parent-style-name="Heading_20_8">
 <style:text-properties officeooo:paragraph-rsid="0206aa23"/>
 </style:style>
-<style:style style:name="P96" style:family="paragraph" style:parent-style-name="Heading_20_8">
+<style:style style:name="P97" style:family="paragraph" style:parent-style-name="Heading_20_8">
 <style:text-properties officeooo:paragraph-rsid="02157e88"/>
-</style:style>
-<style:style style:name="P97" style:family="paragraph" style:parent-style-name="Text_20_body">
-<style:text-properties style:text-underline-style="none" officeooo:rsid="0024ea17"/>
 </style:style>
 <style:style style:name="T1" style:family="text">
 <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none"/>
@@ -865,6 +865,9 @@
 <style:style style:name="T132" style:family="text">
 <style:text-properties officeooo:rsid="028feed5"/>
 </style:style>
+<style:style style:name="T133" style:family="text">
+<style:text-properties officeooo:rsid="02994eb5"/>
+</style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
 </style:style>
@@ -903,7 +906,7 @@ www.liberliber.it
 </text:p>
 </draw:text-box>
 </draw:frame>
-<text:p text:style-name="P87">
+<text:p text:style-name="P88">
 Autore
 </text:p>
 <text:p text:style-name="LL_3a__20_titolo_20_libro">
@@ -1855,7 +1858,7 @@ Osservazione generale intorno al passaggio dalla psicologia razionale alla cosmo
 </text:p>
 </text:index-body>
 </text:table-of-content>
-<text:h text:style-name="P88" text:outline-level="1">
+<text:h text:style-name="P89" text:outline-level="1">
 <text:bookmark-start text:name="__RefHeading___Toc5066_3596073944"/>
 EMMANUELE KANT
 <text:bookmark-end text:name="__RefHeading___Toc5066_3596073944"/>
@@ -1938,7 +1941,7 @@ _____________
 <text:p text:style-name="P28">
 DICEMBRE MCMXLVIII - 4209
 </text:p>
-<text:h text:style-name="P89" text:outline-level="1">
+<text:h text:style-name="P90" text:outline-level="1">
 <text:bookmark-start text:name="__RefHeading___Toc5068_3596073944"/>
 Prefazione a questa traduzione
 <text:bookmark-end text:name="__RefHeading___Toc5068_3596073944"/>
@@ -5214,7 +5217,7 @@ L&apos;osservazione andava fatta, per impedire che venisse in mente di spiegare 
 <text:soft-page-break/>
 può apparire diversamente a ciascun occhio rispetto al colore. AL contrario, il concetto trascendentale dei fenomeni nello spazio è un avvertimento critico, che in generale niente di quel che è intuito nello spazio, è cosa in sè; e ancora, che lo spazio non è una forma delle cose, la quale sia in qualche modo propria delle cose in se stesse: ma che gli oggetti in sè ci sono affatto ignoti, e quelli che chiamiamo oggetti esterni, non sono altro che semplici rappresentazioni della nostra sensibilità; la cui forma è lo spazio, ma il cui vero correlato, la cosa in sè, rimane pertanto affatto sconosciuto e inconoscibile, ma non è mai domandato all&apos;esperienza.
 </text:p>
-<text:h text:style-name="P90" text:outline-level="4">
+<text:h text:style-name="P91" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc415_2203379893"/>
 Sezione seconda ― Del tempo
 <text:bookmark-end text:name="__RefHeading___Toc415_2203379893"/>
@@ -5563,7 +5566,7 @@ intuitus originarius
 ), e quindi non è intellettuale, come quella che, per la ragione addotta, par convenire soltanto all&apos;Ente primo, ma non mai ad un essere che è dipendente, e rispetto alla sua esistenza, e rispetto alla sua intuizione (la sua esistenza è determinata in rapporto ad oggetti dati); sebbene l&apos;ultima osservazione sulla nostra teoria estetica debba soltanto essere tenuta in conto di chiarimento, e non di dimostrazione.
 </text:p>
 <text:p text:style-name="Text_20_body"/>
-<text:h text:style-name="P91" text:outline-level="6">
+<text:h text:style-name="P92" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc427_2203379893"/>
 CONCLUSIONE DELL&apos;ESTETICA TRASCENDENTAL
 <text:span text:style-name="T5">
@@ -5571,7 +5574,7 @@ E
 </text:span>
 <text:bookmark-end text:name="__RefHeading___Toc427_2203379893"/>
 </text:h>
-<text:p text:style-name="P97"/>
+<text:p text:style-name="P87"/>
 <text:p text:style-name="Text_20_body">
 <text:span text:style-name="T111">
 Ormai noi abbiamo uno dei punti necessari alla soluzio
@@ -5797,7 +5800,7 @@ Intendo per analitica dei concetti non l&apos;analisi di essi o il procedimento,
 no, e metterli in chiaro; ma la scomposizione, ancora poco tentata, della stessa facoltà intellettiva, per ricercare quella possibilità dei concetti che è a priori pel fatto che noi li andiamo a cercare solo nell&apos;intelletto, come nel loro luogo di origine, e ne analizziamo l&apos;uso puro in generale; poichè questo è l&apos;ufficio proprio di una filosofia trascendentale; e il resto è trattazione logica dei concetti nella filosofia in generale. Noi dunque seguiremo i concetti puri fino ai loro primi germi e alle loro prime virtualità nell&apos;umano intelletto, dove essi giacciono pronti, fino a che da ultimo, svoltisi in occasione dell&apos;esperienza, e per opera dell&apos;intelletto stesso liberati dalle relative condizioni empiriche, si manifestano in tutta la loro genuina natura.
 </text:p>
 <text:p text:style-name="Text_20_body"/>
-<text:h text:style-name="P92" text:outline-level="6">
+<text:h text:style-name="P93" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc447_2203379893"/>
 Cap I. ― Del filo conduttore per la scoperta di tutti i concetti puri dell&apos;intelletto
 <text:bookmark-end text:name="__RefHeading___Toc447_2203379893"/>
@@ -6060,12 +6063,12 @@ consequens
 gica (che non è punto oggettiva), ossia una libera scelta di assumere tale proposizione come valida: ammissione puramente arbitraria di essa nell&apos;intelletto. La proposizione assertoria esprime la realtà logica o la verità; come in un sillogismo ipotetico l&apos;antecedente è problematico nella maggiore, assertorio nella minore, e indica che la proposizione è già legata con l&apos;intelletto in virtù delle sue leggi. La proposizione apodittica pensa il giudizio assertorio determinato secondo queste leggi dell&apos;intelletto stesso e, per conseguenza come affermante a priori; ed esprime in tal modo una necessità logica. Ora, poichè tutto qui si incorpora gradatamente nell&apos;intelletto, per modo che si giudica dapprima qualche cosa problematicamente, e la si ammette in sèguito assertoriamente come vera, e la si afferma, infine, come inseparabilmente legata con l&apos;intelletto, cioè come necessaria ed apodittica, le tre funzioni della modalità si possono considerare come altrettanti momenti del pensiero in generale.
 </text:p>
 <text:p text:style-name="Text_20_body"/>
-<text:h text:style-name="P94" text:outline-level="7">
+<text:h text:style-name="P95" text:outline-level="7">
 <text:bookmark-start text:name="__RefHeading___Toc453_2203379893"/>
 Sezione terza ― Dei concetti puri dell&apos;intelletto o categorie, §10
 <text:bookmark-end text:name="__RefHeading___Toc453_2203379893"/>
 </text:h>
-<text:h text:style-name="P94" text:outline-level="7"/>
+<text:h text:style-name="P95" text:outline-level="7"/>
 <text:p text:style-name="P74">
 Come è già stato detto parecchie volte, la logica generale astrae da tutto il contenuto della conoscenza, e aspetta quindi che le rappresentazioni le siano date dondechessia, per trasformarle in concetti; il che ha luogo analiti
 <text:soft-page-break/>
@@ -6329,9 +6332,9 @@ non resta che
 da riempirle, e una topica sistematica, com&apos;è la presente, difficilmente può sbagliare il posto, al quale ciascun concetto appartiene, mentre può facilmente additare quelli che son tuttavia vacanti.
 </text:p>
 <text:p text:style-name="P61"/>
-<text:h text:style-name="P95" text:outline-level="8">
-<text:bookmark-start text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
+<text:h text:style-name="P96" text:outline-level="8">
 <text:bookmark-start text:name="__RefHeading___Toc5070_3596073944"/>
+<text:bookmark-start text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 § 1
 <text:span text:style-name="T119">
 1
@@ -6353,8 +6356,8 @@ a
 </text:note>
 </text:span>
 .
-<text:bookmark-end text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 <text:bookmark-end text:name="__RefHeading___Toc5070_3596073944"/>
+<text:bookmark-end text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 </text:h>
 <text:p text:style-name="P78"/>
 <text:p text:style-name="P78">
@@ -6414,7 +6417,7 @@ pensa
 una cosa come divisibile; e come i membri della divisione nel primo si escludono l&apos;un l&apos;altro, e tuttavia son collegati in una sfera, così l&apos;intelletto pone le parti della seconda come tali, la cui esistenza (come sostanza) deriva a ciascuna esclusivamente dalle altre, e pure sono insieme unite in un tutto.
 </text:p>
 <text:p text:style-name="P78"/>
-<text:h text:style-name="P96" text:outline-level="8">
+<text:h text:style-name="P97" text:outline-level="8">
 <text:bookmark-start text:name="__RefHeading___Toc5072_3596073944"/>
 § 1
 <text:span text:style-name="T121">
@@ -7268,7 +7271,7 @@ che cosa a priori sugli oggetti e di estendere la conoscenza oltre i limiti dell
 L&apos;analitica dei principii vien quindi ad essere esclusivamente un canone pel Giudizio, al quale essa insegna ad applicare ai fenomeni i concetti dell&apos;intelletto, che contengono la condizione per le regole a priori. Per questo motivo, prendendo a trattare il tema dei principii propri dell&apos;intelletto, mi servirò della denominazione di dottrina del Giudizio, onde viene più esattamente indicato questo argomento.
 </text:p>
 <text:p text:style-name="Text_20_body"/>
-<text:h text:style-name="P93" text:outline-level="6">
+<text:h text:style-name="P94" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc495_2203379893"/>
 Introduzione ― Del giudizio trascendentale in generale
 <text:bookmark-end text:name="__RefHeading___Toc495_2203379893"/>
@@ -7419,7 +7422,115 @@ in concreto
 <text:soft-page-break/>
 spazio) è un prodotto e, per così dire, un monogramma della immaginazione pura a priori, per il quale e secondo il quale le immagini cominciano ad essere possibili: le quali immagini, per altro, non si riconducono al concetto se non sempre mediante lo schema, che esse designano; e in sè non coincidono mai perfettamente con esso (concetto). Lo schema per contro di un concetto puro intellettuale è qualche cosa che non si può punto ridurre a immagine, ma non è se non la sintesi pura, conforme a una regola dell&apos;unità (secondo concetti in generale), la quale esprime la categoria, ed è un prodotto trascendentale dell&apos;immaginazione, riguardante la determinazione del senso interno in generale, secondo le condizioni della sua forma (il tempo) in rapporto con tutte le rappresentazioni, in quanto queste debbono raccogliersi a priori in un concetto conforme all&apos;unità dell&apos;appercezione.
 </text:p>
-<text:p text:style-name="Text_20_body"/>
+<text:p text:style-name="Text_20_body">
+Ora senza trattenersi in un&apos;analisi arida e noiosa di ciò che occorre per gli schemi trascendentali dei concetti puri dell&apos;intelletto in generale, li esporremo piuttosto secondo l&apos;ordine delle categorie e in connessione con esse.
+</text:p>
+<text:p text:style-name="Text_20_body">
+L&apos;immagine pura di tutte le quantità (
+<text:span text:style-name="T11">
+quantorum
+</text:span>
+) innanzi al senso esterno è lo spazio, e di tutti gli oggetti in senso generale è il tempo. Ma lo schema puro della quantità (
+<text:span text:style-name="T11">
+quantitatis
+</text:span>
+), come concetto dell&apos;intelletto, è il numero, il quale è una rappresentazione che comprende 
+<text:soft-page-break/>
+la successiva addizione di uno a uno (omogenei). Cosicchè il numero non è altro che l&apos;unità della sintesi del molteplice di una intuizione omogenea in generale, pel fatto che io produco il tempo stesso nell&apos;apprensione dell&apos;intuizione.
+</text:p>
+<text:p text:style-name="Text_20_body">
+La realtà nel concetto puro dell&apos;intelletto è ciò che corrisponde a una sensazione in generale, e quindi ciò, il cui concetto indica in se stesso un essere (nel tempo); la negazione è ciò, il cui concetto rappresenta un non essere (nel tempo). La loro contrapposizione risulta dalla differenza dello stesso tempo come pieno e come vuoto. Poichè il tempo non è altro che la forma dell&apos;intuizione, e perciò degli oggetti in quanto fenomeni, ciò che in questi corrisponde alla sensazione, è la materia trascendentale di tutti gli oggetti come co
+<text:span text:style-name="T133">
+s
+</text:span>
+a in sè (entità
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+118
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+<text:span text:style-name="T11">
+Sachheit
+</text:span>
+ = cosalità, vocabolo che invano si è tentato d&apos;introdurre nel linguaggio filosofico italiano.
+</text:p>
+</text:note-body>
+</text:note>
+, realtà). Ora ogni sensazione ha un grado o quantità, colla quale più o meno può riempire lo stesso tempo, cioè il senso interno rispetto alla medesima rappresentazione di un oggetto, fino a ridursi a niente (= 0 = 
+<text:span text:style-name="T11">
+negatio
+</text:span>
+). Quindi ciò 
+<text:s/>
+che ci fa rappresentare come un 
+<text:span text:style-name="T11">
+quantum
+</text:span>
+ ogni realtà, è un rapporto o nesso o piuttosto passaggio dalla realtà alla negazione; e lo schema di una realtà, come quantità di qualche cosa, in quanto questa riempie il tempo , è appunto questa continua e uniforme produzio
+<text:soft-page-break/>
+ne di essa nel tempo, passando dalla sensazione che ha un certo grado nel tempo, al suo dileguarsi, oppure dalla negazione salendo gradatamente alla quantità di essa.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Lo schema della sostanza è la permanenza del reale nel tempo, cioè la rappresentazione del reale come sostrato della determinazione empirica del tempo in generale; sostrato che perciò rimane, mentre tutto il resto muta. (non è il tempo che scorre, ma in esso scorre l&apos;esistenza del mutevole. Al tempo dunque, che è immobile e permanente, corrisponde nel fenomeno ciò che non muta nell&apos;esistenza, cioè la sostanza, e soltanto in essa può esser determinata la successione e la simultaneità dei fenomeni nel tempo.)
+</text:p>
+<text:p text:style-name="Text_20_body">
+Lo schema della causa e della causalità di una cosa in generale, è il reale, a cui, una volta che esso sia posto, segue sempre qualche altra cosa. Esso consiste dunque nella successione del molteplice, in quanto è sottoposta ad una regola.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Lo schema della reciprocità (azione scambievole) o della mutua causalità delle sostanze rispetto ai loro accidenti è la simultaneità delle determinazioni dell&apos;una con quelle dell&apos;altra, secondo una regola generale.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Lo schema della possibilità è l&apos;accordo della sintesi di diverse rappresentazioni con le condizioni del tempo in generale (per es. l&apos;opposto di una cosa non può essere 
+<text:soft-page-break/>
+contemporaneo, ma solo successivo), e perciò la determinazione della rappresentazione d&apos;una cosa in un tempo qualunque.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Lo schema della realtà
+<text:note text:id="ftn118" text:note-class="footnote">
+<text:note-citation>
+119
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Da distinguersi dalla realtà (
+<text:span text:style-name="T11">
+Realität
+</text:span>
+) categoria della qualità, corrispondente al giudizio affermativo. Qui realtà (
+<text:span text:style-name="T11">
+Wircklichkeit
+</text:span>
+) è efettualità o realtà di fatto (categoria della modalità).
+</text:p>
+</text:note-body>
+</text:note>
+ è l&apos;esistenza di un determinato tempo.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Lo schema della necessità è l&apos;esistenza di un oggetto in ogni tempo.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Ora da tutto ciò si vede quello, che lo schema di ciascuna categoria contiene e fa pensare; se della quantità, la produzione (sintesi) del tempo stesso nella successiva apprensione di un oggetto; se della qualità, la sintesi della sensazione (percezione) con la rappresentazione del tempo, cioè il colmarsi del tempo; se della relazione, il rapporto delle percezioni fra di loro in ogni tempo (cioè secondo una regola della determinazione temporale); se infine della modalità e delle sue categorie, il tempo stesso come il correlato della determinazione di un oggetto, se e come esso appartiene al tempo. Gli schemi quindi non sono altro che determinazioni a priori del tempo secondo regole, e queste si riferiscono secondo l&apos;ordine delle categorie alla serie del tempo, al suo contenuto, al suo ordine e finalmente all&apos;insieme del tempo rispetto a tutti gli oggetti possibili.
+</text:p>
+<text:p text:style-name="Text_20_body">
+<text:soft-page-break/>
+Donde segue che lo schematismo dell&apos;intelletto mercè la sintesi trascendentale dell&apos;immaginazione non mira ad altro che all&apos;unità del molteplice della intuizione nel senso interno, e perciò indirettamente alla unità dell&apos;appercezione come funzione corrispondente al senso interno (recettività). Dunque gli schemi dei concetti puri dell&apos;intelletto sono le sole vere condizioni, che danno ad essi una relazione con oggetti, e quindi un significato; e le categorie quindi non hanno in fine altro uso che quello possibile empirico, servendo soltanto a sottomettere, sul fondamento di una unità necessaria a priori (per via della necessaria unificazione di ogni coscienza in una appercezione originaria), i fenomeni a regole generali della sintesi, e ad accordarli così in un sistema generale nell&apos;esperienza.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Ma nella totalità d&apos;ogni esperienza possibile stanno tutte le nostre conoscenze, e nel generale riferimento a questa consiste la verità trascendentale, che prende ogni verità empirica e la rende anzi possibile.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Ma è pur evidente che, sebbene gli schemi della sensibilità realizzino primieramente le categorie, nello stesso tempo tuttavia anche le restringono, cioè le limitano a condizioni, che son fuori dell&apos;intelletto (ossia della sensibilità). Quindi lo schema è propriamente solo il fenomeno o il concetto sensibile di un oggetto in accordo con la categoria (
+<text:span text:style-name="T11">
+Numerus est quantitas phaenomenon, 
+</text:span>
+<text:soft-page-break/>
+<text:span text:style-name="T11">
+sensatio realitas phaenomenon, constans et perdurabile rerum substantia phaenomenon ― aeternitas necessitas phaenomenon, etc.
+</text:span>
+) Ora se noi mettiamo via una condizione restrittiva, allora veniamo ad amplificare, sembra, il concetto dianzi limitato; e così le categorie dovrebbero valere nella loro pura significazione, senza tutte le condizioni della sensibilità, per cose in generale, come esse sono, laddove i lor schemi rappresentano soltanto queste cose come esse appaiono; e avere un significato indipendente da tutti gli schemi, e molto più esteso. Nel fatto, ai concetti puri dell&apos;intelletto, anche dopo la soppressione d&apos;ogni condizione sensibile, rimane senza dubbio un valore, ma solo logico; quello della semplice unità delle rappresentazioni, alle quali però non vien dato nessun oggetto, e però nè anche nessun significato, quale a un concetto potrebbe venire dall&apos;oggetto. Così, ad es., la sostanza, se uno toglie via la determinazione sensibile della permanenza, non significa se non qualcosa che può essere pensato come soggetto (senz&apos;essere predicato di altro). Ora io non posso cavar nulla da una tale rappresentazione, poichè essa non mi indica punto quali determinazioni abbia la cosa che deve valere come tal primo soggetto. Perciò le categorie senza schemi sono soltanto funzioni dell&apos;intelletto per i concetti, ma non rappresentano per sè nessun oggetto. Questo significato viene ad esse dalla sensibilità, la quale realizza l&apos;intelletto, mentre a un tempo lo restringe.
+</text:p>
 <text:h text:style-name="Heading_20_6" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc499_2203379893"/>
 <text:soft-page-break/>
