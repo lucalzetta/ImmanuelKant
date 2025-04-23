@@ -157,3 +157,6 @@ Partenza dalla pagina 196 del pdf. Allineato l'odt, il file di Libre Office Writ
 mar 22 apr 2025, 16:04:57 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento e conclusione sezione seconda, avvio sezione terza nel file sezione_0002_0000_0002_libro.xhtml.
 Partenza dalla pagina 202 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 60.
 
+mer 23 apr 2025, 15:53:43 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza nel file, avvio e conclusione primo paragrafo, avvio secondo paragrafo sezione_0002_0000_0002_libro.xhtml. Aggiunto stile 'paragrafo_corsivo' al foglio di stile.
+Partenza dalla pagina 206 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 61.
+
