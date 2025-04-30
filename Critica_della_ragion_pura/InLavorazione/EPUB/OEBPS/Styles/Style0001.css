@@ -218,6 +218,12 @@ p.testo_destro{
 text-align : right;
 }
 
+p.testo_maggiorato {
+padding-top: 2em;
+font-size : 1.3em;
+letter-spacing : 0.3em; 
+}
+
 /*p.testo_sinistro{
 text-indent : -2em;
 }
