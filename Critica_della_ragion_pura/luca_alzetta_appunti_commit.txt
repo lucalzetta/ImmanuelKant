@@ -179,3 +179,6 @@ mer 30 apr 2025, 09:44:15 Avanzamento libro secondo analitica dei principi. Avan
 Creato lo stile 'testo_maggiorato' per le analogie della percezione.
 Partenza dalla pagina 242 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 67.
 
+gio 1 mag 2025, 14:14:46 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza, avanzamento e conclusione terzo paragrafo, avanzamento e cocnlusione capoverso C, avvio del quarto paragrafo nel file  sezione_0002_0000_0002_libro.xhtml.
+Partenza dalla pagina 246 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 68.
+
