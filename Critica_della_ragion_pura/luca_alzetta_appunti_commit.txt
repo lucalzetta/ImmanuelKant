@@ -191,3 +191,8 @@ Partenza dalla pagina 257 del pdf. Allineato l'odt, il file di Libre Office Writ
 sab 3 mag 2025, 18:36:51 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza, avanzamento e conclusione della 'Confutazione dell'idealismo', avvio della 'Osservazione generale sul sistema dei principii' nel file  sezione_0002_0000_0002_libro.xhtml.
 Partenza dalla pagina 264 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 71.
 
+dom 4 mag 2025, 13:52:42 
+Avanzamento libro secondo analitica dei principi, avanzamento sezione terza, Avanzamento e conclusione capitolo II,  avanzamento e conclusione della 'Osservazione generale sul sistema dei principii', avvio del capitolo III, avvio del 'principio della distinzione...' nel file  sezione_0002_0000_0002_libro.xhtml.
+Adeguamento del foglio di stile per la distinzione di capitoli e sezioni di capitolo.
+Partenza dalla pagina 268 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 72.
+
