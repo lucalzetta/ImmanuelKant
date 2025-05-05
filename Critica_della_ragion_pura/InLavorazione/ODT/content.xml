@@ -1094,6 +1094,9 @@
 <style:style style:name="T164" style:family="text">
 <style:text-properties officeooo:rsid="03876962"/>
 </style:style>
+<style:style style:name="T165" style:family="text">
+<style:text-properties officeooo:rsid="039080a2"/>
+</style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
 </style:style>
@@ -6548,8 +6551,8 @@ sistematica, com&apos;è la presente, difficilmente può sbagliare il posto, al 
 </text:p>
 <text:p text:style-name="P69"/>
 <text:h text:style-name="P122" text:outline-level="8">
-<text:bookmark-start text:name="__RefHeading___Toc5070_3596073944"/>
 <text:bookmark-start text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
+<text:bookmark-start text:name="__RefHeading___Toc5070_3596073944"/>
 § 1
 <text:span text:style-name="T135">
 1
@@ -6571,8 +6574,8 @@ a
 </text:note>
 </text:span>
 .
-<text:bookmark-end text:name="__RefHeading___Toc5070_3596073944"/>
 <text:bookmark-end text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
+<text:bookmark-end text:name="__RefHeading___Toc5070_3596073944"/>
 </text:h>
 <text:p text:style-name="P100"/>
 <text:p text:style-name="P100">
@@ -9520,7 +9523,7 @@ senza di questo il concetto rimarrebbe, come si dice, senza senso, cioè senza s
 </text:p>
 <text:p text:style-name="Text_20_body">
 Che avvenga lo stesso delle categorie tutte e dei principii che ne derivano, risulta anche dal fatto, che di nessuna di esse noi possiamo dare una definizione reale
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn154" text:note-class="footnote">
 <text:note-citation>
 154
 </text:note-citation>
@@ -9535,7 +9538,7 @@ a
 </text:note-body>
 </text:note>
  cioè spiegare la possibilità del suo oggetto
-<text:note text:id="ftn154" text:note-class="footnote">
+<text:note text:id="ftn155" text:note-class="footnote">
 <text:note-citation>
 155
 </text:note-citation>
@@ -9552,7 +9555,7 @@ a
 , senza ricorrere subito a condizioni della sensibilità, quindi alla forma dei fenomeni, come quelli ai quali di necessità debbono limitarsi, come a loro unico oggetto; poichè, se vien tolta questa condizione, cade ogni significato, cioè ogni rapporto all&apos;oggetto, e non possiamo più comprendere con nessun esempio, che si 
 <text:soft-page-break/>
 pensi per cosa con concetti di codesto genere
-<text:note text:id="ftn155" text:note-class="footnote">
+<text:note text:id="ftn156" text:note-class="footnote">
 <text:note-citation>
 156
 </text:note-citation>
@@ -9580,6 +9583,57 @@ N. di K.
 </text:note>
 .
 </text:p>
+<text:p text:style-name="Text_20_body">
+Nessuno può definire il concetto della quantità in generale, se non presso a poco in questo modo: la quantità è quel carattere di una cosa, per cui può pensarsi quante volte l&apos;unità è contenuta in essa. Ma questo «quante volte» si fonda sulla ripetizione 
+<text:soft-page-break/>
+successiva, quindi sul tempo e sulla sintesi in esso (dell&apos;omogeneo). La realtà, dunque, non si può definire in opposizione alla negazione se non quando si pensi in un tempo (come l&apos;insieme di ogni essere), il quale o ne è pieno, o ne è vuoto. Se io tralascio la permanenza (che è esistenza in ogni tempo), non mi resta altro, per il concetto di sostanza, che la rappresentazione logica del soggetto; rappresentazione, che io credo di realizzare col rappresentarmi qualcosa, che può aver luogo solo come soggetto (senza esser predicato di qualche cosa). Ma così non solo io non conosco le condizioni, in cui questa prerogativa logica può appropriarsi a qualche cosa; ma non c&apos;è più niente da farne, nè c&apos;è da cavarne la menoma conseguenza, poichè per essa non vien determinato nessun oggetto dell&apos;uso di questo concetto, e però non si sa punto se esso significhi una cosa qualsiasi. Del concetto di causa (se facessi astrazione dal tempo, nel quale una cosa succede ad un&apos;altra secondo una regola) non troverei altro nella pura categoria, se non che c&apos;è qualcosa, da cui si può dedurre l&apos;esistenza di qualche altra cosa; con che non solo non sarebbe possibile distinzione alcuna fra causa ed effetto, ma, poichè questo potere di concludere richiede condizioni delle quali io non so nulla, il concetto non avrebbe determinazione di sorta, quanto al modo in cui egli s&apos;accorda con un oggetto. Il preteso principio «ogni 
+<text:soft-page-break/>
+contingente ha una causa» certo si fa innanzi con alquanta gravità, come se avesse in se stesso un certo valore. Ma io domando: che cosa s&apos;intende per contingente? Voi risponderete: ciò di cui il non essere è possibile. E allora volentieri apprenderei donde mai pretendete conoscere cotesta possibilità di non-essere qualora non vi rappresentiate nella serie dei fenomeni una successione, e in questa un essere che segue al non-essere (o viceversa), e perciò un cangiamento; giacchè dire che il non-essere di una cosa non sia contraddittorio in se stesso, è un vano appello ad una condizione logica, necessaria bensì al concetto, ma tutt&apos;altro che sufficiente per la reale possibilità; che se io posso annullare nel pensiero ad una ad una tutte le sostanze esistenti, senza contraddirmi, da ciò tuttavia non posso dedurre l&apos;oggettiva contingenza di esse nella loro esistenza, cioè la possibilità del non essere in se stesse. E per ciò che riguarda il concetto di reciprocità, è facile vedere che, se le categorie pure di sostanza e di causalità non si prestino a nessuna definizione che determini l&apos;oggetto, tanto meno ne è suscettibile la vicendevole causalità nella relazione delle sostanze fra loro (
+<text:span text:style-name="T10">
+commercium
+</text:span>
+). Possibilità, esistenza, necessità non si sono mai potute spiegare senza manifesta tautologia, quando si voglia ricavare la loro definizione unicamente dall&apos;intelletto puro. Giacchè il giuoco di prestigio per cui la possibilità logica del concetto (che non si contraddice) si scambia 
+<text:soft-page-break/>
+con la possibilità trascendentale delle cose (per cui al concetto corrisponde un oggetto) può gabbare e contentare soltanto gli inesperti
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+157
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+In una parola, tutti questi concetti non possono punto essere giustificati, e perciò non possono mostrare la loro reale possibilità, ove si astragga da qualsiasi intuizione sensibile (la sola che noi abbiamo); e allora non ci resta altro che la mera possibilità logica, cioè che è possibile il concetto (pensiero), ma non è questo ciò di cui si tratta, bensì piuttosto di sapere se esso si riferisca a un oggetto, e se significhi perciò qualche cosa(*). (
+<text:span text:style-name="T10">
+N. di K.
+</text:span>
+)
+</text:p>
+<text:p text:style-name="Footnote"/>
+<text:p text:style-name="Footnote">
+(*) Questa breve nota non c&apos;era nella prima edizione, nella quale, invece, alle parole «soltanto gli inesperti» seguiva questa più diffusa conclusione: «Ha qualcosa di strano e perfino di assurdo, che ci debba essere un concetto, cui debba pure spettare un significato, ma che non sia suscettibile di definizione. Se non che, questo è il carattere peculiare delle categorie, che esse solo per mezzo della generale condizione sensibile possano avere un significato determinato e relazione a qualche oggetto, ma questa condizione è stata esclusa dalla categoria pura, poichè questa infatti non può contenere altro che la funzione logica di ridurre il molteplice sotto un concetto. Ma da questa funzione soltanto, o forma del concetto, non è dato punto di conoscere e distinguere qual oggetto vi si riferisca, poichè s&apos;è fatto astrazione appunto dalla condizione sensibile, in cui degli oggetti in generale possono riferirvisi. Quindi le categorie, oltre ai concetti puri dell&apos;intelletto, han d&apos;uopo delle determinazioni della loro applicazione alla sensibilità in generale (schema); e senza queste determinazioni non esistono concetti, coi quali si possa conoscere un oggetto e distinguerlo dagli altri, ma soltanto tante maniere di pensare un oggetto per le intuizioni possibili, e dargli il suo significato, secondo una qualche funzione dell&apos;intelletto (ma alle condizioni richieste), cioè definirlo: esse stesse non possono dunque venir definite. Le funzioni logiche del giudizio in generale: unità e molteplicità, affermazione e negazione, soggetto e predicato, non possono esser definite senza avvolgersi in un circolo, poichè questa definizione dovrebbe essere alla sua volta un giudizio, e perciò contenere già quelle funzioni. Ma le categorie pure non son altro che rappresentazioni delle cose in generale, in quanto il molteplice della loro intuizione dev&apos;esser pensato con l&apos;una o l&apos;altra di queste funzioni logiche: la quantità è la determinazione, che può essere pensata solo mediante un giudizio che ha quantità (
+<text:span text:style-name="T10">
+iudicium commune
+</text:span>
+); la realtà, quella che può esser pensata solo mediante un giudizio affermativo; la sostanza, ciò che in rapporto all&apos;intuizione dev&apos;essere l&apos;ultimo subbietto di tutte le altre determinazioni. Per altro, che cosa sieno le cose, rispetto alle quali si è obbligati a servirsi piuttosto di una che di un&apos;altra funzione, con ciò resta affatto indeterminato; perciò le categorie, senza la condizione dell&apos;intuizione sensibile, di cui contengono la sintesi, non hanno relazione di sorta a un qualsiasi oggetto determinato, non ne possono definire nessuno e, per conseguenza, non hanno in sè valore di concetti oggettivi.»
+</text:p>
+</text:note-body>
+</text:note>
+.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Ne deriva incontrastabilmente che i concetti puri dell&apos;intelletto non possono essere mai di uso trascendentale, ma solo sempre di uso empirico, e che i 
+<text:soft-page-break/>
+principii dell&apos;intelletto puro soltanto in relazione alle condizioni generali di una esperienza possibile possono esser riferiti agli oggetti dei sensi, ma giammai alle cose in generale (senza riguardo al modo in cui possiamo intuirle).
+</text:p>
+<text:p text:style-name="Text_20_body">
+L&apos;Analitica trascendentale pertanto ha questo importante risultato, che l&apos;intelletto a priori non può mai far altro che anticipare la forma di una esperienza possibile in generale: e poichè ciò, che non è fenomeno, non può essere oggetto dell&apos;esperienza, l&apos;intelletto non può mai sorpassare i limiti della sensibilità, dentro i quali soltanto ci sono dati oggetti. 
+<text:span text:style-name="T165">
+I
+</text:span>
+ suoi sono semplicemente principii dell&apos;esposizione dei fenomeni, e l&apos;orgoglioso nome di Ontologia, che presume di dare in una dottrina 
+<text:soft-page-break/>
+sistematica conoscenze sintetiche a priori delle cose in generale (per es., il principio di causalità), deve cedere il posto a quello modesto di semplice Analitica dell&apos;intelletto puro.
+</text:p>
+<text:p text:style-name="Text_20_body"/>
 <text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_6" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc521_2203379893"/>
@@ -9669,7 +9723,6 @@ Conclusione della soluzione del paralogismo psicologico
 </text:h>
 <text:h text:style-name="Heading_20_6" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc555_2203379893"/>
-<text:soft-page-break/>
 Osservazione generale intorno al passaggio dalla psicologia razionale alla cosmologia
 <text:bookmark-end text:name="__RefHeading___Toc555_2203379893"/>
 </text:h>
