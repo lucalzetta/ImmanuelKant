@@ -154,6 +154,10 @@ padding-left : 2.5em;
 margin-left : 2,5em;
 text-indent : -2em;
 }
+p.testo_centrato_dist{
+text-align : center;
+padding-top : 2em;
+}
 p.testo_centrato_lontano{
 text-align : center;
 padding-top : 5em;

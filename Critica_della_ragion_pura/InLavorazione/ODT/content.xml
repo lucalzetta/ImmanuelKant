@@ -116,6 +116,33 @@
 <style:style style:name="Tabella10.A1" style:family="table-cell">
 <style:table-cell-properties style:writing-mode="page"/>
 </style:style>
+<style:style style:name="Tabella11" style:family="table">
+<style:table-properties style:width="11.202cm" table:align="margins"/>
+</style:style>
+<style:style style:name="Tabella11.A" style:family="table-column">
+<style:table-column-properties style:column-width="11.202cm" style:rel-column-width="65535*"/>
+</style:style>
+<style:style style:name="Tabella11.A1" style:family="table-cell">
+<style:table-cell-properties fo:padding="0cm" fo:border="none" style:writing-mode="page"/>
+</style:style>
+<style:style style:name="Tabella12" style:family="table">
+<style:table-properties style:width="11.202cm" table:align="margins"/>
+</style:style>
+<style:style style:name="Tabella12.A" style:family="table-column">
+<style:table-column-properties style:column-width="5.602cm" style:rel-column-width="32767*"/>
+</style:style>
+<style:style style:name="Tabella12.A1" style:family="table-cell">
+<style:table-cell-properties style:writing-mode="page"/>
+</style:style>
+<style:style style:name="Tabella13" style:family="table">
+<style:table-properties style:width="11.202cm" table:align="margins"/>
+</style:style>
+<style:style style:name="Tabella13.A" style:family="table-column">
+<style:table-column-properties style:column-width="11.202cm" style:rel-column-width="65535*"/>
+</style:style>
+<style:style style:name="Tabella13.A1" style:family="table-cell">
+<style:table-cell-properties style:writing-mode="page"/>
+</style:style>
 <style:style style:name="P1" style:family="paragraph" style:parent-style-name="LL_3a__20_sponsor_20_pre">
 <style:paragraph-properties fo:break-before="page"/>
 </style:style>
@@ -602,11 +629,38 @@
 <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Heading_20_8">
 <style:text-properties officeooo:paragraph-rsid="02157e88"/>
 </style:style>
-<style:style style:name="P124" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:style style:name="P124" style:family="paragraph" style:parent-style-name="Table_20_Contents">
 <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
 </style:style>
-<style:style style:name="P125" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:style style:name="P125" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties officeooo:rsid="03edcaf0" officeooo:paragraph-rsid="03edcaf0"/>
+</style:style>
+<style:style style:name="P126" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-style="italic" officeooo:rsid="03edcaf0" officeooo:paragraph-rsid="03edcaf0" style:font-style-asian="italic" style:font-style-complex="italic"/>
+</style:style>
+<style:style style:name="P127" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+</style:style>
+<style:style style:name="P128" style:family="paragraph" style:parent-style-name="Text_20_body">
 <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+</style:style>
+<style:style style:name="P129" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+</style:style>
+<style:style style:name="P130" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-variant="small-caps" officeooo:rsid="03edcaf0" officeooo:paragraph-rsid="03edcaf0"/>
+</style:style>
+<style:style style:name="P131" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" officeooo:rsid="03edcaf0" officeooo:paragraph-rsid="03edcaf0"/>
+</style:style>
+<style:style style:name="P132" style:family="paragraph" style:parent-style-name="Text_20_body">
+<style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" officeooo:rsid="03edcaf0" officeooo:paragraph-rsid="03edcaf0"/>
 </style:style>
 <style:style style:name="T1" style:family="text">
 <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none"/>
@@ -1156,6 +1210,18 @@
 </style:style>
 <style:style style:name="T183" style:family="text">
 <style:text-properties officeooo:rsid="03d41bbe"/>
+</style:style>
+<style:style style:name="T184" style:family="text">
+<style:text-properties officeooo:rsid="03e1c199"/>
+</style:style>
+<style:style style:name="T185" style:family="text">
+<style:text-properties officeooo:rsid="03e3c701"/>
+</style:style>
+<style:style style:name="T186" style:family="text">
+<style:text-properties officeooo:rsid="03e43616"/>
+</style:style>
+<style:style style:name="T187" style:family="text">
+<style:text-properties officeooo:rsid="03e556ab"/>
 </style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
@@ -4764,9 +4830,9 @@ a
 . La proposizione aritmetica è, dunque, sempre sintetica; ciò che si fa tanto più manifesto, quanto più alte sono le cifre che si prendono, perchè allora risplende chiaro che noi potremmo girare e rigirare i nostri concetti a piacer nostro, ma, senza ricorrere all&apos;aiuto dell&apos;intuizione, mediante la semplice analisi dei nostri concetti non potremmo trovar mai la somma.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Tanto meno è analitico un principio qualunque della geometria pura. Che la linea retta sia la più breve fra due punti, è una proposizione sintetica. Perchè il mio concetto di retta non contiene niente di quantità, ma solo una qualità. il concetto della più breve è dunque interamente aggiunto, e non può essere ricavato con nessuna analisi da quello della linea retta. Qui deve perciò chia
+Tanto meno è analitico un principio qualunque della geometria pura. Che la linea retta sia la più breve fra due punti, è una proposizione sintetica. Perchè il mio concetto di retta non contiene niente di quantità, ma solo una qualità. il concetto della più breve è dunque interamente aggiunto, e non può essere ricavato con nessuna analisi da quello della linea retta. Qui deve perciò chiamarsi in aiuto l&apos;intuizione, mediante la quale solamente 
 <text:soft-page-break/>
-marsi in aiuto l&apos;intuizione, mediante la quale solamente è possibile la sintesi.
+è possibile la sintesi.
 </text:p>
 <text:p text:style-name="Text_20_body">
 Alcune poche proposizioni fondamentali
@@ -4808,9 +4874,9 @@ concetti. Ma la questione non è che cosa dobbiamo pensare in aggiunta ad un con
 <text:span text:style-name="T10">
 Physica
 </text:span>
-) comprende in se come pricipii 
+) comprende in se come pricipii giudizi sintetici a priori. Addurrò in esempio soltanto un 
 <text:soft-page-break/>
-giudizi sintetici a priori. Addurrò in esempio soltanto un paio di proposizioni, come quella che in tutti i cangiamenti del mondo corporeo la 
+paio di proposizioni, come quella che in tutti i cangiamenti del mondo corporeo la 
 <text:s/>
 quantità della materia resta invariata; oppure quest&apos;altra, che in ogni comunicazione di movimento l&apos;azione e la reazione saranno sempre uguali tra loro. In entrambe non soltanto è chiara la loro necessità, la loro origine a priori, ma è chiaro altresì che sono proposizioni sintetiche. Giacchè nel concetto della materia io non penso alla permanenza, ma solo alla sua presenza nello spazio, in quanto lo riempie. Perciò io oltrepasso realmente il concetto della materia, per aggiungervi a priori qualche cosa che in quel concetto non pensavo. La proposizione dunque non è analitica ma sintetica, e tuttavia pensata a priori; e lo stesso si dica delle altre proposizioni della parte pura della fisica.
 </text:p>
@@ -4819,9 +4885,9 @@ quantità della materia resta invariata; oppure quest&apos;altra, che in ogni co
 <text:span text:style-name="T113">
 c
 </text:span>
-i di tali principii che aggiungano al concetto dato qualche cosa che non vi era contenuto; e mediante giudizi sintetici a priori ci spingiamo fin là, dove l&apos;esperienza non può seguirci: per 
+i di tali principii che aggiungano al concetto dato qualche cosa che non vi era contenuto; e mediante giudizi sintetici a priori ci spingiamo fin là, dove l&apos;esperienza non può seguirci: per esempio, nella proposizione: il mondo deve avere un 
 <text:soft-page-break/>
-esempio, nella proposizione: il mondo deve avere un primo principio ecc.; e così la metafisica consta dunque, almeno secondo il suo scopo, di mere proposizioni sintetiche a priori.
+primo principio ecc.; e così la metafisica consta dunque, almeno secondo il suo scopo, di mere proposizioni sintetiche a priori.
 </text:p>
 <text:h text:style-name="Heading_20_4" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc395_2203379893"/>
@@ -4844,18 +4910,16 @@ La ragione, per la quale la metafisica è rimasta fin qui in una condizione osci
 <text:span text:style-name="T115">
 ato
 </text:span>
- più da vicino questo problema, ma che 
+ più da vicino questo problema, ma che rimase lungi dal pensarlo con sufficiente precisione e in 
 <text:soft-page-break/>
-rimase lungi dal pensarlo con sufficiente precisione e in tutta la sua universalità, e si fermò semplicemente alla proposizione sintetica del nesso dell&apos;effetto con la sua causa (
+tutta la sua universalità, e si fermò semplicemente alla proposizione sintetica del nesso dell&apos;effetto con la sua causa (
 <text:span text:style-name="T10">
 principium causalitatis
 </text:span>
 ), credette di poter concludere che tale principio a priori fosse assolutamente impossibile; e, secondo le sue conclusioni, ciò che chiamiamo metafisica, verrebbe ad essere una semplice illusione d&apos;una presunta cognizione razionale; illusione, che essa in fatto ha preso a prestito dall&apos;esperienza, e che dall&apos;abitudine ha ricevuto l&apos;apparenza della necessità. Alla quale asserzione, distruttiva di ogni filosofia, pure egli non si sarebbe mai lasciato andare, se avesse avuto innanzi agli occhi il problema nostro nella sua universalità: poichè allora avrebbe visto che, secondo i suoi argomenti, non potrebbe esserci più neppure una matematica pura, perchè questa comprende certamente principii sintetici a priori: affermazione dalla quale il suo buon senso allora lo avrebbe ben preservato.
 </text:p>
 <text:p text:style-name="P86">
-Nella soluzione del superiore problema è riposta a un tempo la possibilità dell&apos;uso puro della ragione per fon
-<text:soft-page-break/>
-dare e recare in atto tutte le scienze che contengono una conoscenza teorica a priori degli oggetti, con concetti, e, 
+Nella soluzione del superiore problema è riposta a un tempo la possibilità dell&apos;uso puro della ragione per fondare e recare in atto tutte le scienze che contengono una conoscenza teorica a priori degli oggetti, con concetti, e, 
 <text:s/>
 cioè, la risposta alle domane:
 </text:p>
@@ -4866,7 +4930,9 @@ Com&apos;è possibile una metafisica pura?
 Com&apos;è possibile una fisica pura?
 </text:p>
 <text:p text:style-name="Text_20_body">
-Di queste scienze, poichè esse realmente ci sono, convien bene domandarsi come sieno possibili; poichè, che debban esser possibili, è provato dalla loro stessa esistenza di fatto
+Di queste scienze, poichè esse realmente ci sono, con
+<text:soft-page-break/>
+vien bene domandarsi come sieno possibili; poichè, che debban esser possibili, è provato dalla loro stessa esistenza di fatto
 <text:note text:id="ftn60" text:note-class="footnote">
 <text:note-citation>
 60
@@ -4892,9 +4958,9 @@ Ma, tuttavia, anche questa specie di conoscenza deve, in un certo senso, essere 
 <text:span text:style-name="T10">
 metaphysica naturalis
 </text:span>
-). Giacchè la ragione umana viene irresistibilmente, anche senza che la 
+). Giacchè la ragione umana viene irresistibilmente, anche senza che la muova la semplice velleità di molto sapere, incitata da un proprio bisogno, e muove incontro a quei problemi che non possono esser risoluti da nessun uso empirico della ragione, nè da principii tolti da questo; e così in tutti gli uomini, appena in loro la ragione si è innalzata sino alla speculazione, v&apos;è stata in ogni tempo una metafisica, e vi sarà sempre. ora anche per essa c&apos;è la que
 <text:soft-page-break/>
-muova la semplice velleità di molto sapere, incitata da un proprio bisogno, e muove incontro a quei problemi che non possono esser risoluti da nessun uso empirico della ragione, nè da principii tolti da questo; e così in tutti gli uomini, appena in loro la ragione si è innalzata sino alla speculazione, v&apos;è stata in ogni tempo una metafisica, e vi sarà sempre. ora anche per essa c&apos;è la questione: 
+stione: 
 <text:span text:style-name="T21">
 com&apos;è possibile la metafisica in quanto tendenza naturale?
 </text:span>
@@ -4903,9 +4969,7 @@ com&apos;è possibile la metafisica in quanto tendenza naturale?
 nascono dalla natura della ragione umana universale i problemi che la ragion pura affronta, e ai quali essa si sente dal proprio bisogno spinta a rispondere il meglio che può?
 </text:p>
 <text:p text:style-name="Text_20_body">
-Ma, poichè tutte le ricerche fatte fin qui, per rispondere a quelle naturali domande: se il mondo abbia un cominciamento, o esista dall&apos;eternità e così via, sono sempre incorse in inevitabili contraddizioni, così non ci si può arrendere alla semplice tendenza naturale verso la metafisica, cioè alla stessa facoltà pura della ragione, dalla quale certo deriva sempre una qualche metafisica (quale che sia); ma dev&apos;esser possibile giunger con essa alla certezza di un giudizio relativamente alla nostra scienza o ignoranza de&apos; suoi oggetti, cioè a pronunziarsi circa gli oggetti delle sue questioni, ovvero intorno alla potenza e impotenza della ragione rispetto ai medesimi; e però o allargare con fiducia la nostra ragion pura, o restringerla entro limiti determinati e sicuri. Quest&apos;ultimo problema, 
-<text:soft-page-break/>
-che deriva da quello generale di sopra, sarebbe a ragione questo: 
+Ma, poichè tutte le ricerche fatte fin qui, per rispondere a quelle naturali domande: se il mondo abbia un cominciamento, o esista dall&apos;eternità e così via, sono sempre incorse in inevitabili contraddizioni, così non ci si può arrendere alla semplice tendenza naturale verso la metafisica, cioè alla stessa facoltà pura della ragione, dalla quale certo deriva sempre una qualche metafisica (quale che sia); ma dev&apos;esser possibile giunger con essa alla certezza di un giudizio relativamente alla nostra scienza o ignoranza de&apos; suoi oggetti, cioè a pronunziarsi circa gli oggetti delle sue questioni, ovvero intorno alla potenza e impotenza della ragione rispetto ai medesimi; e però o allargare con fiducia la nostra ragion pura, o restringerla entro limiti determinati e sicuri. Quest&apos;ultimo problema, che deriva da quello generale di sopra, sarebbe a ragione questo: 
 <text:span text:style-name="T21">
 com&apos;è possibile la metafisica come scienza?
 </text:span>
@@ -4914,6 +4978,7 @@ com&apos;è possibile la metafisica come scienza?
 La critica della regione, dunque, conduce alla fine necessariamente alla scienza; l&apos;uso dommatico, invece, di essa senza critica, ad affermazioni prive di fondamento, alle quali si potrà sempre contrapporne altre ugualmente verisimili, e perciò allo scetticismo.
 </text:p>
 <text:p text:style-name="Text_20_body">
+<text:soft-page-break/>
 Inoltre questa scienza non può essere d&apos;una lunghezza grande, scoraggiante, perchè non ha da fare con oggetti della ragione, la cui molteplicità è infinita, ma soltanto con se stessa, con problemi che sorgono esclusivamente dal suo grembo, proposti a lei, non dalla natura delle cose che sono da lei differenti, ma dalla sua propria; dal momento che, quando essa abbia prima imparato a conoscere compiutamente la sua propria capacità rispetto agli oggetti, che le si possono presentare nella esperienza, deve diventar facile determinare in modo completo e sicuro l&apos;ambito e i limiti del suo uso al di là di tutti i confin
 <text:span text:style-name="T116">
 i
@@ -4925,9 +4990,7 @@ Si può dunque, anzi si deve far conto che non sieno mai esistiti tentativi fatt
 <text:span text:style-name="T117">
 pr
 </text:span>
-iori nella nostra ragione, non costituisce punto lo scopo, ma solo un preparativo per la vera metafisica, per estendere, cioè, sinteticamente la 
-<text:soft-page-break/>
-sua co
+iori nella nostra ragione, non costituisce punto lo scopo, ma solo un preparativo per la vera metafisica, per estendere, cioè, sinteticamente la sua co
 <text:span text:style-name="T118">
 n
 </text:span>
@@ -4942,7 +5005,9 @@ La scomposizione dei concetti.
 </text:p>
 </text:note-body>
 </text:note>
- non basta; poichè mostra solo ciò che è contenuto nei concetti, ma non come noi siamo pervenuti a priori a tali concetti, acciò si possa in conseguenza determinare il loro legittimo uso rispetto agli oggetti di ogni conoscenza in generale. E basta anche soltanto una piccola dose di abnegazione per rinunziare a queste pretese, giacchè le incontestabili contraddizioni della ragione con se stessa, inevitabili in un procedimento dommatico, già da molto tempo han gettato il discredito sulla metafisica passata. Piuttosto sarà necessaria molta 
+ non basta; poichè mostra solo ciò che è contenuto nei concetti, ma non come noi siamo pervenuti a priori a tali concetti, acciò si possa in conseguenza determinare il loro legittimo uso rispetto agli oggetti di ogni conoscenza in generale. E basta anche soltanto una piccola dose di abnegazione 
+<text:soft-page-break/>
+per rinunziare a queste pretese, giacchè le incontestabili contraddizioni della ragione con se stessa, inevitabili in un procedimento dommatico, già da molto tempo han gettato il discredito sulla metafisica passata. Piuttosto sarà necessaria molta 
 <text:span text:style-name="T119">
 co
 </text:span>
@@ -4968,9 +5033,7 @@ ura
 </text:h>
 <text:p text:style-name="Text_20_body"/>
 <text:p text:style-name="Text_20_body">
-Da tutto ciò scaturisce dunque l&apos;idea di una scienza speciale, che si può chiamare Critica della ragion pura. Poi
-<text:soft-page-break/>
-chè la ragione è la facoltà che ci fornisce i principii a priori della conoscenza
+Da tutto ciò scaturisce dunque l&apos;idea di una scienza speciale, che si può chiamare Critica della ragion pura. Poichè la ragione è la facoltà che ci fornisce i principii a priori della conoscenza
 <text:note text:id="ftn62" text:note-class="footnote">
 <text:note-citation>
 62
@@ -4981,7 +5044,9 @@ La prima edizione diceva: «... una scienza speciale, che può servire alla crit
 </text:p>
 </text:note-body>
 </text:note>
-. Ragion pura è perciò quella che contiene i principii per conoscere qualche cosa assolutamente a priori. Un organo della ragion pura sarebbe un complesso dei principii, secondo i quali possono essere acquistate ed effettivamente recate in atto tutte le conoscenze pure a priori. L&apos;applicazione completa di un siffatto organo costituirebbe un sistema della ragion pura. Ma poichè questo sistema è desiderato moltissimo, e resta ancora a veder se e in quali casi una tale estensione della nostra conoscenza sia possibile, così noi possiamo considerare una scienza che si limiti al semplice giudicamento della ragion pura, delle sue fonti e dei suoi limiti, come propedeutica al sistema della ragion pura. Una tale scienza non si dovrebbe ancora chiamare dottrina, ma solo critica della ragion pura; e la sua utilità sarebbe in realtà, riguardo alla speculazione
+. Ragion pura è perciò quella che contiene i principii per conoscere qualche cosa asso
+<text:soft-page-break/>
+lutamente a priori. Un organo della ragion pura sarebbe un complesso dei principii, secondo i quali possono essere acquistate ed effettivamente recate in atto tutte le conoscenze pure a priori. L&apos;applicazione completa di un siffatto organo costituirebbe un sistema della ragion pura. Ma poichè questo sistema è desiderato moltissimo, e resta ancora a veder se e in quali casi una tale estensione della nostra conoscenza sia possibile, così noi possiamo considerare una scienza che si limiti al semplice giudicamento della ragion pura, delle sue fonti e dei suoi limiti, come propedeutica al sistema della ragion pura. Una tale scienza non si dovrebbe ancora chiamare dottrina, ma solo critica della ragion pura; e la sua utilità sarebbe in realtà, riguardo alla speculazione
 <text:note text:id="ftn63" text:note-class="footnote">
 <text:note-citation>
 63
@@ -4996,9 +5061,7 @@ a
 </text:p>
 </text:note-body>
 </text:note>
-, solo negativa, giacchè servirebbe ad epurare, non ad allargare la nostra ragione, e a liberarla dagli errori; ciò che è già moltissimo di guadagnato. Chiamo trascendentale ogni conoscenza che si occupa non degli oggetti, ma del nostro modo di conoscenza degli oggetti in quanto questa 
-<text:soft-page-break/>
-deve esser possibile a priori
+, solo negativa, giacchè servirebbe ad epurare, non ad allargare la nostra ragione, e a liberarla dagli errori; ciò che è già moltissimo di guadagnato. Chiamo trascendentale ogni conoscenza che si occupa non degli oggetti, ma del nostro modo di conoscenza degli oggetti in quanto questa deve esser possibile a priori
 <text:note text:id="ftn64" text:note-class="footnote">
 <text:note-citation>
 64
@@ -5015,9 +5078,10 @@ a
 </text:note>
 .Si direbbe filosofia trascendentale un sistema di siffatti concetti. Ma questa filosofia, d&apos;altra parte, è troppo ancora per cominciare. Infatti, dovendo una tale scienza contenere interamente 
 <text:s/>
-tanto la conoscenza analitica quanto la sintetica a priori. essa è, per ciò che riguarda il nostro scopo, di estensione troppo vasta, laddove noi vogliamo spingere l&apos;analisi fin dove sia indispensabilmente necessario affinchè si possano cogliere in tutta la loro portata i principii della sintesi a priori, come quello che ora soltanto ci riguarda. Questa ricerca, che non possiamo propriamente chiamare dottrina, ma solo critica trascendentale, poichè non mira all&apos;allargamento delle conoscenze stesse, ma soltanto alla loro rettificazione, e che deve darci la pietra di paragone del valore o della vanità di tutte le conoscenze a priori, è ciò di cui ora ci occupiamo. Una tale critica è dunque una preparazione, se è possibile, ad un organo; e, se questo non dovesse riuscire, almeno ad un canone della ragione, secondo il quale in ogni caso si potrebbe un giorno esporre, così analiticamente come sinteticamente, il sistema completo della filosofia della ragion pura, abbia esso a consistere nell&apos;estensione o nella semplice limitazione della sua conoscenza. Che poi questo sistema sia possibile, anzi non sia per essere di tale am
 <text:soft-page-break/>
-piezza da togliere la speranza di compierlo, si può già argomentare da ciò, che qui si tratta non della natura delle cose, che è inesauribile, ma dell&apos;intelletto, che giudica della natura delle cose, anzi di questo intelletto soltanto rispetto alla sua conoscenza a priori; e il contenuto di quest&apos;oggetto, non dovendo esser cerato fuori di noi, non può restar celato, e secondo ogni presunzione è abbastanza piccolo da poter esser rilevato interamente, giudicato nel suo valore o non valore, e ridotto al suo giusto apprezzamento. Tanto meno si deve qui aspettare una critica dei libri e dei sistemi della ragion pura, ma quella della facoltà stessa della ragion pura. Se non che, se si pone a base questa critica, si ha una sicura pietra di paragone per apprezzare il valore filosofico delle opere antiche e moderne in questa branca; se no, storico e giudice, incompetenti, giudicano le asserzioni infondate degli altri in nome delle proprie, che son
+tanto la conoscenza analitica quanto la sintetica a priori. essa è, per ciò che riguarda il nostro scopo, di estensione troppo vasta, laddove noi vogliamo spingere l&apos;analisi fin dove sia indispensabilmente necessario affinchè si possano cogliere in tutta la loro portata i principii della sintesi a priori, come quello che ora soltanto ci riguarda. Questa ricerca, che non possiamo propriamente chiamare dottrina, ma solo critica trascendentale, poichè non mira all&apos;allargamento delle conoscenze stesse, ma soltanto alla loro rettificazione, e che deve darci la pietra di paragone del valore o della vanità di tutte le conoscenze a priori, è ciò di cui ora ci occupiamo. Una tale critica è dunque una preparazione, se è possibile, ad un organo; e, se questo non dovesse riuscire, almeno ad un canone della ragione, secondo il quale in ogni caso si potrebbe un giorno esporre, così analiticamente come sinteticamente, il sistema completo della filosofia della ragion pura, abbia esso a consistere nell&apos;estensione o nella semplice limitazione della sua conoscenza. Che poi questo sistema sia possibile, anzi non sia per essere di tale ampiezza da togliere la speranza di compierlo, si può già argomentare da ciò, che qui si tratta non della natura delle cose, che è inesauribile, ma dell&apos;intelletto, che giudica della natura delle cose, anzi di questo intelletto soltanto rispetto alla sua conoscenza a priori; e il contenuto di quest&apos;oggetto, non dovendo esser cerato fuori di noi, non può restar celato, e secondo ogni presunzione è ab
+<text:soft-page-break/>
+bastanza piccolo da poter esser rilevato interamente, giudicato nel suo valore o non valore, e ridotto al suo giusto apprezzamento. Tanto meno si deve qui aspettare una critica dei libri e dei sistemi della ragion pura, ma quella della facoltà stessa della ragion pura. Se non che, se si pone a base questa critica, si ha una sicura pietra di paragone per apprezzare il valore filosofico delle opere antiche e moderne in questa branca; se no, storico e giudice, incompetenti, giudicano le asserzioni infondate degli altri in nome delle proprie, che son
 <text:span text:style-name="T122">
 o
 </text:span>
@@ -5045,21 +5109,21 @@ Partizione alla filosofia trascendentale
 .
 </text:p>
 <text:p text:style-name="Text_20_body">
-La filosofia trascendentale è l&apos;idea d&apos;una scienza, di cui la critica della ragion pura deve architettonicamente, cioè per principii, abbozzare il disegno intero, con piena garanzia di solidità e sicurezza di tutte le parti che compongono un tale edificio. Essa è il sistema di tutti i prin
-<text:soft-page-break/>
-cipii della ragion pura. Se questa critica non si chiama essa stessa filosofia trascendentale, la ragione è che, per essere un sistema completo, dovrebbe contenere altresì un&apos;analisi compiuta di tutta la conoscenza umana a priori. Ora la nostra critica certo deve metterci sott&apos;occhio l&apos;enumerazione completa di tutti 
+La filosofia trascendentale è l&apos;idea d&apos;una scienza, di cui la critica della ragion pura deve architettonicamente, cioè per principii, abbozzare il disegno intero, con piena garanzia di solidità e sicurezza di tutte le parti che compongono un tale edificio. Essa è il sistema di tutti i principii della ragion pura. Se questa critica non si chiama essa stessa filosofia trascendentale, la ragione è che, per essere un sistema completo, dovrebbe contenere altresì un&apos;analisi compiuta di tutta la conoscenza umana a priori. Ora la nostra critica certo deve metterci sott&apos;occhio l&apos;enumerazione completa di tutti 
 <text:s/>
-i concetti fondamentali, che costituiscono la suddetta conoscenza pura. Ma non contiene l&apos;analisi particolareggiata di questi concetti, nè la rassegna completa di tutti quelli che ne derivano, in parte perchè tale analisi non sarebbe conforme ai suoi fini, non presentando essa la stessa difficoltà, che sta invece nella sintesi, intorno alla quale lavora, come in proprio terreno, tutta la critica; in parte perchè sarebbe rotta l&apos;unità del disegno, se si volesse dare con la responsabilità della compiutezza una tale analisi e deduzione, di cui possiam fare a meno, considerati i fini della nostra critica. Questa compiutezza, per altro, tanto nell&apos;analisi quanto nella deduzione dai concetti a priori che rimangono da assegnare, è facile a integrare quando prima di tutto ci siano questi concetti soltanto come principii completi della sintesi e non manchi nulla rispetto a questo scopo essenziale.
+i concetti fondamentali, che costituiscono la suddetta conoscenza pura. Ma 
+<text:soft-page-break/>
+non contiene l&apos;analisi particolareggiata di questi concetti, nè la rassegna completa di tutti quelli che ne derivano, in parte perchè tale analisi non sarebbe conforme ai suoi fini, non presentando essa la stessa difficoltà, che sta invece nella sintesi, intorno alla quale lavora, come in proprio terreno, tutta la critica; in parte perchè sarebbe rotta l&apos;unità del disegno, se si volesse dare con la responsabilità della compiutezza una tale analisi e deduzione, di cui possiam fare a meno, considerati i fini della nostra critica. Questa compiutezza, per altro, tanto nell&apos;analisi quanto nella deduzione dai concetti a priori che rimangono da assegnare, è facile a integrare quando prima di tutto ci siano questi concetti soltanto come principii completi della sintesi e non manchi nulla rispetto a questo scopo essenziale.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Appartiene quindi alla critica della ragion pura tutto ciò che costituisce la filosofia trascendentale, ed essa è la idea completa della filosofia trascendentale, ma non ancora questa scienza stessa, giacchè nell&apos;analisi va soltan
-<text:soft-page-break/>
-to fin là dove è necessario, per giudicare perfettamente la conoscenza sintetica a priori.
+Appartiene quindi alla critica della ragion pura tutto ciò che costituisce la filosofia trascendentale, ed essa è la idea completa della filosofia trascendentale, ma non ancora questa scienza stessa, giacchè nell&apos;analisi va soltanto fin là dove è necessario, per giudicare perfettamente la conoscenza sintetica a priori.
 </text:p>
 <text:p text:style-name="Text_20_body">
 La mira precipua nella partizione di tale 
 <text:s/>
-scienza è, che non vi devono entrare punto concetti i quali contengano in sè qualcosa di empirico: ossia, che la conoscenza a priori sia pienamente pura. Perciò, sebbene i principii supremi della moralità e i suoi concetti fondamentali sieno conoscenze a priori, essi non appartengono tuttavia alla filosofia trascendentale, poichè essi, per quanto certo non mettano i concetti del piacere e del dolore, dei desiderii e delle tendenze, ecc., che son tutti di origine empirica, a base dei precetti morali, tuttavia nel concetto del dovere non possono non farli entrare per la costruzione d&apos;un sistema di moralità pura, o come impedimento che va superato, o come stimolo di cui non va fatto un motivo
+scienza è, che non vi devono entrare punto concetti i quali contengano in sè qualcosa di empirico: ossia, che la conoscenza a priori sia pienamente pura. Perciò, sebbene i principii supremi della moralità e i suoi concetti fondamentali 
+<text:soft-page-break/>
+sieno conoscenze a priori, essi non appartengono tuttavia alla filosofia trascendentale, poichè essi, per quanto certo non mettano i concetti del piacere e del dolore, dei desiderii e delle tendenze, ecc., che son tutti di origine empirica, a base dei precetti morali, tuttavia nel concetto del dovere non possono non farli entrare per la costruzione d&apos;un sistema di moralità pura, o come impedimento che va superato, o come stimolo di cui non va fatto un motivo
 <text:note text:id="ftn66" text:note-class="footnote">
 <text:note-citation>
 66
@@ -5087,9 +5151,9 @@ Weltweisheit
  della ragion pura semplicemente speculativa. Giacchè tutto ciò che è pratico, in quanto comprende de&apos; motivi, ha attinenza con i sentimenti, che appartengono alle fonti empiriche della conoscenza.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Se dunque si vuol dividere questa scienza dal punto di vista generale di un sistema, la scienza, che ci accingiamo ad esporre, deve comprendere, in primo luogo, una 
+Se dunque si vuol dividere questa scienza dal punto di vista generale di un sistema, la scienza, che ci accingiamo ad esporre, deve comprendere, in primo luogo, una dottrina degli elementi, e in secondo luogo, una dottrina del metodo della ragion pura. Ciascuna di queste parti principali avrebbe poi sue proprie divisioni, il cui fondamento tuttavia non è qui ancora il luogo di esporre. In una introduzione o avvertenza preliminare par che sia necessario soltanto notare che si danno due tronchi dell&apos;umana conoscenza, che rampollano probabilmente da una radice comune ma a noi sconosciuta: cioè, senso 
 <text:soft-page-break/>
-dottrina degli elementi, e in secondo luogo, una dottrina del metodo della ragion pura. Ciascuna di queste parti principali avrebbe poi sue proprie divisioni, il cui fondamento tuttavia non è qui ancora il luogo di esporre. In una introduzione o avvertenza preliminare par che sia necessario soltanto notare che si danno due tronchi dell&apos;umana conoscenza, che rampollano probabilmente da una radice comune ma a noi sconosciuta: cioè, senso e intelletto; col primo dei quali ci son dati gli oggetti, col secondo essi sono pensati. Ora il senso, in quanto deve contenere rappresentazioni a priori, che formano la condizione a cui ci son dati gli oggetti, apparterrebbe alla filosofia trascendentale. La teoria trascendentale della sensibilità dovrebbe spettare alla prima parte parte della scienza degli elementi, poichè le condizioni, a cui soltanto gli oggetti sono dati alla conoscenza umana, precedono quelle, a cui i medesimi oggetti sono pensati.
+e intelletto; col primo dei quali ci son dati gli oggetti, col secondo essi sono pensati. Ora il senso, in quanto deve contenere rappresentazioni a priori, che formano la condizione a cui ci son dati gli oggetti, apparterrebbe alla filosofia trascendentale. La teoria trascendentale della sensibilità dovrebbe spettare alla prima parte parte della scienza degli elementi, poichè le condizioni, a cui soltanto gli oggetti sono dati alla conoscenza umana, precedono quelle, a cui i medesimi oggetti sono pensati.
 </text:p>
 <text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_1" text:outline-level="1">
@@ -6624,8 +6688,8 @@ da riempirle, e una topica sistematica, com&apos;è la presente, difficilmente p
 </text:p>
 <text:p text:style-name="P69"/>
 <text:h text:style-name="P122" text:outline-level="8">
-<text:bookmark-start text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 <text:bookmark-start text:name="__RefHeading___Toc5070_3596073944"/>
+<text:bookmark-start text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 § 1
 <text:span text:style-name="T142">
 1
@@ -6647,8 +6711,8 @@ a
 </text:note>
 </text:span>
 .
-<text:bookmark-end text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 <text:bookmark-end text:name="__RefHeading___Toc5070_3596073944"/>
+<text:bookmark-end text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 </text:h>
 <text:p text:style-name="P100"/>
 <text:p text:style-name="P100">
@@ -7772,9 +7836,9 @@ Lo schema della causa e della causalità di una cosa in generale, è il reale, a
 Lo schema della reciprocità (azione scambievole) o della mutua causalità delle sostanze rispetto ai loro accidenti è la simultaneità delle determinazioni dell&apos;una con quelle dell&apos;altra, secondo una regola generale.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Lo schema della possibilità è l&apos;accordo della sintesi di 
+Lo schema della possibilità è l&apos;accordo della sintesi di diverse rappresentazioni con le condizioni del tempo in generale (per es. l&apos;opposto di una cosa non può essere 
 <text:soft-page-break/>
-diverse rappresentazioni con le condizioni del tempo in generale (per es. l&apos;opposto di una cosa non può essere contemporaneo, ma solo successivo), e perciò la determinazione della rappresentazione d&apos;una cosa in un tempo qualunque.
+contemporaneo, ma solo successivo), e perciò la determinazione della rappresentazione d&apos;una cosa in un tempo qualunque.
 </text:p>
 <text:p text:style-name="Text_20_body">
 Lo schema della realtà
@@ -7802,28 +7866,29 @@ Wircklichkeit
 Lo schema della necessità è l&apos;esistenza di un oggetto in ogni tempo.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Ora da tutto ciò si vede quello, che lo schema di ciascuna categoria contiene e fa pensare; se della quantità, la produzione (sintesi) del tempo stesso nella successiva apprensione di un oggetto; se della qualità, la sintesi della sensazione (percezione) con la rappresentazione del tempo, cioè il colmarsi del tempo; se della relazione, il rapporto delle percezioni fra di loro in ogni tempo (cioè secondo una regola della determinazione temporale); se infine della modalità e delle sue categorie, il tempo stesso come il correlato della determinazione di un oggetto, se e come esso appartiene al tempo. Gli schemi quindi non sono altro che determinazioni a priori del tempo secondo regole, e queste si riferiscono secondo l&apos;ordine delle categorie alla serie del tempo, al suo con
-<text:soft-page-break/>
-tenuto, al suo ordine e finalmente all&apos;insieme del tempo rispetto a tutti gli oggetti possibili.
+Ora da tutto ciò si vede quello, che lo schema di ciascuna categoria contiene e fa pensare; se della quantità, la produzione (sintesi) del tempo stesso nella successiva apprensione di un oggetto; se della qualità, la sintesi della sensazione (percezione) con la rappresentazione del tempo, cioè il colmarsi del tempo; se della relazione, il rapporto delle percezioni fra di loro in ogni tempo (cioè secondo una regola della determinazione temporale); se infine della modalità e delle sue categorie, il tempo stesso come il correlato della determinazione di un oggetto, se e come esso appartiene al tempo. Gli schemi quindi non sono altro che determinazioni a priori del tempo secondo regole, e queste si riferiscono secondo l&apos;ordine delle categorie alla serie del tempo, al suo contenuto, al suo ordine e finalmente all&apos;insieme del tempo rispetto a tutti gli oggetti possibili.
 </text:p>
 <text:p text:style-name="Text_20_body">
+<text:soft-page-break/>
 Donde segue che lo schematismo dell&apos;intelletto mercè la sintesi trascendentale dell&apos;immaginazione non mira ad altro che all&apos;unità del molteplice della intuizione nel senso interno, e perciò indirettamente alla unità dell&apos;appercezione come funzione corrispondente al senso interno (recettività). Dunque gli schemi dei concetti puri dell&apos;intelletto sono le sole vere condizioni, che danno ad essi una relazione con oggetti, e quindi un significato; e le categorie quindi non hanno in fine altro uso che quello possibile empirico, servendo soltanto a sottomettere, sul fondamento di una unità necessaria a priori (per via della necessaria unificazione di ogni coscienza in una appercezione originaria), i fenomeni a regole generali della sintesi, e ad accordarli così in un sistema generale nell&apos;esperienza.
 </text:p>
 <text:p text:style-name="Text_20_body">
 Ma nella totalità d&apos;ogni esperienza possibile stanno tutte le nostre conoscenze, e nel generale riferimento a questa consiste la verità trascendentale, che prende ogni verità empirica e la rende anzi possibile.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Ma è pur evidente che, sebbene gli schemi della sensibilità realizzino primieramente le categorie, nello stesso tempo tuttavia anche le restringono, cioè le limitano a condizioni, che son fuori dell&apos;intelletto (ossia della sensibilità). Quindi lo schema è propriamente solo il feno
-<text:soft-page-break/>
-meno o il concetto sensibile di un oggetto in accordo con la categoria (
+Ma è pur evidente che, sebbene gli schemi della sensibilità realizzino primieramente le categorie, nello stesso tempo tuttavia anche le restringono, cioè le limitano a condizioni, che son fuori dell&apos;intelletto (ossia della sensibilità). Quindi lo schema è propriamente solo il fenomeno o il concetto sensibile di un oggetto in accordo con la categoria (
 <text:span text:style-name="T10">
-Numerus est quantitas phaenomenon, sensatio realitas phaenomenon, constans et perdurabile rerum substantia phaenomenon ― aeternitas necessitas phaenomenon, etc.
+Numerus est quantitas phaenomenon, 
 </text:span>
-) Ora se noi mettiamo via una condizione restrittiva, allora veniamo ad amplificare, sembra, il concetto dianzi limitato; e così le categorie dovrebbero valere nella loro pura significazione, senza tutte le condizioni della sensibilità, per cose in generale, come esse sono, laddove i lor schemi rappresentano soltanto queste cose come esse appaiono; e avere un significato indipendente da tutti gli schemi, e molto più esteso. Nel fatto, ai concetti puri dell&apos;intelletto, anche dopo la soppressione d&apos;ogni condizione sensibile, rimane senza dubbio un valore, ma solo logico; quello della semplice unità delle rappresentazioni, alle quali però non vien dato nessun oggetto, e però nè anche nessun significato, quale a un concetto potrebbe venire dall&apos;oggetto. Così, ad es., la sostanza, se uno toglie via la determinazione sensibile della permanenza, non significa se non qualcosa che può essere pensato come soggetto (senz&apos;essere predicato di altro). Ora io non posso cavar nulla da una tale rappresentazione, poichè essa non mi indica punto quali determinazioni abbia la cosa che deve valere come tal primo soggetto. Perciò le categorie senza schemi sono soltanto funzioni dell&apos;intelletto per i concetti, ma non rappresentano per sè nessun oggetto. Questo signifi
 <text:soft-page-break/>
-cato viene ad esse dalla sensibilità, la quale realizza l&apos;intelletto, mentre a un tempo lo restringe.
+<text:span text:style-name="T10">
+sensatio realitas phaenomenon, constans et perdurabile rerum substantia phaenomenon ― aeternitas necessitas phaenomenon, etc.
+</text:span>
+) Ora se noi mettiamo via una condizione restrittiva, allora veniamo ad amplificare, sembra, il concetto dianzi limitato; e così le categorie dovrebbero valere nella loro pura significazione, senza tutte le condizioni della sensibilità, per cose in generale, come esse sono, laddove i lor schemi rappresentano soltanto queste cose come esse appaiono; e avere un significato indipendente da tutti gli schemi, e molto più esteso. Nel fatto, ai concetti puri dell&apos;intelletto, anche dopo la soppressione d&apos;ogni condizione sensibile, rimane senza dubbio un valore, ma solo logico; quello della semplice unità delle rappresentazioni, alle quali però non vien dato nessun oggetto, e però nè anche nessun significato, quale a un concetto potrebbe venire dall&apos;oggetto. Così, ad es., la sostanza, se uno toglie via la determinazione sensibile della permanenza, non significa se non qualcosa che può essere pensato come soggetto (senz&apos;essere predicato di altro). Ora io non posso cavar nulla da una tale rappresentazione, poichè essa non mi indica punto quali determinazioni abbia la cosa che deve valere come tal primo soggetto. Perciò le categorie senza schemi sono soltanto funzioni dell&apos;intelletto per i concetti, ma non rappresentano per sè nessun oggetto. Questo significato viene ad esse dalla sensibilità, la quale realizza l&apos;intelletto, mentre a un tempo lo restringe.
 </text:p>
-<text:p text:style-name="Text_20_body"/>
+<text:p text:style-name="Text_20_body">
+<text:soft-page-break/>
+</text:p>
 <text:h text:style-name="Heading_20_6" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc499_2203379893"/>
 Cap II. ― 
@@ -7838,17 +7903,17 @@ Sistema di tutti i principii dell&apos;intelletto puro.
 Nel capitolo precedente abbiamo considerato il Giudizio trascendentale solo per rispetto alle condizioni generali, in cui è in diritto di adoperare i concetti puri dell&apos;intelletto nei giudizi sintetici. Adesso il nostro compito è di esporre in un nesso sistematico i giudizi che l&apos;intelletto con questa precauzione critica emette realmente a priori; al qual uopo deve senza dubbio esserci guida naturale e sicura la nostra tavola delle categorie. Giacchè sono appunto queste, che, entrando in relazione con l&apos;esperienza possibile, debbon costituire a priori ogni conoscenza pura dell&apos;intelletto; e la cui relazione con la sensibilità in generale ci farà perciò appunto presentare compiutamente in un sistema tutti i principii fondamentali dell&apos;uso dell&apos;intelletto.
 </text:p>
 <text:p text:style-name="Text_20_body">
-I principii a priori non portano questo nome semplicemente perchè contengono in sè il fondamento di altri giudizi, ma anche perchè non sono fondati essi stessi in conoscenze più alte e più generali. Questa proprietà tuttavia non li dispensa in ogni caso da una prova. Giac
+I principii a priori non portano questo nome semplicemente perchè contengono in sè il fondamento di altri giudizi, ma anche perchè non sono fondati essi stessi in conoscenze più alte e più generali. Questa proprietà tuttavia non li dispensa in ogni caso da una prova. Giacchè, sebbene questa non possa più essere dedotta oggettivamente, ma stia piuttosto a base di ogni conoscenza 
 <text:soft-page-break/>
-chè, sebbene questa non possa più essere dedotta oggettivamente, ma stia piuttosto a base di ogni conoscenza del suo oggetto; ciò nondimeno non impedisce che sia possibile fornire una prova desunta dalle fonti soggettive della possibilità di una conoscenza dell&apos;oggetto in generale; anzi questo sarebbe anche necessario, poichè altrimenti il principio avrebbe su di sè il maggior sospetto d&apos;essere una semplice asserzione gratuita.
+del suo oggetto; ciò nondimeno non impedisce che sia possibile fornire una prova desunta dalle fonti soggettive della possibilità di una conoscenza dell&apos;oggetto in generale; anzi questo sarebbe anche necessario, poichè altrimenti il principio avrebbe su di sè il maggior sospetto d&apos;essere una semplice asserzione gratuita.
 </text:p>
 <text:p text:style-name="Text_20_body">
 In secondo luogo, noi ci limiteremo soltanto a quei principii, che si riferiscono alle categorie. I principii dell&apos;Estetica trascendentale per cui lo spazio e il tempo sono le condizioni della possibilità di tutte le cose in quanto fenomeni, nonchè la limitazione di questi principii, ― che cioè essi non possono essere riferiti alle cose in se stesse, ― non rientrano dunque nel nostro separato campo di ricerca. Alla stessa maniera i principii delle matematiche non fan parte di questo sistema, poichè son ricavati soltanto dall&apos;intuizione, ma non dal concetto puro dell&apos;intelletto; pure la loro possibilità, poichè essi sono tuttavia giudizi sintetici a priori, troverà qui posto necessariamente, non già per provare la loro giustezza e certezza apodittica (di ciò non hanno bisogno). bensì soltanto per spiegare e dedurre la possibilità di questi evidenti conoscenze a priori.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Dovremo anche parlare del principio dei giudizi analitici e ciò in contrapposto coi sintetici, come quelli coi 
+Dovremo anche parlare del principio dei giudizi analitici e ciò in contrapposto coi sintetici, come quelli coi quali abbiamo particolarmente da fare; giacchè proprio questa opposizione libera la teoria di questi ultimi da 
 <text:soft-page-break/>
-quali abbiamo particolarmente da fare; giacchè proprio questa opposizione libera la teoria di questi ultimi da ogni malinteso, e la mette chiaramente innanzi agli occhi nella sua natura peculiare.
+ogni malinteso, e la mette chiaramente innanzi agli occhi nella sua natura peculiare.
 </text:p>
 <text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_7" text:outline-level="7">
@@ -7864,9 +7929,9 @@ Del principio supremo di tutti i giudizi analitici.
 Qualunque sia il contenuto della nostra conoscenza, e comunque essa si riferisca all&apos;oggetto, la condizione tuttavia universale, sebbene soltanto negativa, di tutti i nostri giudizi in generale è questa, che in se stessi non si contraddicano; se no, questi giudizi in se stessi (anche senza riguardo all&apos;oggetto) non sono nulla. Quand&apos;anche per altro, in un nostro giudizio non vi sia contraddizione, esso può nondimeno unire i concetti così come l&apos;oggetto non comporta, o magari senza che ci sia dato, nè a priori, nè a posteriori, un fondamento qualunque, che giustifichi il giudizio; e però un giudizio può, anche se libero di ogni contraddizione interna, essere o falso o infondato.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Ora la proposizione: «a nessuna cosa conviene un predicato che le contraddica», dicasi principio di contraddizione; ed è un criterio generale, benchè semplicemente negativo, della verità; ma appartiene anche, appunto perciò, solo alla logica, poichè vale per le conoscenze 
+Ora la proposizione: «a nessuna cosa conviene un predicato che le contraddica», dicasi principio di contraddizione; ed è un criterio generale, benchè semplicemente negativo, della verità; ma appartiene anche, appunto perciò, solo alla logica, poichè vale per le conoscenze soltanto come conoscenze in generale, senza riguardo al loro contenuto, e dice che la contraddizione le annulla 
 <text:soft-page-break/>
-soltanto come conoscenze in generale, senza riguardo al loro contenuto, e dice che la contraddizione le annulla affatto e distrugge.
+affatto e distrugge.
 </text:p>
 <text:p text:style-name="Text_20_body">
 Ma di esso si può anche fare un uso positivo, cioè non solo per bandire il falso e l&apos;errore (in quanto questo riposa sulla contraddizione), ma anche per conoscere la verità. Giacchè, se il giudizio è analitico, sia esso negativo o affermativo, la sua verità deve sempre poter essere sufficientemente conosciuta secondo il principio di contraddizione. Infatti, di ciò che si trova già e viene pensato nella conoscenza dell&apos;oggetto come concetto, l&apos;opposto dovrà sempre essere giustamente negato, ma lo stesso concetto dovrà di esso essere necessariamente affermato, per la ragione che il suo opposto ripugnerebbe all&apos;oggetto.
@@ -7876,11 +7941,10 @@ Dobbiamo quindi far valere anche il principio di contraddizione come principio g
 <text:span text:style-name="T10">
 conditio sine qua non
 </text:span>
-, ma non un principio determinante della verità della nostra conoscenza. Ora, dovendo trattare della parte sintetica della nostra conoscenza, noi ci guarderemo sempre dall&apos;andar contro questo imprescindibile principio; ma, rispetto 
-<text:soft-page-break/>
-alla verità di tale specie di conoscenza, non potremmo mai attendercene schiarimento di sorta.
+, ma non un principio determinante della verità della nostra conoscenza. Ora, dovendo trattare della parte sintetica della nostra conoscenza, noi ci guarderemo sempre dall&apos;andar contro questo imprescindibile principio; ma, rispetto alla verità di tale specie di conoscenza, non potremmo mai attendercene schiarimento di sorta.
 </text:p>
 <text:p text:style-name="Text_20_body">
+<text:soft-page-break/>
 Tuttavia di questo celebre principio, sebbene sia vuoto di ogni contenuto e puramente formale, c&apos;è una formula, la quale contiene una sintesi, che v&apos;è stata mescolata per inavvertenza e senza necessità alcuna. Essa suona: «è impossibile che qualche cosa sia e non sia nello stesso tempo». Oltre che qui è superflua l&apos;aggiunta della certezza apodittica (con la parola impossibile) che si desume da sè dal principio, il principio è affetto dalla condizione del tempo, ed è come se dicesse: una cosa = 
 <text:span text:style-name="T10">
 A
@@ -7903,9 +7967,9 @@ non B
 </text:span>
 ) successivamente. Per es., un uomo che è giovane, non può nello stesso tempo esser vecchio, ma egli può benissimo essere in un tempo giovane, e in un altro non giovane, cioè vecchio. Ora, il principio di contraddizione, in quanto principio semplicemente logico, non deve assolutamente limitare le sue espressioni ai rapporti di tempo: quindi una tale formula 
 <text:s/>
-è affatto contraria allo scopo di esso. L&apos;equivoco sta tutto qui, che prima si separa un predicato di una cosa dal concetto di essa, e poi con questo predicato si collega il suo opposto; che non è mai contraddizione col soggetto, ma solo col suo predicato, il quale vien collegato con esso sinteticamente; e per verità ciò avviene soltanto nel caso che il primo 
+è affatto contraria allo scopo di esso. L&apos;equivoco sta tutto qui, che prima si separa un predicato di una cosa dal concetto di essa, e poi con questo predicato si collega il suo opposto; che non è mai contraddizione col soggetto, ma solo col suo predicato, il quale vien collegato con esso sinteticamente; e per verità ciò avviene soltanto nel caso che il primo e il secondo predicato siano posti nello stesso tempo. Se io dico, che un uomo che è ignorante non è dotto, debbo aggiungere la condizione: nello stesso tempo, giacchè 
 <text:soft-page-break/>
-e il secondo predicato siano posti nello stesso tempo. Se io dico, che un uomo che è ignorante non è dotto, debbo aggiungere la condizione: nello stesso tempo, giacchè colui che in un tempo è ignorante, può benissimo esser dotto in un altro. Se invece dico: nessun uomo ignorante è dotto, allora la proposizione è analitica, poichè la nota (ignoranza) costituisce ormai il concetto del soggetto, e in tal caso la proposizione negativa scaturisce immediatamente dal principio di contraddizione, senza che ci sia bisogno di aggiungere la condizione; nello stesso tempo. Ed è questo il motivo, per cui ho sopra modificato la formula in modo che ne venisse chiaramente espresso il carattere proprio di proposizione analitica.
+colui che in un tempo è ignorante, può benissimo esser dotto in un altro. Se invece dico: nessun uomo ignorante è dotto, allora la proposizione è analitica, poichè la nota (ignoranza) costituisce ormai il concetto del soggetto, e in tal caso la proposizione negativa scaturisce immediatamente dal principio di contraddizione, senza che ci sia bisogno di aggiungere la condizione; nello stesso tempo. Ed è questo il motivo, per cui ho sopra modificato la formula in modo che ne venisse chiaramente espresso il carattere proprio di proposizione analitica.
 </text:p>
 <text:p text:style-name="Text_20_body"/>
 <text:p text:style-name="Text_20_body"/>
@@ -7919,33 +7983,34 @@ Del principio supremo di tutti i giudizi sintetici.
 </text:h>
 <text:p text:style-name="Text_20_body"/>
 <text:p text:style-name="Text_20_body">
-La spiegazione della possibilità di giudizi sintetici, è cosa che non ha nulla che fare colla logica generale, la quale non ha bisogno di conoscerne neppure il nome. ma nella logica trascendentale, invece, è il còmpito più importante di tutti, anzi l&apos;unico, se si parla della possibilità di giudizi sintetici a priori, nonchè delle condizioni e dell&apos;ambito del loro valore. Poichè, solo dopo l&apos;adempimento di esso la logica trascendentale può dire di aver 
-<text:soft-page-break/>
-raggiunto il proprio fine, che è quello di determinare l&apos;estensione e i limiti dell&apos;intelletto puro.
+La spiegazione della possibilità di giudizi sintetici, è cosa che non ha nulla che fare colla logica generale, la quale non ha bisogno di conoscerne neppure il nome. ma nella logica trascendentale, invece, è il còmpito più importante di tutti, anzi l&apos;unico, se si parla della possibilità di giudizi sintetici a priori, nonchè delle condizioni e dell&apos;ambito del loro valore. Poichè, solo dopo l&apos;adempimento di esso la logica trascendentale può dire di aver raggiunto il proprio fine, che è quello di determinare l&apos;estensione e i limiti dell&apos;intelletto puro.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Nel giudizio analitico, io resto nel concetto dato, per stabilire qualche cosa intorno ad esso. Se dev&apos;essere affermativo, attribuisco a questo concetto solamente ciò che era già pensato in esso; se dev&apos;essere negativo, escludo da esso soltanto il suo opposto. 
+Nel giudizio analitico, io resto nel concetto dato, per 
+<text:soft-page-break/>
+stabilire qualche cosa intorno ad esso. Se dev&apos;essere affermativo, attribuisco a questo concetto solamente ciò che era già pensato in esso; se dev&apos;essere negativo, escludo da esso soltanto il suo opposto. 
 <text:span text:style-name="T157">
 M
 </text:span>
 a nei giudizi sintetici io debbo uscire dal concetto dato per considerare in rapporto con esso qualche cosa di affatto diverso da ciò che si era pensato in esso; rapporto, che quindi non è mai di identità nè di contraddizione, e in cui il giudizio in se stesso non può presentarci nè la verità nè l&apos;errore.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Posto dunque che si debba uscire da un concetto dato, per paragonarlo sinteticamente con un altro, è necessario avere un terzo termine, dal quale solo può sorgere la sintesi dei sue concetti. Ora, che cosa è questo terzo termine, medio in tutti i giudizi sintetici? Può essere solo un insieme, in cui sieno contenute tutte le nostre rappresentazioni, cioè il senso interno e la sua forma a priori, il tempo. La sintesi delle rappresentazioni poggia sulla immaginazione, ma l&apos;unità sintetica di questa (richiesta pel giudizio) sulla unità dell&apos;appercezione. Ecco, dunque, dove sarà da cercare la possibilità dei giudizi sintetici e ― poichè tutti i tre termini contengono le fonti delle rappresentazioni a priori ― anche dei giudizi sin
+Posto dunque che si debba uscire da un concetto dato, per paragonarlo sinteticamente con un altro, è necessario avere un terzo termine, dal quale solo può sorgere la sintesi dei sue concetti. Ora, che cosa è questo terzo termine, medio in tutti i giudizi sintetici? Può essere solo un insieme, in cui sieno contenute tutte le nostre rappresentazioni, cioè il senso interno e la sua forma a priori, il tempo. La sintesi delle rappresentazioni poggia sulla immaginazione, ma l&apos;unità sintetica di questa (richiesta pel giudizio) sulla unità dell&apos;appercezione. Ecco, dunque, dove sarà da cercare la possibilità dei giudizi sintetici e ― poichè tutti i tre termini contengono le fonti delle rappresentazioni a priori ― anche dei giudizi sintetici puri; anzi su tali fondamenti essi diverranno perfino necessari, se ha da esserci una conoscenza di oggetti, che riposi unicamente sulla sintesi delle rappresentazio
 <text:soft-page-break/>
-tetici puri; anzi su tali fondamenti essi diverranno perfino necessari, se ha da esserci una conoscenza di oggetti, che riposi unicamente sulla sintesi delle rappresentazioni.
+ni.
 </text:p>
 <text:p text:style-name="Text_20_body">
 Se una conoscenza deve avere una realtà oggettiva, cioè riferirsi a un oggetto e avere in esso significato e senso, l&apos;oggetto in una maniera qualunque deve poter essere dato. Senza di che, i concetti sono vuoti, e se uno con essi pensa, in fatto tuttavia con questo pensiero non conosce nulla, ma giuoca semplicemente con le rappresentazioni. Dare un oggetto, ― se questo a sua volta non dev&apos;essere soltanto opinato indirettamente, ma rappresentato immediatamente nell&apos;intuizione, ― non è altro che riferire la sua rappresentazione all&apos;esperienza (sia questa reale, o possibile). Anche lo spazio e il tempo, per puri che questi concetti sieno di ogni elemento empirico, e per certo che sia altresì, che essi sono rappresentati nello spirito affatto a priori, sarebbero senza validità obbiettiva e senza senso nè significato ove non se ne fosse mostrato l&apos;uso necessario negli oggetti dell&apos;esperienza; anzi la loro rappresentazione è un semplice schema, che si riferisce sempre all&apos;immaginazione riproduttiva, la quale vi chiama gli oggetti dell&apos;esperienza, senza di cui quei concetti non avrebbero valore di sorta; e lo stesso avviene di tutti i concetti indistintamente.
 </text:p>
 <text:p text:style-name="Text_20_body">
+La possibilità dell&apos;esperienza è dunque ciò che conferisce realtà obbiettiva a tutte le nostre conoscenze a priori. Ora l&apos;esperienza poggia sull&apos;unità sintetica dei fenomeni, 
 <text:soft-page-break/>
-La possibilità dell&apos;esperienza è dunque ciò che conferisce realtà obbiettiva a tutte le nostre conoscenze a priori. Ora l&apos;esperienza poggia sull&apos;unità sintetica dei fenomeni, cioè su una sintesi, secondo concetti, dell&apos;oggetto dei fenomeni in generale, senza la quale non sarebbe mai conoscenza, ma una rapsodia di percezioni, le quali non potrebbero mai adattarsi insieme in un regolare contesto di una coscienza (possibile) interamente unificata, e quindi nè anche all&apos;unità trascendentale e necessaria dell&apos;appercezione. L&apos;esperienza ha dunque, a fondamento, i principii della sua forma a priori, cioè le regole universali dell&apos;unità nella sintesi dei fenomeni; regole, la cui realtà obiettiva può essere provata sempre nell&apos;esperienza come di necessarie condizioni di essa, anzi della sua possibilità. Fuori per altro di questo rapporto, non sono punto possibili proposizioni sintetiche a priori, poichè esse non hanno un terzo termine, cioè un oggetto nel quale l&apos;unità sintetica dei loro concetti possa dimostrare realtà obbiettiva.
+cioè su una sintesi, secondo concetti, dell&apos;oggetto dei fenomeni in generale, senza la quale non sarebbe mai conoscenza, ma una rapsodia di percezioni, le quali non potrebbero mai adattarsi insieme in un regolare contesto di una coscienza (possibile) interamente unificata, e quindi nè anche all&apos;unità trascendentale e necessaria dell&apos;appercezione. L&apos;esperienza ha dunque, a fondamento, i principii della sua forma a priori, cioè le regole universali dell&apos;unità nella sintesi dei fenomeni; regole, la cui realtà obiettiva può essere provata sempre nell&apos;esperienza come di necessarie condizioni di essa, anzi della sua possibilità. Fuori per altro di questo rapporto, non sono punto possibili proposizioni sintetiche a priori, poichè esse non hanno un terzo termine, cioè un oggetto nel quale l&apos;unità sintetica dei loro concetti possa dimostrare realtà obbiettiva.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Quindi, sebbene dello spazio in generale, o delle figure che in esso disegna la immaginazione produttiva, conosciamo già tanto a priori in giudizi sintetici, che realmente non abbiamo punto per questa parte bisogno dell&apos;esperienza; pure tale conoscenza non sarebbe assolutamente nulla, ma si ridurrebbe a un pascersi di semplici chimere, se lo spazio non fosse da considerare 
+Quindi, sebbene dello spazio in generale, o delle figure che in esso disegna la immaginazione produttiva, conosciamo già tanto a priori in giudizi sintetici, che realmente non abbiamo punto per questa parte bisogno dell&apos;esperienza; pure tale conoscenza non sarebbe assolutamente nulla, ma si ridurrebbe a un pascersi di semplici chimere, se lo spazio non fosse da considerare come condizione dei fenomeni, che costituiscono la materia dell&apos;esperienza esterna; quindi quei giudizi sintetici puri si riferiscono, benchè solo mediatamente, a una 
 <text:soft-page-break/>
-come condizione dei fenomeni, che costituiscono la materia dell&apos;esperienza esterna; quindi quei giudizi sintetici puri si riferiscono, benchè solo mediatamente, a una esperienza possibile, o piuttosto a questa stessa possibilità sua, e solo in ciò fondano la validità obbiettiva della loro sintesi.
+esperienza possibile, o piuttosto a questa stessa possibilità sua, e solo in ciò fondano la validità obbiettiva della loro sintesi.
 </text:p>
 <text:p text:style-name="Text_20_body">
 Poichè dunque l&apos;esperienza, come sintesi empirica, è, nella sua possibilità, l&apos;unico modo di conoscenza che dia realtà a ogni altra sintesi; questa, come conoscenza a priori, possiede anche la verità (accordo con l&apos;oggetto), solo in quanto non contiene se non ciò che è necessario all&apos;unità sintetica dell&apos;esperienza in generale.
@@ -7956,11 +8021,10 @@ Il principio supremo di tutti i giudizi sintetici è dunque: ciascun oggetto sot
 <text:p text:style-name="Text_20_body">
 In tal guisa sono possibili i giudizi sintetici a priori, se noi riferiamo le condizioni formali dell&apos;intuizione a priori, la sintesi dell&apos;immaginazione e la sua unità necessaria in una appercezione trascendentale, a una possibile conoscenza empirica in generale, e diciamo: le condizioni della possibilità dell&apos;esperienza in generale sono a un tempo condizioni della possibilità degli oggetti dell&apos;esperienza, ed hanno perciò valore oggettivo in un giudizio sintetico a priori.
 </text:p>
-<text:p text:style-name="Text_20_body">
-<text:soft-page-break/>
-</text:p>
+<text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_7" text:outline-level="7">
 <text:bookmark-start text:name="__RefHeading___Toc505_2203379893"/>
+<text:soft-page-break/>
 SEZIONE TERZA ― 
 <text:span text:style-name="T21">
 Rappresentazione sistematica di tutti i principii sintetic
@@ -7978,14 +8042,14 @@ ell&apos;intelletto puro.
 Se in generale si trovano principii dovunque, ciò è da ascrivere unicamente all&apos;intelletto puro, il quale non è soltanto la facoltà delle regole riguardo a ciò che avviene, ma altresì la fonte dei principii; quella fonte, per cui tutto (che può presentarsi solo come oggetto) è subordinato necessariamente a regole, poichè senza queste ai fenomeni non potrebbe mai spettare la conoscenza di un oggetto a essi corrispondente. Le stesse leggi naturali, se vengono considerate come principii dell&apos;uso empirico dell&apos;intelletto, hanno insieme l&apos;impronta della necessità, e quindi almeno la presunzione di una determinazione derivante da principii valevoli in sè a priori e innanzi ad ogni esperienza. Ma tutte le leggi della natura, senza distinzione, sottostanno a principii superiori dell&apos;intelletto, poichè esse li applicano a casi particolari del fenomeno. Questi principii soltanto, adunque, danno il concetto che contiene la condizione, e, per così dire, l&apos;esponente d&apos;una regola in generale; ma l&apos;esperienza dà il caso che è sottoposto alla regola.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Nè vi può essere propriamente pericolo che si scambino semplici principii empirici per principii dell&apos;intelletto puro, o viceversa; perchè la necessità concettuale, che 
+Nè vi può essere propriamente pericolo che si scambino semplici principii empirici per principii dell&apos;intelletto puro, o viceversa; perchè la necessità concettuale, che caratterizza i secondi, e la cui assenza in ogni principio 
 <text:soft-page-break/>
-caratterizza i secondi, e la cui assenza in ogni principio empirico, sia pure di valore generale, ognuno percepisce facilmente, può facilmente evitare un tale scambio. Si dànno per altro principii puri a priori, che io nondimeno non attribuirei peculiarmente all&apos;intelletto puro, poichè sono desunti non da concetti puri, ma da pure intuizioni (sebbene per mezzo dell&apos;intelletto); laddove l&apos;intelletto è la facoltà dei concetti. La matematica ne ha di questo genere, ma la loro applicazione all&apos;esperienza, e perciò la loro validità obbiettiva, anzi la possibilità di una tale conoscenza sintetica a priori (la sua deduzione), è tuttavia sempre fondata sull&apos;intelletto puro.
+empirico, sia pure di valore generale, ognuno percepisce facilmente, può facilmente evitare un tale scambio. Si dànno per altro principii puri a priori, che io nondimeno non attribuirei peculiarmente all&apos;intelletto puro, poichè sono desunti non da concetti puri, ma da pure intuizioni (sebbene per mezzo dell&apos;intelletto); laddove l&apos;intelletto è la facoltà dei concetti. La matematica ne ha di questo genere, ma la loro applicazione all&apos;esperienza, e perciò la loro validità obbiettiva, anzi la possibilità di una tale conoscenza sintetica a priori (la sua deduzione), è tuttavia sempre fondata sull&apos;intelletto puro.
 </text:p>
 <text:p text:style-name="Text_20_body">
-Nell&apos;applicazione dei concetti puri dell&apos;intelletto all&apos;esperienza possibile, l&apos;uso della loro sintesi è o matematico o dinamico: perocchè in parte si riferisce semplicemente all&apos;intuizione, in parte all&apos;esistenza di un fenomeno in generale. Ma le condizioni a priori dell&apos;intuizione rispetto a una esperienza possibile, sono assolutamente necessarie, quelle dell&apos;esistenza degli oggetti di una intuizione empirica in sè sono solamente contingenti. Quindi, i principii dell&apos;uso matematico varranno incondizionatamente e necessariamente, cioè apoditticamente; quelli, invece, dell&apos;uso dinamico avranno sì il carattere di una necessità a priori, ma sotto la condizione del pensiero empirico in una esperienza, e perciò solo mediatamente e indirettamente; sicchè essi non conten
+Nell&apos;applicazione dei concetti puri dell&apos;intelletto all&apos;esperienza possibile, l&apos;uso della loro sintesi è o matematico o dinamico: perocchè in parte si riferisce semplicemente all&apos;intuizione, in parte all&apos;esistenza di un fenomeno in generale. Ma le condizioni a priori dell&apos;intuizione rispetto a una esperienza possibile, sono assolutamente necessarie, quelle dell&apos;esistenza degli oggetti di una intuizione empirica in sè sono solamente contingenti. Quindi, i principii dell&apos;uso matematico varranno incondizionatamente e necessariamente, cioè apoditticamente; quelli, invece, dell&apos;uso dinamico avranno sì il carattere di una necessità a priori, ma sotto la condizione del pensiero empirico in una esperienza, e perciò solo mediatamente e indirettamente; sicchè essi non contengono (senza pregiudizio tuttavia della certezza, che han
 <text:soft-page-break/>
-gono (senza pregiudizio tuttavia della certezza, che hanno in quanto riferiti in generale alla esperienza) quella evidenza immediata, che è propria dei primi. Ciò, per altro, si potrà meglio giudicare alla fine di questo sistema dei principii.
+no in quanto riferiti in generale alla esperienza) quella evidenza immediata, che è propria dei primi. Ciò, per altro, si potrà meglio giudicare alla fine di questo sistema dei principii.
 </text:p>
 <text:p text:style-name="Text_20_body">
 La tavola delle categorie ci indica la via naturale per comporre quella dei principii, poichè questi non sono se non regole dell&apos;uso oggettivo di quelle. Tutti i principii dell&apos;intelletto puro son dunque:
@@ -8054,9 +8118,9 @@ Postulati del pensiero empirico in generale.
 </table:table>
 <text:p text:style-name="Text_20_body"/>
 <text:p text:style-name="Text_20_body">
-Ho scelto di proposito queste denominazioni per non lasciar passare inosservate le differenze di questi principii nel rispetto dell&apos;evidenza e dell&apos;uso. Ma tosto si vedrà che, per ciò che riguarda tanto l&apos;evidenza quanto la determinazione a priori dei fenomeni, secondo le categorie di quantità e di qualità (se si ha riguardo esclusivamente alla forma di queste ultime), i loro principii si distinguono notevolmente da quelli delle altre due in ciò, che quelli son capaci di una certezza intuitiva, questi d&apos;una 
+Ho scelto di proposito queste denominazioni per non lasciar passare inosservate le differenze di questi principii nel rispetto dell&apos;evidenza e dell&apos;uso. Ma tosto si vedrà che, per ciò che riguarda tanto l&apos;evidenza quanto la determinazione a priori dei fenomeni, secondo le categorie di quantità e di qualità (se si ha riguardo esclusivamente alla forma di queste ultime), i loro principii si distinguono notevolmente da quelli delle altre due in ciò, che quelli son capaci di una certezza intuitiva, questi d&apos;una certezza soltanto discorsiva, sebbene gli uni e gli altri 
 <text:soft-page-break/>
-certezza soltanto discorsiva, sebbene gli uni e gli altri d&apos;una certezza piena. Perciò io chiamerò quelli principii matematici, e questi dinamici
+d&apos;una certezza piena. Perciò io chiamerò quelli principii matematici, e questi dinamici
 <text:note text:id="ftn120" text:note-class="footnote">
 <text:note-citation>
 120
@@ -10228,7 +10292,7 @@ plici operazioni della riflessione ci presenta inoltre di utile, è, che essa di
 </text:p>
 <text:p text:style-name="Text_20_body">
 Quando noi riflettiamo solo logicamente, allora noi paragoniamo unicamente i nostri concetti tra loro nell&apos;intelletto, per vedere se i due concetti paragonati hanno proprio lo stesso contenuto, se si contraddicono o no, se qualcosa è compresa internamente nel concetto, o se vi si aggiunge, e quale dei due è dato, quale invece deve considerarsi soltanto come un modo di pensare il dato. Ma, se io applico questi concetti a un oggetto in generale (nel senso trascendentale), senza determinare inoltre, se esso sia oggetto di intuizione sensibile o intellettuale, ecco subito certe limitazioni (per non uscire da questo concetto), le quali ne rovesciano ogni uso empirico
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn168" text:note-class="footnote">
 <text:note-citation>
 168
 </text:note-citation>
@@ -10283,7 +10347,7 @@ numero diversa
 ); e questi sono condizioni della intuizione, in cui l&apos;oggetto di tal concetto vien dato, e che, se non appartengono al concetto, appartengono bensì tuttavia all&apos;intera sensibilità. Conformemente, nel concetto di una cosa non c&apos;è punto contraddizione, quando niente di negativo è unito con un elemento affermativo, e concetti meramente affermativi non possono unendosi far capo a una negazione. Se non che, nell&apos;intuizione sensibile, in cui è data una realtà (per es., il movimento), si trovano condizioni (direzioni opposte), da cui nel concetto di movimento in generale si astraeva, le quali rendono possibile una contraddizione, che certamente non è logica; facendo cioè di un mero positivo, uno zero = 0; e non si po
 <text:soft-page-break/>
 trebbe dire, che tutte le realtà siano in accordo tra loro per questo, che tra i loro concetti non c&apos;è contraddizione
-<text:note text:id="ftn168" text:note-class="footnote">
+<text:note text:id="ftn169" text:note-class="footnote">
 <text:note-citation>
 169
 </text:note-citation>
@@ -10306,7 +10370,7 @@ N. di K.
 col nostro senso interno) determinato da rappresentazioni: cioè tutte le cose sarebbero propriamente monadi, o enti semplici dotati di rappresentazioni. Tutto questo avrebbe le sue ragioni, se nelle condizioni, in cui soltanto ci posson esser dati gli oggetti dell&apos;intuizione esterna, e da cui fa astrazione il concetto puro, non ci fosse qualcosa più del concetto d&apos;una cosa in generale. Infatti, vi si nota che un fenomeno permanente nello spazio (estensione impenetrabile) può contenere meri rapporti e niente di assolutamente interno, e pure essere il primo sostrato di ogni percezione esterna. Per semplici concetti io certamente non posso pensare l&apos;esterno senza qualcosa d&apos;interno, appunto perchè i concetti di relazione presuppongono sempre cose assolutamente date, e senza queste non sono possibili. Ma, poichè nell&apos;intuizione c&apos;è qualcosa, che non è punto nel semplice concetto d&apos;una cosa in generale, ed è questo che procura il sostrato, che non sarebbe punto conosciuto per via di semplici concetti, cioè uno spazio, il quale, con tutto ciò che contiene, consta di relazioni meramente formali o anche reali, io non posso dire: poichè senza un che di assolutamente interno nessuna cosa può essere rappresentata per semplici concetti, così anche nelle cose stesse, comprese sotto tali concetti, e nella loro intuizione non c&apos;è nulla di esterno, a base del quale non ci sia qualche cosa di assolutamente interno. Giacchè, se noi astragghiamo da tutte le condizioni dell&apos;intuizione, certo nel semplice concetto 
 <text:soft-page-break/>
 non ci rimane altro che l&apos;interno in generale e il suo rapporto intrinseco tra le sue parti
-<text:note text:id="ftn169" text:note-class="footnote">
+<text:note text:id="ftn170" text:note-class="footnote">
 <text:note-citation>
 170
 </text:note-citation>
@@ -10331,7 +10395,194 @@ in abstracto
 <text:soft-page-break/>
 lettuale di relazioni. Ma poichè in tal caso noi prescindiamo da ogni intuizione, vien meno tutto un modo in cui i molteplici possono determinarsi reciprocamente il loro luogo, ossia la forma della sensibilità (lo spazio), che pure precede a ogni causalità empirica.
 </text:p>
+<text:p text:style-name="P84">
+Se per oggetti semplicemente intelligibili noi intendiamo quelle cose, che son pensate per via di categorie pure, senza schema della sensibilità, oggetti di tal natura sono impossibili. La condizione infatti dell&apos;uso oggettivo di tutti i nostri concetti dell&apos;intelletto è semplicemente il modo della nostra intuizione sensibile, onde ci son dati oggetti; e se noi astragghiamo da questa, quelli non hanno più attinenza con un oggetto qualsiasi. Che se si volesse ammettere anche un&apos;altra specie di intuizione, diversa da questa nostra sensibile, le nostre funzioni di pensare, rispetto ad essa, non avrebbero più significato. Se poi per essi intendiamo soltanto oggetti di una intuizione non sensibile, per cui, d&apos;altronde, non possono valere le nostre categorie, e di cui quindi non ci sarà dato mai di possedere assolutamente una cognizione (nè intuizione nè concetto), allora senza dubbio bisogna ammettere dei noumeni in questo senso meramente negativo; poichè allora essi non dicono altro se non che la nostra specie d&apos;intuizione non raggiunge tutte le cose ma solo gli oggetti dei nostri sensi, e però la sua validità oggettiva è limitata, e rimane posto per qualche altra spe
+<text:soft-page-break/>
+cie di intuizione, e quindi anche per altre cose come oggetti della medesima. Ma, allora, il concetto di noumeno è problematico, ossia è la rappresentazione di una cosa, della quale non possiamo dire nè che sia possibile, nè che sia impossibile, non conoscendo noi nessuna specie d&apos;intuizione, oltre la nostra sensibile, e nessuna specie di concetti, oltre le categorie, e non essendo per altro nè quella nè queste adeguate a un oggetto estrasensibile. Noi dunque non possiamo allargare in modo positivo il campo degli oggetti del nostro pensiero al di là delle condizioni della nostra sensibilità, nè ammettere, oltre i fenomeni, oggetti altresì del pensiero p
+<text:span text:style-name="T184">
+u
+</text:span>
+ro, cioè noumeni, poichè essi non hanno un significato positivo da addurre. Bisogna infatti delle categorie aver questo per fermo: che esse, da sole, non sono punto sufficienti alla conoscenza delle cose in sè, e, senza i dati della sensibilità, sarebbero forme meramente soggettive dell&apos;unità dell&apos;intelletto, ma senza oggetto. Il pensiero, certo, non è in sè un prodotto dei sensi, e pertanto non è nè anche limitato da essi: ma non per questo ha un uso suo proprio e puro senza intervento della sensibilità, poichè allora verrebbe ad essere senza oggetto. Nè anche può dirsi oggetto il noumeno; perchè esso designa appunto il concetto problematico di un oggetto per una intuizione affatto diversa e un intelletto affatto diverso dai nostri; concetto che per se stesso è già dunque un problema. Il concetto del noumeno, dunque, non è il concetto di un 
+<text:soft-page-break/>
+oggetto, ma il problema inevitabilmente connesso con la limitazione della nostra sensibilità: se non possano esserci oggetti al tutto indipendenti da quelli dell&apos;intuizione propria di essa; questione, la quale non può ricevere se non una soluzione indeterminata, cioè: che, poichè l&apos;intuizione sensibile non si applica a tutte le cose indistintamente, c&apos;è posto per più e diversi oggetti, sicchè questi non possono essere assolutamente negati, ma, in mancanza di un concetto determinato (poichè non c&apos;è nessuna categoria a ciò), nè anche possono essere affermati per oggetti del nostro intelletto.
+</text:p>
+<text:p text:style-name="P84">
+L&apos;intelletto, pertanto, limita la sensibilità, senza perciò estendere il suo proprio campo; e, ammonendola che non presuma di raggiungere cose in sè, ma unicamente fenomeni, si foggia in se stesso un oggetto, ma soltanto come oggetto trascendentale, che è la causa del fenomeno (quindi non fenomeno esso) e che non può esser pensato nè come quantità, nè come realtà, nè come sostanza, ecc., (poichè tali concetti richiedono sempre forme sensibili, nelle quali esse determinano un oggetto); di cui dunque s&apos;ignora affatto, se esso sia in noi o anche fuori di noi, se verrebbe annullato insieme con la sensibilità, o se, quando noi, sopprimessimo questa, esso tuttavia resterebbe. Se noi vogliamo dire questo oggetto noumeno, pel fatto che la rappresentazione di esso non è sensibile, siam liberi di farlo. 
+<text:span text:style-name="T185">
+M
+</text:span>
+a poichè non possiamo 
+<text:soft-page-break/>
+applicarvi nessuno dei nostri concetti dell&apos;intelletto, tale rappresentazione tuttavia rimane per noi v
+<text:span text:style-name="T186">
+u
+</text:span>
+ota, e non serve se non a tracciare i limiti della nostra conoscenza sensibile e a lasciare uno spazio, che non ci è dato di riempire nè con una possibile esperienza, nè con l&apos;intelletto puro.
+</text:p>
+<text:p text:style-name="P84">
+La critica di questo intelletto puro non permette, adunque, di crearsi un nuovo campo di oggetti, oltre quelli che si possono presentare a lui come fenomeni, nè di divagare in mondi intelligibili, anzi neppure nel concetto di essi. L&apos;errore, che trae a questi termini nella maniera più manifesta e che può certamente valere di scusa, benchè esso non possa essere giustificato, sta in ciò: che l&apos;uso dell&apos;intelletto, contro la sua destinazione, è fatto trascendentale, e gli oggetti, cioè le intuizioni possibili, devono regolar
+<text:span text:style-name="T187">
+s
+</text:span>
+i secondo i concetti, non i concetti secondo le intuizioni possibili (come quelle su cui soltanto poggia il loro valore oggettivo). Ma la causa di ciò, a sua volta, è che l&apos;appercezione, e con essa il pensiero, precede a ogni possibile ordine determinato delle rappresentazioni. Noi quindi pensiamo qualcosa in generale e lo determiniamo in parte sensibilmente, se non che distinguiamo tuttavia l&apos;oggetto in generale e rappresentato 
+<text:span text:style-name="T10">
+in abstracto
+</text:span>
+, da questo modo di intuirlo; e allora ci resta un modo di determinarlo semplicemente per mezzo del pensiero, che veramente è una semplice forma logica 
+<text:soft-page-break/>
+senza contenuto, ma a noi sembra nondimeno un modo, in cui l&apos;oggetto esiste in sè (noumeno), senza guardare all&apos;intuizione, che è limitata ai nostri sensi.
+</text:p>
 <text:p text:style-name="P84"/>
+<text:p text:style-name="P6">
+* * *
+</text:p>
+<text:p text:style-name="P6"/>
+<text:p text:style-name="P84">
+Prima di lasciare l&apos;Analitica trascendentale, dobbiamo aggiungere ancora qualcosa, che, sebbene in sè di non particolare momento, pure potrebbe parer necessario alla compiutezza del sistema. Il più alto concetto, da cui si suol prendere le mosse in una filosofia trascendentale, è comunemente la divisione di possibile e impossibile. Ma, poichè ogni divisione presuppone un concetto diviso, deve essere addotto un concetto ancora più alto, e questo è il concetto di un oggetto in generale (assunto in modo problematico, e senza decidere se esso sia qualche cosa o niente). Poichè le categorie sono i soli concetti, che si riferiscono ad oggetti in generale, il distinguere se un oggetto è qualcosa o è niente, verrà dopo la classificazione e l&apos;indicazione delle categorie.
+</text:p>
+<text:p text:style-name="P84">
+1) Ai concetti di tutto, molti e uno è opposto quello, che annulla tutto, cioè nessuna cosa, ed è l&apos;oggetto di un concetto, al quale non corrisponde punto una intuizione additabile, = niente; cioè un concetto senza oggetto, come i noumeni, che non possono annoverarsi tra le 
+<text:soft-page-break/>
+possibilità, quantunque nè anche debbano perciò spacciarsi per impossibili (
+<text:span text:style-name="T10">
+ens rationis
+</text:span>
+); o come certe forze fondamentali nuove, che si pensano bensì senza contraddizione, ma anche senza esempio desunto dall&apos;esperienza; e però non possono esser annoverate tra le possibilità.
+</text:p>
+<text:p text:style-name="P84">
+2) La realtà è qualcosa, la negazione è niente, ossia un concetto della mancanza d&apos;un oggetto, come l&apos;ombra, il freddo (
+<text:span text:style-name="T10">
+nihil privativum
+</text:span>
+).
+</text:p>
+<text:p text:style-name="P84">
+3) La semplice forma dell&apos;intuizione, senza sostanza, non è in sè un oggetto, ma la semplice 
+<text:s/>
+condizione formale di questo (come fenomeno), come lo spazio puro e il tempo puro, che sono bensì qualcosa come forme d&apos;intuire, ma non sono essi stessi oggetti, che siano intuiti (
+<text:span text:style-name="T10">
+ens imaginarium
+</text:span>
+).
+</text:p>
+<text:p text:style-name="P84">
+4) L&apos;oggetto di un concetto, che contraddice se stesso, è niente, poichè il concetto niente è impossibile, come per es. la figura rettilinea di due lati (
+<text:span text:style-name="T10">
+nihil negativum
+</text:span>
+).
+</text:p>
+<text:p text:style-name="P84">
+La tavola di questa divisione del concetto del niente (giacchè la divisione, a questa parallela, del qualcosa segue da sè) dovrebbe essere disposta così:
+</text:p>
+<text:p text:style-name="P84"/>
+<text:p text:style-name="P130">
+Niente
+</text:p>
+<text:p text:style-name="P131">
+come
+</text:p>
+<table:table table:name="Tabella11" table:style-name="Tabella11">
+<table:table-column table:style-name="Tabella11.A"/>
+<text:soft-page-break/>
+<table:table-row>
+<table:table-cell table:style-name="Tabella11.A1" office:value-type="string">
+<text:p text:style-name="P125">
+1.
+</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Tabella11.A1" office:value-type="string">
+<text:p text:style-name="P125">
+Concetto vuoto senza oggetto
+</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Tabella11.A1" office:value-type="string">
+<text:p text:style-name="P126">
+Ens rationis
+</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table>
+<table:table table:name="Tabella12" table:style-name="Tabella12">
+<table:table-column table:style-name="Tabella12.A" table:number-columns-repeated="2"/>
+<table:table-row>
+<table:table-cell table:style-name="Tabella12.A1" office:value-type="string">
+<text:p text:style-name="P125">
+2.
+</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Tabella12.A1" office:value-type="string">
+<text:p text:style-name="P125">
+3.
+</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Tabella12.A1" office:value-type="string">
+<text:p text:style-name="P7">
+Oggetto vuoto di un concetto
+</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Tabella12.A1" office:value-type="string">
+<text:p text:style-name="P7">
+Intuizione vuota senza oggetto
+</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Tabella12.A1" office:value-type="string">
+<text:p text:style-name="P127">
+nihil privativum
+</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Tabella12.A1" office:value-type="string">
+<text:p text:style-name="P127">
+ens imaginarium
+</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table>
+<table:table table:name="Tabella13" table:style-name="Tabella13">
+<table:table-column table:style-name="Tabella13.A"/>
+<table:table-row>
+<table:table-cell table:style-name="Tabella13.A1" office:value-type="string">
+<text:p text:style-name="P125">
+4.
+</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Tabella13.A1" office:value-type="string">
+<text:p text:style-name="P7">
+Oggetto vuoto senza concetto
+</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Tabella13.A1" office:value-type="string">
+<text:p text:style-name="P127">
+nihil negativum.
+</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table>
+<text:p text:style-name="P131"/>
+<text:p text:style-name="P132"/>
+<text:p text:style-name="P132">
+Ognun vede, che l&apos;ente di ragione (n. 1) dal non-ente (n. 4) si distingue in ciò, che quello non può essere contato tra le possibilità, poichè è una semplice finzione (benchè non contraddittoria), laddove questo è opposto alla possibilità, in quanto il concetto annulla perfino se medesimo. Ma entrambi sono concetti vuoti. Il 
+<text:span text:style-name="T10">
+nihil privativum
+</text:span>
+ (n.2) invece, e l&apos;
+<text:span text:style-name="T10">
+ens imaginarium
+</text:span>
+ (n. 3) son vuoti dati di concetti. Se la luce non fosse data ai sensi, non ci si potrebbe rappresentare nè anche il buio, e, se non fosse percepito un essere esteso, non ci si potrebbe rappresentare nè anche lo spazio. Tanto la negazione, quanto la semplice forma dell&apos;intuizione senza un reale, non sono oggetti.
+</text:p>
 <text:h text:style-name="Heading_20_4" text:outline-level="4">
 <text:bookmark-start text:name="__RefHeading___Toc525_2203379893"/>
 <text:soft-page-break/>

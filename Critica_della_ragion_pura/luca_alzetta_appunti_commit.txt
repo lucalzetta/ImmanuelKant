@@ -231,3 +231,11 @@ nel file sezione_0002_0000_0002_libro.xhtml.
 Partenza dalla pagina 298 del pdf.
 Allineato l'odt, il file di Libre Office Writer è sua REV 78.
 
+lun 12 mag 2025, 23:35:52
+Avanzamento e conclusione libro secondo analitica dei principi, avanzamento e conclusione sezione terza, 
+avanzamento e conclusione della 'nota all'anfibolia....' 
+conclusione del file sezione_0002_0000_0002_libro.xhtml.
+adeguamento del file css per allontanare un divisore di paragrafo (tre asterischi come simbolo del paragrafo)
+Partenza dalla pagina 306 del pdf.
+Allineato l'odt, il file di Libre Office Writer è sua REV 79.
+
