@@ -239,3 +239,11 @@ adeguamento del file css per allontanare un divisore di paragrafo (tre asterisch
 Partenza dalla pagina 306 del pdf.
 Allineato l'odt, il file di Libre Office Writer è sua REV 79.
 
+mer 14 mag 2025, 08:30:26
+Avvio della 'Dialettica trascendentale'
+Avvio dell'introduzione
+Avvio del paragrafo I 'Dell'apparenza trascendentale'
+nel file sezione_0002_0000_0003_libro.xhtml.
+Partenza dalla pagina 313 del pdf.
+Allineato l'odt, il file di Libre Office Writer è sua REV 80.
+
