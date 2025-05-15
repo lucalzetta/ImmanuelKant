@@ -1220,6 +1220,9 @@
 <style:style style:name="T188" style:family="text">
 <style:text-properties officeooo:rsid="03e556ab"/>
 </style:style>
+<style:style style:name="T189" style:family="text">
+<style:text-properties officeooo:rsid="03ffb1c0"/>
+</style:style>
 <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
 <style:graphic-properties style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
 </style:style>
@@ -6674,8 +6677,8 @@ sistematica, com&apos;è la presente, difficilmente può sbagliare il posto, al 
 </text:p>
 <text:p text:style-name="P70"/>
 <text:h text:style-name="P128" text:outline-level="8">
-<text:bookmark-start text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 <text:bookmark-start text:name="__RefHeading___Toc5070_3596073944"/>
+<text:bookmark-start text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 § 1
 <text:span text:style-name="T143">
 1
@@ -6697,8 +6700,8 @@ a
 </text:note>
 </text:span>
 .
-<text:bookmark-end text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 <text:bookmark-end text:name="__RefHeading___Toc5070_3596073944"/>
+<text:bookmark-end text:name="Copia di __RefHeading___Toc459_2203379893 1"/>
 </text:h>
 <text:p text:style-name="P105"/>
 <text:p text:style-name="P105">
@@ -10603,7 +10606,7 @@ I. Dell&apos;apparenza trascendentale
 <text:p text:style-name="Text_20_body"/>
 <text:p text:style-name="Text_20_body">
 Noi abbiamo detto più sopra la dialettica in generale logica dell&apos;apparenza
-<text:note text:id="ftn0" text:note-class="footnote">
+<text:note text:id="ftn171" text:note-class="footnote">
 <text:note-citation>
 171
 </text:note-citation>
@@ -10617,7 +10620,7 @@ Schein
 </text:note-body>
 </text:note>
 . Il che non vuol dire, che essa sia una dottrina della verisimiglianza; giacchè questa è verità, ma conosciuta per via di principii insufficienti, la cui conoscenza perciò è bensì difettosa, ma tuttavia non per questo è fallace, nè quindi va separata dalla parte analitica della logica. Tanto meno si deve far tutt&apos;uno di fenomeno
-<text:note text:id="ftn171" text:note-class="footnote">
+<text:note text:id="ftn172" text:note-class="footnote">
 <text:note-citation>
 172
 </text:note-citation>
@@ -10633,7 +10636,7 @@ Erscheinung und Schein
  e apparenza. La verità infatti o l&apos;apparenza non sono nell&apos;oggetto, in quanto questo è intuito, ma nel 
 <text:soft-page-break/>
 giudizio su di esso, in quanto è pensato. Si può dunque dire a ragione, che i sensi non sbagliano, non perchè essi giudichino sempre esattamente, anzi perchè non giudicano punto. Quindi tanto la verità quanto l&apos;errore, nonchè l&apos;apparenza come via a quest&apos;ultimo, non han luogo se se non nel giudizio, ossia nella relazione dell&apos;oggetto col nostro intelletto. In una conoscenza, che si accordi completamente con le leggi dell&apos;intelletto, non c&apos;è errore. In una rappresentazione dei sensi (poichè essa non contiene punto un giudizio) nè anche c&apos;è errore. Ma nessuna forza della natura da sè può deviare dalle sue proprie leggi. Quindi nè l&apos;intelletto per sè solo (senza l&apos;influsso d&apos;altra causa), nè per se stessi i sensi errerebbero; non il primo, perchè, se esso opera semplicemente secondo le sue leggi, l&apos;atto suo (il giudizio) deve necessariamente accordarsi con queste leggi. Nell&apos;accordo con le leggi dell&apos;intelletto consiste il lato formale di ogni verità. Nei sensi non c&apos;è giudizio di sorta, nè vero, nè falso. E, poichè noi non abbiamo altre fonti di conoscenza oltre queste due, ne segue, che l&apos;errore non nasce se non dall&apos;influsso inavvertito della sensibilità sull&apos;intelletto, onde accade che i principii soggettivi
-<text:note text:id="ftn172" text:note-class="footnote">
+<text:note text:id="ftn173" text:note-class="footnote">
 <text:note-citation>
 173
 </text:note-citation>
@@ -10648,7 +10651,7 @@ a
 </text:note-body>
 </text:note>
  del giudizio si mescolino ai principii oggettivi e li facciano deviare dalla loro destinazione
-<text:note text:id="ftn173" text:note-class="footnote">
+<text:note text:id="ftn174" text:note-class="footnote">
 <text:note-citation>
 174
 </text:note-citation>
@@ -10665,7 +10668,7 @@ N. di K.
 ; 
 <text:soft-page-break/>
 a quella guisa che un corpo in movimento per sè manterrebbe sempre la linea retta nella stessa direzione, laddove se contemporaneamente agisce su di esso una forza diversa in altra direzione, riesce a un movimento curvilineo. Per distinguere l&apos;atto proprio dell&apos;intelletto dalla forza che vi si mescola sarà quindi necessario considerare il giudizio erroneo come la diagonale tra due forze, che determinano il giudizio per due diverse direzioni, le quali formano, per così dire, un angolo, e risolvere quell&apos;azione composta nelle azioni semplici dell&apos;intelletto e della sensibilità; ciò che deve avvenire nei giudizi puri a priori mediante la riflessione trascendentale, per cui (come già è stato mostrato) a ciascuna rappresentazione vien assegnato il posto che le spetta nella facoltà conoscitiva corrispondente, e quindi viene anche distinto l&apos;influsso della seconda sul primo
-<text:note text:id="ftn174" text:note-class="footnote">
+<text:note text:id="ftn175" text:note-class="footnote">
 <text:note-citation>
 175
 </text:note-citation>
@@ -10686,7 +10689,14 @@ anzi impone di sorpassarli, si chiama trascendente. Se la nostra Critica può ar
 </text:p>
 <text:p text:style-name="Text_20_body">
 <text:soft-page-break/>
+L&apos;apparenza logica, che consiste nella semplice imitazione della forma razionale (l&apos;apparenza dei sofismi) sorge unicamente da un difetto di attenzione alla regola logica. Appena quindi questa viene rivolta sul caso in questione, quell&apos;apparenza si dilegua del tutto. L&apos;apparenza trascendentale, invece, non cessa egualmente, se altri già l&apos;abbia svelata e ne abbia chiaramente scorta la nullità mediante la Critica trascendentale (per es. l&apos;apparenza nella proposizione: il mondo deve avere un principio nel tempo). E la causa è questa, che nella nostra ragione (considerata soggettivamente, come facoltà conoscitiva umana) ci sono regole fondamentali e massime del suo uso, che han tutto l&apos;aspetto di principii oggettivi, per cui accade che la necessità soggettiva di una certa connessione dei nostri concetti in grazia dell&apos;intelletto venga considerata come necessità oggettiva della determinazione delle cose in sè. Illusione, che è affatto inevitabile, come non possiamo evitare che il mare nel mezzo non ci apparisca più alto che alla spiaggia poichè noi lo vediamo per raggi più alti che qui, o come anche lo stesso astronomo non può impedire che la luna al levarsi non gli apparisca più grande, quantunque ei non si lasci ingannare da tale apparenza.
 </text:p>
+<text:p text:style-name="Text_20_body">
+La dialettica trascendentale sarà paga pertanto di scoprire l&apos;apparenza dei giudizi trascendentali, e di 
+<text:soft-page-break/>
+prevenire insieme che essa non tragga in inganno; ma che questa apparenza anche si dilegui (come l&apos;apparenza logica) e cessi di essere un&apos;apparenza, questo è ciò che non può giammai conseguire. Perchè noi abbiamo che fare con una illusione naturale ed inevitabile, che si fonda essa stessa su principii soggettivi, e li scambia per oggettivi; laddove la dialettica logica, nella risoluzione dei paralogismi, non ha da fare se non con un errore nello svolgimento dei principii, o con un&apos;artificiale imitazione di essi. Essa è dunque una dialettica naturale e necessaria della ragion pura; non la dialettica in cui s&apos;avviluppi, per es., il guastamestieri per mancanza di cognizioni, o che un qualunque sofista abbia escogitata ad arte per imbrogliare la gente ragionevole; ma la dialettica, che è inscindibilmente legata all&apos;umana ragione e che, anche dopo che noi ne avremmo scoperta l&apos;illusione, non cesserà tuttavia di adescarla e trascinarla incessantemente in errori momentanei, che avranno sempre bisogno di essere eliminati.
+</text:p>
+<text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_6" text:outline-level="6">
 <text:bookmark-start text:name="__RefHeading___Toc531_2203379893"/>
 II. Della ragion pura come sede dell&apos;apparenza trascendentale.
@@ -10697,11 +10707,110 @@ II. Della ragion pura come sede dell&apos;apparenza trascendentale.
 A) Della ragione in generale
 <text:bookmark-end text:name="__RefHeading___Toc533_2203379893"/>
 </text:h>
+<text:p text:style-name="Text_20_body"/>
+<text:p text:style-name="Text_20_body">
+Ogni nostra conoscenza sorge 
+<text:span text:style-name="T189">
+d
+</text:span>
+ai sensi, indi va all&apos;intelletto e finisce alla ragione, al di sopra della quale 
+<text:soft-page-break/>
+non c&apos;è nulla di più alto per elaborare la materia dell&apos;intuizione e sottoporla alla più alta unità del pensiero. Ora se io debbo dare una definizione di questa suprema potenza conoscitiva, io mi trovo in qualche imbarazzo. Di essa, come dell&apos;intelletto, c&apos;è un uso semplicemente formale, cioè logico, in cui la ragione astrae da ogni contenuto di conoscenza; 
+<text:span text:style-name="T189">
+m
+</text:span>
+a c&apos;è anche un uso reale, poichè essa contiene l&apos;origine di certi concetti e di certi principii, che non ricava nè dai sensi nè dall&apos;intelletto. Ora la prima facoltà è stata certamente da un pezzo definita dai logici come la facoltà d&apos;inferire mediatamente (per distinguerla dalle inferenze immediate, 
+<text:span text:style-name="T10">
+consequentiis immediatis
+</text:span>
+); ma la seconda invece, che produce da sè concetti, con questa definizione non è stata ancora considerata. Ora, poichè qui si presenta una divisione della ragione in facoltà logica e facoltà trascendentale, deve cercarsi un concetto più alto di questa fonte di conoscenza, che comprenda sotto di sè entrambi i concetti, potendo noi, per analogia coi concetti dell&apos;intelletto, sperare che il concetto logico ci fornisca ad un tempo la chiave del trascendentale, e che la tavola delle funzioni dei primi
+<text:note text:id="ftn0" text:note-class="footnote">
+<text:note-citation>
+176
+</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Footnote">
+Dei concetti dell&apos;intelletto.
+</text:p>
+</text:note-body>
+</text:note>
+, ci dia la scala genealogica dei concetti della ragione.
+</text:p>
+<text:p text:style-name="Text_20_body">
+<text:soft-page-break/>
+Noi definimmo nella prima parte della nostra Logica trascendentale l&apos;intelletto come la facoltà delle regole; qui da esso distinguiamo la ragione, dicendola la facoltà dei principii.
+</text:p>
+<text:p text:style-name="Text_20_body">
+L&apos;espressione di principio ha un doppio significato; e comunemente significa soltanto una conoscenza, che può essere adoperata come principio, comechè, in se stessa e per la propria origine, non sia un 
+<text:span text:style-name="T10">
+principium
+</text:span>
+. Ogni proposizione generale, sia essa desunta magari dall&apos;esperienza (per induzione), può servire da premessa maggiore in un sillogismo; man non perciò essa è, in se stessa, un 
+<text:span text:style-name="T10">
+principium
+</text:span>
+. Gli assiomi matematici (per es., tra due punti non ci può essere se non una linea retta) sono bensì conoscenze generali a priori, e son quindi detti a ragione principii relativamente ai casi, che possono essere sussunti sotto di essi. Ma non perciò io posso dire di conoscere questa proprietà della linea retta in generale e in sè in virtù dei principii, sibbene soltanto nella intuizione pura.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Direi quindi conoscenza per principii quella, in cui conosco il particolare nel generale mediante concetti. Così ogni sillogismo è una forma della derivazione di una conoscenza da un principio. La premessa maggiore, infatti, dà sempre un concetto, che fa sì che tutto ciò, che viene sussunto sotto la condizione di esso, venga conosciuto per esso secondo un principio. Ora, poichè 
+<text:soft-page-break/>
+ogni conoscenza generale può fungere da premessa maggiore in un sillogismo, e poichè l&apos;intelletto fornisce a priori simili proposizioni generali, così queste, anche rispetto al loro possibile uso, possono esser dette principii.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Ma, se noi consideriamo questi principii dell&apos;intelletto puro in se stessi secondo la loro origine, essi non sono altro che conoscenze ricavate da concetti. Essi infatti neppure sarebbero mai possibili a priori, se noi non vi aggiungessimo l&apos;intuizione pura (in matematica), o condizioni di una possibile esperienza in generale. Che tutto ciò che avviene abbia una causa, non può ricavarsi a nessun patto dal concetto di ciò che avviene in generale; piuttosto il principio dimostra come di ciò che accade si possa primieramente formare un determinato concetto empirico.
+</text:p>
+<text:p text:style-name="Text_20_body">
+L&apos;intelletto, adunque, non può procurare conoscenze sintetiche ricavabili da concetti; e queste sono propriamente quelle, che io chiamo assolutamente principii, potendo per altro tutte le proposizioni universali, in generale, esser dette principii relativi.
+</text:p>
+<text:p text:style-name="Text_20_body">
+È antico desiderio, che non so quando, ma giungerà un dì probabilmente al suo compimento, che si possa scoprire, in luogo dell&apos;infinita molteplicità delle leggi civili, i loro principii; giacchè soltanto in ciò può consistere il segreto per semplificare, come si dice, la 
+<text:soft-page-break/>
+legislazione. Ma anche le leggi non sono se non limitazioni della nostra libertà a condizioni, dentro le quali essa si accorda pienamente con se medesima; esse quindi si riferiscono a qualcosa, che è totalmente opera nostra, e di cui, per quegli stessi concetti, noi possiamo esser causa. Ma volere che gli oggetti in se stessi, come la natura delle cose, sottostiano a principii e debbano esser determinati secondo meri concetti, è, se non qualcosa d&apos;impossibile, per lo meno di molto assurdo. Pure, sia qui come si voglia (perchè su ciò abbiamo ancora la ricerca innanzi a noi), da ciò risulta almanco questo: che la conoscenza dedotta da principii (tali in se stessi) è tutt&apos;altra cosa che la semplice conoscenza intellettuale, la quale può anche, sì, precedere, in forma di principio, ad altre conoscenze, ma, in se stessa (in quanto essa è sintetica), non si fonda nel semplice pensiero, nè contiene in sè un universale secondo concetti.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Se l&apos;intelletto può essere una facoltà dell&apos;unità dei fenomeni mediante le regole, la ragione è la facoltà dell&apos;unità delle regole dell&apos;intelletto sottoposte a principii. Essa dunque non s&apos;indirizza mai immediatamente all&apos;esperienza o a un oggetto qualsiasi, ma all&apos;intelletto, per imprimere alle conoscenze molteplici di esso un&apos;unità 
+<text:s/>
+a priori per via di concetti; unità, che può dirsi unità razionale, ed è di tutt&apos;altra 
+<text:soft-page-break/>
+specie da quella che può esser prodotta dall&apos;intelletto.
+</text:p>
+<text:p text:style-name="Text_20_body">
+Questo è il concetto generale della facoltà della ragione, per quanto esso s&apos;è potuto spiegare nella mancanza assoluta di esempi (come quelli che solo in sèguito potranno darsi).
+</text:p>
+<text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_7" text:outline-level="7">
 <text:bookmark-start text:name="__RefHeading___Toc535_2203379893"/>
 B) Dell&apos;uso logico della ragione
 <text:bookmark-end text:name="__RefHeading___Toc535_2203379893"/>
 </text:h>
+<text:p text:style-name="Text_20_body"/>
+<text:p text:style-name="Text_20_body">
+Si distingue ciò che è immediatamente conosciuto, da ciò che è solo dedotto. Che in una figura delimitata da linee rette ci siano tre angoli, si conosce immediatamente; ma che questi angoli presi insieme siano uguali a due retti, questo non è se non dedotto. Poichè noi abbiamo costantemente bisogno di dedurre, e perciò infine vi abbiamo fatto del tutto l&apos;abitudine, così finiamo col non avvertire più questa differenza, e spesso, come nelle cosiddette illusioni dei sensi, riteniamo per immediatamente percepito qualcosa, che pure abbiamo solamente dedotto. In ogni deduzione c&apos;è una proposizione che sta a base, e un&apos;altra, la conseguenza, che è ricavata da quella, e infine la proposizione minore, per cui la verità della seconda è indissolubilmente congiunta con la verità della prima. Se il giudizio dedotto è incluso nel primo in modo che ne possa esser ricavato, senza la mediazione di una terza 
+<text:soft-page-break/>
+rappresentazione, questa dicesi inferenza immediata (
+<text:span text:style-name="T10">
+consequentia immediata
+</text:span>
+); e io preferirei dirla inferenza intellettuale. Ma, se oltre la conoscenza messa a base; è necessario anche un altro giudizio, per avere la conclusione, allora l&apos;inferenza dicesi inferenza razionale. Nella proposizione: tutti gli uomini sono mortali, ci sono già incluse le proposizioni: alcuni uomini sono mortali; alcuni mortali sono uomini; niente, che sia immortale, è uomo; e queste sono pertanto conseguenze immediate della prima proposizione. Invece, nel detto giudizio non c&apos;è la proposizione: tutti i dotti sono mortali (perchè il concetto di dotto non vi si trova punto), e può essere inferito soltanto mercè un giudizio intermedio.
+</text:p>
+<text:p text:style-name="Text_20_body">
+In ogni inferenza razionale, io penso prima una regola (
+<text:span text:style-name="T10">
+major
+</text:span>
+) con l&apos;intelletto. Sussumo poi una conoscenza sotto la condizione della regola (
+<text:span text:style-name="T10">
+minor
+</text:span>
+) mediante il giudizio. Infine, determino la mia conoscenza col predicato della regola (
+<text:span text:style-name="T10">
+conclusio
+</text:span>
+), e quindi a priori con la ragione. la relazione dunque, rappresentata dalla premessa maggiore come regola fra una conoscenza e la sua condizione, costituisce le differenti specie di sillogismi. Essi perciò sono di tre specie, appunto come tutti i giudizi in generale, in quanto essi si distinguono rispetto al modo in cui esprimono la relazione della conoscenza nell&apos;intelletto, ossia: sillogismi categorici, o 
+<text:soft-page-break/>
+ipotetici, o disgiuntivi.
+</text:p>
+<text:p text:style-name="Text_20_body"/>
 <text:h text:style-name="Heading_20_7" text:outline-level="7">
 <text:bookmark-start text:name="__RefHeading___Toc537_2203379893"/>
 C) Dell&apos;uso puro della ragione

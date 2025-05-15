@@ -247,3 +247,13 @@ nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 313 del pdf.
 Allineato l'odt, il file di Libre Office Writer è sua REV 80.
 
+gio 15 mag 2025, 08:37:04
+Avanzamento della 'Dialettica trascendentale'
+Avanzamento dell'introduzione
+Avanzamento e conclusione del paragrafo I 'Dell'apparenza trascendentale'
+Avvio del paragrafo II 'Della ragion pura come sede dell'apparenza trascendentale'
+Adeguato il foglio di stile per aumentare la distanza dei titoli di sezione dal teso superiore
+nel file sezione_0002_0000_0003_libro.xhtml.
+Partenza dalla pagina 315 del pdf.
+Allineato l'odt, il file di Libre Office Writer è sua REV 81.
+
