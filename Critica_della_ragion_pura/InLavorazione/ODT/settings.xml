@@ -3,16 +3,16 @@
 <office:settings>
 <config:config-item-set config:name="ooo:view-settings">
 <config:config-item config:name="ViewAreaTop" config:type="long">
-9915596
+10307040
 </config:config-item>
 <config:config-item config:name="ViewAreaLeft" config:type="long">
 0
 </config:config-item>
 <config:config-item config:name="ViewAreaWidth" config:type="long">
-26001
+15794
 </config:config-item>
 <config:config-item config:name="ViewAreaHeight" config:type="long">
-17411
+7846
 </config:config-item>
 <config:config-item config:name="ShowRedlineChanges" config:type="boolean">
 true
@@ -26,25 +26,25 @@ false
 view2
 </config:config-item>
 <config:config-item config:name="ViewLeft" config:type="long">
-7400
+2300
 </config:config-item>
 <config:config-item config:name="ViewTop" config:type="long">
-9926346
+10312797
 </config:config-item>
 <config:config-item config:name="VisibleLeft" config:type="long">
 0
 </config:config-item>
 <config:config-item config:name="VisibleTop" config:type="long">
-9915596
+10307040
 </config:config-item>
 <config:config-item config:name="VisibleRight" config:type="long">
-26000
+15792
 </config:config-item>
 <config:config-item config:name="VisibleBottom" config:type="long">
-9933005
+10314884
 </config:config-item>
 <config:config-item config:name="ZoomType" config:type="short">
-0
+3
 </config:config-item>
 <config:config-item config:name="ViewLayoutColumns" config:type="short">
 1
@@ -53,7 +53,7 @@ view2
 false
 </config:config-item>
 <config:config-item config:name="ZoomFactor" config:type="short">
-150
+225
 </config:config-item>
 <config:config-item config:name="IsSelectedFrame" config:type="boolean">
 false
@@ -261,7 +261,7 @@ IT
 true
 </config:config-item>
 <config:config-item config:name="Rsid" config:type="int">
-70358225
+72283057
 </config:config-item>
 <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
 <config:config-item config:name="FieldAutoUpdate" config:type="boolean">
