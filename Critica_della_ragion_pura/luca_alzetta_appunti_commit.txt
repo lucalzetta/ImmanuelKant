@@ -319,3 +319,13 @@ nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 348 del pdf.
 Allineato l'odt, il file di Libre Office Writer è sua REV 88.
 
+gio 29 mag 2025, 08:12:13
+Avanzamento della 'Dialettica trascendentale'
+Avanzamento del libro II 'dei raziocinii dialettici della ragion pura'
+Avanzamento e conclusione del primo capitolo 'dei paralogismi della ragion pura'
+Avvio del secondo capitolo 'confutazione del'argomento di Mendelsshon...'
+nel file sezione_0002_0000_0003_libro.xhtml.
+Corretto tag errato all'interno del file (eliminato il tag <quote>)
+Partenza dalla pagina 353 del pdf.
+Allineato l'odt, il file di Libre Office Writer è sua REV 89.
+
