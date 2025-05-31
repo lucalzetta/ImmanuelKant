@@ -112,109 +112,109 @@ dom 6 apr 2025, 00:04:51 Avanzamento dell'analitica trascendentale. Avanzamento 
 
 dom 6 apr 2025, 02:01:19 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, avanzamento paragrafo 11 nel file sezione_0002_0000_0001_libro.xhtml.  Partenza dalla pagina 143 del pdf. Allineato l'odt, il file di Libre Office Writer è di nuovo alla sua REV 44. Tentativo di commit con firma.
 
-dom 6 apr 2025, 14:46:35 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, conclusione paragrafo 11, inizio e conclusione paragrafo 12, inizio Capitolo II, sezione prima, paragrafo 13 nel file sezione_0002_0000_0001_libro.xhtml.  Partenza dalla pagina 144 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 45. Tentativo di commit con firma dal sistema operativo Ubuntu.
+dom 6 apr 2025, 14:46:35 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, conclusione paragrafo 11, inizio e conclusione paragrafo 12, inizio Capitolo II, sezione prima, paragrafo 13 nel file sezione_0002_0000_0001_libro.xhtml.  Partenza dalla pagina 144 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 45. Tentativo di commit con firma dal sistema operativo Ubuntu.
 
-dom 6 apr 2025, 18:14:18 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, sezione prima, paragrafo 13 nel file sezione_0002_0000_0001_libro.xhtml.  Partenza dalla pagina 150 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 46. Tentativo di commit con firma dal sistema operativo Ubuntu con l'opzione '-S', maiuscola per la firma del commit.
+dom 6 apr 2025, 18:14:18 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, sezione prima, paragrafo 13 nel file sezione_0002_0000_0001_libro.xhtml.  Partenza dalla pagina 150 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 46. Tentativo di commit con firma dal sistema operativo Ubuntu con l'opzione '-S', maiuscola per la firma del commit.
 
-lun 7 apr 2025, 16:33:32 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, sezione prima, concluso paragrafo 13, avviato paragrafo 14 nel file sezione_0002_0000_0001_libro.xhtml.  Correzione di alcuni dettagli del foglio di stile. Partenza dalla pagina 151 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 47.
+lun 7 apr 2025, 16:33:32 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, sezione prima, concluso paragrafo 13, avviato paragrafo 14 nel file sezione_0002_0000_0001_libro.xhtml.  Correzione di alcuni dettagli del foglio di stile. Partenza dalla pagina 151 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 47.
 
 mar 8 apr 2025, 15:44:26 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, conclusione sezione prima, paragrafo 14. Avvio sezione seconda paragrafo 15 nel file sezione_0002_0000_0001_libro.xhtml.
-Partenza dalla pagina 155 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 48.
+Partenza dalla pagina 155 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 48.
 
 gio 10 apr 2025, 10:15:32 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, Avanzamento sezione seconda concluso paragrafo 15, avvio paragrafo 16 nel file sezione_0002_0000_0001_libro.xhtml.
-Partenza dalla pagina 158 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 49.
+Partenza dalla pagina 158 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 49.
 
 ven 11 apr 2025, 09:13:04 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, Avanzamento sezione seconda, concluso paragrafo 16, cocncluso paragrafo 17, concluso paragrafo 18, avviato paragrafo 19 nel file sezione_0002_0000_0001_libro.xhtml.
-Partenza dalla pagina 161 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 50.
+Partenza dalla pagina 161 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 50.
 
 ven 11 apr 2025, 15:45:57 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, Avanzamento sezione seconda, avanzamento e conclusione paragrafo 19, avvio e conclusione paragrafo 20, avvio e conclusione paragrafo 21, avvio paragrafo 22 nel file sezione_0002_0000_0001_libro.xhtml.
-Partenza dalla pagina 165 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 51.
+Partenza dalla pagina 165 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 51.
 
 sab 12 apr 2025, 15:44:12 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, Avanzamento sezione seconda, avanzamento e conclusione paragrafo 22, avvio e conclusione paragrafo 23, avvio paragrafo 24 nel file sezione_0002_0000_0001_libro.xhtml.
-Partenza dalla pagina 169 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 52.
+Partenza dalla pagina 169 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 52.
 
 dom 13 apr 2025, 14:48:47 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, Avanzamento sezione seconda, avanzamento e conclusione paragrafo 24 nel file sezione_0002_0000_0001_libro.xhtml.
-Partenza dalla pagina 171 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 53.
+Partenza dalla pagina 171 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 53.
 
 lun 14 apr 2025, 08:35:17 Avanzamento dell'analitica trascendentale. Avanzamento sezione terza, Avanzamento Capitolo II, Avanzamento sezione seconda, avvio e conclusione paragrafo 25, avvio del paragrafo 26 nel file sezione_0002_0000_0001_libro.xhtml.
-Partenza dalla pagina 176 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 54.
+Partenza dalla pagina 176 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 54.
 
 mar 15 apr 2025, 09:02:08 Conclusione dell'analitica trascendentale. conclusione sezione terza, conclusione Capitolo II, conclusione sezione seconda, avanzamento e conclusione del paragrafo 26, avvio e coclusione del paragrafo 27, avvio e coclusione del 'concetto sommario....', conclusione del file sezione_0002_0000_0001_libro.xhtml.
-Partenza dalla pagina 180 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 55.
+Partenza dalla pagina 180 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 55.
 
 mer 16 apr 2025, 08:38:54 Avvio libro secondo analitica dei principi. Avvio e conclusione dell'introduzione. Avvio del file sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 185 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 56.
+Partenza dalla pagina 185 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 56.
 
 ven 18 apr 2025, 09:40:28 Avanzamento libro secondo analitica dei principi. Avvio capitolo I nel file sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 189 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 57.
+Partenza dalla pagina 189 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 57.
 
 ven 18 apr 2025, 23:48:01 Avanzamento libro secondo analitica dei principi. Avanzamento e conclusione capitolo I, avvio capitolo II nel file sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 193 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 58.
+Partenza dalla pagina 193 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 58.
 
 sab 19 apr 2025, 15:44:07 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avvio e conclusione sezione prima, avvio sezione seconda nel file sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 196 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 59.
+Partenza dalla pagina 196 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 59.
 
 mar 22 apr 2025, 16:04:57 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento e conclusione sezione seconda, avvio sezione terza nel file sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 202 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 60.
+Partenza dalla pagina 202 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 60.
 
 mer 23 apr 2025, 15:53:43 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza nel file, avvio e conclusione primo paragrafo, avvio secondo paragrafo sezione_0002_0000_0002_libro.xhtml. Aggiunto stile 'paragrafo_corsivo' al foglio di stile.
-Partenza dalla pagina 206 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 61.
+Partenza dalla pagina 206 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 61.
 
 gio 24 apr 2025, 15:19:24 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza, avanzamento secondo paragrafo nel file  sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 210 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 62.
+Partenza dalla pagina 210 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 62.
 
 ven 25 apr 2025, 09:36:54 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza, avanzamento e conclusione secondo paragrafo, avvio terzo paragrafo nel file  sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 214 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 63.
+Partenza dalla pagina 214 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 63.
 
 sab 26 apr 2025, 10:57:58 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza, avanzamento terzo paragrafo, avvio e conclusione capoverso A, avvio capoverso B nel file  sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 222 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 64.
+Partenza dalla pagina 222 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 64.
 
 lun 28 apr 2025, 08:25:52 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza, avanzamento terzo paragrafo, avanzamento capoverso B nel file  sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 228 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 65.
+Partenza dalla pagina 228 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 65.
 
 mar 29 apr 2025, 07:51:50 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza, avanzamento terzo paragrafo, avanzamento capoverso B nel file  sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 235 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 66.
+Partenza dalla pagina 235 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 66.
 
 mer 30 apr 2025, 09:44:15 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza, avanzamento terzo paragrafo, avanzamento e conclusione capoverso B, avvio capoverso C nel file  sezione_0002_0000_0002_libro.xhtml.
 Creato lo stile 'testo_maggiorato' per le analogie della percezione.
-Partenza dalla pagina 242 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 67.
+Partenza dalla pagina 242 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 67.
 
 gio 1 mag 2025, 14:14:46 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza, avanzamento e conclusione terzo paragrafo, avanzamento e cocnlusione capoverso C, avvio del quarto paragrafo nel file  sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 246 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 68.
+Partenza dalla pagina 246 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 68.
 
 ven 2 mag 2025, 17:36:51 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza, avanzamento e conclusione del quarto paragrafo, avvio della 'Confutazione dell'idealismo' nel file  sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 252 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 69.
+Partenza dalla pagina 252 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 69.
 
 sab 3 mag 2025, 13:09:10 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza, avanzamento della 'Confutazione dell'idealismo' nel file  sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 257 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 70.
+Partenza dalla pagina 257 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 70.
 
 sab 3 mag 2025, 18:36:51 Avanzamento libro secondo analitica dei principi. Avanzamento capitolo II, avanzamento sezione terza, avanzamento e conclusione della 'Confutazione dell'idealismo', avvio della 'Osservazione generale sul sistema dei principii' nel file  sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 264 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 71.
+Partenza dalla pagina 264 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 71.
 
 dom 4 mag 2025, 13:52:42 
 Avanzamento libro secondo analitica dei principi, avanzamento sezione terza, Avanzamento e conclusione capitolo II,  avanzamento e conclusione della 'Osservazione generale sul sistema dei principii', avvio del capitolo III, avvio del 'principio della distinzione...' nel file  sezione_0002_0000_0002_libro.xhtml.
 Adeguamento del foglio di stile per la distinzione di capitoli e sezioni di capitolo.
-Partenza dalla pagina 268 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 72.
+Partenza dalla pagina 268 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 72.
 
 lun 5 mag 2025, 18:05:43
 Avanzamento libro secondo analitica dei principi, avanzamento sezione terza, Avanzamento del capitolo III, avanzamento del 'principio della distinzione...' nel file  sezione_0002_0000_0002_libro.xhtml.
-Partenza dalla pagina 275 del pdf. Allineato l'odt, il file di Libre Office Writer è sua REV 73.
+Partenza dalla pagina 275 del pdf. Allineato l'odt, il file di Libre Office Writer è alla versione REV 73.
 
 mar 6 mag 2025, 15:47:51
 Avanzamento libro secondo analitica dei principi, avanzamento sezione terza, Avanzamento del capitolo III, avanzamento del 'principio della distinzione...' nel file  sezione_0002_0000_0002_libro.xhtml.
 Partenza dalla pagina 278 del pdf. 
-Allineato l'odt, il file di Libre Office Writer è sua REV 74.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 74.
 
 mer 7 mag 2025, 17:24:35 
 Avanzamento libro secondo analitica dei principi, avanzamento sezione terza, Avanzamento del capitolo III, avanzamento del 'principio della distinzione...' nel file  sezione_0002_0000_0002_libro.xhtml.
 Partenza dalla pagina 280 del pdf. 
-Allineato l'odt, il file di Libre Office Writer è sua REV 75.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 75.
 
 ven 9 mag 2025, 15:20:12
 Avanzamento libro secondo analitica dei principi, avanzamento sezione terza, Avanzamento e conclusione del capitolo III, avanzamento e conclusione del 'principio della distinzione...', 
 avvio dell'appendice, avvio dell''anfibolia dei concetti...' nel file  sezione_0002_0000_0002_libro.xhtml.
 Partenza dalla pagina 285 del pdf. 
-Allineato l'odt, il file di Libre Office Writer è sua REV 76.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 76.
 
 sab 10 mag 2025, 14:32:01 
 Avanzamento libro secondo analitica dei principi, avanzamento sezione terza, 
@@ -222,14 +222,14 @@ avanzamento e conclusione dell'appendice, avanzamento e conclusione dell''anfibo
 avvio della 'nota all'anfibolia....' 
 nel file sezione_0002_0000_0002_libro.xhtml.
 Partenza dalla pagina 290 del pdf. 
-Allineato l'odt, il file di Libre Office Writer è sua REV 77.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 77.
 
 dom 11 mag 2025, 15:57:55
 Avanzamento libro secondo analitica dei principi, avanzamento sezione terza, 
 avanzamento della 'nota all'anfibolia....' 
 nel file sezione_0002_0000_0002_libro.xhtml.
 Partenza dalla pagina 298 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 78.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 78.
 
 lun 12 mag 2025, 23:35:52
 Avanzamento e conclusione libro secondo analitica dei principi, avanzamento e conclusione sezione terza, 
@@ -237,7 +237,7 @@ avanzamento e conclusione della 'nota all'anfibolia....'
 conclusione del file sezione_0002_0000_0002_libro.xhtml.
 adeguamento del file css per allontanare un divisore di paragrafo (tre asterischi come simbolo del paragrafo)
 Partenza dalla pagina 306 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 79.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 79.
 
 mer 14 mag 2025, 08:30:26
 Avvio della 'Dialettica trascendentale'
@@ -245,7 +245,7 @@ Avvio dell'introduzione
 Avvio del paragrafo I 'Dell'apparenza trascendentale'
 nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 313 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 80.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 80.
 
 gio 15 mag 2025, 08:37:04
 Avanzamento della 'Dialettica trascendentale'
@@ -255,7 +255,7 @@ Avvio del paragrafo II 'Della ragion pura come sede dell'apparenza trascendental
 Adeguato il foglio di stile per aumentare la distanza dei titoli di sezione dal teso superiore
 nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 315 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 81.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 81.
 
 ven 16 mag 2025, 23:24:21
 Avanzamento della 'Dialettica trascendentale'
@@ -263,7 +263,7 @@ Avanzamento dell'introduzione
 Avanzamento del paragrafo II 'Della ragion pura come sede dell'apparenza trascendentale'
 nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 321 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 82.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 82.
 
 sab 17 mag 2025, 15:45:04
 Avanzamento della 'Dialettica trascendentale'
@@ -273,7 +273,7 @@ Avvio del Libro I 'dei concetti della ragion pura'
 Avvio della sezione prima 'Delle idee in generale'
 nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 322 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 83.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 83.
 
 mer 21 mag 2025, 15:16:45
 Avanzamento della 'Dialettica trascendentale'
@@ -281,7 +281,7 @@ Avanzamento del Libro I 'dei concetti della ragion pura'
 Avanzamento della sezione prima 'Delle idee in generale'
 nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 328 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 84.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 84.
 
 gio 22 mag 2025, 15:05:08
 Avanzamento della 'Dialettica trascendentale'
@@ -290,7 +290,7 @@ Avanzamento e conclusione della sezione prima 'Delle idee in generale'
 avvio della sezione seconda 'Delle idee trascendentali.'
 nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 330 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 85.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 85.
 
 dom 25 mag 2025, 07:54:04
 Avanzamento della 'Dialettica trascendentale'
@@ -301,7 +301,7 @@ Avvio del libro II 'dei raziocinii dialettici della ragion pura'
 Avvio del primo capitolo 'dei paralogismi della ragion pura'
 nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 333 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 86.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 86.
 
 lun 26 mag 2025, 08:46:06
 Avanzamento della 'Dialettica trascendentale'
@@ -309,7 +309,7 @@ Avanzamento del libro II 'dei raziocinii dialettici della ragion pura'
 Avanzamento del primo capitolo 'dei paralogismi della ragion pura'
 nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 347 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 87.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 87.
 
 mar 27 mag 2025, 08:57:17
 Avanzamento della 'Dialettica trascendentale'
@@ -317,7 +317,7 @@ Avanzamento del libro II 'dei raziocinii dialettici della ragion pura'
 Avanzamento del primo capitolo 'dei paralogismi della ragion pura'
 nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 348 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 88.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 88.
 
 gio 29 mag 2025, 08:12:13
 Avanzamento della 'Dialettica trascendentale'
@@ -327,7 +327,7 @@ Avvio del secondo capitolo 'confutazione del'argomento di Mendelsshon...'
 nel file sezione_0002_0000_0003_libro.xhtml.
 Corretto tag errato all'interno del file (eliminato il tag <quote>)
 Partenza dalla pagina 353 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 89.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 89.
 
 ven 30 mag 2025, 09:33:13
 Avanzamento della 'Dialettica trascendentale'
@@ -337,5 +337,25 @@ Avanzamento  e conclusione del secondo capitolo 'confutazione del'argomento di M
 Avvio del tezo capitolo 'conclusione della soluzione...'
 nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 359 del pdf.
-Allineato l'odt, il file di Libre Office Writer è sua REV 90.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 90.
+
+ven 30 mag 2025, 23:54:35
+Avanzamento della 'Dialettica trascendentale'
+Avanzamento del libro II 'dei raziocinii dialettici della ragion pura'
+Avanzamento e conclusione del tezo capitolo 'conclusione della soluzione...'
+Avvio del quarto capitolo 'Osservazione generale intorno...'
+nel file sezione_0002_0000_0003_libro.xhtml.
+Partenza dalla pagina 364 del pdf.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 91.
+
+sab 31 mag 2025, 14:32:12
+Avanzamento della 'Dialettica trascendentale'
+Avanzamento del libro II 'dei raziocinii dialettici della ragion pura'
+La 'Dialettica trascendentale' e il libro II 'dei raziocinii...' non si concludono 
+con la parte prima del libro in qusnto trovano continuazione nella parte seconda. 
+Vedremo se sarà il caso di unificare le due parti in un unico volume oppure no.
+Avanzamento e conclusione del quarto capitolo 'Osservazione generale intorno...'
+nel file sezione_0002_0000_0003_libro.xhtml.
+Partenza dalla pagina 365 del pdf.
+Allineato l'odt, il file di Libre Office Writer è alla versione REV 91.
 
