@@ -359,3 +359,11 @@ nel file sezione_0002_0000_0003_libro.xhtml.
 Partenza dalla pagina 365 del pdf.
 Allineato l'odt, il file di Libre Office Writer è alla versione REV 91.
 
+mar 3 giu 2025, 16:48:53
+Avvio della lavorazione della seconda parte della 'Critica della ragion pura'
+prima di riprendere la 'Dialettica trascendentale' e il libro II 'dei raziocinii dialettici della ragion pura' sarà necessario impostare i file di sostegno del secondo volume. Questo verrà consegnato in un epub separato per Liber Liber e unificato con la prima parte per uso personale.
+Adeguato il Colophon con l'aggiunta della 'Parte II'
+Adeguato il frontespizio, sul frontespizio II non è stato necessario apportare modifiche.
+Avvio lavorazione indice.
+Eliminazione di alcuni file non necessari, da qui all'unificazione dei due volumi i file del repository NON saranno coerenti con quelli finali.
+

@@ -5,13 +5,17 @@
        name="epubcheck"
        release="4.2.6"
        xsi:schemaLocation="http://schema.openpreservation.org/ois/xml/ns/jhove https://schema.openpreservation.org/ois/xml/xsd/jhove/jhove.xsd">
-   <date>2025-05-31T17:44:25+02:00</date>
-   <repInfo uri="../../kant_critica_della_ragion_pura.epub">
-      <created>2025-02-28T18:53:48Z</created>
-      <format>application/epub+zip</format>
+   <date>2025-06-02T18:56:42+02:00</date>
+   <repInfo uri="../kant_critica_della_ragion_pura.epub">
+      <created>2025-05-31T17:46:46Z</created>
+      <format>application/octet-stream</format>
       <version>2.0.1</version>
-      <status>Well-formed</status>
-      <mimeType>application/epub+zip</mimeType>
+      <status>Not well-formed</status>
+      <messages>
+         <message id="PKG-005" severity="error">PKG-005, ERROR, [Il file "mimetype" ha un campo di lunghezza extra di 28 bytes. L'uso del campo ZIP "extra" non è permesso per il file "mimetype".], kant_critica_della_ragion_pura.epub</message>
+         <message id="PKG-007" severity="error">PKG-007, ERROR, [Il file "mimetype" dovrebbe contenere solo la stringa "application/epub+zip" e non dovrebbe essere compresso.], mimetype</message>
+         <message id="OPF-085" severity="warning">OPF-085, WARN, [Il valore "dc:identifier" "[inserire ISBN]" è contrassegnato come UUID, ma è un UUID non valido.], OEBPS/content.opf (17-81)</message>
+      </messages>
       <properties>
          <property>
             <name>FileName</name>
@@ -22,7 +26,7 @@
          <property>
             <name>CharacterCount</name>
             <values arity="Scalar" type="Long">
-               <value>726849</value>
+               <value>726209</value>
             </values>
          </property>
          <property>
@@ -37,13 +41,13 @@
                <property>
                   <name>Identifier</name>
                   <values arity="Scalar" type="String">
-                     <value>urn:uuid:56919d9e-8b0d-407f-96fe-0064ee9fdea7</value>
+                     <value>[inserire ISBN]</value>
                   </values>
                </property>
                <property>
                   <name>CreationDate</name>
                   <values arity="Scalar" type="Date">
-                     <value>2025-02-28T18:53:48Z</value>
+                     <value>2025-05-31T17:46:46Z</value>
                   </values>
                </property>
                <property>
