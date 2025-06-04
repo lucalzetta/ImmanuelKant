@@ -367,3 +367,9 @@ Adeguato il frontespizio, sul frontespizio II non è stato necessario apportare 
 Avvio lavorazione indice.
 Eliminazione di alcuni file non necessari, da qui all'unificazione dei due volumi i file del repository NON saranno coerenti con quelli finali.
 
+mer 4 giu 2025, 15:46:56
+Avanzamento della lavorazione della seconda parte della 'Critica della ragion pura'
+Avanzamento e conclusione lavorazione indice.
+Partenza dalla pagina 386 del pdf (l'indice si trova alla fine del volume).
+Creato l'odt, il file di Libre Office Writer è alla versione REV 1.
+
