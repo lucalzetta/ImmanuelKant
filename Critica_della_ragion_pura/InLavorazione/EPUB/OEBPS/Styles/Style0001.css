@@ -143,6 +143,13 @@ font-style : italic;
 font-weight : 600;
 }
 
+p.paragrafo_corsivo_c{
+padding-top : 1.5em;
+text-align : center;
+font-style : italic;
+font-weight : 400;
+}
+
 p.sezione{
 text-align : center;
 font-variant : small-caps;
