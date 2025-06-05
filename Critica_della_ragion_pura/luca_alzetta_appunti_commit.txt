@@ -380,3 +380,7 @@ Inserimento titoli nel file sezione_0003_0000_0001_libro.xhtml
 Partenza dalla pagina 1 del pdf.
 Allineato l'odt, il file di Libre Office Writer è alla versione REV 1.
 
+gio 5 giu 2025, 17:45:34
+Avanzamento della lavorazione della seconda parte della 'Critica della ragion pura'
+Adeguato il file content.opf
+
