@@ -401,3 +401,10 @@ Inserimento titoli nel file sezione_0003_0000_0008_libro.xhtml
 Inserimento titoli nel file sezione_0003_0000_0009_libro.xhtml
 Inserimento titoli nel file sezione_0003_0000_0010_libro.xhtml
 Correzione toc
+
+ven 6 giu 2025, 17:35:17
+Avanzamento della lavorazione della seconda parte della 'Critica della ragion pura'
+corretto file content.opf per la mancanza di alcuni file
+Corretto la toc per la mancanza di virgolette aperte nell'attributo id
+Compresso la prima versione senza errori formali dell'epub
+

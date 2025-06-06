@@ -38,6 +38,9 @@
     <item id="sezione_0003_0000_0005_libro.xhtml" href="Text/sezione_0003_0000_0005_libro.xhtml" media-type="application/xhtml+xml"/>
     <item id="sezione_0003_0000_0006_libro.xhtml" href="Text/sezione_0003_0000_0006_libro.xhtml" media-type="application/xhtml+xml"/>
     <item id="sezione_0003_0000_0007_libro.xhtml" href="Text/sezione_0003_0000_0007_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sezione_0003_0000_0008_libro.xhtml" href="Text/sezione_0003_0000_0008_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sezione_0003_0000_0009_libro.xhtml" href="Text/sezione_0003_0000_0009_libro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sezione_0003_0000_0010_libro.xhtml" href="Text/sezione_0003_0000_0010_libro.xhtml" media-type="application/xhtml+xml"/>
         
   </manifest>
   <spine toc="ncx">
@@ -54,6 +57,9 @@
     <itemref idref="sezione_0003_0000_0005_libro.xhtml"/>
     <itemref idref="sezione_0003_0000_0006_libro.xhtml"/>
     <itemref idref="sezione_0003_0000_0007_libro.xhtml"/>
+    <itemref idref="sezione_0003_0000_0008_libro.xhtml"/>
+    <itemref idref="sezione_0003_0000_0009_libro.xhtml"/>
+    <itemref idref="sezione_0003_0000_0010_libro.xhtml"/>
     <itemref idref="pagina_x_note_libro.xhtml"/>
   </spine>
   <guide>
