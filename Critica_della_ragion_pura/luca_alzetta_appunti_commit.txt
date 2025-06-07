@@ -408,3 +408,10 @@ corretto file content.opf per la mancanza di alcuni file
 Corretto la toc per la mancanza di virgolette aperte nell'attributo id
 Compresso la prima versione senza errori formali dell'epub
 
+sab 7 giu 2025, 14:14:32
+Avanzamento della lavorazione della seconda parte della 'Critica della ragion pura'
+Avvio scrittura Capitolo II
+Avvio scrittura sezione prima
+Partenza dalla pagina 1 del pdf
+Creato l'odt, il file di Libre Office Writer è alla versione REV 2.
+
