@@ -422,3 +422,19 @@ Avanzamento scrittura sezione prima
 Partenza dalla pagina 10 del pdf
 Aggiornato l'odt, il file di Libre Office Writer è alla versione REV 3.
 
+mar 10 giu 2025, 14:26:18
+Avanzamento della lavorazione della seconda parte della 'Critica della ragion pura'
+Avanzamento scrittura Capitolo II
+Avanzamento scrittura sezione prima
+Partenza dalla pagina 13 del pdf
+Aggiornato l'odt, il file di Libre Office Writer è alla versione REV 4.
+
+mar 10 giu 2025, 20:44:46
+Avanzamento della lavorazione della seconda parte della 'Critica della ragion pura'
+Avanzamento scrittura Capitolo II
+Avanzamento e conclusione scrittura sezione prima
+Avvio scrittura sezione sconda
+Partenza dalla pagina 14 del pdf
+Aggiornato l'odt, il file di Libre Office Writer è alla versione REV 4.
+Questo commit aggiorna il precedente che non è stato registrato per interruzione improvvisa dell'alimentazione elettrica
+
