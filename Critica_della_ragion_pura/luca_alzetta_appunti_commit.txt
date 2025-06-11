@@ -433,8 +433,16 @@ mar 10 giu 2025, 20:44:46
 Avanzamento della lavorazione della seconda parte della 'Critica della ragion pura'
 Avanzamento scrittura Capitolo II
 Avanzamento e conclusione scrittura sezione prima
-Avvio scrittura sezione sconda
+Avvio scrittura sezione seconda
 Partenza dalla pagina 14 del pdf
 Aggiornato l'odt, il file di Libre Office Writer è alla versione REV 4.
 Questo commit aggiorna il precedente che non è stato registrato per interruzione improvvisa dell'alimentazione elettrica
+
+mer 11 giu 2025, 08:10:22
+Avanzamento della lavorazione della seconda parte della 'Critica della ragion pura'
+Avanzamento scrittura Capitolo II
+Avanzamento scrittura sezione seconda
+Avvio e conclusione scrittura del paragrafo 'primo conflitto delle idee trascendentali'
+Partenza dalla pagina 17 del pdf
+Aggiornato l'odt, il file di Libre Office Writer è alla versione REV 5.
 
