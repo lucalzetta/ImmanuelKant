@@ -1030,7 +1030,7 @@ Avanzamento della lavorazione 'La disciplina della ragion pura rispetto alle ipo
 Partenza dalla pagina 259 del pdf
 Aggiornato l'odt, il file di Libre Office Writer è alla versione REV 73.
 
-dom 19 ott 2025, 10:44:48, CEST
+dom 19 ott 2025, 10:44:48
 Avanzamento della lavorazione della seconda parte della 'Critica della ragion pura'
 Avanzamento della lavorazione del file sezione_0003_0000_0004_libro.xhtml.
 Avanzamento della lavorazione della Dottrina trascendentale del metodo.
@@ -1041,4 +1041,37 @@ Avvio della lavorazione della sezione quarta
 Avvio della lavorazione de 'La disciplina della ragion pura rispetto alle sue dimostrazioni'
 Partenza dalla pagina 263 del pdf
 Aggiornato l'odt, il file di Libre Office Writer è alla versione REV 74.
+
+dom 19 ott 2025, 20:44:48
+Avanzamento della lavorazione della seconda parte della 'Critica della ragion pura'
+Avanzamento della lavorazione del file sezione_0003_0000_0004_libro.xhtml.
+Avanzamento della lavorazione della Dottrina trascendentale del metodo.
+Avanzamento della lavorazione del capitolo I
+Avanzamento della lavorazione della sezione quarta
+Avanzamento della lavorazione de 'La disciplina della ragion pura rispetto alle sue dimostrazioni'
+Partenza dalla pagina 269 del pdf
+Aggiornato l'odt, il file di Libre Office Writer è alla versione REV 75.
+
+lun 20 ott 2025, 15:09:29
+Avanzamento della lavorazione della seconda parte della 'Critica della ragion pura'
+Avanzamento della lavorazione del file sezione_0003_0000_0004_libro.xhtml.
+Avanzamento della lavorazione della Dottrina trascendentale del metodo.
+Avanzamento della lavorazione del capitolo I
+Avanzamento della lavorazione della sezione quarta
+Avanzamento della lavorazione de 'La disciplina della ragion pura rispetto alle sue dimostrazioni'
+Partenza dalla pagina 269 del pdf
+Aggiornato l'odt, il file di Libre Office Writer è alla versione REV 76.
+
+mar 21 ott 2025, 15:25:38, CEST
+Avanzamento della lavorazione della seconda parte della 'Critica della ragion pura'
+Avanzamento e conclusione della lavorazione del file sezione_0003_0000_0004_libro.xhtml.
+Avanzamento e conclusione della lavorazione della Dottrina trascendentale del metodo.
+Avanzamento e conclusione della lavorazione del capitolo I
+Avanzamento e conclusione della lavorazione della sezione quarta
+Avanzamento e conclusione della lavorazione de 'La disciplina della ragion pura rispetto alle sue dimostrazioni'
+Avvio della lavorazione del file sezione_0003_0000_0005_libro.xhtml.
+Avvio della lavorazione del capitolo II
+Avvio della lavorazione de 'Il canone della ragion pura'
+Partenza dalla pagina 270 del pdf
+Aggiornato l'odt, il file di Libre Office Writer è alla versione REV 78.
 
