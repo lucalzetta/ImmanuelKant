@@ -93,11 +93,6 @@ text-align : center;
 font-size : 250%;
  text-align : center;
 }
-.testo_frontespizio_titolo_dist {
-padding-top : 7em;
-font-size : 250%;
-text-align : center;
-}
 
 p.testo_indice {
 list-style-type:none;
@@ -136,13 +131,6 @@ text-align : center;
 font-variant : small-caps;
 }
 
-p.paragrafo_corsivo{
-padding-top : 1.5em;
-text-align : left;
-font-style : italic;
-font-weight : 600;
-}
-
 p.paragrafo_corsivo_c{
 padding-top : 1.5em;
 text-align : center;
@@ -157,15 +145,6 @@ font-size : 1.1em;
 padding-top : 2em;
 }
 
-p.testo_indentato_reverso{
-padding-left : 2.5em;
-margin-left : 2,5em;
-text-indent : -2em;
-}
-p.testo_centrato_dist{
-text-align : center;
-padding-top : 2em;
-}
 p.testo_centrato_lontano{
 text-align : center;
 padding-top : 5em;
@@ -183,62 +162,13 @@ p.testo_centrato {
 text-align : center;
 }
 
-p.testo_centrato_gran {
-text-align : center;
-letter-spacing : 0.3em;
-font-size : 1.2em;
-}
-
-p.testo_centrato_grands {
-padding-top : 2em;
-text-align : center;
-font-size : 2em;
-}
-
 p.testo_centrato_s {
 text-align : center;
 font-size : 0.5em;
 }
 
-p.testo_centrato_motto {
-padding-top : 8em;
-font-weight : 500;
-text-align : center;
-font-size : 2em;
-}
-
-p.testo_distanziato_basso {
-padding-top: 15em;
-}
-/*
-p.editore_max{
-text-align : center;
-font-family : sans-serif;
-font-weight : 900;
-font-size : 1.2em;
-letter-spacing :1em;
-}
-
-p.editore_min{
-text-align : center;
-font-family : sans-serif;
-font-weight : 400;
-font-size : 1em;
-}
-*/
-
-p.giustif{
-text-align : justify;
-}
-
 p.testo_destro{
 text-align : right;
-}
-
-p.testo_maggiorato {
-padding-top: 2em;
-font-size : 1.3em;
-letter-spacing : 0.3em; 
 }
 
 /*p.testo_sinistro{
@@ -250,13 +180,6 @@ p#data_diritti{
 text-align : center;
 padding-top : 50em;
 }
-
-p.data_prefazione{
-text-align : left;
-text-indent : 5em;
-padding-top : 2em;
-}
-
 
 p#tit_small{
 text-align : center;
@@ -276,11 +199,6 @@ letter-spacing: -0.1em;
 
 span.testo_maiuscoletto{
 font-variant : small-caps;
-}
-/*elemento inserito per migliorare la resa della prefazione del libro 'Origini della scienza'*/
-span.testo_ridotto{
-font-weight : 500;
-font-size : 0.5em;
 }
 
 /* tentativo di eliminazione dell'entità &lt; ed &amp;*/
@@ -312,26 +230,6 @@ td{
 text-align : center;
 padding-left : 6em;
 padding-right : 6em;
-}
-
-ul.liv_2{
-
-}
-
-ul.liv_3{
-
-}
-
-ul.liv_4{
-
-}
-
-ul.liv_5{
-
-}
-
-ul.liv_6{
-
 }
 
 /* Stili Liber Liber 2025-01-07 - stili specifici FINE */

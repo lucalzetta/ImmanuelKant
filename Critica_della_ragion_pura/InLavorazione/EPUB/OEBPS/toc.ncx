@@ -461,5 +461,11 @@
       <content src="/Text/sezione_0003_0000_0010_libro.xhtml#cap_0004_0001_0001_0001_0005_0003"/>
     </navPoint>    
 
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Note</text>
+      </navLabel>
+      <content src="/Text/pagina_x_note_libro.xhtml"/>
+    </navPoint>    
 </navMap>
 </ncx>
