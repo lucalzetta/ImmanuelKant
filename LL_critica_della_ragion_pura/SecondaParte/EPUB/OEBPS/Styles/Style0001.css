@@ -1,5 +1,4 @@
 /* Stili Liber Liber 2016-08-22 */
-/*Versione per la Critica della Ragion pura di Immanuel Kant*/
 
 .box_sponsor {
 border : #dddddd dashed 1px;
@@ -11,57 +10,15 @@ border-width : 0;
 margin : 0;
 padding : 0;
 }
-
-footer {
-padding-top : 17em;
-}
 h1 {
 text-align : center;
 }
-
-h1 > sup > a {
-font-size : 0.4em;
-}
-
 h2 {
 text-align : center;
 }
-
 h3 {
 text-align : center;
 }
-
-h4 {
-text-align : center;
-}
-
-h5 {
-text-align : center;
-font-size : 1.3em;
-font-weight : 700;
-letter-spacing : 0.4em;
-}
-
-h6
-{
-text-align : center;
-font-size : 1.5em;
-}
-h6[id *="sez"]
-{
-text-align : center;
-font-size : 1em;
-}
-
-p{
-padding-top : 0em;
-margin-top : 0em;
-padding-bottom : 0em;
-margin-bottom : 0em;
-text-indent : 1.5em;
-}
-
-
 img {
 border-width : 0;
 }
@@ -77,8 +34,11 @@ font-family : "Courier New";
 text-align : center;
 }
 #testo_copertina {
-/*display:none;
-visibility:hidden;*/
+display:none;
+visibility:hidden;
+}
+.testo_corsivo {
+font-style: italic;
 }
 .testo_distanziato {
 padding-top: 2em;
@@ -87,14 +47,11 @@ padding-top: 2em;
 font-size : 120%;
 text-align : center;
 }
-/*Il seguente valore è stato modificato per il frontespizio di Origini della scienza di Giovanni Vacca
-07-01-2025*/
 .testo_frontespizio_titolo {
-font-size : 250%;
+font-size : 160%;
  text-align : center;
 }
-
-p.testo_indice {
+.testo_indice {
 list-style-type:none;
 margin-left:0;
 padding-left:0;
@@ -108,128 +65,10 @@ list-style-type:none;
 .testo_maiuscoletto {
 font-variant : small-caps;
 }
-
-/* Stili Liber Liber 2025-01-07 - stili specifici INIZIO */
-
-div{
-text-align : center;
+.testo_nota {
+font-size : 90%;
 }
 
-div.intestazione{
-text-align : center;
-}
+/* Stili Liber Liber 2016-08-22 - stili specifici INIZIO */
 
-p.capitolo{
-text-align : center;
-font-variant : small-caps;
-font-size : 1.1em;
-}
-
-p.paragrafo{
-padding-top : 1.5em;
-text-align : center;
-font-variant : small-caps;
-}
-
-p.paragrafo_corsivo_c{
-padding-top : 1.5em;
-text-align : center;
-font-style : italic;
-font-weight : 400;
-}
-
-p.sezione{
-text-align : center;
-font-variant : small-caps;
-font-size : 1.1em;
-padding-top : 2em;
-}
-
-p.testo_centrato_lontano{
-text-align : center;
-padding-top : 5em;
-padding-bottom : 2em;
-}
-
-p.testo_centrato_lontano_b{
-text-align : center;
-padding-top : 5em;
-padding-bottom : 2em;
-font-size : 1.5em;
-}
-
-p.testo_centrato {
-text-align : center;
-}
-
-p.testo_centrato_s {
-text-align : center;
-font-size : 0.5em;
-}
-
-p.testo_destro{
-text-align : right;
-}
-
-/*p.testo_sinistro{
-text-indent : -2em;
-}
-*/
-
-p#data_diritti{
-text-align : center;
-padding-top : 50em;
-}
-
-p#tit_small{
-text-align : center;
-font-size : 2.0em;
-}
-
-p#tr_small{
-text-align : center;
-font-size : 0.8em;
-}
-
-p#tr_big{
-text-align : center;
-font-size : 1.4em;
-letter-spacing: -0.1em;
-}
-
-span.testo_maiuscoletto{
-font-variant : small-caps;
-}
-
-/* tentativo di eliminazione dell'entità &lt; ed &amp;*/
-/*
-span.lt:after{
-content : '\003C';
-}
-*/
-
-span.ec:after{
-content : '\0026';
-}
-/*Fine zona sperimentale, funzionamento raggiunto, testato su Firefox*/
-
-table{
-margin-left : auto;
-margin-right : auto;
-padding-top : 2em;
-}
-/*
-table.indentata{
-padding-left : 30%;
-font-weight : normal;
-text-align : left;
-}
-*/
-
-td{
-text-align : center;
-padding-left : 6em;
-padding-right : 6em;
-}
-
-/* Stili Liber Liber 2025-01-07 - stili specifici FINE */
+/* Stili Liber Liber 2016-08-22 - stili specifici FINE */
