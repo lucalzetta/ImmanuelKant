@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="it" xml:lang="it">
+<head>
+  <title>ePub NAV</title>
+  <meta charset="utf-8"/>
+  <link href="../Styles/sgc-nav.css" rel="stylesheet" type="text/css"/>
+</head>
+<body epub:type="frontmatter">
+  <nav epub:type="toc" id="toc" role="doc-toc">
+    <h1>Tavola dei Contenuti (TOC)</h1>
+    <ol>
+      <li>
+        <a href="Section0001.xhtml">Copertina</a>
+      </li>
+      <li>
+        <a href="Section0002.xhtml">Informazioni</a>
+      <ol>
+        <li>
+          <a href="Section0002.xhtml#acc">Note sull’accessibilità</a>
+        </li>
+      </ol>
+      </li>
+      <li>
+        <a href="Section0003.xhtml">Liber Liber</a>
+      </li>
+      <li>
+        <a href="Section0005.xhtml">Titolo di capitolo o di sezione</a>
+      </li>
+      <li>
+        <a href="Section0006.xhtml">Note</a>
+      </li>
+    </ol>
+  </nav>
+<!-- La seguente è una lista dei punti importanti della struttura dell'epub, è utile per screen-reader ecc., infatti la proprietà «hidden=""» la nosconde solo al redenderig grafico equivale alla toc.ncx del epub2 -->
+  <nav epub:type="landmarks" id="landmarks" hidden="">
+    <h1>Punti di riferimento</h1>
+    <ol>
+      <li>
+        <a epub:type="toc" href="#toc">Tavola dei Contenuti (TOC)</a>
+      </li>
+      <li>
+        <a epub:type="cover" href="Section0001.xhtml">Copertina</a>
+      </li>
+      <li>
+        <a epub:type="colophon" href="Section0002.xhtml">Colophon</a>
+      </li>
+      <li>
+        <a epub:type="acknowledgments" href="Section0003.xhtml">Riconoscimenti</a>
+      </li>
+      <li>
+        <a epub:type="titlepage" href="Section0004.xhtml">Pagina del Titolo</a>
+      </li>
+      <li>
+        <a epub:type="bodymatter" href="Section0005.xhtml">Corpo</a>
+      </li>
+      <li>
+        <a epub:type="footnotes" href="Section0006.xhtml">Note a piè di pagina</a>
+      </li>
+    </ol>
+  </nav>
+<!--  Utilizzare la seguente lista per indicizzare il numero di pagine come punti statici sincronizzati con il pdf, non annidiare OL -->
+<!-- <nav epub:type="page-list" id="page-list" hidden="">
+    <h1>Indice delle pagine</h1>
+    <ol>
+      <li>
+        <a href="Section0006.xhtml#id01">122</a>
+      </li>
+	</ol>
+</nav> -->
+</body>
+</html>

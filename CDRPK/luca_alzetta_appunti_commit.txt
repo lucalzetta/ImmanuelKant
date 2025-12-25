@@ -1,0 +1,4 @@
+[data]
+[modifiche apportate]
+gio 25 dic 2025, 19:03:30, CET
+Iniziato la lavorazione del libro con la generazione dei file necessari alla creazione dell'EPUB, dato una prima occhiata al file originale e riscontrato una maggiore semplicità rispetto alla organizzazione della Critica della Ragion Pura. Il testo è il primo esperimento di impaginazione con la specifica EPUB 3.0. Buon Natale a tutti.

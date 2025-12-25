@@ -1,0 +1,167 @@
+/* Stili Liber Liber 2025-11-11 */
+
+.box_sponsor {
+border : #dddddd dashed 1px;
+padding : 1em;
+text-align : center;
+}
+#corpo_copertina {
+border-width : 0;
+margin : 0;
+padding : 0;
+}
+h1 {
+text-align : center;
+}
+h2 {
+text-align : center;
+}
+h3 {
+text-align : center;
+}
+/* classe illustrazione per il contenitore della img <figure>  */
+figure.illustrazione {
+  text-align : center;
+  padding : 1em 0;
+  margin: 0;
+  text-indent : 0;
+  page-break-inside: avoid;  /* compatibilità epub2 */
+  break-inside: avoid;       /* per epub3 */
+  -webkit-column-break-inside: avoid;  /* per lettori basati su webkit come Ibook */
+}
+/* classe per le didascalie da applicare a <figcaption>. */
+figcaption.testo_didascalia {
+  font-size : 90%;
+  font-style : italic;
+}
+/* classe immagine per i lettori che lo supportano */
+img.immagine {
+  border-width : 0;
+  max-width : 95% ; /* si può modificare la dimensione all'occorrenza */
+}
+/* riga vuota + asterischi all'occorrenza, volendo si può sostituire l'asterismo con altro simbolo come un *, 3 ***, puntini .... ecc. */
+hr.vuoto {
+  border: none;
+}
+hr.asterisco:before {
+  content: '⁂';
+  display: block;
+  text-align: center;
+}
+.LLinfo {
+font-family : "Courier New", monospace;
+}
+.LLinfo-titolo {
+font-family : "Courier New", monospace;
+font-weight : bold;
+text-align : center;
+}
+table.tabella_centrata {
+margin-left:auto;
+margin-right:auto;
+}
+.testo_centrato {
+text-align : center;
+}
+#testo_copertina {
+display:none;
+visibility:hidden;
+}
+.testo_corsivo {
+font-style: italic;
+}
+.testo_destra {
+text-align : right;
+}
+p.testo_dialogo {
+margin : 0 0 0 1em;
+text-indent : -1em;
+}
+.testo_distanziato {
+padding-top: 2em;
+}
+.testo_frontespizio_autore {
+font-size : 120%;
+text-align : center;
+}
+.testo_frontespizio_titolo {
+font-size : 160%;
+ text-align : center;
+}
+.testo_grande {
+font-size : x-large;
+font-weight : bold;
+}
+.testo_grande-x {
+font-size : xx-large;
+font-weight : bold;
+}
+.testo_ind {
+margin : 0 0 0 1em;
+text-indent : -1em;
+}
+p.testo_indicazioni_scena {
+margin : 0 1em 0 1em;
+font-style : italic;
+}
+.testo_invisibile {
+display : none;
+visibility : hidden;
+}
+.testo_laterale {
+float : right;
+}
+.testo_laterale + div, ol, p, table, ul {
+clear : both;
+}
+.testo_lettera {
+border:1px solid #EEE;
+margin: 2em auto;
+padding: 1em;
+width: 90%;
+}
+.testo_maiuscoletto {
+font-variant : small-caps;
+}
+.testo_no_virgolette {
+quotes: none;
+}
+.testo_nota {
+font-size : 90%;
+}
+.testo_nota_torna {
+margin-bottom : 2em;
+}
+p.testo_personaggio {
+margin-bottom : 0;
+}
+.testo_piccolo {
+font-size : small;
+}
+.testo_piccolo-x {
+font-size : x-small;
+}
+.testo_poesia {
+margin-left : 1em;
+}
+.testo_rientrato {
+margin : 0 1em 0 1em;
+}
+.testo_sinistra {
+text-align : left;
+}
+/* sottotitolo, vedi il capitolo sui titoli del manuale */
+.testo_sottotitolo {
+  margin : 1em 2em 2em 2em;
+  font-size : 95%;
+  text-align : center;
+}
+.testo_tondo {
+font-style : normal;
+}
+
+/* Stili Liber Liber 2016-08-22 - stili specifici INIZIO */
+
+
+
+/* Stili Liber Liber 2016-08-22 - stili specifici FINE */
