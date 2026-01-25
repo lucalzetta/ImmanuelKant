@@ -18,7 +18,7 @@
     <dc:subject id="subject02">NARRATIVA ITALIANA. 1900-1945</dc:subject>
     <meta refines="#subject02" property="authority">Dewey</meta>
     <meta refines="#subject02" property="term">853.912</meta>
-    <dc:identifier id="ISBN">urn:isbn:[ISBN]</dc:identifier>
+    <dc:identifier id="ISBN">urn:uuid:56919d9e-8b0d-407f-96fe-0064ee9fdea7</dc:identifier>
     <dc:rights>questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: https://www.liberliber.it/online/opere/libri/licenze/</dc:rights>
     <dc:date id="Edizione">2025-11-10</dc:date>
     <meta refines="#Edizione" property="file-as">1a Edizione Elettronica</meta>
@@ -33,7 +33,7 @@
     <meta property="schema:accessibilityFeature">alternativeText</meta>
     <meta property="schema:accessibilityFeature">structuralNavigation</meta>
     <meta property="schema:accessibilityHazard">none</meta>
-    <dc:identifier id="BookId">urn:uuid:[Inserire_UUID]</dc:identifier>
+    <dc:identifier id="BookId">urn:uuid:56919d9e-8b0d-407f-96fe-0064ee9fdea7</dc:identifier>
     <meta name="Sigil version" content="2.6.2"/>
     <meta name="cover" content="copertina.jpg"/>
   </metadata>
@@ -44,6 +44,14 @@
     <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
     <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
     <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0007.xhtml" href="Text/Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0008.xhtml" href="Text/Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0009.xhtml" href="Text/Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0010.xhtml" href="Text/Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0011.xhtml" href="Text/Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0012.xhtml" href="Text/Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0013.xhtml" href="Text/Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Note.xhtml" href="Text/Note.xhtml" media-type="application/xhtml+xml"/>
     <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
     <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg" properties="cover-image"/>
     <item id="e-text.png" href="Images/e-text.png" media-type="image/png"/>
@@ -60,6 +68,14 @@
     <itemref idref="Section0004.xhtml"/>
     <itemref idref="Section0005.xhtml"/>
     <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Note.xhtml"/>
   </spine>
   <guide>
     <reference type="toc" title="Tavola dei Contenuti (TOC)" href="Text/nav.xhtml#toc"/>
@@ -67,7 +83,6 @@
     <reference type="colophon" title="Colophon" href="Text/Section0002.xhtml"/>
     <reference type="acknowledgements" title="Riconoscimenti" href="Text/Section0003.xhtml"/>
     <reference type="title-page" title="Pagina del Titolo" href="Text/Section0004.xhtml"/>
-    <reference type="text" title="Testo" href="Text/Section0005.xhtml"/>
-    <reference type="other.footnotes" title="Note a piè di pagina" href="Text/Section0006.xhtml"/>
+    <reference type="other.footnotes" title="Note a piè di pagina" href="Text/Note.xhtml"/>
   </guide>
 </package>

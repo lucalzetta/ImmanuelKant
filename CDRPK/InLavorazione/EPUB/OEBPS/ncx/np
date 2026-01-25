@@ -1,0 +1,6 @@
+  <navPoint id="navPoint07" playOrder="07">
+    <navLabel>
+      <text>INTRODUZIONE</text>
+    </navLabel>
+    <content src="../Text/Section0005.xhtml#000_000_000" />
+  </navPoint>

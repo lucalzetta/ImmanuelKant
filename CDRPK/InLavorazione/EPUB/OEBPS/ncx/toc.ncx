@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:[Inserire_UUID]" />
+    <meta name="dtb:uid" content="urn:uuid:56919d9e-8b0d-407f-96fe-0064ee9fdea7"/>
     <meta name="dtb:depth" content="2" />
     <meta name="dtb:totalPageCount" content="0" />
     <meta name="dtb:maxPageNumber" content="0" />
@@ -10,41 +10,197 @@
   <text>TITOLO</text>
 </docTitle>
 <navMap>
-  <navPoint id="navPoint1">
+  <navPoint id="navPoint1" playOrder="1">
     <navLabel>
       <text>Copertina</text>
     </navLabel>
     <content src="../Text/Section0001.xhtml" />
   </navPoint>
-  <navPoint id="navPoint2">
+  <navPoint id="navPoint2" playOrder="2">
     <navLabel>
       <text>Informazioni</text>
     </navLabel>
     <content src="../Text/Section0002.xhtml" />
-    <navPoint id="navPoint3">
+    <navPoint id="navPoint3" playOrder="3">
       <navLabel>
         <text>Note sull’accessibilità</text>
       </navLabel>
       <content src="../Text/Section0002.xhtml#acc" />
     </navPoint>
   </navPoint>
-  <navPoint id="navPoint4">
+  <navPoint id="navPoint4" playOrder="4">
     <navLabel>
       <text>Liber Liber</text>
     </navLabel>
     <content src="../Text/Section0003.xhtml" />
   </navPoint>
-  <navPoint id="navPoint5">
+  <navPoint id="navPoint5" playOrder="5">
     <navLabel>
-      <text>Titolo di capitolo o di sezione</text>
+      <text>PREFAZIONE DEL TRADUTTORE</text>
     </navLabel>
-    <content src="../Text/Section0005.xhtml" />
+    <content src="../Text/Section0005.xhtml#001_000_001" />
   </navPoint>
-  <navPoint id="navPoint6">
+  <navPoint id="navPoint6" playOrder="6">
+    <navLabel>
+      <text>PREFAZIONE</text>
+    </navLabel>
+    <content src="../Text/Section0005.xhtml#001_000_002" />
+  </navPoint>
+  <navPoint id="navPoint7" playOrder="7">
+    <navLabel>
+      <text>INTRODUZIONE</text>
+    </navLabel>
+    <content src="../Text/Section0005.xhtml#001_000_003" />
+  </navPoint>
+  <navPoint id="navPoint8" playOrder="8">
+    <navLabel>
+      <text>PARTE PRIMA</text>
+    </navLabel>
+    <content src="../Text/Section0006.xhtml#part_002_000_000" />
+  </navPoint>
+  <navPoint id="navPoint9" playOrder="9">
+    <navLabel>
+      <text>LIBRO I</text>
+    </navLabel>
+    <content src="../Text/Section0007.xhtml#002_000_000" />
+  </navPoint>
+  <navPoint id="navPoint10" playOrder="10">
+    <navLabel>
+      <text>Cap I ― Dei principii della ragion pratica</text>
+    </navLabel>
+    <content src="../Text/Section0007.xhtml#002_001_000" />
+    <navPoint id="navPoint11" playOrder="11">
+      <navLabel>
+        <text>1. Della deduzione dei principii della ragion pura pratica</text>
+      </navLabel>
+      <content src="../Text/Section0007.xhtml#002_001_001" />
+    </navPoint>
+    <navPoint id="navPoint12" playOrder="12">
+    <navLabel>
+      <text>2. Del diritto della ragion pura, nell'uso pratico a un'estensione, che non le è possibile nell'uso speculativo per sè</text>
+    </navLabel>
+    <content src="../Text/Section0007.xhtml#002_001_002" />
+  </navPoint>
+  </navPoint>
+  <navPoint id="navPoint13" playOrder="13">
+    <navLabel>
+      <text>Cap II ― Del concetto di un oggetto della ragion pura pratica.</text>
+    </navLabel>
+    <content src="../Text/Section0008.xhtml#002_002_000" />
+    <navPoint id="navPoint14" playOrder="14">
+      <navLabel>
+        <text>Della tipica del giudizio puro pratico.</text>
+      </navLabel>
+      <content src="../Text/Section0008.xhtml#002_002_001" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint15" playOrder="15">
+    <navLabel>
+      <text>Cap III ― Dei moventi della ragion pura pratica.</text>
+    </navLabel>
+    <content src="../Text/Section0009.xhtml#002_003_000"/>
+    <navPoint id="navPoint16" playOrder="16">
+      <navLabel>
+        <text>Dilucidazione critica dell'analitica della ragion pura pratica</text>
+      </navLabel>
+      <content src="../Text/Section0009.xhtml#002_003_001" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint17" playOrder="17">
+    <navLabel>
+      <text>LIBRO II</text>
+    </navLabel>
+    <content src="../Text/Section0010.xhtml#003_000_000" />
+  </navPoint>
+  <navPoint id="navPoint18" playOrder="18">
+    <navLabel>
+      <text>Cap I ― Di una dialettica della ragion pura pratica in genere.</text>
+    </navLabel>
+    <content src="../Text/Section0010.xhtml#003_001_000"/>
+  </navPoint>
+  <navPoint id="navPoint19" playOrder="19">
+    <navLabel>
+      <text>Cap II ― Della dialettica della ragion pura nella determinazione del concetto del sommo bene.</text>
+    </navLabel>
+    <content src="../Text/Section0011.xhtml#003_002_000" />
+    <navPoint id="navPoint20" playOrder="20">
+      <navLabel>
+        <text>I. ― L'antinomia della ragion pratica.</text>
+      </navLabel>
+      <content src="../Text/Section0011.xhtml#003_002_001" />
+    </navPoint>
+    <navPoint id="navPoint21" playOrder="21">
+      <navLabel>
+        <text>II. ― Soluzione critica dell'antinomia della ragion pratica.</text>
+      </navLabel>
+      <content src="../Text/Section0011.xhtml#003_002_002" />
+    </navPoint>
+    <navPoint id="navPoint22" playOrder="22">
+      <navLabel>
+        <text>III. ― Del primato della ragion pura pratica nella sua unione colla speculativa.</text>
+      </navLabel>
+      <content src="../Text/Section0011.xhtml#003_002_003" />
+    </navPoint>
+    <navPoint id="navPoint23" playOrder="23">
+      <navLabel>
+        <text>IV. ― L'immortalità dell'anima come postulato della ragion pura pratica.</text>
+      </navLabel>
+      <content src="../Text/Section0011.xhtml#003_002_004" />
+    </navPoint>
+    <navPoint id="navPoint24" playOrder="24">
+      <navLabel>
+        <text>V. ― L'esistenza di Dio come postulato della ragion pura pratica.</text>
+      </navLabel>
+      <content src="../Text/Section0011.xhtml#003_002_005" />
+    </navPoint>
+    <navPoint id="navPoint25" playOrder="25">
+      <navLabel>
+        <text>VI. ― Sui postulati della ragion pura pratica in genere.</text>
+      </navLabel>
+      <content src="../Text/Section0011.xhtml#003_002_006" />
+    </navPoint>
+    <navPoint id="navPoint26" playOrder="26">
+      <navLabel>
+        <text>VII. ― Come sia concepibile un'estensione della ragion pura nel rispetto pratico, senza che perciò venga insieme estesa la sua conoscenza come speculativa.</text>
+      </navLabel>
+      <content src="../Text/Section0011.xhtml#003_002_007" />
+    </navPoint>
+    <navPoint id="navPoint27" playOrder="27">
+      <navLabel>
+        <text>VIII. ― Dell'adesione, che deriva da un bisogno della ragion pura.</text>
+      </navLabel>
+     <content src="../Text/Section0011.xhtml#003_002_008" />
+    </navPoint>
+    <navPoint id="navPoint28" playOrder="28">
+      <navLabel>
+        <text>IX. ― Della proporzione saggiamente conveniente delle facoltà di conoscere dell'uomo rispetto alla sua determinazione pratica.</text>
+      </navLabel>
+      <content src="../Text/Section0011.xhtml#003_002_009" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint29" playOrder="29">
+    <navLabel>
+      <text>PARTE SECONDA</text>
+    </navLabel>
+    <content src="../Text/Section0012.xhtml#part_003_000_000" />
+    <navPoint id="navPoint30" playOrder="30">
+      <navLabel>
+        <text>Dottrina del metodo della ragion pura pratica</text>
+      </navLabel>
+      <content src="../Text/Section0012.xhtml#003_000_000" />
+    </navPoint>
+    <navPoint id="navPoint31" playOrder="31">
+      <navLabel>
+        <text>CONCLUSIONE</text>
+      </navLabel>
+      <content src="../Text/Section0013.xhtml#003_001_000" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint32" playOrder="32">
     <navLabel>
       <text>Note</text>
     </navLabel>
-    <content src="../Text/Section0006.xhtml" />
+    <content src="../Text/Note.xhtml" />
   </navPoint>
 </navMap>
 </ncx>

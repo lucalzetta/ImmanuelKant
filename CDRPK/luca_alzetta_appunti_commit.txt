@@ -9,3 +9,74 @@ Aggiustato la composizione dell'epub e iniziato con la modifica del file di cope
 Compilato il colophon
 Il file .odt è alla sua revisione numero 1
 
+dom 4 gen 2026, 15:26:55, CET
+Inizio organizzazione della TOC
+Modifica della pagina del titolo Section0004.xhtml
+Inizio e conclusione dell'organizzazione del file Section0005.xhtml
+Inizio e conclusione dell'organizzazione del file Section0006.xhtml
+Il file .odt è alla sua revisione numero 2
+
+mar 6 gen 2026, 15:31:07, CET
+Avanzamento organizzazione della TOC
+Avanzamento dell'organizzazione del file Section0006.xhtml
+Il file .odt è alla sua revisione numero 3
+
+mer 7 gen 2026, 08:08:15, CET
+Avanzamento organizzazione della TOC
+Avanzamento dell'organizzazione del file Section0006.xhtml
+Il file .odt è alla sua revisione numero 4
+
+gio 8 gen 2026, 08:26:20, CET
+Avanzamento organizzazione della TOC
+Avanzamento organizzazione del file nav.xhtml
+Avvio dell'organizzazione del file Section0007.xhtml
+Avvio dell'organizzazione del file Section0008.xhtml
+Avvio dell'organizzazione del file Section0009.xhtml
+Avvio dell'organizzazione del file Section0010.xhtml
+Il file .odt è alla sua revisione numero 5
+
+ven 9 gen 2026, 11:16:59, CET
+Riorganizzazione della TOC in seguito all'inserimento di due file necessari all'impostazione dello scheletro
+Riorganizzazione della NAV in seguito all'inserimento di due file necessari all'impostazione dello scheletro
+Rinominati i file da 0006 a 0011 .xhtml
+Avvio dell'organizzazione del file Section0012.xhtml
+Il file .odt è alla sua revisione numero 5
+
+sab 10 gen 2026, 15:15:28, CET
+Avvio e conclusione dell'organizzazione del file Section0013.xhtml
+Conclusione dell'impostazione dello scheletro dei capitoli dell'opera.
+Avvio della scrittura del testo del file Section0005.xhtml
+Il file .odt è alla sua revisione numero 6
+
+gio 15 gen 2026, 16:07:29, CET
+Avanzamento della scrittura del file Section0005.xhtml
+Il file .odt è alla sua revisione numero 7
+
+sab 17 gen 2026, 15:42:06, CET
+Apportato delle modifiche al programma per il confronto delle versioni
+Avanzamento della scrittura del file Section0005.xhtml
+Il file .odt è alla sua revisione numero 8
+
+lun 19 gen 2026, 08:54:14, CET
+Apportato delle modifiche al programma per il confronto delle versioni
+Avanzamento della scrittura del file Section0005.xhtml
+Adeguato alcuni file di sostegno alle indicazioni di liberLiber per la scrittura di note e corsivi
+La copia del file pdf è arrivata a pagina 11
+Il file .odt è alla sua revisione numero 9
+
+mar 20 gen 2026, 09:23:50, CET
+Avanzamento della scrittura del file Section0005.xhtml
+La copia del file pdf è arrivata a pagina 15
+Il file .odt è alla sua revisione numero 10
+
+sab 24 gen 2026, 14:56:42, CET
+Avanzamento della scrittura del file Section0005.xhtml inizio introduzione
+La copia del file pdf è arrivata a pagina 21
+Il file .odt è alla sua revisione numero 11
+
+dom 25 gen 2026, 16:02:02, CET
+Avanzamento e conclusione della scrittura del file Section0005.xhtml inizio introduzione
+Avvio e conclusione della scrittura del file Section0006.xhtml
+Avvio della scrittura del file Section0007.xhtml
+La copia del file pdf è arrivata a pagina 30
+Il file .odt è alla sua revisione numero 12
