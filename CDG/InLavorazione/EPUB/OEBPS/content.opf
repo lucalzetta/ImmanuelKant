@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xml:lang="it" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>it</dc:language>
+    <dc:title>TITOLO</dc:title>
+    <dc:creator id="cre">NOME_COGNOME_AUTORE</dc:creator>
+    <meta refines="#cre" property="file-as">COGNOME, NOME</meta>
+    <meta refines="#cre" property="role" scheme="marc:relators">aut</meta>
+    <dc:contributor id="con">NOME_COGNOME_TRADUTTORE</dc:contributor>
+    <meta refines="#con" property="file-as">COGNOME, NOME</meta>
+    <meta refines="#con" property="role" scheme="marc:relators">trl</meta>
+    <dc:publisher>Liber Liber</dc:publisher>
+    <meta property="a11y:certifiedBy">Liber Liber</meta>
+    <meta id="conf" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
+    <dc:subject id="subject01">FILOSOFIA / Generale</dc:subject>
+    <meta refines="#subject01" property="authority">BISAC</meta>
+    <meta refines="#subject01" property="term">PHI000000</meta>
+    <dc:subject id="subject02">NARRATIVA ITALIANA. 1900-1945</dc:subject>
+    <meta refines="#subject02" property="authority">Dewey</meta>
+    <meta refines="#subject02" property="term">853.912</meta>
+    <dc:identifier id="ISBN">urn:isbn:[ISBN]</dc:identifier>
+    <dc:rights>questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: https://www.liberliber.it/online/opere/libri/licenze/</dc:rights>
+    <dc:date id="Edizione">2025-11-10</dc:date>
+    <meta refines="#Edizione" property="file-as">1a Edizione Elettronica</meta>
+    <meta property="dcterms:modified">2025-11-20T17:34:03Z</meta>
+    <meta property="schema:accessibilitySummary">Questo é un ePub di solo testo con l'intenzione di frubilità sulla maggior parte di dispositivi, è trasformabile, strutturato, con tavola dei contenuti e indice. Eventuali illustrazioni saranno accompagnate da testo alternativo descrittivo. Questo ePub3 rispetta i criteri di accessibilità EPUB Accessibility 1.1 e WCAG 2.2 Livello AA. Vi invitiamo a segnalarci eventuali problemi di conformità che ci sono sfuggiti, invia un messaggio dettagliato del problema a https://liberliber.it/comunicare/contatti/segnalazione-errori/, ci servirà per pubblicare ebook migliori e maggiormente fruibili.</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityFeature">displayTransformability</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <dc:identifier id="BookId">urn:uuid:[Inserire_UUID]</dc:identifier>
+    <meta name="Sigil version" content="2.6.2"/>
+    <meta name="cover" content="copertina.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="e-text.png" href="Images/e-text.png" media-type="image/png"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="ncx/toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="x2_euro.png" href="Images/2_euro.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="nav.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Tavola dei Contenuti (TOC)" href="Text/nav.xhtml#toc"/>
+    <reference type="cover" title="Copertina" href="Text/Section0001.xhtml"/>
+    <reference type="colophon" title="Colophon" href="Text/Section0002.xhtml"/>
+    <reference type="acknowledgements" title="Riconoscimenti" href="Text/Section0003.xhtml"/>
+    <reference type="title-page" title="Pagina del Titolo" href="Text/Section0004.xhtml"/>
+    <reference type="text" title="Testo" href="Text/Section0005.xhtml"/>
+    <reference type="other.footnotes" title="Note a piè di pagina" href="Text/Section0006.xhtml"/>
+  </guide>
+</package>

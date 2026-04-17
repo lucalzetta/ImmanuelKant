@@ -1,0 +1,19 @@
+nav#landmarks {
+    display:none;
+}
+
+nav#page-list {
+    display:none;
+}
+
+ol {
+    list-style-type: none;
+}
+
+h1 {
+text-align : center;
+}
+
+a {
+text-decoration:none;
+}
