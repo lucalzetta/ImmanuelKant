@@ -1,5 +1,102 @@
-dom 30 mar 2025, 13:25:27, CEST
-mar 15 apr 2025, 09:01:36, CEST
-lun 14 lug 2025, 17:25:53, CEST
-mar 21 ott 2025, 20:05:50, CEST
-mar 4 nov 2025, 08:18:30, CET
+dom 19 apr 2026, 08:58:09, CEST
+Inizio lavorazione della Critica del Giudizio
+Iniziato la lavorazione del file Section0001.xhtml
+Completato la lavorazione del file Section0001.xhtml
+Iniziato la lavorazione del file Section0002.xhtml
+Completato la lavorazione del file Section0002.xhtml
+Iniziato la lavorazione del file Section0003.xhtml
+Completato la lavorazione del file Section0003.xhtml
+Iniziato la lavorazione del file Section0004.xhtml
+Iniziato la lavorazione del frontespizio
+Completato la lavorazione del frontespizio
+Completato la lavorazione del file Section0004.xhtml
+Iniziato la lavorazione del file Section0005.xhtml
+Iniziato la lavorazione del file Section0006.xhtml
+Iniziato la lavorazione del file Section0007.xhtml
+Il file .odt è alla sua versione numero 0
+La scansione del file pdf originale è arrivata a pagina 0
+
+mar 21 apr 2026, 15:50:41, CEST
+Iniziato la lavorazione del file Section0005.xhtml
+Iniziato la lavorazione del file Section0006.xhtml
+Iniziato la lavorazione del file Section0007.xhtml
+Iniziato la lavorazione del file Section0008.xhtml
+Iniziato la lavorazione del file Section0009.xhtml
+Iniziato la lavorazione del file Section0010.xhtml
+Il file .odt è alla sua versione numero 1
+La scansione del file pdf originale è arrivata a pagina 0
+
+gio 23 apr 2026, 12:06:29, CEST
+Avanzamento lavorazione del file Section0005.xhtml
+Avanzamento lavorazione del file Section0006.xhtml
+Avanzamento lavorazione del file Section0007.xhtml
+Avanzamento lavorazione del file Section0008.xhtml
+Avanzamento lavorazione del file Section0009.xhtml
+Avanzamento lavorazione del file Section0010.xhtml
+Iniziato la lavorazione del file Section0011.xhtml
+Iniziato la lavorazione del file Section0012.xhtml
+Iniziato la lavorazione del file Section0013.xhtml
+Iniziato la lavorazione del file Section0014.xhtml
+Il file .odt è alla sua versione numero 2
+La scansione del file pdf originale è arrivata a pagina 0
+
+ven 24 apr 2026, 09:00:59, CEST
+Avanzamento della lavorazione del file Section0005.xhtml
+Avanzamento della lavorazione del file Section0006.xhtml
+Avanzamento della lavorazione del file Section0007.xhtml
+Avanzamento della lavorazione del file Section0008.xhtml
+Avanzamento della lavorazione del file Section0009.xhtml
+Avanzamento della lavorazione del file Section0010.xhtml
+Avanzamento della lavorazione del file Section0011.xhtml
+Avanzamento della lavorazione del file Section0012.xhtml
+Avanzamento della lavorazione del file Section0013.xhtml
+Avanzamento della lavorazione del file Section0014.xhtml
+Iniziato la lavorazione del file Section0015.xhtml
+Iniziato la lavorazione del file Section0016.xhtml
+Iniziato la lavorazione del file Section0017.xhtml
+Iniziato la lavorazione del file Section0018.xhtml
+Iniziato la lavorazione del file Section0019.xhtml
+Il file .odt è alla sua versione numero 2
+La scansione del file pdf originale è arrivata a pagina 0
+
+sab 25 apr 2026, 08:05:31, CEST
+Avanzamento della lavorazione del file Section0005.xhtml
+Avanzamento della lavorazione del file Section0006.xhtml
+Avanzamento della lavorazione del file Section0007.xhtml
+Avanzamento della lavorazione del file Section0008.xhtml
+Avanzamento della lavorazione del file Section0009.xhtml
+Avanzamento della lavorazione del file Section0010.xhtml
+Avanzamento della lavorazione del file Section0011.xhtml
+Avanzamento della lavorazione del file Section0012.xhtml
+Avanzamento della lavorazione del file Section0013.xhtml
+Avanzamento della lavorazione del file Section0014.xhtml
+Avanzamento della lavorazione del file Section0015.xhtml
+Avanzamento della lavorazione del file Section0016.xhtml
+Avanzamento della lavorazione del file Section0017.xhtml
+Avanzamento della lavorazione del file Section0018.xhtml
+Avanzamento della lavorazione del file Section0019.xhtml
+Iniziato la lavorazione del file Section0020.xhtml
+Il file .odt è alla sua versione numero 3
+La scansione del file pdf originale è arrivata a pagina 0
+
+dom 26 apr 2026, 09:13:27, CEST
+Avanzamento e conclusione della lavorazione del file Section0005.xhtml
+Avanzamento della lavorazione del file Section0006.xhtml
+Avanzamento della lavorazione del file Section0007.xhtml
+Avanzamento della lavorazione del file Section0008.xhtml
+Avanzamento della lavorazione del file Section0009.xhtml
+Avanzamento della lavorazione del file Section0010.xhtml
+Avanzamento della lavorazione del file Section0011.xhtml
+Avanzamento della lavorazione del file Section0012.xhtml
+Avanzamento della lavorazione del file Section0013.xhtml
+Avanzamento della lavorazione del file Section0014.xhtml
+Avanzamento della lavorazione del file Section0015.xhtml
+Avanzamento della lavorazione del file Section0016.xhtml
+Avanzamento della lavorazione del file Section0017.xhtml
+Avanzamento della lavorazione del file Section0018.xhtml
+Avanzamento della lavorazione del file Section0019.xhtml
+Rimosso il file Section0020.xhtml perché non necessario.
+Completato lo scheletro dei titoli. Costruzione dell'indice.
+Il file .odt è alla sua versione numero 4
+La scansione del file pdf originale è arrivata a pagina 0
+
