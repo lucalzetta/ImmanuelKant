@@ -1,4 +1,4 @@
-<p class="testo_nota" epub:type="footnote" role="doc-footnote" id="nota_1">
-nota 0 - Questo è un esempio di nota. 
+<p class="testo_nota" epub:type="footnote" role="doc-footnote" id="nota_2">
+nota 2 - Questo è un esempio di nota. 
 </p>
-<p class="testo_nota_torna"><a href="Section0006.xhtml#nota_0_ritorno">[Torna]</a></p>
+<p class="testo_nota_torna"><a href="Section0007.xhtml#nota_2_ritorno">[Torna]</a></p>
