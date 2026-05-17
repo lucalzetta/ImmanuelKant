@@ -1,0 +1,50 @@
+<table border="1">
+	<caption>
+		Riassunto per valori assoluti delle spese del mese confrontate con quelle del mese precedente
+	</caption>
+	<thead>
+		<tr>
+			<td>Voci di spesa</td><td>mese corrente</td><td>mese precedente</td><td>Differenza (in rosso i risparmi)</td>
+		</tr>
+	</thead>
+
+	<tbody>
+		<tr>
+			<td>Alimentari e cene</td><td class="num">€ 1.028,56</td><td class="num">€ 1.037,48</td><td class="neg_num">-€ 8,92</td>
+		</tr>
+		<tr>
+			<td>Abbigliamento e cura della persona</td><td class="num">€ 645,56</td><td class="num">€ 206,80</td><td class="num">€ 438,76</td>
+		</tr>
+		<tr>
+			<td>Spese educative</td><td class="num">€ 2.443,45</td><td class="num">€ 1.063,57</td><td class="num">€ 1.379,88</td>
+		</tr>
+		<tr>
+			<td>Detergenti e medicinali</td><td class="num">€ 322,62</td><td class="num">€ 410,99</td><td class="neg_num">-€ 88,37</td>
+		</tr>
+		<tr>
+			<td>Energia e carburante</td><td class="num">€ 543,92</td><td class="num">€ 1.504,95</td><td  class="neg_num">-€ 961,03</td>
+		</tr>
+		<tr>
+			<td>Vizi</td><td class="num">€ 167,50</td><td class="num">€ 246,88</td><td class="neg_num">-€ 79,38</td>
+		</tr>
+		<tr>
+			<td>Manutenzioni e assicurazioni</td><td class="num">€ 906,05</td><td class="num">€ 310,64</td><td class="num">€ 595,41</td>
+		</tr>
+		<tr>
+			<td>Tasse e spese accessorie</td><td class="num">€ 275,69</td><td  class="num">€ 172,59</td><td class="num">€ 103,10</td>
+		</tr>
+	</tbody>
+
+	<tfoot>
+	<tr>
+		<td>Totale uscite</td><td class="num">€ 6.333.35</td><td  class="num">€ 4.953,90</td><td class="num">€ 1.379,45</td>
+	</tr>
+	<tr>
+		<td>Totale entrate</td><td class="num">€ 5.413,75</td>
+	</tr>
+	<tr>
+		<td>Deficit del mese</td><td class="neg_num">-€ 919,60</td>
+	</tr>
+	</tfoot>
+
+</table>
