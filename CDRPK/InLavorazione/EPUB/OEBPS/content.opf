@@ -2,12 +2,12 @@
 <package version="3.0" unique-identifier="BookId" xml:lang="it" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:language>it</dc:language>
-    <dc:title>TITOLO</dc:title>
-    <dc:creator id="cre">NOME_COGNOME_AUTORE</dc:creator>
-    <meta refines="#cre" property="file-as">COGNOME, NOME</meta>
+    <dc:title>Critica della ragion pratica</dc:title>
+    <dc:creator id="cre">Immanuel Kant</dc:creator>
+    <meta refines="#cre" property="file-as">Kant, Immanuel</meta>
     <meta refines="#cre" property="role" scheme="marc:relators">aut</meta>
-    <dc:contributor id="con">NOME_COGNOME_TRADUTTORE</dc:contributor>
-    <meta refines="#con" property="file-as">COGNOME, NOME</meta>
+    <dc:contributor id="con">Francesco Capra</dc:contributor>
+    <meta refines="#con" property="file-as">Capra, Francesco</meta>
     <meta refines="#con" property="role" scheme="marc:relators">trl</meta>
     <dc:publisher>Liber Liber</dc:publisher>
     <meta property="a11y:certifiedBy">Liber Liber</meta>
