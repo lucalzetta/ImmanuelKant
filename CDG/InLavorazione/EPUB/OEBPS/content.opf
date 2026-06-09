@@ -15,9 +15,9 @@
     <dc:subject id="subject01">FILOSOFIA / Generale</dc:subject>
     <meta refines="#subject01" property="authority">BISAC</meta>
     <meta refines="#subject01" property="term">PHI000000</meta>
-    <dc:subject id="subject02">NARRATIVA ITALIANA. 1900-1945</dc:subject>
+    <dc:subject id="subject02">KANTISMO E NEOKANTISMO</dc:subject>
     <meta refines="#subject02" property="authority">Dewey</meta>
-    <meta refines="#subject02" property="term">853.912</meta>
+    <meta refines="#subject02" property="term">142.3 (20.)</meta>
     <dc:identifier id="ISBN">urn:uuid:56919d9e-8b0d-407f-96fe-0064ee9fdea7</dc:identifier>
     <dc:rights>questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: https://www.liberliber.it/online/opere/libri/licenze/</dc:rights>
     <dc:date id="Edizione">2025-11-10</dc:date>
@@ -90,7 +90,7 @@
     <itemref idref="Note.xhtml"/>
   </spine>
   <guide>
-    <reference type="toc" title="Tavola dei Contenuti (TOC)" href="Text/nav.xhtml#toc"/>
+    <reference type="toc" title="Indice dei contenuti" href="Text/nav.xhtml#toc"/>
     <reference type="cover" title="Copertina" href="Text/Section0001.xhtml"/>
     <reference type="colophon" title="Colophon" href="Text/Section0002.xhtml"/>
     <reference type="acknowledgements" title="Riconoscimenti" href="Text/Section0003.xhtml"/>
