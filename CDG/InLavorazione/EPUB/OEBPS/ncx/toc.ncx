@@ -153,7 +153,7 @@
         <navPoint id="navPoint19">
             <navLabel>
               <text>
-		span class="testo_maiuscoletto">Sezione prima ― ANALITICA DEL GIUDIZIO ESTETICO
+		Sezione prima ― ANALITICA DEL GIUDIZIO ESTETICO
         </text>
        </navLabel>
       <content src="../Text/Section0009.xhtml#0004_0001_0000_0000"/>
@@ -169,7 +169,7 @@
         <navPoint id="navPoint21">
             <navLabel>
               <text>
-		span class="testo_corsivo">Libro I ― Analitica del bello 
+		Libro I ― Analitica del bello 
         </text>
        </navLabel>
       <content src="../Text/Section0009.xhtml#0004_0001_0001_0000"/>
@@ -186,7 +186,7 @@
 	<navPoint id="navPoint23">
             <navLabel>
               <text>
-          span class="testo_maiuscoletto">Primo momento del giudizio di gusto, secondo la qualità.
+          Primo momento del giudizio di gusto, secondo la qualità.
 	</text>
        </navLabel>
       <content src="../Text/Section0009.xhtml#0004_0001_0001_0001"/>
@@ -236,7 +236,7 @@
 	<navPoint id="navPoint29">
             <navLabel>
               <text>
-		span class="testo_maiuscoletto">Secondo momento del giudizio di gusto, secondo la quantità.
+		Secondo momento del giudizio di gusto, secondo la quantità.
 	</text>
        </navLabel>
       <content src="../Text/Section0009.xhtml#0004_0001_0001_0006"/>
@@ -278,7 +278,7 @@
         <navPoint id="navPoint34">
             <navLabel>
               <text>
-		span class="testo_maiuscoletto">Terzo momento dei giudizii di gusto, secondo la relazione con lo scopo, che in essi è presa in considerazione.
+		Terzo momento dei giudizii di gusto, secondo la relazione con lo scopo, che in essi è presa in considerazione.
 	</text>
        </navLabel>
       <content src="../Text/Section0009.xhtml#0004_0001_0001_0010"/>
@@ -500,7 +500,7 @@
         <navPoint id="navPoint61">
             <navLabel>
               <text>
-		span class="testo_maiuscoletto">Deduzione dei giudizii estetici puri.
+		Deduzione dei giudizii estetici puri.
         </text>
        </navLabel>
       <content src="../Text/Section0012.xhtml#0006_0002_0000_0000"/>
@@ -823,7 +823,7 @@
         <navPoint id="navPoint101">
             <navLabel>
               <text>
-        	span class="testo_maiuscoletto">Sezione Prima ― ANALITICA DEL GIUDIZIO TELEOLOGICO
+        	Sezione Prima ― ANALITICA DEL GIUDIZIO TELEOLOGICO
         </text>
        </navLabel>
       <content src="../Text/Section0017.xhtml#0010_0000_0000_0000"/>
@@ -897,7 +897,7 @@
         <navPoint id="navPoint110">
             <navLabel>
               <text>
-        	span class="testo_maiuscoletto">Sezione Seconda ― DIALETTICA DEL GIUDIZIO TELEOLOGICO
+        	Sezione Seconda ― DIALETTICA DEL GIUDIZIO TELEOLOGICO
         </text>
        </navLabel>
       <content src="../Text/Section0018.xhtml#0011_0000_0000_0000"/>
@@ -977,7 +977,7 @@
       <navPoint id="navPoint120">
             <navLabel>
               <text>
-        	span class="testo_maiuscoletto">Appendice ― Metodologia del Giudizio teleologico
+        	Appendice ― Metodologia del Giudizio teleologico
         </text>
        </navLabel>
       <content src="../Text/Section0019.xhtml#0012_0000_0000_0000"/>
