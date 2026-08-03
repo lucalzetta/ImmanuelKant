@@ -1060,5 +1060,69 @@ Il file Section0017.xhtml resta sospeso in attesa di avanzamento
 Il file Section0018.xhtml resta sospeso in attesa di avanzamento
 Il file Section0019.xhtml resta sospeso in attesa di avanzamento
 Il file .odt è alla sua versione numero 51
-La scansione del file pdf originale è arrivata a pagina 207
+La scansione del file pdf originale è arrivata a pagina 219
+
+dom 26 lug 2026, 12:12:16, CEST
+Avanzamento della lavorazione del file Section0014.xhtml
+Avanzamento della lavorazione della parte prima 'Critica del Giudizio estetico'
+Avanzamento della lavorazione della sezione seconda 'Dialettica del Giudizio estetico'
+Avanzamento della lavorazione del libro secondo 'Analitica del sublime'
+Avanzamento e conclusione della lavorazione del paragrafo 55
+Avvio e conclusione della lavorazione del paragrafo 56 'Esposizione dell'antinomia del gusto.'
+Avvio  e conclusione della lavorazione del paragrafo 57 'Soluzione dell'antinomia del gusto.'
+Avvio della lavorazione del paragrafo 'NOTA PRIMA'
+Il file Section0015.xhtml resta sospeso in attesa di avanzamento
+Il file Section0016.xhtml resta sospeso in attesa di avanzamento
+Il file Section0017.xhtml resta sospeso in attesa di avanzamento
+Il file Section0018.xhtml resta sospeso in attesa di avanzamento
+Il file Section0019.xhtml resta sospeso in attesa di avanzamento
+Il file .odt è alla sua versione numero 52
+La scansione del file pdf originale è arrivata a pagina 224
+
+mar 28 lug 2026, 15:41:46, CEST
+Avanzamento della lavorazione del file Section0014.xhtml
+Avanzamento della lavorazione della parte prima 'Critica del Giudizio estetico'
+Avanzamento della lavorazione della sezione seconda 'Dialettica del Giudizio estetico'
+Avanzamento della lavorazione del libro secondo 'Analitica del sublime'
+Avanzamento e conclusione della lavorazione del paragrafo 'NOTA PRIMA'
+Avvio della lavorazione del paragrafo 'NOTA SECONDA'
+Il file Section0015.xhtml resta sospeso in attesa di avanzamento
+Il file Section0016.xhtml resta sospeso in attesa di avanzamento
+Il file Section0017.xhtml resta sospeso in attesa di avanzamento
+Il file Section0018.xhtml resta sospeso in attesa di avanzamento
+Il file Section0019.xhtml resta sospeso in attesa di avanzamento
+Il file .odt è alla sua versione numero 53
+La scansione del file pdf originale è arrivata a pagina 228
+
+sab 1 ago 2026, 12:57:44, CEST
+Avanzamento della lavorazione del file Section0014.xhtml
+Avanzamento della lavorazione della parte prima 'Critica del Giudizio estetico'
+Avanzamento della lavorazione della sezione seconda 'Dialettica del Giudizio estetico'
+Avanzamento della lavorazione del libro secondo 'Analitica del sublime'
+Avvio della lavorazione del paragrafo 'NOTA SECONDA'
+Il file Section0015.xhtml resta sospeso in attesa di avanzamento
+Il file Section0016.xhtml resta sospeso in attesa di avanzamento
+Il file Section0017.xhtml resta sospeso in attesa di avanzamento
+Il file Section0018.xhtml resta sospeso in attesa di avanzamento
+Il file Section0019.xhtml resta sospeso in attesa di avanzamento
+Il file .odt è alla sua versione numero 54
+La scansione del file pdf originale è arrivata a pagina 229
+
+dom 2 ago 2026, 08:17:34, CEST
+Avanzamento e conclusione della lavorazione del file Section0014.xhtml
+Avvio e conclusione della lavorazione del file Section0015.xhtml
+Avvio della lavorazione del file Section0016.xhtml
+Avanzamento e conclusione della lavorazione della parte prima 'Critica del Giudizio estetico'
+Avanzamento e conclusione della lavorazione della sezione seconda 'Dialettica del Giudizio estetico'
+Avvio della lavorazione della parte seconda 'Critica del Giudizio teleologico'
+Avanzamento della lavorazione del libro secondo 'Analitica del sublime'
+Avanzamento e conclusione della lavorazione del paragrafo 'NOTA SECONDA'
+Avvio e conclusione della lavorazione del paragrafo 58 'Dell'idealismo della finalità della natura come arte e come principio unico del Giudizio estetico.'
+Avvio e conclusione della lavorazione del paragrafo 59 'Della bellezza come simbolo della moralità.'
+Avvio e conclusione della lavorazione del paragrafo 60 'Della metodologia del gusto.' svolgimento dell'appendice.
+Il file Section0017.xhtml resta sospeso in attesa di avanzamento
+Il file Section0018.xhtml resta sospeso in attesa di avanzamento
+Il file Section0019.xhtml resta sospeso in attesa di avanzamento
+Il file .odt è alla sua versione numero 55
+La scansione del file pdf originale è arrivata a pagina 245
 
