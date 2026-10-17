@@ -7,4 +7,5 @@ sab 17 ott 2026, 18:21:22, CEST
 Inizio della lavorazione dei file di struttura:
 modifica del file content.opf
 modifica del file Section0002.xhtml: Colophon
+modifica del file Images/copertina.jpg
 

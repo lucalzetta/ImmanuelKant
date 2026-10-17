@@ -5,7 +5,7 @@
        name="epubcheck"
        release="4.2.6"
        xsi:schemaLocation="http://schema.openpreservation.org/ois/xml/ns/jhove https://schema.openpreservation.org/ois/xml/xsd/jhove/jhove.xsd">
-   <date>2026-10-17T19:26:57+02:00</date>
+   <date>2026-10-17T21:09:27+02:00</date>
    <repInfo uri="../../kant_fondamenti_metafisica_costumi.epub">
       <created>2026-09-28T07:37:52Z</created>
       <lastModified>2025-11-20T17:34:03Z</lastModified>
@@ -13,7 +13,8 @@
       <version>3.2</version>
       <status>Not well-formed</status>
       <messages>
-         <message id="RSC-007" severity="error">RSC-007, ERROR, [La risorsa "OEBPS/Text/note.xhtml" non è stata trovata nel contenitore EPUB.], OEBPS/Text/nav.xhtml (59-52)</message>
+         <message id="RSC-008" severity="error">RSC-008, ERROR, [La risorsa "OEBPS/Text/Section0006.xhtml" non è dichiarata nell'elemento "manifest" del file OPF.], OEBPS/Text/Section0005.xhtml (19-168)</message>
+         <message id="OPF-003" severity="warning">OPF-003, WARN, [L'elemento "OEBPS/Text/Section0006.xhtml" esiste nel contenitore EPUB ma non è dichiarato nel "manifest" OPF.], kant_fondamenti_metafisica_costumi.epub</message>
       </messages>
       <mimeType>application/epub+zip</mimeType>
       <properties>
@@ -26,7 +27,7 @@
          <property>
             <name>CharacterCount</name>
             <values arity="Scalar" type="Long">
-               <value>5011</value>
+               <value>4479</value>
             </values>
          </property>
          <property>
@@ -59,19 +60,19 @@
                <property>
                   <name>Title</name>
                   <values arity="Scalar" type="String">
-                     <value>TITOLO</value>
+                     <value>Fondazione della metafisica dei costumi</value>
                   </values>
                </property>
                <property>
                   <name>Creator</name>
                   <values arity="Scalar" type="String">
-                     <value>NOME_COGNOME_AUTORE</value>
+                     <value>Imamnuel Kant</value>
                   </values>
                </property>
                <property>
                   <name>Contributor</name>
                   <values arity="Scalar" type="String">
-                     <value>NOME_COGNOME_TRADUTTORE</value>
+                     <value>Pantaleo Carabellese</value>
                   </values>
                </property>
                <property>
@@ -89,7 +90,7 @@
                <property>
                   <name>Subject</name>
                   <values arity="Array" type="String">
-                     <value>FILOSOFIA / Generale</value>
+                     <value>FILOSOFIA / Metafisica</value>
                      <value>NARRATIVA ITALIANA. 1900-1945</value>
                   </values>
                </property>
@@ -114,12 +115,6 @@
                   <name>Reference</name>
                   <values arity="Scalar" type="String">
                      <value>https://www.liberliber.it/online/opere/libri/licenze/</value>
-                  </values>
-               </property>
-               <property>
-                  <name>Reference</name>
-                  <values arity="Scalar" type="String">
-                     <value>http://www.sbn.it/</value>
                   </values>
                </property>
                <property>
