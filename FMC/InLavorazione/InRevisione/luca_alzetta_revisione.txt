@@ -1,0 +1,10 @@
+Revisione del testo di [Autore] [Titolo]
+
+a cura di Alzetta Luca lucalzetta@gmail.com [Data]
+
+Aggiornato il colophon con ...:
+
+[CAP]
+
+Pag [], riga [] corretto '[]' con '[]'
+
