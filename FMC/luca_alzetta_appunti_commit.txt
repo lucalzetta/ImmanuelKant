@@ -9,3 +9,44 @@ modifica del file content.opf
 modifica del file Section0002.xhtml: Colophon
 modifica del file Images/copertina.jpg
 
+dom 18 ott 2026, 11:27:37, CEST
+modifica del file nav.xhtml resta in attesa di lavorazione
+note.xhtml resta in attesa di lavorazione
+Il file Section0001.xhtml resta in attesa di lavorazione
+Il file Section0002.xhtml resta in attesa di lavorazione
+Il file Section0003.xhtml resta in attesa di lavorazione
+Il file Section0004.xhtml resta in attesa di lavorazione
+Il file Section0005.xhtml resta in attesa di lavorazione
+
+lun 19 ott 2026, 18:13:06, CEST
+modifica del file nav.xhtml
+note.xhtml resta in attesa di lavorazione
+Il file Section0001.xhtml resta in attesa di lavorazione
+Il file Section0002.xhtml resta in attesa di lavorazione
+Il file Section0003.xhtml resta in attesa di lavorazione
+Il file Section0004.xhtml resta in attesa di lavorazione
+Il file Section0005.xhtml resta in attesa di lavorazione
+elaborazione del file titoli per la costruzione dell'indice e della struttura del libro.
+
+mar 20 ott 2026, 16:21:20, CEST
+Conclusione della lavorazione del file nav.xhtml
+note.xhtml resta in attesa di lavorazione
+Il file Section0001.xhtml resta in attesa di lavorazione
+Il file Section0002.xhtml resta in attesa di lavorazione
+Il file Section0003.xhtml resta in attesa di lavorazione
+Il file Section0004.xhtml resta in attesa di lavorazione
+Il file Section0005.xhtml resta in attesa di lavorazione
+Creato il file Section0006.xhtml
+Creato il file Section0007.xhtml
+Creato il file Section0008.xhtml
+Creato il file Section0009.xhtml
+Creato il file Section0010.xhtml
+Creato il file Section0011.xhtml
+Creato il file Section0012.xhtml
+Creato il file Section0013.xhtml
+Creato il file Section0014.xhtml
+elaborazione del file titoli per la costruzione dell'indice e della struttura del libro.
+Il file ODT è alla REV 01
+La scansione del pdf originale non è ancora iniziata.
+
+mar 20 ott 2026, 20:38:10, CEST
