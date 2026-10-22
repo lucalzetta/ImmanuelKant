@@ -43,6 +43,15 @@
     <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
     <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
     <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0007.xhtml" href="Text/Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0008.xhtml" href="Text/Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0009.xhtml" href="Text/Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0010.xhtml" href="Text/Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0011.xhtml" href="Text/Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0012.xhtml" href="Text/Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0013.xhtml" href="Text/Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0014.xhtml" href="Text/Section0014.xhtml" media-type="application/xhtml+xml"/>
     <item id="note.xhtml" href="Text/note.xhtml" media-type="application/xhtml+xml"/>
     <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
     <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg" properties="cover-image"/>
@@ -59,6 +68,15 @@
     <itemref idref="nav.xhtml"/>
     <itemref idref="Section0004.xhtml"/>
     <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
     <itemref idref="note.xhtml"/>
   </spine>
   <guide>

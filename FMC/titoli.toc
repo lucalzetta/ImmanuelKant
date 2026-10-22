@@ -1,399 +1,452 @@
 <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0005.xhtml#001_000_000"> Dedica />
+<navLabel>
+<text>Dedica</text>
+</navLabel>
+	<content src="../Text/Section0005.xhtml#001_000_000"/> 
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>PREFAZIONE</text>
+</navLabel>
+	<content src="../Text/Section0006.xhtml#002_000_000"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>I. Kant metafisico della moralità</text>
+</navLabel>
+        <content src="../Text/Section0006.xhtml#002_001_000"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>II. La fondazione della metafisica dei costumi.</text>
+</navLabel>
+        <content src="../Text/Section0006.xhtml#002_002_000"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>Nota bibliografica</text>
+</navLabel>
+        <content src="../Text/Section0006.xhtml#002_003_000"/>
+</navPoint>
     </navLabel>
 </navPoint>
 <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0006.xhtml#002_000_000">PREFAZIONE/>
-
-    <navPoint id="navPoint1">
-    <navLabel>
-        <content src="../Text/Section0006.xhtml#002_001_000">I. Kant metafisico della moralità />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-        <content src="../Text/Section0006.xhtml#002_002_000">II. La fondazione della metafisica dei costumi. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-        <content src="../Text/Section0006.xhtml#002_003_000">Nota bibliografica />
-        </navLabel>
-</navPoint>
-    </navLabel>
+<navLabel>
+<text>AVVERTENZA</text>
+</navLabel>
+	<content src="../Text/Section0007.xhtml#003_000_000"/>
 </navPoint>
 <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0007.xhtml#003_000_000">AVVERTENZA/>
-    </navLabel>
+<navLabel>
+<text>PREFAZIONE</text>
+</navLabel>
+	<content src="../Text/Section0008.xhtml#004_000_000"/>
 </navPoint>
 <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0008.xhtml#004_000_000">PREFAZIONE/>
-
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0008.xhtml#004_000_001">I. ― Divisione tradizionale della filosofia. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0008.xhtml#004_000_002">II. ― La filosofia come metafisica della natura e dei costumi. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0008.xhtml#004_000_003">III. ― Specifica necessità metafisica della moralità. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0008.xhtml#004_000_004">IV. ― Distinzione della metafisica morale dalla filosofia pratica. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0008.xhtml#004_000_005">V. ― Natura preliminare, proposito e partizione della Fondazione. />
-        </navLabel>
-</navPoint>
-
-    </navLabel>
+<navLabel>
+<text>I. ― Divisione tradizionale della filosofia.</text>
+</navLabel>
+	<content src="../Text/Section0008.xhtml#004_000_001"/>
 </navPoint>
 <navPoint id="navPoint1">
-    <navLabel>
-    <content src="../Text/Section0009.xhtml#005_000_000">SEZIONE PRIMA./>
-
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0009.xhtml#005_000_001">VI. ― La bontà come carattere soltanto della volontà in sé. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0009.xhtml#005_000_002">VII. ― Fine naturale della del potere pratico della ragione: non la felicità, ma la volontà buona in sé. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0009.xhtml#005_000_003">VIII. ― Il dovere come implicante la volontà buona. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0009.xhtml#005_000_004">IX. ― Prima proposizione del dovere: <span class="testo_tondo">praticità dell'azione doverosa. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0009.xhtml#005_000_005">X. ― Seconda proposizione del dovere: <span class="testo_tondo">aprioritàdell'azione doverosa. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0009.xhtml#005_000_006">XI. ― Terza proposizione del dovere: <span class="testo_tondo">il rispettocome massima dell'azione doverosa. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0009.xhtml#005_000_007">XII. ― La legge morale come legalità universale./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0009.xhtml#005_000_008">XIII. ― La non contraddittorietà come criterio distintivo della legalità in un'azione possibile./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0009.xhtml#005_000_009">XIV. ― Sufficienza della comune intelligenza alla legalità morale./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0009.xhtml#005_000_010">XV. ― Dialettica naturale pratica, conseguente esigenza della critica./>
-        </navLabel>
-</navPoint>
-
-
-    </navLabel>
+<navLabel>
+<text>II. ― La filosofia come metafisica della natura e dei costumi.</text>
+</navLabel>
+	<content src="../Text/Section0008.xhtml#004_000_002"/>
 </navPoint>
 <navPoint id="navPoint1">
-    <navLabel>
-    <content src="../Text/Section0010.xhtml#006_000_000">SEZIONE SECONDA./>
-
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_001">XVI. ― Inderivabilità del dovere dalla esperienza: certezza morale. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_002">XVII. ― Apriorità e imprescindibilità razionale della certezza morale. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_003">XVIII. ― Critica dell'eccletismo empiristico popolare. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_004">XIX. ― La pura Metafisica dei costumi come esigenza speculativa e morale./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_005">XX. ― La volontà come ragione pratica./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_006">XXI. ― L'imperativo: distinzione della volontà morale dalla buona. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_007">XXII. ― Essenza morale dello schietto (categorico) imperativo ― Pseudo-imperatività dell'abilità e della prudenza./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_008">XXIII. ― Analiticità del volere abile./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_009">XXIV. ― Analiticità del volere prudente./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_010">XXV. ― Apriorità e sinteticità dell'imperativo categorico come sola legge pratica./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_011">XXVI. ― Prima formula dell'imperativo categorico, dedotta dal concetto di imperativo: <span class="testo_tondo">legalità universale delle massime./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_012">XXVII. ― Riconoscimento dei doveri perfetti nella non-contraddizione della legge di natura./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_013">XXVIII. ― Riconoscimento dei doveri imperfetti nella non contraddizione del volere./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_014">XXIX. ― La trasgressione al dovere come antagonismo./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_015">XXX. ― Apriorismo razionalistico contro umanismo empiristico ed innatistico./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_016">XXXI. ― Insufficienza etica della psicologia./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_017">XXXII. ― Realtà del concetto di imperativo categorico: finalità in sé del volere. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_018">XXXIII. ― Seconda formula dell'imperativo, dedotta dalla realtà del concetto di imperativo: finalità in sé dell'uomo ragionevole./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_019">XXXIV. ― Riconoscimento dei doveri mediante la finalità./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_020">XXXV. ― Terza e fondamentale formula: l'autonomia./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_021">XXXVI. ― Il regno dei fini./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_022">XXXVII. ― Il valore nel regno dei fini./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_023">XXXVIII. ― Nesso e valore delle tre formule dell'imperativo nell'unità della legge./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_024">XXXIX. ― Piena reciprocità delle formule e del regno dei fini. Soluzione del problema della realtà del concetto di imperativo./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_025">XL. ― Regno dei fini e regno della natura./>
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0010.xhtml#006_000_026">XLI. ― Ricapitolazione./>
-        </navLabel>
-</navPoint>
-
-    </navLabel>
+<navLabel>
+<text>III. ― Specifica necessità metafisica della moralità.</text>
+</navLabel>
+	<content src="../Text/Section0008.xhtml#004_000_003"/> 
 </navPoint>
 <navPoint id="navPoint1">
-    <navLabel>
-    <content src="../Text/Section0011.xhtml#007_000_000">L'autonomia della volontà/>
-    </navLabel>
+<navLabel>
+<text>IV. ― Distinzione della metafisica morale dalla filosofia pratica.</text>
+</navLabel>
+	<content src="../Text/Section0008.xhtml#004_000_004"/>
 </navPoint>
 <navPoint id="navPoint1">
-    <navLabel>
-    <content src="../Text/Section0011.xhtml#008_000_000">La eteronomia della volontà /> 
-
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0011.xhtml#008_000_001">XLII. ― L'eteronomia. />
-        </navLabel>
-</navPoint>
-
-    </navLabel>
+<navLabel>
+<text>V. ― Natura preliminare, proposito e partizione della Fondazione.</text>
+</navLabel>
+	<content src="../Text/Section0008.xhtml#004_000_005"/>
 </navPoint>
 <navPoint id="navPoint1">
-    <navLabel>
-    <content src="../Text/Section0011.xhtml#009_000_000">Divisione/>
-
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0011.xhtml#009_000_001">XLIII. ― L'eteronomia empirica. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0011.xhtml#009_000_002">XLIV. ― L'eteronomia razionale. />
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0011.xhtml#009_000_003">XLV. ― Dall'analisi alla sintesi metafisica mediante la Critica. />
-        </navLabel>
-</navPoint>
-
-    </navLabel>
+<navLabel>
+<text>SEZIONE PRIMA.</text>
+</navLabel>
+    <content src="../Text/Section0009.xhtml#005_000_000"/>
 </navPoint>
 <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0012.xhtml#010_000_000">SEZIONE TERZA</span />
-
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0012.xhtml#010_001_000">Il concetto della libertà/>
-    
-        <navPoint id="navPoint1">
-    <navLabel>
-	    <content src="../Text/Section0012.xhtml#010_001_001">XLVI. ― Libertà positiva nella sintesi morale apriori./>
-            </navLabel>
-</navPoint>
-    
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0012.xhtml#010_002_000">La libertà deve essere presupposta come proprietà della volontà/>
-    
-        <navPoint id="navPoint1">
-    <navLabel>
-	    <content src="../Text/Section0012.xhtml#010_002_001">XLVII. ― La libertà nella praticità della ragione./>
-            </navLabel>
-</navPoint>
-    
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0012.xhtml#010_003_000">Dell'interesse/>
-    
-        <navPoint id="navPoint1">
-    <navLabel>
-	    <content src="../Text/Section0012.xhtml#010_003_001">XLVIII. ― L'interesse nella moralità./>
-            </navLabel>
-</navPoint>
-        <navPoint id="navPoint1">
-    <navLabel>
-	    <content src="../Text/Section0012.xhtml#010_003_002">XLIX. ― Il circolo della volontà morale e sua soluzione./>
-            </navLabel>
-</navPoint>
-        <navPoint id="navPoint1">
-    <navLabel>
-	    <content src="../Text/Section0012.xhtml#010_003_003">L. ― La possibilità dell'imperativo categorico./>
-            </navLabel>
-</navPoint>
-    
-        </navLabel>
-</navPoint>
-    <navPoint id="navPoint1">
-    <navLabel>
-	<content src="../Text/Section0012.xhtml#010_004_000">Del limite estremo/>
-    
-        <navPoint id="navPoint1">
-    <navLabel>
-	    <content src="../Text/Section0012.xhtml#010_004_001">LI. ― Compatibilità di necessità teoretica e libertà pratica./>
-            </navLabel>
-</navPoint>
-        <navPoint id="navPoint1">
-    <navLabel>
-	    <content src="../Text/Section0012.xhtml#010_004_002">LII. ― Campo e limiti della ragion pratica./>
-            </navLabel>
-</navPoint>
-        <navPoint id="navPoint1">
-    <navLabel>
-	    <content src="../Text/Section0012.xhtml#010_004_003">LIII. ― Limiti nella spiegazione del sentimento morale./>
-            </navLabel>
-</navPoint>
-        <navPoint id="navPoint1">
-    <navLabel>
-	    <content src="../Text/Section0012.xhtml#010_004_004">LIV. ― Limite supremo dell'indagine morale./>
-            </navLabel>
-</navPoint>
-    
-        </navLabel>
-</navPoint>
-
-    </navLabel>
+<navLabel>
+<text>VI. ― La bontà come carattere soltanto della volontà in sé.</text>
+</navLabel>
+	<content src="../Text/Section0009.xhtml#005_000_001"/>
 </navPoint>
 <navPoint id="navPoint1">
-    <navLabel>
-    <content src="../Text/Section0013.xhtml#011_000_000">NOTA CONCLUSIVA/>
-
-    <navPoint id="navPoint1">
-    <navLabel>
-        <content src="../Text/Section0013.xhtml#011_000_001">LV. ― Necessità come principio e condizionatezza come limite della ragione />
-        </navLabel>
-</navPoint>
-
-    </navLabel>
+<navLabel>
+<text>VII. ― Fine naturale della del potere pratico della ragione: non la felicità, ma la volontà buona in sé.</text>
+</navLabel>
+	<content src="../Text/Section0009.xhtml#005_000_002"/>
 </navPoint>
 <navPoint id="navPoint1">
-    <navLabel>
-    <content src="../Text/Section0014.xhtml#012_000_000">INDICE DEI NOMI/>
-    </navLabel>
+<navLabel>
+<text>VIII. ― Il dovere come implicante la volontà buona.</text>
+</navLabel>
+	<content src="../Text/Section0009.xhtml#005_000_003"/> 
 </navPoint>
 <navPoint id="navPoint1">
-    <navLabel>
-    <content src="../Text/Section0014.xhtml#013_000_000">INDICE DEI CONCETTI/>
-    </navLabel>
+<navLabel>
+<text>IX. ― Prima proposizione del dovere: praticità dell'azione doverosa.</text>
+</navLabel>
+<content src="../Text/Section0009.xhtml#005_000_004"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>X. ― Seconda proposizione del dovere: apriorità dell'azione doverosa.</text>
+</navLabel>
+	<content src="../Text/Section0009.xhtml#005_000_005"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XI. ― Terza proposizione del dovere: il rispetto come massima dell'azione doverosa.</text>
+</navLabel>
+	<content src="../Text/Section0009.xhtml#005_000_006"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XII. ― La legge morale come legalità universale.</text>
+</navLabel>
+	<content src="../Text/Section0009.xhtml#005_000_007"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XIII. ― La non contraddittorietà come criterio distintivo della legalità in un'azione possibile.</text>
+</navLabel>
+	<content src="../Text/Section0009.xhtml#005_000_008"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XIV. ― Sufficienza della comune intelligenza alla legalità morale.</text>
+</navLabel>
+	<content src="../Text/Section0009.xhtml#005_000_009"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XV. ― Dialettica naturale pratica, conseguente esigenza della critica.</text>
+</navLabel>
+	<content src="../Text/Section0009.xhtml#005_000_010"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>SEZIONE SECONDA.</text>
+</navLabel>
+    <content src="../Text/Section0010.xhtml#006_000_000"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XVI. ― Inderivabilità del dovere dalla esperienza: certezza morale.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_001"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XVII. ― Apriorità e imprescindibilità razionale della certezza morale.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_002"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XVIII. ― Critica dell'eccletismo empiristico popolare.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_003"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XIX. ― La pura Metafisica dei costumi come esigenza speculativa e morale.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_004"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XX. ― La volontà come ragione pratica.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_005"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXI. ― L'imperativo: distinzione della volontà morale dalla buona.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_006"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXII. ― Essenza morale dello schietto (categorico) imperativo ― Pseudo-imperatività dell'abilità e della prudenza.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_007"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXIII. ― Analiticità del volere abile.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_008"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXIV. ― Analiticità del volere prudente.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_009"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXV. ― Apriorità e sinteticità dell'imperativo categorico come sola legge pratica.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_010"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXVI. ― Prima formula dell'imperativo categorico, dedotta dal concetto di imperativo: legalità universale delle massime.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_011"/>
+</navPoint>
+<navPoint id="navPoint1"/>
+<navLabel>
+<text>XXVII. ― Riconoscimento dei doveri perfetti nella non-contraddizione della legge di natura.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_012"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXVIII. ― Riconoscimento dei doveri imperfetti nella non contraddizione del volere.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_013"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXIX. ― La trasgressione al dovere come antagonismo.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_014"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXX. ― Apriorismo razionalistico contro umanismo empiristico ed innatistico.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_015"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXXI. ― Insufficienza etica della psicologia.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_016"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXXII. ― Realtà del concetto di imperativo categorico: finalità in sé del volere.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_017"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXXIII. ― Seconda formula dell'imperativo, dedotta dalla realtà del concetto di imperativo: finalità in sé dell'uomo ragionevole.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_018"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXXIV. ― Riconoscimento dei doveri mediante la finalità.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_019"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXXV. ― Terza e fondamentale formula: l'autonomia.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_020"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXXVI. ― Il regno dei fini.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_021"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXXVII. ― Il valore nel regno dei fini.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_022"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXXVIII. ― Nesso e valore delle tre formule dell'imperativo nell'unità della legge.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_023"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XXXIX. ― Piena reciprocità delle formule e del regno dei fini. Soluzione del problema della realtà del concetto di imperativo.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_024"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XL. ― Regno dei fini e regno della natura.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_025"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XLI. ― Ricapitolazione.</text>
+</navLabel>
+	<content src="../Text/Section0010.xhtml#006_000_026"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>L'autonomia della volontà</text>
+</navLabel>
+    <content src="../Text/Section0011.xhtml#007_000_000"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>La eteronomia della volontà</text>
+</navLabel>
+    <content src="../Text/Section0011.xhtml#008_000_000"/> 
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XLII. ― L'eteronomia.</text>
+</navLabel>
+	<content src="../Text/Section0011.xhtml#008_000_001"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>Divisione</text>
+</navLabel>
+    <content src="../Text/Section0011.xhtml#009_000_000"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XLIII. ― L'eteronomia empirica.</text>
+</navLabel>
+	<content src="../Text/Section0011.xhtml#009_000_001"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XLIV. ― L'eteronomia razionale.</text>
+</navLabel>
+	<content src="../Text/Section0011.xhtml#009_000_002"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XLV. ― Dall'analisi alla sintesi metafisica mediante la Critica.</text>
+</navLabel>
+	<content src="../Text/Section0011.xhtml#009_000_003"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>SEZIONE TERZA</text>
+</navLabel>
+	<content src="../Text/Section0012.xhtml#010_000_000"/> 
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>Il concetto della libertà</text>
+</navLabel>
+	<content src="../Text/Section0012.xhtml#010_001_000"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XLVI. ― Libertà positiva nella sintesi morale apriori.</text>
+</navLabel>
+	    <content src="../Text/Section0012.xhtml#010_001_001"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>La libertà deve essere presupposta come proprietà della volontà</text>
+</navLabel>
+	<content src="../Text/Section0012.xhtml#010_002_000"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XLVII. ― La libertà nella praticità della ragione.</text>
+</navLabel>
+	    <content src="../Text/Section0012.xhtml#010_002_001"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>Dell'interesse</text>
+</navLabel>
+	<content src="../Text/Section0012.xhtml#010_003_000"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XLVIII. ― L'interesse nella moralità.</text>
+</navLabel>
+	    <content src="../Text/Section0012.xhtml#010_003_001"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>XLIX. ― Il circolo della volontà morale e sua soluzione.</text>
+</navLabel>
+	    <content src="../Text/Section0012.xhtml#010_003_002"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>L. ― La possibilità dell'imperativo categorico.</text>
+</navLabel>
+	    <content src="../Text/Section0012.xhtml#010_003_003"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>Del limite estremo</text>
+</navLabel>
+	<content src="../Text/Section0012.xhtml#010_004_000"/>
+</navPoint>    
+<navPoint id="navPoint1">
+<navLabel>
+<text>LI. ― Compatibilità di necessità teoretica e libertà pratica</text>
+</navLabel>
+	    <content src="../Text/Section0012.xhtml#010_004_001"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>LII. ― Campo e limiti della ragion pratica.</text>
+</navLabel>
+	    <content src="../Text/Section0012.xhtml#010_004_002"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>LIII. ― Limiti nella spiegazione del sentimento morale.</text>
+</navLabel>
+	    <content src="../Text/Section0012.xhtml#010_004_003"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>LIV. ― Limite supremo dell'indagine morale.</text>
+</navLabel>
+	    <content src="../Text/Section0012.xhtml#010_004_004"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>NOTA CONCLUSIVA</text>
+</navLabel>
+    <content src="../Text/Section0013.xhtml#011_000_000"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>LV. ― Necessità come principio e condizionatezza come limite della ragione.</text>
+</navLabel>
+        <content src="../Text/Section0013.xhtml#011_000_001"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>INDICE DEI NOMI</text>
+</navLabel>
+    <content src="../Text/Section0014.xhtml#012_000_000"/>
+</navPoint>
+<navPoint id="navPoint1">
+<navLabel>
+<text>INDICE DEI CONCETTI</text>
+</navLabel>
+    <content src="../Text/Section0014.xhtml#013_000_000"/>
 </navPoint>

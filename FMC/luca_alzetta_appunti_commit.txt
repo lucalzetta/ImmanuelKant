@@ -50,3 +50,64 @@ Il file ODT è alla REV 01
 La scansione del pdf originale non è ancora iniziata.
 
 mar 20 ott 2026, 20:38:10, CEST
+Il file note.xhtml resta in attesa di lavorazione
+Il file Section0001.xhtml resta in attesa di lavorazione
+Il file Section0002.xhtml resta in attesa di lavorazione
+Il file Section0003.xhtml resta in attesa di lavorazione
+Il file Section0004.xhtml resta in attesa di lavorazione
+Il file Section0005.xhtml resta in attesa di lavorazione
+Il file Section0006.xhtml resta in attesa di lavorazione
+Il file Section0007.xhtml resta in attesa di lavorazione
+Il file Section0008.xhtml resta in attesa di lavorazione
+Il file Section0009.xhtml resta in attesa di lavorazione
+Il file Section0010.xhtml resta in attesa di lavorazione
+Il file Section0011.xhtml resta in attesa di lavorazione
+Il file Section0012.xhtml resta in attesa di lavorazione
+Il file Section0013.xhtml resta in attesa di lavorazione
+Il file Section0014.xhtml resta in attesa di lavorazione
+elaborazione del file titoli per la costruzione dell'indice e della struttura del libro.
+Inizio elaborazione della toc.
+Il file ODT è alla REV 01
+La scansione del pdf originale non è ancora iniziata.
+
+mer 21 ott 2026, 17:16:17, CEST
+Il file note.xhtml resta in attesa di lavorazione
+Il file Section0001.xhtml resta in attesa di lavorazione
+Il file Section0002.xhtml resta in attesa di lavorazione
+Il file Section0003.xhtml resta in attesa di lavorazione
+Il file Section0004.xhtml resta in attesa di lavorazione
+Il file Section0005.xhtml resta in attesa di lavorazione
+Il file Section0006.xhtml resta in attesa di lavorazione
+Il file Section0007.xhtml resta in attesa di lavorazione
+Il file Section0008.xhtml resta in attesa di lavorazione
+Il file Section0009.xhtml resta in attesa di lavorazione
+Il file Section0010.xhtml resta in attesa di lavorazione
+Il file Section0011.xhtml resta in attesa di lavorazione
+Il file Section0012.xhtml resta in attesa di lavorazione
+Il file Section0013.xhtml resta in attesa di lavorazione
+Il file Section0014.xhtml resta in attesa di lavorazione
+elaborazione del file titoli per la costruzione dell'indice e della struttura del libro.
+Avanzamento elaborazione della toc.
+Il file ODT è alla REV 01
+La scansione del pdf originale non è ancora iniziata.
+
+gio 22 ott 2026, 15:22:26, CEST
+Il file note.xhtml resta in attesa di lavorazione
+Il file Section0001.xhtml si può considerare ultimato
+Il file Section0002.xhtml si può considerare ultimato
+Il file Section0003.xhtml si può considerare ultimato
+Il file Section0004.xhtml si può considerare ultimato
+Il file Section0005.xhtml resta in attesa di lavorazione
+Il file Section0006.xhtml resta in attesa di lavorazione
+Il file Section0007.xhtml resta in attesa di lavorazione
+Il file Section0008.xhtml resta in attesa di lavorazione
+Il file Section0009.xhtml resta in attesa di lavorazione
+Il file Section0010.xhtml resta in attesa di lavorazione
+Il file Section0011.xhtml resta in attesa di lavorazione
+Il file Section0012.xhtml resta in attesa di lavorazione
+Il file Section0013.xhtml resta in attesa di lavorazione
+Il file Section0014.xhtml resta in attesa di lavorazione
+elaborazione del file titoli per la costruzione dell'indice e della struttura del libro.
+Avanzamento elaborazione della toc.
+Il file ODT è alla REV 02
+La scansione del pdf è giunta alla pagina: 
