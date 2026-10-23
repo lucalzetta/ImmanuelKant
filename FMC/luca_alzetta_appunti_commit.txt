@@ -110,3 +110,18 @@ Il file Section0014.xhtml resta in attesa di lavorazione
 Il file ODT è alla REV 02
 La scansione del pdf è giunta alla pagina: 6
  
+ven 23 ott 2026, 11:49:59, CEST
+Avanzamento della lavorazione del file Section0006.xhtml 
+Il file Section0007.xhtml resta in attesa di lavorazione
+Il file Section0008.xhtml resta in attesa di lavorazione
+Il file Section0009.xhtml resta in attesa di lavorazione
+Il file Section0010.xhtml resta in attesa di lavorazione
+Il file Section0011.xhtml resta in attesa di lavorazione
+Il file Section0012.xhtml resta in attesa di lavorazione
+Il file Section0013.xhtml resta in attesa di lavorazione
+Avvio e conclusione della lavorazione del file Section0014.xhtml 'schema dell'opera' per la soluzione dei riferimenti a questa pagina.
+Generazione del file Section0015.xhtml resta in attesa di lavorazione
+Il file note.xhtml resta in attesa di lavorazione
+Il file ODT è alla REV 03
+La scansione del pdf è giunta alla pagina: 7
+

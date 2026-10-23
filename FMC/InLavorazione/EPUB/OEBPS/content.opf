@@ -52,6 +52,7 @@
     <item id="Section0012.xhtml" href="Text/Section0012.xhtml" media-type="application/xhtml+xml"/>
     <item id="Section0013.xhtml" href="Text/Section0013.xhtml" media-type="application/xhtml+xml"/>
     <item id="Section0014.xhtml" href="Text/Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0015.xhtml" href="Text/Section0015.xhtml" media-type="application/xhtml+xml"/>
     <item id="note.xhtml" href="Text/note.xhtml" media-type="application/xhtml+xml"/>
     <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
     <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg" properties="cover-image"/>
@@ -77,6 +78,7 @@
     <itemref idref="Section0012.xhtml"/>
     <itemref idref="Section0013.xhtml"/>
     <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
     <itemref idref="note.xhtml"/>
   </spine>
   <guide>

@@ -486,17 +486,23 @@
 </navPoint>
 <navPoint id="navPoint80" playOrder="80">
 <navLabel>
-<text>INDICE DEI NOMI</text>
+<text>SCHEMA DELL'OPERA</text>
 </navLabel>
     <content src="../Text/Section0014.xhtml#012_000_000"/>
 </navPoint>
 <navPoint id="navPoint81" playOrder="81">
 <navLabel>
-<text>INDICE DEI CONCETTI</text>
+<text>INDICE DEI NOMI</text>
 </navLabel>
-    <content src="../Text/Section0014.xhtml#013_000_000"/>
+    <content src="../Text/Section0015.xhtml#013_000_000"/>
 </navPoint>
 <navPoint id="navPoint82" playOrder="82">
+<navLabel>
+<text>INDICE DEI CONCETTI</text>
+</navLabel>
+    <content src="../Text/Section0015.xhtml#014_000_000"/>
+</navPoint>
+<navPoint id="navPoint83" playOrder="83">
 <navLabel>
 <text>Note</text>
 </navLabel>
