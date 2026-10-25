@@ -125,3 +125,35 @@ Il file note.xhtml resta in attesa di lavorazione
 Il file ODT è alla REV 03
 La scansione del pdf è giunta alla pagina: 7
 
+ven 23 ott 2026, 17:41:04, CEST
+Avanzamento della lavorazione del file Section0006.xhtml 
+Il file Section0007.xhtml resta in attesa di lavorazione
+Il file Section0008.xhtml resta in attesa di lavorazione
+Il file Section0009.xhtml resta in attesa di lavorazione
+Il file Section0010.xhtml resta in attesa di lavorazione
+Il file Section0011.xhtml resta in attesa di lavorazione
+Il file Section0012.xhtml resta in attesa di lavorazione
+Il file Section0013.xhtml resta in attesa di lavorazione
+Il file Section0015.xhtml resta in attesa di lavorazione
+Il file note.xhtml resta in attesa di lavorazione
+Il file ODT è alla REV 04
+La scansione del pdf è giunta alla pagina: 7
+
+dom 25 ott 2026, 08:32:18, CET
+Avanzamento e conclusione della lavorazione del file Section0006.xhtml
+Avvio e conclusione della lavorazione del paragrafo 'nota bibliografica' 
+Avvio e conclusione della lavorazione del file Section0007.xhtml
+Avvio e conclusione della lavorazione del paragrafo 'AVVERTENZA'
+Avvio della lavorazione del file Section0008.xhtml
+Avvio della lavorazione della PREFAZIONE
+Avvio della lavorazione del paragrafo 'Divisione tradizionale della filosofia.'
+Il file Section0009.xhtml resta in attesa di lavorazione
+Il file Section0010.xhtml resta in attesa di lavorazione
+Il file Section0011.xhtml resta in attesa di lavorazione
+Il file Section0012.xhtml resta in attesa di lavorazione
+Il file Section0013.xhtml resta in attesa di lavorazione
+Il file Section0015.xhtml resta in attesa di lavorazione
+Il file note.xhtml resta in attesa di lavorazione
+Il file ODT è alla REV 05
+La scansione del pdf è giunta alla pagina: 15
+
